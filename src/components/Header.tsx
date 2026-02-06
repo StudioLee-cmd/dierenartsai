@@ -25,7 +25,7 @@ const Header: React.FC = () => {
             <Container className="!px-0">
                 <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-start py-2 px-5 md:py-6">
                     {/* Logo */}
-                    <Link href="/" className="flex items-center gap-2">
+                    <Link href="/" className="flex items-center gap-2 -ml-3 md:-ml-4 -mt-2 md:-mt-4">
                         <Image
                             src={siteDetails.siteLogo}
                             alt={siteDetails.siteName}
