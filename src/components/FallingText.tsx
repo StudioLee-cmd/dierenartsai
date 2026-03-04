@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Je Werkbonnen op Orde 📋",
+            // HERO USPs (DIERENARTS EDITION)
+            "Meer Tijd voor je Patiënten 🐾",
+            "Alles-in-1 Systeem 📱",
+            "Nooit Meer Gemiste Afspraken 📅",
+            "Je Praktijk op Orde 🏥",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Praktijk in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
-            "100% Jouw Eigen Stijl 🎨",
-            "Klanten & AI in 1 Systeem 🤝",
+            "100% Jouw Eigen Werkwijze 🎨",
+            "Patiënten & AI in 1 Systeem 🤝",
             "Volgeboekte Agenda 📈",
-            "Offertes die scoren 📝",
+            "Klanten die terugkomen als een boemerang 🪃",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // DIERENARTS PUNS & FUN
+            "Minder bellen, meer behandelen 🐾",
+            "Tijd voor koffie & je stethoscoop ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
+            "Laat de AI je agenda vullen 🤖",
+            "Opereren, niet telefoneren 🐕",
             "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Jij de patiënt, AI de rest 🤖",
+            "Van dierenarts naar top-ondernemer 🚀",
+            "Handen vol dieren? AI helpt 🐱",
+            "Meer behandelingen in minder tijd ⏳",
+            "Altijd scherp, net als je naald 💉",
+            "Strakke planning, gezonde dieren 🐶",
+            "Waffel (de hond) blij, jij ook 🐕",
             "Eindelijk rustig lunchen 🥪"
         ];
 
