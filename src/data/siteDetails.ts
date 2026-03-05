@@ -1,7 +1,7 @@
 export const siteDetails = {
     siteName: 'DierenartsenAI',
     niche: 'Dierenartsen',
-    siteUrl: 'https://www.dierenarts.nl/',
+    siteUrl: 'https://www.dierenartsai.nl/',
     metadata: {
         title: 'DierenartsenAI - De slimme assistent voor jouw dierenpraktijk',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. DierenartsenAI regelt je agenda, telefoon en administratie volledig automatisch.',
