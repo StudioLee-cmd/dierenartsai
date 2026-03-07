@@ -101,7 +101,7 @@ Jij zorgt voor de dieren. Wij zorgen dat hun eigenaren jou vinden:
 - **SEO-content** per diersoort en behandeling
 - **Maandrapportage** over aanvragen en nieuwe patiënten
 
-**Plan een gratis kennismaking via dierenartsai.nl.**
+**Plan een gratis kennismaking via [dierenartsai.nl](https://www.dierenartsai.nl).**
 
 ---
 
