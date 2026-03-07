@@ -68,4 +68,4 @@ Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties e
 - **Simpeler alternatief?** Vetmanager biedt een overzichtelijk Nederlands systeem.
 - **Groeien met AI?** [DierenartsAI](/) combineert boekingen, reviews, chatbot, Voice AI en vindbaarheid — ideaal als aanvulling op je medische software.
 
-Benieuwd wat DierenartsAI voor jouw praktijk kan betekenen? [Neem contact op](/contact).
+Benieuwd wat DierenartsAI voor jouw praktijk kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
