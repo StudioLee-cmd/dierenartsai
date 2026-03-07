@@ -82,5 +82,5 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 ChatGPT is een krachtige tool die elke dierenartspraktijk gratis kan uitproberen. Maar het vervangt geen automatisering. Voor een compleet systeem dat je spoedmeldingen opvangt, vaccinatieherinneringen stuurt, reviews verzamelt en je vindbaarheid verbetert, heb je een gespecialiseerd platform nodig dat je branche kent.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
 
