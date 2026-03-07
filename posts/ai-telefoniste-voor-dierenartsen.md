@@ -3,7 +3,7 @@ title: "Het Einde van de \"Telefoon tijdens het Consult\": Altijd Bereikbaar Zon
 excerpt: "Mis nooit meer een spoedgeval of afspraak omdat je bezig bent met een patiënt. Onze Voice AI neemt op, filtert urgentie en plant in."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/benefits/voice-ai.png"
+image: "/images/blog/ai-telefoniste-voor-dierenartsen.png"
 tags: ["Voice AI", "Innovatie", "Triage"]
 ---
 
