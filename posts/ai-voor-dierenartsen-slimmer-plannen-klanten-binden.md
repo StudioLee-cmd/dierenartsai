@@ -36,4 +36,4 @@ Dierenartsen worden gevonden via Google Maps. Een hoge beoordeling met veel rece
 
 ## Conclusie
 
-AI helpt dierenartspraktijken efficiënter te werken, klanten beter te bedienen en te groeien. Meer weten? Ga naar [dierenartsai.nl](https://dierenartsai.nl).
+AI helpt dierenartspraktijken efficiënter te werken, klanten beter te bedienen en te groeien. Meer weten? Ga naar [dierenartsai.nl](https://www.dierenartsai.nl).
