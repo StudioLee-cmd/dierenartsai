@@ -28,7 +28,7 @@ Drie concrete manieren:
 
 ## Automatische herinneringen die werken
 
-[Vaccinatie-herinneringen](/blog/vaccinatie-herinneringen-automatiseren-dierenarts) zijn het meest voor de hand liggende contactmoment. Maar je kunt verder gaan:
+[Vaccinatie-herinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) zijn het meest voor de hand liggende contactmoment. Maar je kunt verder gaan:
 
 - **Jaarlijkse gezondheidscheck**: stuur een herinnering drie weken voor de jaarlijkse controle
 - **Vlooien- en wormenbehandeling**: seizoensgebonden herinneringen in het voorjaar
@@ -47,14 +47,14 @@ Na een operatie of intensieve behandeling is nazorg cruciaal — zowel medisch a
 
 **Maand 1**: check of het herstel goed verloopt, vooral bij chronische aandoeningen.
 
-Baasjes die deze nazorg ervaren, worden je meest loyale klanten. Ze vertellen het aan andere diereneigenaren en plaatsen positieve [reviews](/blog/meer-google-reviews-als-dierenarts).
+Baasjes die deze nazorg ervaren, worden je meest loyale klanten. Ze vertellen het aan andere diereneigenaren en plaatsen positieve [reviews](/blog/meer-google-reviews-dierenartspraktijk).
 
 ## Online aanwezigheid en vertrouwen
 
 Je [website](/blog/dierenartsenwebsite-afsprakenmachine) en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) zijn je digitale wachtkamer. Baasjes checken je online voordat ze langskomen, en ze lezen reviews nadat ze bij je zijn geweest.
 
 Zorg dat:
-- Je website actueel is met openingstijden en [spoedgevallen-informatie](/blog/spoeddienst-dierenarts)
+- Je website actueel is met openingstijden en [spoedgevallen-informatie](/blog/spoeddienst-dierenarts-bereikbaar)
 - Je Google-reviews actief worden beheerd (bedank reviewers, reageer op feedback)
 - Je [social media](/blog/social-media-voor-dierenartsen) regelmatig post (dierentips, succesvolle behandelingen, teamfoto's)
 

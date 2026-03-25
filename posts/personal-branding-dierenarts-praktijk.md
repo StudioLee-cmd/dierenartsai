@@ -17,7 +17,7 @@ Personal branding maakt jou en je praktijk herkenbaar. Het is het verschil tusse
 
 ## Je unieke verhaal vinden
 
-Elke dierenartspraktijk heeft iets unieks. Misschien is het je specialisatie in [preventieve zorg](/blog/preventieve-zorg-dierenarts). Misschien je aanpak met angstige dieren. Misschien je expertise met exotische huisdieren.
+Elke dierenartspraktijk heeft iets unieks. Misschien is het je specialisatie in [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel). Misschien je aanpak met angstige dieren. Misschien je expertise met exotische huisdieren.
 
 Jouw verhaal is de combinatie van:
 - **Wat je het beste kunt** — je specialisatie of sterkte
@@ -38,7 +38,7 @@ Een dierenarts die vertelt: "Ik ben gespecialiseerd in gedragsproblemen bij hond
 
 **Deel kennis in de buurt**. Geef een gratis lezing bij een hondenclub over eerste hulp bij huisdieren. Schrijf een stukje voor de buurtnieuwsbrief. Word de dierenarts die de buurt kent.
 
-**Verzamel [reviews](/blog/meer-google-reviews-als-dierenarts) actief**. Vraag baasjes na een positieve ervaring om een review. Elke review versterkt je merk en je zichtbaarheid.
+**Verzamel [reviews](/blog/meer-google-reviews-dierenartspraktijk) actief**. Vraag baasjes na een positieve ervaring om een review. Elke review versterkt je merk en je zichtbaarheid.
 
 **Consistente uitstraling**. Je praktijknaam, logo, kleuren en communicatiestijl moeten overal hetzelfde zijn — op je website, je social media, je briefpapier en je gevel.
 

@@ -23,9 +23,9 @@ Het voorjaar is het drukste seizoen voor preventieve zorg. Dat maakt het het per
 
 **Teken- en vlooienpreventie**. Stuur in februari al een herinnering naar alle klanten: "Het tekenseizoen begint binnenkort — is de bescherming van uw huisdier nog op orde?" Dit genereert afspraken voordat het seizoen begint en voorkomt dat klanten het vergeten.
 
-**Lentevaccinaties**. Veel vaccinaties staan gepland in het voorjaar. Automatische [herinneringen](/blog/vaccinatie-herinneringen-automatiseren) per sms of email zorgen dat baasjes op tijd komen.
+**Lentevaccinaties**. Veel vaccinaties staan gepland in het voorjaar. Automatische [herinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) per sms of email zorgen dat baasjes op tijd komen.
 
-**Lentecheck-actie**. Bied een voorjaarscontrole aan voor een vaste prijs: gewicht, gebit, vacht en algehele gezondheid. Dit is laagdrempelig, goed voor [preventieve zorg](/blog/preventieve-zorg-dierenarts) en het helpt om problemen vroeg te signaleren.
+**Lentecheck-actie**. Bied een voorjaarscontrole aan voor een vaste prijs: gewicht, gebit, vacht en algehele gezondheid. Dit is laagdrempelig, goed voor [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel) en het helpt om problemen vroeg te signaleren.
 
 **Social media content**. Het voorjaar leent zich voor educatieve content: "Hoe herken je een teek?" of "Welke planten zijn giftig voor je hond in de tuin?" Dit soort [social media posts](/blog/social-media-voor-dierenartsen) worden veel gedeeld en trekken nieuwe volgers.
 
@@ -65,7 +65,7 @@ Een seizoenskalender maakt je marketing voorspelbaar en beheerbaar:
 | November | Voedingstips winter | Blog + social |
 | December | Feestdagenwaarschuwingen + cadeaubonnen | Email + social |
 
-Plan deze communicatie in januari voor het hele jaar. Gebruik een simpele [email marketing](/blog/email-marketing-dierenartsen) tool om herinneringen automatisch te versturen. Eenmalig instellen, het hele jaar profiteren.
+Plan deze communicatie in januari voor het hele jaar. Gebruik een simpele [email marketing](/blog/email-marketing-dierenarts-herinneringen) tool om herinneringen automatisch te versturen. Eenmalig instellen, het hele jaar profiteren.
 
 ## Aan de slag
 

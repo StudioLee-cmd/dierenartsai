@@ -46,7 +46,7 @@ Maak een aparte pagina voor je specialisatie met:
 - Casestudies of succesverhalen
 - Duidelijke CTA om een afspraak te maken
 
-Dit verbetert ook je vindbaarheid op specifieke zoekwoorden, waardoor je meer [nieuwe klanten via Google](/blog/meer-klanten-dierenarts-strategieen) aantrekt.
+Dit verbetert ook je vindbaarheid op specifieke zoekwoorden, waardoor je meer [nieuwe klanten via Google](/blog/meer-klanten-als-dierenarts) aantrekt.
 
 ### Op je Google Bedrijfsprofiel
 
@@ -71,7 +71,7 @@ Je hoeft niet te kiezen tussen specialist en generalist. De succesvolste aanpak 
 - **Specialistische zorg** als extra dienst die je onderscheidt en hogere omzet oplevert
 - **Doorverwijzingen** als aanvullende leadbron
 
-Door [preventieve zorg als verdienmodel](/blog/preventieve-zorg-verdienmodel-dierenartsen) te combineren met specialistische diensten, bouw je een praktijk met meerdere inkomstenbronnen.
+Door [preventieve zorg als verdienmodel](/blog/preventieve-zorg-dierenarts-verdienmodel) te combineren met specialistische diensten, bouw je een praktijk met meerdere inkomstenbronnen.
 
 ## Marketing voor je specialisatie
 
@@ -79,7 +79,7 @@ De marketing voor een specialisatie verschilt van reguliere dierenartsenmarketin
 
 - **SEO op specifieke zoekwoorden** — "dierenarts dermatologie [stad]" heeft minder concurrentie en hogere intentie
 - **Social media casestudies** — deel (met toestemming) [succesverhalen op social media](/blog/social-media-dierenartsen-community) die je expertise tonen
-- **[Email herinneringen](/blog/email-marketing-dierenartsen-herinneringen)** aan patiënten die eerder voor specialistische zorg kwamen — chronische aandoeningen vereisen follow-up
+- **[Email herinneringen](/blog/email-marketing-dierenarts-herinneringen)** aan patiënten die eerder voor specialistische zorg kwamen — chronische aandoeningen vereisen follow-up
 
 ## De managed-service aanpak
 
@@ -93,4 +93,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. H
 
 In een markt waar steeds meer dierenartsen concurreren om dezelfde patiënten, is specialisatie je krachtigste differentiator. Het trekt patiënten aan die bewust voor expertise kiezen, rechtvaardigt hogere tarieven, en genereert doorverwijzingen van collega's. Je hoeft niet te kiezen tussen generalist en specialist — je kunt beide zijn, maar laat de wereld weten waar je in uitblinkt.
 
-Lees ook hoe je [klanten behoudt als dierenarts](/blog/klantbehoud-dierenarts) en hoe je [personal branding opbouwt voor je praktijk](/blog/personal-branding-dierenarts).
+Lees ook hoe je [klanten behoudt als dierenarts](/blog/klantbehoud-dierenarts-trouwe-baasjes) en hoe je [personal branding opbouwt voor je praktijk](/blog/personal-branding-dierenarts-praktijk).

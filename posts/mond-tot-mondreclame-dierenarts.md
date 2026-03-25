@@ -29,7 +29,7 @@ Niet bij standaardzorg, maar bij momenten die indruk maken:
 - Een spoedgeval dat snel en empathisch is afgehandeld
 - Eerlijk advies dat geld bespaart (geen onnodige behandelingen)
 - Extra aandacht voor een bang of ziek dier
-- [Herinneringen aan vaccinaties](/blog/email-marketing-dierenartsen-herinneringen) die ze waren vergeten
+- [Herinneringen aan vaccinaties](/blog/email-marketing-dierenarts-herinneringen) die ze waren vergeten
 
 ### Bij community-betrokkenheid
 
@@ -57,11 +57,11 @@ Formaliseer het: "Ken je iemand met een nieuw huisdier? Bij inschrijving via jou
 
 ### 4. Online reviews stimuleren
 
-[Google reviews](/blog/meer-google-reviews-dierenarts-automatisch) zijn de digitale versie van mond-tot-mond. Vraag er actief om na positieve contactmomenten.
+[Google reviews](/blog/meer-google-reviews-dierenartspraktijk) zijn de digitale versie van mond-tot-mond. Vraag er actief om na positieve contactmomenten.
 
 ### 5. Social media community bouwen
 
-[Social media](/blog/social-media-dierenartsen-online-community) biedt een platform waar baasjes hun ervaringen delen. Deel tips over [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel), seizoensadvies en klantenverhalen.
+[Social media](/blog/social-media-dierenartsen-community) biedt een platform waar baasjes hun ervaringen delen. Deel tips over [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel), seizoensadvies en klantenverhalen.
 
 ## Online mond-tot-mond versterken
 
@@ -75,8 +75,8 @@ Formaliseer het: "Ken je iemand met een nieuw huisdier? Bij inschrijving via jou
 ## Veel voorkomende fouten
 
 1. **Nooit om doorverwijzingen vragen** — het voelt ongemakkelijk, maar baasjes willen je graag helpen
-2. **Negatieve ervaringen negeren** — los [klachten](/blog/klantbehoud-dierenarts-baasjes-terugkomen) altijd op voor ze zich verspreiden
-3. **Geen follow-up** — na de behandeling is het contactmoment voorbij; gebruik [email](/blog/email-marketing-dierenartsen-herinneringen) voor nazorg
+2. **Negatieve ervaringen negeren** — los [klachten](/blog/klantbehoud-dierenarts-trouwe-baasjes) altijd op voor ze zich verspreiden
+3. **Geen follow-up** — na de behandeling is het contactmoment voorbij; gebruik [email](/blog/email-marketing-dierenarts-herinneringen) voor nazorg
 4. **Alleen focussen op nieuwe klanten** — bestaande klanten zijn je beste ambassadeurs
 
 ## Laat mond-tot-mond digitaal versterken

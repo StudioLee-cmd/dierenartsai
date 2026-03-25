@@ -43,7 +43,7 @@ Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties e
 
 [DierenartsAI](/) is een compleet AI-systeem voor dierenartspraktijken: afsprakenbeheer, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines.
 
-**Sterkste punt:** Alles in één met AI: afsprakenbeheer, facturatie, automatische vaccinatieherinneringen, review-automatisering, AI-chatbot die klantvragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-dierenarts-meer-klanten-krijgt-via-google). Custom booking app.
+**Sterkste punt:** Alles in één met AI: afsprakenbeheer, facturatie, automatische vaccinatieherinneringen, review-automatisering, AI-chatbot die klantvragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-dierenartsen-meer-klanten-vinden-via-google). Custom booking app.
 
 **Nadeel:** Geen veterinair dossiersysteem met labkoppelingen — voor medische patiëntendossiers combineer je het met Animana of Vetmanager.
 
