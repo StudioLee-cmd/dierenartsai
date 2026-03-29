@@ -7,8 +7,6 @@ image: "/images/blog/hoe-dierenartsen-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google", "Dierenarts", "Patiënten"]
 ---
 
-
-
 ## Waarom Google steeds belangrijker wordt voor dierenartsen
 
 Iemand die een nieuwe dierenarts zoekt — of die een spoedgeval heeft — gaat naar Google. Ze zoeken op "dierenarts [stad]", bekijken reviews, controleren de openingstijden en bellen. Wie er goed uitziet online, krijgt het telefoontje.

@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-dierenarts-partnerschappen.png"
 tags: ["samenwerkingen", "dierenartspraktijk", "groei"]
 ---
 
-# Samenwerken als dierenarts: partnerschappen die je praktijk laten groeien
-
 Als dierenarts zie je dagelijks eigenaren die naast medische zorg ook behoefte hebben aan voeding, verzorging, training en gedragsbegeleiding. Dat zijn allemaal diensten die je niet zelf hoeft te leveren — maar die je wel kunt faciliteren via slimme samenwerkingen.
 
 ## Waarom partnerschappen voor dierenartsen werken
@@ -55,7 +53,7 @@ Samen met je partners kun je preventieve programma's opzetten: een jaarlijks "ge
 
 ## Online zichtbaarheid versterken
 
-Vermeld je samenwerkingspartners op je [website](/blog/dierenarts-website-meer-afspraken). Deel gezamenlijke [social media](/blog/social-media-dierenartsen-meer-afspraken) content. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) en je vindbaarheid.
+Vermeld je samenwerkingspartners op je [website](/blog/dierenartsenwebsite-afsprakenmachine). Deel gezamenlijke [social media](/blog/social-media-dierenartsen-community) content. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) en je vindbaarheid.
 
 ## Meten en evalueren
 

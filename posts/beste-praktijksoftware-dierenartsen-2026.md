@@ -7,8 +7,6 @@ image: "/images/blog/beste-praktijksoftware-dierenartsen-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 ---
 
-# Beste praktijksoftware voor dierenartsen 2026: tools vergeleken
-
 Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties en spoedgevallen door moet je ook nog je praktijk runnen: afspraken, dossiers, facturatie en marketing. Welke software helpt jou als dierenarts het meest in 2026?
 
 ## Wat zoekt een dierenarts in software?

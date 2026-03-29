@@ -7,8 +7,6 @@ image: "/images/blog/google-bedrijfsprofiel-dierenarts.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 ---
 
-# Google Bedrijfsprofiel als dierenarts: zo vinden baasjes jouw praktijk
-
 Wanneer een hond ziek is of een kat niet eet, pakt het baasje de telefoon en googelt "dierenarts in de buurt." Wat ze dan zien is het Google Maps-blok: drie praktijken, hun openingstijden, reviews, en een bel-knop. In de meeste gevallen belt het baasje de eerste praktijk die betrouwbaar oogt en open is. Dat wil jij zijn.
 
 Je Google Bedrijfsprofiel is je digitale voordeur. In dit artikel lees je hoe je het optimaliseert zodat baasjes in jouw regio jouw praktijk als eerste vinden.

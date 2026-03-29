@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-dierenarts.png"
 tags: ["leadgeneratie", "dierenarts", "marketing"]
 ---
 
-# Leadgeneratie als dierenarts: meer nieuwe klanten voor je praktijk
-
 De meeste dierenartspraktijken groeien via mond-tot-mond. Dat werkt, maar het is traag en onvoorspelbaar. Als je structureel wilt groeien, heb je een systeem nodig dat continu nieuwe diereigenaren naar je praktijk leidt.
 
 In dit artikel leer je hoe je als dierenarts leadgeneratie opzet — zonder dat het je hele dag kost.

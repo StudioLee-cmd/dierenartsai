@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-dierenarts.png"
 tags: ["mond-tot-mond", "dierenarts", "doorverwijzingen"]
 ---
 
-# Mond-tot-mondreclame als dierenarts: van tevreden baasje naar nieuwe klant
-
 Diereneigenaren praten. In het park, op sociale media, bij de hondenschool — de ervaringen met hun dierenarts worden gedeeld. Die gesprekken zijn je krachtigste marketingkanaal, want een aanbeveling van een ander baasje weegt zwaarder dan elke advertentie.
 
 ## Waarom mond-tot-mond zo effectief is
