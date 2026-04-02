@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-dierenartsen-helpt.png"
 tags: ["AI", "Efficiëntie", "Praktijkvoering"]
+cluster: ""
 ---
 
 Het runnen van een dierenartsenpraktijk anno 2026 is topsport. Je bent niet alleen de arts die levens redt, maar je bent ook manager, boekhouder, telefoniste en vertrouwenspersoon in één. Veel dierenartsen die wij spreken, staan de hele dag in de behandelkamer of OK, maar zijn 's avonds nog uren bezig met administratie. Ruis in de vorm van eindeloze telefoontjes, emails en dossierwerk.

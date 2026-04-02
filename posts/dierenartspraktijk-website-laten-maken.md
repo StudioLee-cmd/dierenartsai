@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartspraktijk-website-laten-maken.png"
 tags: ["Website", "Marketing"]
+cluster: ""
 ---
 
 Een professionele website is niet langer optioneel voor dierenartspraktijken. Steeds meer baasjes zoeken online naar een dierenarts — en als jouw praktijk niet gevonden wordt, gaan ze naar de concurrent.

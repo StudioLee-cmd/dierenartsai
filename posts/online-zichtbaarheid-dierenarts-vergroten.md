@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-zichtbaarheid-dierenarts-vergroten.jpg"
 tags: ["Vindbaarheid", "Online marketing", "Groei"]
+cluster: "vindbaarheid"
 ---
 
 ## Hoe diereneigenaren een dierenarts zoeken in 2026

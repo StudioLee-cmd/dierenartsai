@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-dierenarts.png"
 tags: ["online reputatie", "dierenarts", "reviews"]
+cluster: "online-reputatie"
 ---
 
 Een diereigenaar met een ziek huisdier googelt "dierenarts in de buurt." Ze zien drie praktijken. Een heeft 45 reviews en 4,9 sterren. Een ander heeft 3 reviews. De derde heeft geen reviews. Wie bellen ze?

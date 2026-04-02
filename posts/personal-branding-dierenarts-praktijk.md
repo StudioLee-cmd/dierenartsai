@@ -7,6 +7,7 @@ image: "/images/blog/personal-branding-dierenarts-praktijk.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["branding", "dierenarts", "praktijk"]
+cluster: "branding"
 ---
 
 ## Waarom personal branding werkt voor dierenartsen

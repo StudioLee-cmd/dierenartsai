@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartsenwebsite-afsprakenmachine.png"
 tags: ["Website", "Conversie", "Online boeken"]
+cluster: "website-conversie"
 ---
 
 ## Waarom online boeken de norm wordt

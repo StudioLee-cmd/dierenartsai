@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-dierenartspraktijk-verminderen.jpg"
 tags: ["No-shows", "Praktijkmanagement", "Groei"]
+cluster: "no-shows"
 ---
 
 ## Waarom no-shows extra pijnlijk zijn voor dierenartsen

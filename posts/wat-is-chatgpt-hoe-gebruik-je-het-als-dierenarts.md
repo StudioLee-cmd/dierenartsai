@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-dierenarts.png"
 tags: ["Tools", "ChatGPT", "Dierenartsen"]
+cluster: "tools-uitleg"
 ---
 
 ChatGPT wordt steeds vaker gebruikt in de zorg — ook door dierenartspraktijken. Het kan teksten schrijven, afbeeldingen genereren en vragen beantwoorden. Maar wat kan het concreet voor jouw praktijk? En waarom levert een gespecialiseerd managed systeem als DierenartsAI structureel meer op?

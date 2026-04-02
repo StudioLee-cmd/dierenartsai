@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-dierenarts.png"
 tags: ["mond-tot-mond", "dierenarts", "doorverwijzingen"]
+cluster: "mond-tot-mondreclame"
 ---
 
 Diereneigenaren praten. In het park, op sociale media, bij de hondenschool — de ervaringen met hun dierenarts worden gedeeld. Die gesprekken zijn je krachtigste marketingkanaal, want een aanbeveling van een ander baasje weegt zwaarder dan elke advertentie.

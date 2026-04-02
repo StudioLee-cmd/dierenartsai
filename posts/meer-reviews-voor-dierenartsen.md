@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-reviews-voor-dierenartsen.png"
 tags: ["Marketing", "Reviews", "Vertrouwen"]
+cluster: ""
 ---
 
 Als je zelf een nieuwe arts of specialist zoekt, wat doe je dan? Je checkt de reviews. Voor huisdiereigenaren is dat niet anders. Hun dier is hun 'kind'. Ze willen de beste zorg. Heeft een kliniek 3,4 sterren? Dan rijden ze door. Heeft hij 4,9 sterren met 200 reviews en lieve verhalen? Dan bellen ze jou.

@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-dierenarts.png"
 tags: ["Specialisatie", "Dierenarts", "Groei"]
+cluster: "specialisatie"
 ---
 
 De meeste dierenartspraktijken positioneren zich als generalist: ze behandelen alles, van hamsters tot honden, van vaccinaties tot spoedoperaties. Dat is begrijpelijk — je wilt geen patiënt weigeren. Maar in een markt waar baasjes steeds bewuster kiezen, kan specialisatie het verschil maken tussen een volle en een halfvolle agenda.

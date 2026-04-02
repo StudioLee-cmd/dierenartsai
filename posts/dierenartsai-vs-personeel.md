@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartsai-vs-personeel.png"
 tags: ["Praktijkmanagement", "Kostenbesparing", "Personeel"]
+cluster: ""
 ---
 
 Er is een enorm tekort aan paraveterinairen. Als je het geluk hebt een goede assistente te vinden, wil je die dan de hele dag de telefoon laten opnemen en facturen laten typen? Nee! Die wil je inzetten bij de patiënt, in de OK, in het lab.

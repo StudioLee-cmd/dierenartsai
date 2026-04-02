@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoeddienst-dierenarts-bereikbaar.png"
 tags: ["Spoedgevallen", "Service", "Groei"]
+cluster: "spoedgevallen"
 ---
 
 Een hond die vergiftiging heeft, een kat die is aangereden, een konijn dat plotseling niet meer eet — dierenspoedgevallen komen altijd onverwacht. Voor baasjes is het een stressvolle situatie waarin ze snel een dierenarts willen bereiken. Hoe jij als dierenarts met die momenten omgaat, bepaalt of ze vaste klant worden of nooit meer terugkomen.

@@ -5,6 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-dierenarts-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
+cluster: ""
 ---
 
 Alles gaat naar mobiel. We bankieren mobiel, we bestellen eten mobiel. Waarom moet ik voor de dierenarts nog bellen of een papieren boekje zoeken?

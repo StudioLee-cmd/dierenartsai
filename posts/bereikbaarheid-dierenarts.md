@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-dierenarts.png"
 tags: ["bereikbaarheid", "dierenarts", "klantenservice"]
+cluster: "voice-ai"
 ---
 
 Een huisdier dat ziek wordt, wacht niet tot maandagochtend. Diereigenaren bellen op het moment dat het nodig is — 's avonds, in het weekend, op feestdagen. Als je praktijk op dat moment niet bereikbaar is, verlies je niet alleen die ene patient maar potentieel een klant voor jaren.

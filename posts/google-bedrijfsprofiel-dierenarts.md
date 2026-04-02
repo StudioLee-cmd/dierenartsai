@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-dierenarts.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 Wanneer een hond ziek is of een kat niet eet, pakt het baasje de telefoon en googelt "dierenarts in de buurt." Wat ze dan zien is het Google Maps-blok: drie praktijken, hun openingstijden, reviews, en een bel-knop. In de meeste gevallen belt het baasje de eerste praktijk die betrouwbaar oogt en open is. Dat wil jij zijn.

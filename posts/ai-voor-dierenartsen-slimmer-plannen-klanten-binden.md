@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-dierenartsen-slimmer-plannen-klanten-binden.png"
 tags: ["AI", "Automatisering", "Dierenartsen"]
+cluster: "ai-automatisering"
 ---
 
 Dierenartspraktijken combineren medisch vakmanschap met ondernemerschap. De wachtkamer loopt vol, de telefoon gaat constant — en de administratie stapelt zich op. AI helpt praktijken die druk te verlichten en tegelijkertijd beter te presteren voor klanten.

@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-dierenarts-verdienmodel.png"
 tags: ["Dierenarts", "Preventieve Zorg", "Verdienmodel"]
+cluster: "preventieve-zorg"
 ---
 
 ## Van brandjes blussen naar voorkomen

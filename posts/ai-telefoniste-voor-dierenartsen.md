@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-dierenartsen.png"
 tags: ["Voice AI", "Innovatie", "Triage"]
+cluster: ""
 ---
 
 Het meest frustrerende moment voor een dierenarts? Je staat met je handen in een operatie, of je bent net een infuus aan het aanleggen. Je concentratie is maximaal. En dan... gaat de telefoon. Je assistente is ook bezig. Je hoort hem rinkelen.

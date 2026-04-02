@@ -5,6 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-dierenartsen.png"
 tags: ["Social Media", "Educatie", "Klantenbinding"]
+cluster: ""
 ---
 
 Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben arts, geen influencer!" En je hebt groot gelijk. Je moet niet de hele dag met je telefoon bezig zijn.

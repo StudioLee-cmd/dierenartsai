@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-dierenarts-partnerschappen.png"
 tags: ["samenwerkingen", "dierenartspraktijk", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Als dierenarts zie je dagelijks eigenaren die naast medische zorg ook behoefte hebben aan voeding, verzorging, training en gedragsbegeleiding. Dat zijn allemaal diensten die je niet zelf hoeft te leveren — maar die je wel kunt faciliteren via slimme samenwerkingen.
