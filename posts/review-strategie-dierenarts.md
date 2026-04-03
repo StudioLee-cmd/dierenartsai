@@ -26,7 +26,7 @@ Vermijd review-verzoeken na: euthanasie, slecht-nieuwsgesprekken of hoge onverwa
 
 ## Automatiseer met empathie
 
-Stel je systeem zo in dat het reviewverzoeken alleen stuurt na specifieke afspraakmomenten. Markeer in je praktijksoftware welke afspraken geschikt zijn voor follow-up.
+Stel je [reviewsysteem](/reviews) zo in dat het reviewverzoeken alleen stuurt na specifieke afspraakmomenten. Markeer in je praktijksoftware welke afspraken geschikt zijn voor follow-up.
 
 "Beste [naam], bedankt voor het bezoek met [huisdiernaam]. We hopen dat [hij/zij] het goed maakt! Zou je je ervaring willen delen? [link]"
 
