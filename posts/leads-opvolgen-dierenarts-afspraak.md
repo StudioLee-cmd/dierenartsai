@@ -18,8 +18,8 @@ Bij dierenartsen is de drempel hoger dan bij een kapper: het gaat om de gezondhe
 Als een baasje belt met een zorg over zijn huisdier, is snelheid cruciaal — niet alleen medisch maar ook commercieel. Een baasje dat dezelfde dag nog een antwoord krijgt, boekt bij jou. Een baasje dat een dag moet wachten, belt een andere praktijk.
 
 Automatiseer de eerste reactie:
-- **Gemiste oproep:** WhatsApp binnen 1 minuut: "We zagen dat u belde. We nemen zo snel mogelijk contact op. Is het dringend? Bel [spoednummer]."
-- **E-mail/formulier:** Automatisch antwoord: "Bedankt voor uw bericht. We reageren binnen 2 uur. Voor spoed: bel [nummer]."
+- **[gemiste oproepen](/voice-ai):** WhatsApp binnen 1 minuut: "We zagen dat u belde. We nemen zo snel mogelijk contact op. Is het dringend? Bel [spoednummer]."
+- **E-mail/formulier:** [automatisch antwoord](/chatbot): "Bedankt voor uw bericht. We reageren binnen 2 uur. Voor spoed: bel [nummer]."
 
 Systemen zoals die van [DierenartsAI](/) regelen dit automatisch.
 
