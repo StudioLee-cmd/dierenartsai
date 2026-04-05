@@ -39,6 +39,16 @@ Dag 10: "Tijd voor de nacontrole! Wil je een afspraak maken? [booking link]"
 ### Na consultatie
 Dag 1: "Heeft het medicijn al effect? Neem contact op als de klachten niet verbeteren na 3 dagen."
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als dierenarts.
+
+Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Nazorg is het verschil tussen een dierenarts en hún dierenarts. Het kost je 30 seconden per patiënt als je het automatiseert, en het levert je loyalere cliënten, meer reviews en een praktijk waar baasjes graag terugkomen.
