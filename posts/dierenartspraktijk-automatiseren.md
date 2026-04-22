@@ -2,11 +2,11 @@
 title: "Dierenartspraktijk automatiseren: meer tijd voor je patiënten"
 excerpt: "Dierenartsen besteden te veel tijd aan telefoon en administratie. Ontdek hoe automatisering je praktijk efficiënter maakt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartspraktijk-automatiseren.jpg"
 tags: ["Automatisering", "Dierenarts", "Praktijkbeheer"]
 ---
-
 ## Tussen de consulten door: telefoon, administratie en e-mails
 
 Je behandelt een hond met een oorontsteking. De telefoon gaat. Een baasje belt voor een vaccinatie-afspraak. Je assistente is al bezig met een andere beller. Ondertussen wacht de volgende patiënt in de wachtkamer. Na sluitingstijd zit je nog een uur aan dossiers, facturen en bestellingen.

@@ -2,11 +2,11 @@
 title: "Lokale SEO als dierenarts: gevonden worden door baasjes"
 excerpt: "Hoe zorg je ervoor dat diereneigenaren in jouw regio jouw praktijk vinden op Google? Lokale SEO-tips specifiek voor dierenartsen."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-dierenarts-meer-baasjes.jpg"
 tags: ["SEO", "Vindbaarheid", "Dierenarts"]
 ---
-
 ## Waarom lokale SEO essentieel is voor dierenartsen
 
 Wanneer een hond plotseling ziek wordt, pakt het baasje de telefoon en zoekt op 'dierenarts in de buurt' of 'spoeddierenarts [stad]'. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie er niet staat, bestaat niet — in ieder geval niet op dat moment.

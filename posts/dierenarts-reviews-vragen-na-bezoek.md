@@ -2,11 +2,11 @@
 title: "Reviews vragen aan baasjes na een dierenartsbezoek: zo doe je het goed"
 excerpt: "Reviews voor dierenartsen zijn emotioneel geladen. Lees hoe je op het juiste moment vraagt en omgaat met verdrietige situaties."
 date: "2026-04-08"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-reviews-vragen-na-bezoek.jpg"
 tags: ["Reviews", "Dierenarts", "Klantcommunicatie"]
 ---
-
 ## Waarom reviews voor dierenartsen anders zijn
 
 Een baasje brengt zijn hond naar de dierenarts. Misschien voor een routinebezoek, misschien voor iets ergers. Het is bijna altijd emotioneel. Liefde voor het dier, zorg om de gezondheid, soms verdriet om afscheid. Dat maakt het vragen om reviews ingewikkelder dan bij een kapper of een loodgieter.

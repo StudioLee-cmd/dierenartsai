@@ -2,11 +2,11 @@
 title: "Leads opvolgen als dierenarts: van vraag naar afspraak"
 excerpt: "Baasjes die bellen of mailen maar geen afspraak maken? Ontdek hoe je als dierenarts leads opvolgt en meer eerste afspraken realiseert."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-dierenarts-afspraak.jpg"
 tags: ["Leads", "Lead opvolging", "Dierenarts", "Nieuwe patiënten"]
 ---
-
 ## Het probleem: baasjes die afhaken voor de afspraak
 
 Een baasje belt je praktijk, vraagt naar je openingstijden of tarieven en hangt op. Of stuurt een mail met een vraag over zijn huisdier maar maakt geen afspraak. Elke niet-geconverteerde aanvraag is een gemiste patiënt.

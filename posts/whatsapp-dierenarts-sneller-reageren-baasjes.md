@@ -2,11 +2,11 @@
 title: "WhatsApp inzetten als dierenarts: sneller reageren op vragen van baasjes"
 excerpt: "Baasjes verwachten snelle antwoorden. WhatsApp Business maakt je dierenartspraktijk bereikbaarder zonder dat je telefoon continu overgaat."
 date: "2026-04-09"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-dierenarts-sneller-reageren-baasjes.jpg"
 tags: ["Lead opvolging", "Dierenarts", "WhatsApp"]
 ---
-
 ## Waarom baasjes liever appen dan bellen
 
 De telefoon van je dierenartspraktijk gaat continu. Baasjes bellen voor van alles: afspraken maken, vragen over voeding, zorgen over een symptoom, herinneringen aan vaccinaties. Maar steeds meer baasjes willen helemaal niet bellen. Ze willen appen.

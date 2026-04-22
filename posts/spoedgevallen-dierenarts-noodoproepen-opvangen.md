@@ -2,11 +2,11 @@
 title: "Spoedgevallen als dierenarts: zo vang je noodoproepen op"
 excerpt: "Diereigenaren bellen op de meest onverwachte momenten. Ontdek hoe je als dierenarts spoedgevallen professioneel opvangt zonder je agenda te laten ontploffen."
 date: "2026-04-14"
+cluster: "spoedgevallen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedgevallen-dierenarts-noodoproepen-opvangen.jpg"
 tags: ["Spoedgevallen", "Praktijkmanagement", "Dierenarts Tips"]
 ---
-
 ## De telefoon gaat altijd op het verkeerde moment
 
 Zaterdagavond, je bent net thuis. De telefoon gaat: een hond heeft chocolade gegeten. Zondagochtend vroeg: een kat die niet meer eet. Dinsdagmiddag tijdens een volle spreekuurdag: een konijn met ademhalingsproblemen.

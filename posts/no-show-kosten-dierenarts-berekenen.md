@@ -2,11 +2,11 @@
 title: "No-show kosten als dierenarts: hoeveel kost een gemiste afspraak?"
 excerpt: "Een patiënt verschijnt niet. Hoeveel kost dat je praktijk echt? De berekening plus drie maatregelen om het te beperken."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-dierenarts-berekenen.jpg"
 tags: ["No-shows", "Kosten", "Groei"]
 ---
-
 ## De berekening die elke praktijk zou moeten maken
 
 Een standaard consult duurt 15 tot 20 minuten en brengt 40 tot 60 euro op. Bij twee no-shows per dag verlies je 80 tot 120 euro. Per week: 400 tot 600 euro. Per maand: bijna 2.000 euro. Per jaar: meer dan 20.000 euro aan gemiste omzet.

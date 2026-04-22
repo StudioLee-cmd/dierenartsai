@@ -2,11 +2,11 @@
 title: "Google reviews voor je dierenartspraktijk: zo verzamel je ze"
 excerpt: "Diereneigenaren vertrouwen op reviews bij het kiezen van een dierenarts. Leer hoe je automatisch reviews verzamelt na elk consult."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-dierenarts-google-verzamelen.jpg"
 tags: ["Reviews", "Dierenarts", "Google"]
 ---
-
 ## Baasjes kiezen hun dierenarts op basis van reviews
 
 Bij het zoeken naar een dierenarts kijken huisdiereigenaren naar twee dingen: afstand en reviews. Een praktijk met 40 Google reviews en een 4,8 gemiddelde wint het vrijwel altijd van een praktijk met 3 reviews, zelfs als die laatste dichterbij is.

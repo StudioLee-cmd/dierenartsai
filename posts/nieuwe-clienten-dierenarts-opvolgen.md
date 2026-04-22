@@ -2,11 +2,11 @@
 title: "Nieuwe cliënten als dierenarts opvolgen: van eerste contact naar vaste klant"
 excerpt: "Een nieuwe cliënt belt voor een vaccinatie. Hoe zorg je dat dit het begin is van een jarenlange relatie? Tips voor leadopvolging."
 date: "2026-04-05"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-clienten-dierenarts-opvolgen.jpg"
 tags: ["Leads", "Dierenarts", "Klantbehoud"]
 ---
-
 ## Het eerste telefoontje is pas het begin
 
 Een nieuwe huisdiereigenaar belt voor een eerste vaccinatie of controle. Na het consult gaat hij naar huis en je hoort niks meer — tot het volgende probleem. Misschien over een jaar. Misschien bij een andere dierenarts.

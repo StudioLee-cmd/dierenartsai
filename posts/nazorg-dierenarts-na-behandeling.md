@@ -2,11 +2,11 @@
 title: "Nazorg na behandeling bij de dierenarts: zo bouw je een band met baasjes"
 excerpt: "Een kort bericht na de behandeling maakt het verschil. Ontdek hoe nazorg je dierenartspraktijk laat groeien door loyalere cliënten."
 date: "2026-04-05"
+cluster: "nazorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-dierenarts-na-behandeling.jpg"
 tags: ["Nazorg", "Dierenarts", "Klantrelatie"]
 ---
-
 ## Na de behandeling begint de echte zorg
 
 De operatie is geslaagd. Het baasje gaat met een suf katje naar huis en een vel papier met na-instructies. En dan? Stilte van jouw kant.

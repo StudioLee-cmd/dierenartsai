@@ -2,11 +2,11 @@
 title: "Hoe je als dierenarts reviews verzamelt na elke behandeling"
 excerpt: "Diereneigenaren zijn na een geslaagde behandeling dankbaar en bereid om een review te schrijven. Zo maak je er gebruik van."
 date: "2026-04-15"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-behandeling-dierenarts.jpg"
 tags: ["Reviews", "Automatisering", "Praktijkgroei"]
 ---
-
 Een baasje haalt zijn hond op na een geslaagde operatie. De opluchting is zichtbaar, de dankbaarheid oprecht. "Wat zijn jullie goed, echt fantastisch." Twee weken later is die emotie gezakt en vraag je je af waarom er geen review is verschenen.
 
 Diereneigenaren zijn een van de meest review-bereide groepen die er bestaan. De emotionele band met hun dier maakt elke geslaagde behandeling persoonlijk. Maar zonder een concreet verzoek op het juiste moment, schrijven ze die review zelden uit zichzelf.

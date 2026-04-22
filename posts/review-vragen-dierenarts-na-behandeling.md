@@ -2,11 +2,11 @@
 title: "Reviews vragen als dierenarts: het perfecte moment na de behandeling"
 excerpt: "De eigenaar is opgelucht dat het goed gaat met het huisdier. Dat is het moment voor een review. Zo vraag je het als dierenarts."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-dierenarts-na-behandeling.jpg"
 tags: ["Reviews", "Patiënten", "Groei"]
 ---
-
 ## Diereneigenaren schrijven emotionele reviews
 
 Bij een kapper of loodgieter gaat het om een dienst. Bij een dierenarts gaat het om een gezinslid. Eigenaren die hun hond, kat of konijn gezond terugkrijgen zijn dankbaar op een ander niveau. Die emotie levert de meest overtuigende reviews op.

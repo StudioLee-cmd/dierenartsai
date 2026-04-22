@@ -2,11 +2,11 @@
 title: "Spoedgevallen als dierenarts: avond- en weekendoproepen opvangen"
 excerpt: "Diereneigenaren bellen op de vreemdste momenten. Ontdek hoe je als dierenartspraktijk spoedoproepen slim opvangt zonder je team uit te putten."
 date: "2026-04-14"
+cluster: "spoedgevallen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedgevallen-dierenarts-avond-weekend.jpg"
 tags: ["Spoedgevallen", "Bereikbaarheid", "Dierenarts Tips"]
 ---
-
 ## Spoedgevallen stoppen niet om vijf uur
 
 Een hond die 's avonds chocolade heeft gegeten, een kat die in het weekend niet meer eet, een konijn dat op maandagochtend plotseling scheef loopt. Diereneigenaren paniekeren snel, en terecht. Ze willen direct een antwoord, niet een voicemail met "wij zijn gesloten."

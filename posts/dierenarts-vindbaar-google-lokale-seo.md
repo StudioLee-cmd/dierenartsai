@@ -2,11 +2,11 @@
 title: "Dierenarts vindbaar op Google: lokale SEO die werkt"
 excerpt: "Zoeken diereneigenaren naar een dierenarts in jouw buurt maar vinden ze jou niet? Ontdek hoe je als dierenartspraktijk hoger scoort in Google."
 date: "2026-04-11"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-vindbaar-google-lokale-seo.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
 ---
-
 ## Waarom diereneigenaren altijd lokaal zoeken
 
 "Dierenarts [plaatsnaam]" is een van de meest getypte zoekopdrachten in de veterinaire branche. Diereneigenaren zoeken niet naar de beste dierenarts van Nederland. Ze zoeken de beste dierenarts in de buurt. Bij een ziek huisdier wil je snel kunnen rijden, niet een uur in de auto zitten.

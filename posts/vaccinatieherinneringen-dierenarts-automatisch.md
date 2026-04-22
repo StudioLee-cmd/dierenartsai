@@ -2,11 +2,11 @@
 title: "Vaccinatieherinneringen automatiseren als dierenarts"
 excerpt: "Jaarlijkse vaccinaties vergeten is menselijk. Automatische herinneringen zorgen dat diereneigenaren op tijd terugkomen."
 date: "2026-04-18"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaccinatieherinneringen-dierenarts-automatisch.jpg"
 tags: ["Herinneringen", "Vaccinaties", "Automatisering"]
 ---
-
 ## Waarom diereneigenaren vaccinaties vergeten
 
 Het is geen onwil. Diereneigenaren vergeten de jaarlijkse vaccinatie van hun huisdier simpelweg omdat het een jaar geleden is. Zonder herinnering verdwijnt de afspraak uit hun geheugen. Het resultaat: je verliest het consult, het dier mist de vaccinatie en de eigenaar voelt zich schuldig als je er maanden later achterkomt.

@@ -2,11 +2,11 @@
 title: "Werkdruk verlagen dierenartspraktijk: 7 manieren in 2026"
 excerpt: "Een overvolle agenda, rinkelende telefoon en stapels administratie? Zo verlaag je als dierenarts structureel de werkdruk met concrete stappen."
 date: "2026-04-16"
+cluster: "administratie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkdruk-verlagen-dierenartspraktijk.jpg"
 tags: ["Dierenarts", "Werkdruk", "AI"]
 ---
-
 ## Waarom de werkdruk in dierenartspraktijken structureel te hoog is
 
 60 procent van de Nederlandse en Britse dierenartsen geeft aan structureel te hoge werkdruk te ervaren, blijkt uit onderzoek van het Royal College of Veterinary Surgeons in 2023. In Nederland bevestigen rapporten van de KNMvD en de Universiteit Utrecht dezelfde trend: werkdruk is de nummer 1 reden waarom dierenartsen de praktijk verlaten of overstappen naar deeltijd. Tegelijkertijd groeit het aantal huisdieren en wordt de zorgvraag complexer. Meer mensen, meer dieren, dezelfde 8 uur in een dag.

@@ -2,11 +2,11 @@
 title: "Sneller reageren op nieuwe patiëntaanvragen"
 excerpt: "Een diereneigenaar belt drie klinieken. Wie het eerst terugbelt, krijgt de patiënt. Zo zorg je dat jouw praktijk altijd als eerste reageert."
 date: "2026-04-19"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-sneller-reageren-aanvragen.jpg"
 tags: ["Lead-opvolging", "Groei", "Tips"]
 ---
-
 ## De eerste die belt, wint de patiënt
 
 Een diereneigenaar zoekt een nieuwe dierenarts. Misschien zijn ze verhuisd, misschien zijn ze niet tevreden bij hun huidige kliniek. Ze googelen "dierenarts [stad]", bellen drie praktijken en kiezen de eerste die opneemt of terugbelt.

@@ -2,11 +2,11 @@
 title: "Dierenarts CRM: welke patiëntgegevens bepalen loyaliteit"
 excerpt: "De 7 patiëntgegevens die elke dierenartsenpraktijk moet vastleggen om baasjes jaar na jaar terug te laten komen, plus hoe je die data automatisch inzet voor herinneringen en nazorg."
 date: "2026-04-22"
+cluster: "crm-klantbeheer"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-crm-patientgegevens-terugkomende-klanten.jpg"
 tags: ["Dierenarts", "CRM", "Klantbehoud", "Automatisering"]
 ---
-
 Een dierenarts ziet gemiddeld elk baasje 1,8 keer per jaar. Dat is een confronterend cijfer, want een goed verzorgde hond of kat zou drie tot vier consulten per jaar nodig moeten hebben (jaarlijkse controle, vaccinaties, tandheelkundige check, soms een preventief bloedonderzoek). Die kloof tussen wat medisch logisch is en wat baasjes daadwerkelijk doen, is bijna altijd een communicatie-probleem, niet een kennis-probleem.
 
 De oplossing is een CRM die niet alleen bestaat uit contactgegevens, maar uit een gelaagde verzameling patiëntgegevens waar de praktijk zelf mee kan sturen. In deze gids staan de zeven velden die het verschil maken tussen een patiëntsysteem als administratie en een patiëntsysteem als groeimotor. Het is de basis waarop jaarlijkse reminder-flows, pre-consult preparatiemails en klant-specifieke aanbevelingen rusten.

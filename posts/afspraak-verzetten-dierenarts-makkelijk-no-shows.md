@@ -2,11 +2,11 @@
 title: "Verzetten makkelijk maken bij de dierenarts: voorkom no-shows door flexibiliteit"
 excerpt: "Baasjes die makkelijk kunnen verzetten, annuleren niet stilletjes. Zo maak je het simpel en voorkom je no-shows in je praktijk."
 date: "2026-04-10"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-verzetten-dierenarts-makkelijk-no-shows.jpg"
 tags: ["No-shows", "Dierenarts", "Flexibiliteit"]
 ---
-
 ## Waarom baasjes niet afbellen
 
 Een baasje heeft donderdagmiddag een afspraak voor de jaarlijkse controle van de kat. Woensdagavond komt er iets tussengekregen: een vergadering die uitloopt, een kind dat ziek is, of simpelweg vergeten dat de afspraak er was. Het baasje denkt: "Ik bel morgenochtend wel om te verzetten." Maar morgenochtend is het druk, het schiet er niet in, en voor ze het weet is het 14:00 en heeft de dierenarts een lege afspraak.

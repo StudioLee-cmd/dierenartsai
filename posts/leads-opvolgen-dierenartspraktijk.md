@@ -2,11 +2,11 @@
 title: "Nieuwe klanten binnenhalen als dierenarts: leads slim opvolgen"
 excerpt: "Potentiële klanten bellen of mailen, maar worden ze ook klant? Zo volg je leads als dierenarts effectief op."
 date: "2026-04-17"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-dierenartspraktijk.jpg"
 tags: ["Leads", "Klanten", "Groei"]
 ---
-
 ## Elke nieuwe klant begint met een vraag
 
 Een diereneigenaar belt om te vragen of je praktijk nieuwe patienten aanneemt. Een ander stuurt een e-mail over de kosten van castratie. Een derde vindt je via Google en vult het contactformulier op je website in. Dit zijn allemaal leads: potentiele klanten die interesse tonen in je praktijk.

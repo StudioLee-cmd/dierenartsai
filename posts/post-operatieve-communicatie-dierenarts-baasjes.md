@@ -2,11 +2,11 @@
 title: "Post-operatieve communicatie als dierenarts"
 excerpt: "Post-operatieve communicatie als dierenarts: wat baasjes na een OK echt van je praktijk nodig hebben, en hoe je dat stroomlijnt zonder extra personeel."
 date: "2026-04-21"
+cluster: "patientcommunicatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/post-operatieve-communicatie-dierenarts-baasjes.jpg"
 tags: ["Dierenarts", "Patiëntcommunicatie", "Post-operatief", "Klantbeleving"]
 ---
-
 Een hond is geopereerd en ligt op de recovery. De eigenaar is thuis aan het werken, de hele ochtend al niet goed geconcentreerd, en wacht op een teken dat het goed is gegaan. In veel praktijken duurt dat teken tussen de drie en zes uur — een medewerker belt als er tijd is, of de baasje belt zelf vanuit onrust. Dat is een herkenbaar patroon, en ook een van de sterkste verbeterkansen in je klantbeleving.
 
 Deze gids behandelt concreet wat baasjes in de uren en dagen na een operatie willen weten, wanneer je het beste contact opneemt, welke kanalen het beste werken, en hoe je dit systematisch regelt zonder een extra full-time receptionist aan te nemen. De praktijken die dit goed doen zien hogere klanttevredenheid, meer positieve reviews, en minder stressvolle telefoontjes van onzekere baasjes tussendoor.

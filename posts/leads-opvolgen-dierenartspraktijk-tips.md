@@ -2,11 +2,11 @@
 title: "Leads opvolgen als dierenarts: meer afspraken uit aanvragen"
 excerpt: "Dierenartspraktijken verliezen potentiele klanten door trage opvolging. Leer hoe je aanvragen van baasjes sneller omzet naar afspraken."
 date: "2026-04-07"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-dierenartspraktijk-tips.jpg"
 tags: ["Leads", "Dierenarts", "Patientwerving"]
 ---
-
 ## Baasjes kiezen de praktijk die het eerst reageert
 
 Een kat eet al twee dagen niet. Het baasje maakt zich zorgen, googelt "dierenarts [stad]", en stuurt via de website een bericht naar twee praktijken. De ene reageert binnen 10 minuten met een vriendelijk bericht en een voorstel voor een afspraak dezelfde dag. De andere reageert de volgende ochtend.

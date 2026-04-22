@@ -2,11 +2,11 @@
 title: "No-shows in je dierenartspraktijk: zo pak je het aan"
 excerpt: "Gemiste afspraken kosten je praktijk tijd en omzet. Ontdek waarom diereneigenaren niet komen opdagen en wat je eraan doet."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-dierenartspraktijk-voorkomen.jpg"
 tags: ["No-shows", "Dierenarts", "Planning"]
 ---
-
 ## Lege consulten zijn verloren omzet
 
 Een consult dat niet doorgaat is 15 tot 30 minuten die je niet meer kunt vullen. Bij een consultprijs van 40 tot 80 euro en twee no-shows per dag loopt het verlies op tot meer dan 20.000 euro per jaar voor een eenpersoonspraktijk. Bij een praktijk met meerdere dierenartsen verveelvoudigt dat.
