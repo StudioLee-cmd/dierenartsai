@@ -1,6 +1,6 @@
 ---
 title: "Tarieven communiceren als dierenarts"
-excerpt: "Een dierenartspraktijk die tarieven duidelijk en met empathie communiceert houdt klanten en voorkomt prijs-discussies. Concrete voorbeelden, taal en plaatsing op de website."
+excerpt: "Een dierenartspraktijk die tarieven duidelijk en met empathie communiceert houdt klanten en voorkomt prijs-discussies. Voorbeelden, taal en plaatsing."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tarieven-dierenarts-vertrouwen-transparantie.jpg"
