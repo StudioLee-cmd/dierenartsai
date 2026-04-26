@@ -11,6 +11,7 @@ export const menuItems: IMenuItem[] = [
             { text: "Social Media voor Dierenartsen", url: "/social-media" },
             { text: "Reviews voor Dierenartsen", url: "/reviews" },
             { text: "Review Pakket", url: "/review-pakket" },
+            { text: "CRM voor Dierenartsen", url: "/crm" },
         ]
     },
     { text: "Tarieven", url: "/tarieven" },
