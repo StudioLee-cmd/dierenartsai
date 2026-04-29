@@ -4,6 +4,9 @@ slug: google-bedrijfsprofiel-categorie-dierenarts
 date: 2026-04-29
 cluster: google-bedrijfsprofiel
 excerpt: "Welke Google Bedrijfsprofiel-categorie kies je als dierenarts? Dierenarts, Dierenkliniek of Dierenziekenhuis. De juiste keuze bepaalt waar je verschijnt."
+image: "/images/blog/google-bedrijfsprofiel-categorie-dierenarts.jpg"
+authorSlug: "tim-van-der-lee"
+tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Dierenarts"]
 ---
 
 # Google Bedrijfsprofiel categorie als dierenarts: Dierenarts, Dierenkliniek of Dierenziekenhuis?
