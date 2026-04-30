@@ -101,7 +101,7 @@ Wat houdt mensen wel? Een transparante loonschaal die meegroeit met de jaren, ee
 - **Arbeidsovereenkomst** volgens CAO Dierenartsenpraktijken, ondertekend voor de eerste werkdag
 - **Aansprakelijkheidsverzekering** uitgebreid naar nieuwe medewerker
 - **VOG-aanvraag** als de praktijk dat eist (niet wettelijk verplicht maar wel gebruikelijk)
-- **Toegang regelen:** sleutel, badge, agenda-toegang, e-mail, en bij een digitaal-georganiseerde praktijk een goed ingericht [crm voor dierenartsen](/blog/crm-dierenartspraktijk-klantgegevens) zodat de medewerker direct mee kan draaien.
+- **Toegang regelen:** sleutel, badge, agenda-toegang, e-mail, en bij een digitaal-georganiseerde praktijk een goed ingericht klantenbestand zodat de medewerker direct mee kan draaien.
 
 Reken op één tot twee werkdagen administratieve voorbereiding voor je het laatste sollicitatiegesprek voert. Doe dit vooraf zodat de medewerker meteen kan starten.
 
