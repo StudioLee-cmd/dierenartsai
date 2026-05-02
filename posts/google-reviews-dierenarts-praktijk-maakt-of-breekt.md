@@ -1,5 +1,5 @@
 ---
-title: "Google reviews als dierenarts: waarom het je praktijk maakt of breekt"
+title: "Google reviews dierenarts: maakt of breekt je praktijk"
 slug: google-reviews-dierenarts-praktijk-maakt-of-breekt
 date: "2026-05-01"
 excerpt: "Google reviews bepalen of een nieuwe diereneigenaar jouw praktijk kiest of de buurpraktijk. Wat de cijfers zeggen en hoe je het systeem opzet."
