@@ -6,7 +6,7 @@ excerpt: "Hondenuitlaters en kennelclubs als referrer-netwerk voor je dierenarts
 image: "/images/blog/hondenuitlaters-kennelclubs-referrer-netwerk-dierenarts-mond-tot-mond.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Mond-tot-mond", "Referrer Netwerk", "Doorverwijzingen", "B2B", "Dierenarts"]
-cluster: "mond-tot-mondreclame"
+cluster: "branding"
 ---
 
 **In het kort:**

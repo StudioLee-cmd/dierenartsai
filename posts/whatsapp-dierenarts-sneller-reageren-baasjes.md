@@ -2,7 +2,7 @@
 title: "WhatsApp inzetten als dierenarts: sneller reageren op vragen van baasjes"
 excerpt: "Baasjes verwachten snelle antwoorden. WhatsApp Business maakt je dierenartspraktijk bereikbaarder zonder dat je telefoon continu overgaat."
 date: "2026-04-09"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-dierenarts-sneller-reageren-baasjes.jpg"
 tags: ["Lead opvolging", "Dierenarts", "WhatsApp"]

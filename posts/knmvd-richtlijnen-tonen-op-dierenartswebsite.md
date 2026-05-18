@@ -6,7 +6,7 @@ excerpt: "KNMVD-richtlijnen en praktijkkwaliteit zichtbaar maken op je dierenart
 image: "/images/blog/knmvd-richtlijnen-tonen-op-dierenartswebsite.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Kwaliteit", "KNMVD", "Vertrouwen", "Dierenarts"]
-cluster: "specialisatie"
+cluster: "website"
 ---
 
 **In het kort:**

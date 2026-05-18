@@ -2,7 +2,7 @@
 title: "Google reviews voor je dierenartspraktijk: zo verzamel je ze"
 excerpt: "Diereneigenaren vertrouwen op reviews bij het kiezen van een dierenarts. Leer hoe je automatisch reviews verzamelt na elk consult."
 date: "2026-04-06"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-dierenarts-google-verzamelen.jpg"
 tags: ["Reviews", "Dierenarts", "Google"]

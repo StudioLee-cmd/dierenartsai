@@ -6,7 +6,7 @@ excerpt: "Multi-pet huishoudens binden als dierenarts: family-CRM, gecombineerde
 image: "/images/blog/multi-pet-huishouden-binden-dierenarts-family-crm-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "Multi-pet", "Family-CRM", "LTV", "Dierenarts"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

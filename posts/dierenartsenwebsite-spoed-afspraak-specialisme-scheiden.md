@@ -6,7 +6,7 @@ excerpt: "Een dierenartsenwebsite die spoed, gewone afspraken en specialismen ni
 image: "/images/blog/dierenartsenwebsite-spoed-afspraak-specialisme-scheiden.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Website", "Conversie", "Praktijkmanagement"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 Een baasje wiens hond plotseling braakt en niet meer eet, scant je website in 8 seconden. Twee dingen wil hij weten: bel ik nu, of plan ik morgenochtend. Een baasje dat een jaarlijkse vaccinatie wil, scant óók in 8 seconden, maar zoekt iets totaal anders: kan ik zelf een afspraak prikken zonder te bellen. En een baasje dat zoekt naar gedragstherapie voor een jonge hond, scant op nóg iets anders: is jullie praktijk hier echt in gespecialiseerd, of doen jullie alles "ook een beetje".

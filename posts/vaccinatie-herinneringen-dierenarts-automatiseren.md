@@ -5,7 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaccinatie-herinneringen-dierenarts-automatiseren.png"
 tags: ["Dierenarts", "Vaccinaties", "Automatisering"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Het vaccinatie-dilemma van dierenartspraktijken

@@ -2,7 +2,7 @@
 title: "No-show kosten als dierenarts: hoeveel kost een gemiste afspraak?"
 excerpt: "Een patiënt verschijnt niet. Hoeveel kost dat je praktijk echt? De berekening plus drie maatregelen om het te beperken."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-dierenarts-berekenen.jpg"
 tags: ["No-shows", "Kosten", "Groei"]

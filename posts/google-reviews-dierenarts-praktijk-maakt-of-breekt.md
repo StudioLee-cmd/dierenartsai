@@ -6,7 +6,7 @@ excerpt: "Google reviews bepalen of een nieuwe diereneigenaar jouw praktijk kies
 image: "/images/blog/google-reviews-dierenarts-praktijk-maakt-of-breekt.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Reviews", "Reputatie", "Lokale SEO", "Praktijkmarketing"]
-cluster: "review-automatisering"
+cluster: "reviews"
 ---
 
 Een diereneigenaar in jouw werkgebied zoekt op "dierenarts in de buurt". Google laat drie praktijken zien op de kaart. De eerste heeft 312 reviews en een 4.8-score. De tweede heeft 47 reviews en 4.5. De derde heeft 8 reviews en 4.9. Wie wordt gebeld? In 78 procent van de gevallen de eerste — niet vanwege de score, maar vanwege het volume aan reviews dat vertrouwen opbouwt.

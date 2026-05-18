@@ -2,7 +2,7 @@
 title: "Review strategie als dierenarts"
 excerpt: "Baasjes kiezen een dierenarts op basis van reviews en vertrouwen. Ontdek hoe je met een slimme strategie meer Google Reviews verzamelt voor je praktijk."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-dierenarts.jpg"
 tags: ["Reviews", "Review strategie", "Dierenarts", "Google Reviews"]

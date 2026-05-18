@@ -2,7 +2,7 @@
 title: "Verzetten makkelijk maken bij de dierenarts: voorkom no-shows door flexibiliteit"
 excerpt: "Baasjes die makkelijk kunnen verzetten, annuleren niet stilletjes. Zo maak je het simpel en voorkom je no-shows in je praktijk."
 date: "2026-04-10"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-verzetten-dierenarts-makkelijk-no-shows.jpg"
 tags: ["No-shows", "Dierenarts", "Flexibiliteit"]

@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkdruk-dierenartsassistente-verlagen-2026.jpg"
 tags: ["Werkdruk", "Praktijkmanagement", "Automatisering"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 Volgens de meest recente Veterinary Workload Study van RCVS (2023) ervaart 60 procent van de dierenartspraktijkmedewerkers structureel te hoge werkdruk. In Nederland klopt dit met wat praktijkmanagers ons vertellen: een gemiddelde drie-artsen-praktijk draait met twee of drie assistentes die elk 6 tot 8 uur per dag kwalitatief werk moeten leveren, maar in de praktijk 4 tot 6 uur daarvan aan de telefoon en administratie zitten. Het probleem is niet de hoeveelheid werk. Het probleem is de samenstelling: zonder de repetitieve admintaken houdt elke assistent 2 tot 4 uur per dag over voor triage, persoonlijke zorg en ondersteuning van de arts.

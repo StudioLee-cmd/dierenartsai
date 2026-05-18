@@ -7,7 +7,7 @@ image: "/images/blog/klantbehoud-dierenarts-trouwe-baasjes.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantbehoud", "dierenarts", "relatiebeheer"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## Waarom klantbehoud cruciaal is voor dierenartsen

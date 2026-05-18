@@ -2,7 +2,7 @@
 title: "Nieuwe cliënten als dierenarts opvolgen: van eerste contact naar vaste klant"
 excerpt: "Een nieuwe cliënt belt voor een vaccinatie. Hoe zorg je dat dit het begin is van een jarenlange relatie? Tips voor leadopvolging."
 date: "2026-04-05"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-clienten-dierenarts-opvolgen.jpg"
 tags: ["Leads", "Dierenarts", "Klantbehoud"]

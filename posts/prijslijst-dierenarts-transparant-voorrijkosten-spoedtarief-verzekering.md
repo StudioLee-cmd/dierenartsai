@@ -6,7 +6,7 @@ excerpt: "Prijslijst dierenarts opstellen: voorrijkosten, spoedtarief en verzeke
 image: "/images/blog/prijslijst-dierenarts-transparant-voorrijkosten-spoedtarief-verzekering.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Prijzen Communiceren", "Tarieven", "Klantcommunicatie", "Dierenarts Operaties"]
-cluster: "prijzen-communiceren"
+cluster: "website"
 ---
 
 **In het kort:**

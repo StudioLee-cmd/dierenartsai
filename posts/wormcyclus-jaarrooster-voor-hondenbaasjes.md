@@ -6,7 +6,7 @@ excerpt: "Een wormcyclus-jaarrooster maakt ontwormen voorspelbaar voor de baas e
 image: "/images/blog/wormcyclus-jaarrooster-voor-hondenbaasjes.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Preventieve zorg", "Ontwormen", "Hartworm", "Hond", "Dierenarts"]
-cluster: "preventieve-zorg"
+cluster: "automatisering"
 ---
 
 **In het kort:**

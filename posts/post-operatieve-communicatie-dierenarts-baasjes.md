@@ -2,7 +2,7 @@
 title: "Post-operatieve communicatie als dierenarts"
 excerpt: "Post-operatieve communicatie als dierenarts: wat baasjes na een OK echt van je praktijk nodig hebben, en hoe je dat stroomlijnt zonder extra personeel."
 date: "2026-04-21"
-cluster: "patientcommunicatie"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/post-operatieve-communicatie-dierenarts-baasjes.jpg"
 tags: ["Dierenarts", "Patiëntcommunicatie", "Post-operatief", "Klantbeleving"]

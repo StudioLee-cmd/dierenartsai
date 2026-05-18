@@ -4,7 +4,7 @@ excerpt: "Een dierenartspraktijk die tarieven duidelijk en met empathie communic
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tarieven-dierenarts-vertrouwen-transparantie.jpg"
-cluster: "prijzen-communiceren"
+cluster: "website"
 tags: ["Prijzen Communiceren", "Klantcommunicatie", "Dierenarts Operaties"]
 ---
 

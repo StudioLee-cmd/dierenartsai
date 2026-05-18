@@ -2,7 +2,7 @@
 title: "Reviews vragen aan baasjes na een dierenartsbezoek: zo doe je het goed"
 excerpt: "Reviews voor dierenartsen zijn emotioneel geladen. Lees hoe je op het juiste moment vraagt en omgaat met verdrietige situaties."
 date: "2026-04-08"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-reviews-vragen-na-bezoek.jpg"
 tags: ["Reviews", "Dierenarts", "Klantcommunicatie"]

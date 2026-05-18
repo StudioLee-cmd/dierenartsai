@@ -7,7 +7,7 @@ image: "/images/blog/seizoensmarketing-dierenarts-voorjaar.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["seizoenswerk", "dierenarts", "marketing"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 ## Waarom seizoenen je praktijk bepalen

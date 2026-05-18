@@ -2,7 +2,7 @@
 title: "Hoe je als dierenarts reviews verzamelt na elke behandeling"
 excerpt: "Diereneigenaren zijn na een geslaagde behandeling dankbaar en bereid om een review te schrijven. Zo maak je er gebruik van."
 date: "2026-04-15"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-behandeling-dierenarts.jpg"
 tags: ["Reviews", "Automatisering", "Praktijkgroei"]

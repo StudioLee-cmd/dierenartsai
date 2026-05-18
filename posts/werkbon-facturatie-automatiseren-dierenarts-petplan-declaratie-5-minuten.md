@@ -6,7 +6,7 @@ excerpt: "Werkbon dierenarts automatiseren: van consult naar factuur en Petplan-
 image: "/images/blog/werkbon-facturatie-automatiseren-dierenarts-petplan-declaratie-5-minuten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Administratie", "Werkbon", "Facturatie", "Petplan", "Dierenarts Operaties"]
-cluster: "administratie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

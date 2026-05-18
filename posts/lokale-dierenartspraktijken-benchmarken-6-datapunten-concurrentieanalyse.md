@@ -6,7 +6,7 @@ excerpt: "Concurrentieanalyse dierenarts in 30 minuten: 6 datapunten over openin
 image: "/images/blog/lokale-dierenartspraktijken-benchmarken-6-datapunten-concurrentieanalyse.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Benchmark", "Lokale Marketing", "Dierenarts Operaties"]
-cluster: "concurrentieanalyse"
+cluster: "branding"
 ---
 
 **In het kort:**

@@ -2,7 +2,7 @@
 title: "Leads opvolgen als dierenarts: meer afspraken uit aanvragen"
 excerpt: "Dierenartspraktijken verliezen potentiele klanten door trage opvolging. Leer hoe je aanvragen van baasjes sneller omzet naar afspraken."
 date: "2026-04-07"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-dierenartspraktijk-tips.jpg"
 tags: ["Leads", "Dierenarts", "Patientwerving"]

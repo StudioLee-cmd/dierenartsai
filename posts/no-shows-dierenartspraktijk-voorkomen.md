@@ -2,7 +2,7 @@
 title: "No-shows in je dierenartspraktijk: zo pak je het aan"
 excerpt: "Gemiste afspraken kosten je praktijk tijd en omzet. Ontdek waarom diereneigenaren niet komen opdagen en wat je eraan doet."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-dierenartspraktijk-voorkomen.jpg"
 tags: ["No-shows", "Dierenarts", "Planning"]

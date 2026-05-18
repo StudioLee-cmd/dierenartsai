@@ -6,7 +6,7 @@ excerpt: "Prijzen op je dierenartspraktijk-website tonen: voor en tegen, welke p
 image: "/images/blog/prijzen-op-dierenarts-website-wat-wel-en-niet.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Prijzen-communiceren", "Website", "Transparantie", "Dierenarts"]
-cluster: "prijzen-communiceren"
+cluster: "website"
 ---
 
 **In het kort:**

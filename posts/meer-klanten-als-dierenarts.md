@@ -5,7 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klanten-als-dierenarts.png"
 tags: ["Dierenarts", "Klantwerving", "Marketing"]
-cluster: "nieuwe klanten"
+cluster: "automatisering"
 ---
 
 ## De uitdaging: meer klanten in een lokale markt
