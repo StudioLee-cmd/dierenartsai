@@ -107,7 +107,7 @@ De analyse heeft pas waarde als je hem omzet in beslissingen. Drie typische acti
 
 **Bij gele/gelijke datapunten op alles:** je hebt een differentiatie-probleem. Geen reden om te concurreren op prijs (want concurrenten doen dat ook), wel reden om een sterke positionering rondom een specifiek voordeel uit te bouwen (snelle response, transparante communicatie, bepaalde niche).
 
-[Lees ook: Telegeneeskunde voor dierenartsen aanbieden: extra omzet zonder extra spreekkamer](/blog/telegeneeskunde-dierenarts-aanbieden)
+Lees ook: Telegeneeskunde voor dierenartsen aanbieden: extra omzet zonder extra spreekkamer
 
 ## Wat StudioLee voor je inricht
 

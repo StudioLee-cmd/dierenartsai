@@ -60,7 +60,7 @@ Formaliseer het: "Ken je iemand met een nieuw huisdier? Bij inschrijving via jou
 
 ### 5. Social media community bouwen
 
-[Social media](/blog/social-media-dierenartsen-community) biedt een platform waar baasjes hun ervaringen delen. Deel tips over [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel), seizoensadvies en klantenverhalen.
+[Social media](/blog/social-media-dierenartsen-community) biedt een platform waar baasjes hun ervaringen delen. Deel tips over preventieve zorg, seizoensadvies en klantenverhalen.
 
 ## Online mond-tot-mond versterken
 

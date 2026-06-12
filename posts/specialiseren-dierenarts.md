@@ -72,7 +72,7 @@ Je hoeft niet te kiezen tussen specialist en generalist. De succesvolste aanpak 
 - **Specialistische zorg** als extra dienst die je onderscheidt en hogere omzet oplevert
 - **Doorverwijzingen** als aanvullende leadbron
 
-Door [preventieve zorg als verdienmodel](/blog/preventieve-zorg-dierenarts-verdienmodel) te combineren met specialistische diensten, bouw je een praktijk met meerdere inkomstenbronnen.
+Door preventieve zorg als verdienmodel te combineren met specialistische diensten, bouw je een praktijk met meerdere inkomstenbronnen.
 
 ## Marketing voor je specialisatie
 

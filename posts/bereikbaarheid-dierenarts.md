@@ -43,7 +43,7 @@ Bied WhatsApp aan voor niet-urgente vragen. Klanten sturen een foto of beschrijv
 
 ### 4. Duidelijke communicatie over spoeddiensten
 
-Vermeld op je website, voicemail en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) wanneer je bereikbaar bent voor spoed. Verwijs buiten openingstijden naar de dichtstbijzijnde [spoeddienst](/blog/spoeddienst-dierenarts-bereikbaar).
+Vermeld op je website, voicemail en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) wanneer je bereikbaar bent voor spoed. Verwijs buiten openingstijden naar de dichtstbijzijnde spoeddienst.
 
 ### 5. Automatische terugbelservice
 

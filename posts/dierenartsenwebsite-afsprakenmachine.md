@@ -23,7 +23,7 @@ Het boekingssysteem is het hart van je website. Het moet eenvoudig en intuïtief
 - **Datum en tijd**: toon beschikbare slots, laat de klant kiezen
 - **Contactgegevens**: naam, telefoon en (optioneel) het dossier-nummer
 
-Beperk het formulier tot maximaal 5-6 velden. Stuur direct een automatische bevestiging per e-mail en SMS. Vergeet niet de mogelijkheid voor spoed toe te voegen — baasjes met een ziek dier moeten direct telefonisch contact kunnen opnemen. Lees ook hoe je je [spoeddienst bereikbaar houdt](/blog/spoeddienst-dierenarts-bereikbaar).
+Beperk het formulier tot maximaal 5-6 velden. Stuur direct een automatische bevestiging per e-mail en SMS. Vergeet niet de mogelijkheid voor spoed toe te voegen — baasjes met een ziek dier moeten direct telefonisch contact kunnen opnemen. Lees ook hoe je je spoeddienst bereikbaar houdt.
 
 ## Je website structureren voor conversie
 

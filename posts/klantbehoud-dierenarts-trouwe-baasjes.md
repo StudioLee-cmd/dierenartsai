@@ -55,9 +55,9 @@ Baasjes die deze nazorg ervaren, worden je meest loyale klanten. Ze vertellen he
 Je [website](/blog/dierenartsenwebsite-afsprakenmachine) en [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) zijn je digitale wachtkamer. Baasjes checken je online voordat ze langskomen, en ze lezen reviews nadat ze bij je zijn geweest.
 
 Zorg dat:
-- Je website actueel is met openingstijden en [spoedgevallen-informatie](/blog/spoeddienst-dierenarts-bereikbaar)
+- Je website actueel is met openingstijden en spoedgevallen-informatie
 - Je Google-reviews actief worden beheerd (bedank reviewers, reageer op feedback)
-- Je [social media](/blog/social-media-voor-dierenartsen) regelmatig post (dierentips, succesvolle behandelingen, teamfoto's)
+- Je social media regelmatig post (dierentips, succesvolle behandelingen, teamfoto's)
 
 Baasjes die je online actief zien, voelen zich meer verbonden met je praktijk.
 

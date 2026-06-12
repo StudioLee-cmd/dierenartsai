@@ -16,7 +16,7 @@ Toch zijn veel assistentes 60% van hun tijd kwijt aan administratie en telefoon.
 
 Laten we de feiten eens op een rij zetten. Een fulltime paraveterinair kost de praktijk al snel €45.000+ per jaar (inclusief werkgeverslasten).
 
-VerhuizerAI (Elite pakket) kost €297 per maand, oftewel €3.564 per jaar. Dat is minder dan 10%.
+DierenartsAI (Elite pakket) kost €297 per maand, oftewel €3.564 per jaar. Dat is minder dan 10%.
 
 ### Laat assistentes excelleren
 

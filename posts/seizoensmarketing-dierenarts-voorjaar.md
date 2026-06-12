@@ -26,9 +26,9 @@ Het voorjaar is het drukste seizoen voor preventieve zorg. Dat maakt het het per
 
 **Lentevaccinaties**. Veel vaccinaties staan gepland in het voorjaar. Automatische [herinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) per sms of email zorgen dat baasjes op tijd komen.
 
-**Lentecheck-actie**. Bied een voorjaarscontrole aan voor een vaste prijs: gewicht, gebit, vacht en algehele gezondheid. Dit is laagdrempelig, goed voor [preventieve zorg](/blog/preventieve-zorg-dierenarts-verdienmodel) en het helpt om problemen vroeg te signaleren.
+**Lentecheck-actie**. Bied een voorjaarscontrole aan voor een vaste prijs: gewicht, gebit, vacht en algehele gezondheid. Dit is laagdrempelig, goed voor preventieve zorg en het helpt om problemen vroeg te signaleren.
 
-**Social media content**. Het voorjaar leent zich voor educatieve content: "Hoe herken je een teek?" of "Welke planten zijn giftig voor je hond in de tuin?" Dit soort [social media posts](/blog/social-media-voor-dierenartsen) worden veel gedeeld en trekken nieuwe volgers.
+**Social media content**. Het voorjaar leent zich voor educatieve content: "Hoe herken je een teek?" of "Welke planten zijn giftig voor je hond in de tuin?" Dit soort social media posts worden veel gedeeld en trekken nieuwe volgers.
 
 ## Zomer: reizen, hitte en ongedierte
 
