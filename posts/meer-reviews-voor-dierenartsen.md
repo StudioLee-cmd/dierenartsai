@@ -1,5 +1,6 @@
 ---
 title: "Krijg Automatisch Meer Google Reviews (En win het vertrouwen van nieuwe baasjes)"
+seoTitle: "Krijg Automatisch Meer Google Reviews"
 excerpt: "Reviews zijn essentieel voor het vertrouwen in een dierenarts. Maar erom vragen na een consult voelt soms ongemakkelijk. Laat AI dit tactvol overnemen."
 date: "2025-12-20"
 authorSlug: "tim-van-der-lee"

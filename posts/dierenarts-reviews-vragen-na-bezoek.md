@@ -1,5 +1,6 @@
 ---
 title: "Reviews vragen aan baasjes na een dierenartsbezoek: zo doe je het goed"
+seoTitle: "Reviews vragen aan baasjes na een dierenartsbezoek"
 excerpt: "Reviews voor dierenartsen zijn emotioneel geladen. Lees hoe je op het juiste moment vraagt en omgaat met verdrietige situaties."
 date: "2026-04-08"
 cluster: "reviews"

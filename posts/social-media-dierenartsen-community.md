@@ -1,5 +1,6 @@
 ---
 title: "Social media voor dierenartsen: bouw een online community en trek meer klanten"
+seoTitle: "Social media voor dierenartsen"
 excerpt: "Ontdek hoe dierenartsen social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor dierenartsen in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

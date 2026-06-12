@@ -1,6 +1,6 @@
 ---
 title: "Je dierenartsenwebsite omzetten in een afsprakenmachine"
-excerpt: "Leer hoe je als dierenarts je website inricht zodat baasjes direct online een afspraak maken."
+excerpt: "Leer hoe je als dierenarts je website inricht zodat baasjes direct online een afspraak maken. Met vijf concrete verbeterpunten voor meer afspraken."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartsenwebsite-afsprakenmachine.png"

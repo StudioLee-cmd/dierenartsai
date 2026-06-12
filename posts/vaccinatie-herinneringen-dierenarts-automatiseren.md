@@ -1,6 +1,7 @@
 ---
 title: "Vaccinatie-herinneringen automatiseren: zo ontlast je de receptie en vergeet geen dier"
-excerpt: "Vaccinaties, ontworming, jaarlijkse checkups — handmatig bijhouden kost je receptie uren. Automatisering lost dat op."
+seoTitle: "Vaccinatie-herinneringen automatiseren"
+excerpt: "Vaccinaties, ontworming, jaarlijkse checkups — handmatig bijhouden kost je receptie uren. Automatisering lost dat op. Zo stel je het in."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaccinatie-herinneringen-dierenarts-automatiseren.png"

@@ -1,6 +1,7 @@
 ---
 title: "WhatsApp-templates voor dierenartspraktijken: 7 berichten voor de hele klantreis"
-excerpt: "Stop met losse berichten typen. Met deze 7 vooraf-geschreven WhatsApp-templates loop je een complete klantreis door — van eerste aanvraag tot reactivering — zonder elke keer opnieuw na te denken."
+seoTitle: "WhatsApp-templates voor dierenartspraktijken"
+excerpt: "Stop met losse berichten typen. Met deze 7 vooraf-geschreven WhatsApp-templates loop je een complete klantreis door — van eerste aanvraag tot reactivering."
 date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

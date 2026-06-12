@@ -1,5 +1,6 @@
 ---
 title: "Spoedgevallen als dierenarts: avond- en weekendoproepen opvangen"
+seoTitle: "Spoedgevallen als dierenarts"
 excerpt: "Diereneigenaren bellen op de vreemdste momenten. Ontdek hoe je als dierenartspraktijk spoedoproepen slim opvangt zonder je team uit te putten."
 date: "2026-04-14"
 cluster: "voice-ai"

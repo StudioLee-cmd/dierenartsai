@@ -1,6 +1,7 @@
 ---
 title: "Leadgeneratie als dierenarts: meer nieuwe klanten voor je praktijk"
-excerpt: "Ontdek hoe je als dierenarts structureel meer nieuwe klanten aantrekt via je website, Google en slimme marketing."
+seoTitle: "Leadgeneratie als dierenarts"
+excerpt: "Ontdek hoe je als dierenarts structureel meer nieuwe klanten aantrekt via je website, Google en slimme marketing. Met praktische voorbeelden."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-dierenarts.png"

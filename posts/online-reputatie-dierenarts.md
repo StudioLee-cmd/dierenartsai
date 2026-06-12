@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als dierenarts: reviews die nieuwe baasjes overtuigen"
+seoTitle: "Online reputatie als dierenarts"
 excerpt: "Je online reputatie bepaalt of nieuwe diereigenaren jouw praktijk kiezen. Leer hoe je reviews verzamelt en je imago versterkt."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

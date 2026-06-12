@@ -1,5 +1,6 @@
 ---
 title: "Prijslijst dierenarts: voorrijkosten, spoedtarief en verzekering"
+seoTitle: "Prijslijst dierenarts"
 slug: prijslijst-dierenarts-transparant-voorrijkosten-spoedtarief-verzekering
 date: "2026-05-10"
 excerpt: "Prijslijst dierenarts opstellen: voorrijkosten, spoedtarief en verzekering helder communiceren zonder klant-discussie achteraf."

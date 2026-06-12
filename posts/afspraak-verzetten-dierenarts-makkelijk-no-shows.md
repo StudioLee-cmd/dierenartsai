@@ -1,5 +1,6 @@
 ---
 title: "Verzetten makkelijk maken bij de dierenarts: voorkom no-shows door flexibiliteit"
+seoTitle: "Verzetten makkelijk maken bij de dierenarts"
 excerpt: "Baasjes die makkelijk kunnen verzetten, annuleren niet stilletjes. Zo maak je het simpel en voorkom je no-shows in je praktijk."
 date: "2026-04-10"
 cluster: "automatisering"

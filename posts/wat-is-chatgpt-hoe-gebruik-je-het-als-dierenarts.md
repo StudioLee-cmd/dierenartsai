@@ -1,6 +1,6 @@
 ---
 title: "Wat is ChatGPT en hoe gebruik je het als dierenarts?"
-excerpt: "ChatGPT kan dierenartspraktijken helpen bij communicatie en content. Maar voor echte automatisering heb je meer nodig."
+excerpt: "ChatGPT kan dierenartspraktijken helpen bij communicatie en content. Maar voor echte automatisering heb je meer nodig. Dit is het verschil."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-dierenarts.png"

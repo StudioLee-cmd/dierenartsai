@@ -1,5 +1,6 @@
 ---
 title: "DierenartsAI vs. Extra Assistente: Waarom slim automatiseren loont"
+seoTitle: "DierenartsAI vs. Extra Assistente"
 excerpt: "De harde cijfers. Personeel is schaars en duur. Waarom zou je administratief werk door een paraveterinair laten doen als AI het kan?"
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"

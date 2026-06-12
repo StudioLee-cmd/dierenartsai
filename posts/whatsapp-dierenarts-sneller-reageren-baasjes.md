@@ -1,5 +1,6 @@
 ---
 title: "WhatsApp inzetten als dierenarts: sneller reageren op vragen van baasjes"
+seoTitle: "WhatsApp inzetten als dierenarts"
 excerpt: "Baasjes verwachten snelle antwoorden. WhatsApp Business maakt je dierenartspraktijk bereikbaarder zonder dat je telefoon continu overgaat."
 date: "2026-04-09"
 cluster: "automatisering"

@@ -1,6 +1,6 @@
 ---
 title: "Hoe dierenartsen meer klanten vinden via Google"
-excerpt: "Diereneigenaren zoeken online naar een betrouwbare dierenarts. Wie op het juiste moment zichtbaar is met goede reviews, wint hun vertrouwen. Dit is hoe je dat regelt."
+excerpt: "Diereneigenaren zoeken online naar een betrouwbare dierenarts. Wie op het juiste moment zichtbaar is met goede reviews, wint hun vertrouwen."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-dierenartsen-meer-klanten-vinden-via-google.png"

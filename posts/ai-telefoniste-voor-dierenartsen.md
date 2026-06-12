@@ -1,5 +1,6 @@
 ---
 title: "Het Einde van de \"Telefoon tijdens het Consult\": Altijd Bereikbaar Zonder Stress"
+seoTitle: "Het Einde van de \"Telefoon tijdens het Consult\""
 excerpt: "Mis nooit meer een spoedgeval of afspraak omdat je bezig bent met een patiënt. Onze Voice AI neemt op, filtert urgentie en plant in."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

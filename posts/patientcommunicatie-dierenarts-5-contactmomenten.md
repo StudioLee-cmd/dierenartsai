@@ -1,5 +1,6 @@
 ---
 title: "Patiëntcommunicatie dierenarts: 5 contactmomenten die trouwe baasjes creëren"
+seoTitle: "Patiëntcommunicatie dierenarts"
 excerpt: "Baasjes die op de juiste momenten een bericht krijgen boeken 40% vaker terug. Deze 5 contactmomenten in de patient-reis verankeren ze aan jouw praktijk."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

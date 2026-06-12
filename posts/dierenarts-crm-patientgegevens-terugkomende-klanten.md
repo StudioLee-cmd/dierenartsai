@@ -1,6 +1,6 @@
 ---
 title: "Dierenarts CRM: welke patiëntgegevens bepalen loyaliteit"
-excerpt: "De 7 patiëntgegevens die elke dierenartsenpraktijk moet vastleggen om baasjes jaar na jaar terug te laten komen, plus hoe je die data automatisch inzet voor herinneringen en nazorg."
+excerpt: "De 7 patiëntgegevens die elke dierenartsenpraktijk moet vastleggen om baasjes terug te laten komen, plus hoe je die data automatisch inzet."
 date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

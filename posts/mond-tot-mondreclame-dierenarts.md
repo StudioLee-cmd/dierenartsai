@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als dierenarts: van tevreden baasje naar nieuwe klant"
-excerpt: "De krachtigste marketing voor dierenartsen is gratis: tevreden baasjes die je aanbevelen. Zo stimuleer je het."
+seoTitle: "Mond-tot-mondreclame als dierenarts"
+excerpt: "De krachtigste marketing voor dierenartsen is gratis: tevreden baasjes die je aanbevelen. Zo stimuleer je het. Met concrete acties."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-dierenarts.png"

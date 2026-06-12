@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI Dierenartsen Helpt Bij Het Besparen Van Tijd (En Waarom Grote Klinieken Al Om Zijn)"
-excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van dierenartspraktijken kan automatiseren. Van afspraken tot dossiers: dit is je nieuwe digitale assistent."
+seoTitle: "Hoe AI Dierenartsen Helpt Bij Het Besparen Van Tijd"
+excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van dierenartspraktijken automatiseert. Van afspraken tot dossiers: je digitale assistent."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-dierenartsen-helpt.png"

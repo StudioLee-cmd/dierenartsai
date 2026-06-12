@@ -1,6 +1,7 @@
 ---
 title: "Samenwerken als dierenarts: partnerschappen die je praktijk laten groeien"
-excerpt: "Strategische samenwerkingen met dierenwinkels, trimmers en gedragstherapeuten helpen dierenartsen aan meer patienten."
+seoTitle: "Samenwerken als dierenarts"
+excerpt: "Strategische samenwerkingen met dierenwinkels, trimmers en gedragstherapeuten helpen dierenartsen aan meer patienten. Zo pak je het aan."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-dierenarts-partnerschappen.png"

@@ -1,6 +1,7 @@
 ---
 title: "E-mailmarketing voor dierenartsen: herinneringen die klanten binden"
-excerpt: "Ontdek hoe je als dierenarts met slimme e-mails baasjes behoudt, vaccinaties op tijd houdt en je praktijk laat groeien."
+seoTitle: "E-mailmarketing voor dierenartsen"
+excerpt: "Ontdek hoe je als dierenarts met slimme e-mails baasjes behoudt, vaccinaties op tijd houdt en je praktijk laat groeien. Met voorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-dierenarts-herinneringen.png"

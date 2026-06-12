@@ -1,5 +1,6 @@
 ---
 title: "Meer klanten als dierenarts: 7 strategieen die werken in 2026"
+seoTitle: "Meer klanten als dierenarts"
 excerpt: "Meer klanten als dierenarts? Het begint bij online zichtbaarheid, lokale samenwerkingen en slimme communicatie met baasjes."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

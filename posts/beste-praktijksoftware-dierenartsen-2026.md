@@ -1,5 +1,6 @@
 ---
 title: "Beste praktijksoftware voor dierenartsen 2026: tools vergeleken"
+seoTitle: "Beste praktijksoftware voor dierenartsen 2026"
 excerpt: "Welke software past bij jouw dierenartspraktijk? Een eerlijke vergelijking van de beste tools voor dierenartsen in 2026."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"

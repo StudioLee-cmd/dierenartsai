@@ -1,5 +1,6 @@
 ---
 title: "Nazorg na behandeling bij de dierenarts: zo bouw je een band met baasjes"
+seoTitle: "Nazorg na behandeling bij de dierenarts"
 excerpt: "Een kort bericht na de behandeling maakt het verschil. Ontdek hoe nazorg je dierenartspraktijk laat groeien door loyalere cliënten."
 date: "2026-04-05"
 cluster: "automatisering"

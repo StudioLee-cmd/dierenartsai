@@ -1,5 +1,6 @@
 ---
 title: "Meer Google reviews als dierenarts: zo krijg je ze automatisch"
+seoTitle: "Meer Google reviews als dierenarts"
 excerpt: "Google reviews zijn goud waard voor dierenartspraktijken. Ontdek hoe je automatisch meer reviews verzamelt — zonder er zelf tijd aan te besteden."
 date: "2026-03-08"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Personal branding als dierenarts: zo wordt jouw praktijk de eerste keuze"
+seoTitle: "Personal branding als dierenarts"
 slug: "personal-branding-dierenarts-praktijk"
 date: "2026-03-23"
 excerpt: "Baasjes kiezen een dierenarts op vertrouwen. Personal branding helpt je dat vertrouwen op te bouwen voordat ze je praktijk binnenstappen."

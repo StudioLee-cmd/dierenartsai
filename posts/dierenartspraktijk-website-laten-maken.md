@@ -1,6 +1,7 @@
 ---
 title: "Dierenartspraktijk website laten maken: meer afspraken via je site"
-excerpt: "Een professionele website helpt je dierenartspraktijk groeien. Tips voor meer online afspraken en betere vindbaarheid."
+seoTitle: "Dierenartspraktijk website laten maken"
+excerpt: "Een professionele website helpt je dierenartspraktijk groeien. Tips voor meer online afspraken en betere vindbaarheid. Plus kosten."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartspraktijk-website-laten-maken.jpg"

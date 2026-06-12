@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als dierenarts: zo vinden baasjes jouw praktijk"
+seoTitle: "Google Bedrijfsprofiel als dierenarts"
 excerpt: "Als dierenarts wil je dat baasjes jouw praktijk vinden, niet die van de concurrent. Optimaliseer je Google Bedrijfsprofiel met deze gids."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

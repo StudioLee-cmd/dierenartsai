@@ -1,5 +1,6 @@
 ---
 title: "Dierenartspraktijk automatiseren: meer tijd voor je patiënten"
+seoTitle: "Dierenartspraktijk automatiseren"
 excerpt: "Dierenartsen besteden te veel tijd aan telefoon en administratie. Ontdek hoe automatisering je praktijk efficiënter maakt."
 date: "2026-04-06"
 cluster: "automatisering"

@@ -1,6 +1,7 @@
 ---
 title: "Klanttevredenheid als dierenarts: meten, begrijpen en verbeteren"
-excerpt: "Ontdek hoe je als dierenarts de tevredenheid van baasjes meet en structureel verbetert."
+seoTitle: "Klanttevredenheid als dierenarts"
+excerpt: "Ontdek hoe je als dierenarts de tevredenheid van baasjes meet en structureel verbetert. Met concrete meetpunten en een praktisch verbeterplan."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-dierenarts-meten-verbeteren.jpg"

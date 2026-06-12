@@ -1,8 +1,9 @@
 ---
 title: "Seizoensmarketing als dierenarts: teken, vlooien en vaccinaties als kans"
+seoTitle: "Seizoensmarketing als dierenarts"
 slug: "seizoensmarketing-dierenarts-voorjaar"
 date: "2026-03-22"
-excerpt: "Elk seizoen brengt andere gezondheidsvragen voor huisdieren. Ontdek hoe je als dierenarts inspeelt op seizoenstrends en je praktijk het hele jaar door laat groeien."
+excerpt: "Elk seizoen brengt andere gezondheidsvragen voor huisdieren. Zo speel je als dierenarts in op seizoenstrends en groeit je praktijk het hele jaar."
 image: "/images/blog/seizoensmarketing-dierenarts-voorjaar.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

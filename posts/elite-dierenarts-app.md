@@ -1,5 +1,6 @@
 ---
 title: "De Elite Praktijk App: Geef cliënten hun eigen \"Dierenarts in de Broekzak\""
+seoTitle: "De Elite Praktijk App"
 excerpt: "Onderscheid jezelf van de concurrentie. Met de Client App in het Elite plan hebben jouw cliënten hun dossier, afspraken en paspoort altijd bij de hand."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"

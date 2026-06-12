@@ -1,6 +1,6 @@
 ---
 title: "Werkdruk bij de dierenartsassistente verlagen in 2026"
-excerpt: "60 procent van de dierenartsassistentes ervaart structureel te hoge werkdruk. Hier lees je welke specifieke taken je in 2026 kunt wegautomatiseren zonder aan zorgkwaliteit in te leveren."
+excerpt: "60 procent van de dierenartsassistentes ervaart te hoge werkdruk. Deze taken kun je in 2026 wegautomatiseren zonder aan zorgkwaliteit in te leveren."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkdruk-dierenartsassistente-verlagen-2026.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als dierenarts: expertise die baasjes bewust kiezen"
+seoTitle: "Specialiseren als dierenarts"
 excerpt: "Generalisten verdrinken in de concurrentie. Ontdek hoe specialisatie als dierenarts je praktijk laat groeien en baasjes bewust voor jou kiezen."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
