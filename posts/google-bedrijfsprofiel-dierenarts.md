@@ -89,4 +89,4 @@ Stel Google Alerts in op je praktijknaam om te monitoren wat er online over je g
 
 Je Google Bedrijfsprofiel is de eerste indruk die de meeste baasjes van je praktijk krijgen. Een volledig, actief en goed beoordeeld profiel trekt meer patiënten, bouwt vertrouwen, en kost je niets. Begin vandaag met het claimen en optimaliseren van je profiel — de eerste resultaten zul je binnen weken zien.
 
-Wil je hulp bij het versterken van je online aanwezigheid als dierenarts? Bekijk wat [DierenartsAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het versterken van je online aanwezigheid als dierenarts? Bekijk wat [DierenartsAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

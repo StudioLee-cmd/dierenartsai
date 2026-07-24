@@ -81,7 +81,7 @@ Nee. Film alleen met toestemming van de eigenaar, laat de video vooraf zien en d
 
 ## Begin deze week nog
 
-Kies één format, film het deze week en zet het online. Meer is de eerste stap niet. Wil je weten hoe je praktijk er nu online voorstaat, van Instagram tot Google, vraag dan de [gratis ai scan voor dierenartsen](/gratis-scan) aan. We kijken mee, jij krijgt een concreet actieplan, en met onze Groei-of-Geld-Terug Garantie loop je geen risico. Liever direct overleggen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Kies één format, film het deze week en zet het online. Meer is de eerste stap niet. Wil je weten hoe je praktijk er nu online voorstaat, van Instagram tot Google, vraag dan de [gratis ai scan voor dierenartsen](/gratis-scan) aan. We kijken mee, jij krijgt een concreet actieplan, en met onze Groei-of-Geld-Terug Garantie loop je geen risico. Liever direct overleggen? [Plan een gratis gesprek](https://cal.com/studiolee).
 
 Jij zorgt voor de dieren, wij regelen de rest.
 

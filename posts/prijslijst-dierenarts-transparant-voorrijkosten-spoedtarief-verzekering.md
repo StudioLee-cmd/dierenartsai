@@ -96,4 +96,4 @@ Bij DierenartsenAI geloven we dat transparante prijscommunicatie de basis is van
 - Een set van vier belscripts in jouw branding voor receptie + dierenartsen, gekoppeld aan WhatsApp-templates voor opvolging
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
