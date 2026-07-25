@@ -89,6 +89,8 @@ Uitbesteden is effectiever — een SEO-specialist weet welke onderwerpen het mee
 
 Met een managed service kost het vanaf €150 per maand. Vergelijk dat met de waarde van 2-3 extra klanten per maand die via Google binnenkomen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stad-landingspaginas-dierenarts" class="text-dark fw-semibold">Lokale landingspagina per stad voor dierenartsen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Lokale SEO is de meest rendabele manier om als dierenarts nieuwe baasjes te bereiken. Het begint met een goed onderhouden Google Bedrijfsprofiel, een geoptimaliseerde website en een constante stroom reviews. Wie er als eerste mee begint, plukt er als eerste de vruchten van.
