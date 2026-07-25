@@ -7,7 +7,6 @@ image: "/images/blog/online-zichtbaarheid-dierenarts-vergroten.jpg"
 tags: ["Vindbaarheid", "Online marketing", "Groei"]
 cluster: "vindbaarheid"
 ---
-
 ## Hoe diereneigenaren een dierenarts zoeken in 2026
 
 Het zoekgedrag van diereneigenaren is veranderd. Waar ze vroeger de huisdierenwinkel of buren om een aanbeveling vroegen, openen ze nu Google. "Dierenarts in de buurt", "spoeddierenarts [plaatsnaam]" of zelfs "mijn hond eet niet meer" — en Google stuurt ze naar de praktijk die het beste vindbaar is.
@@ -71,7 +70,7 @@ Dit is een groeiend kanaal. Praktijken die nu investeren in informatieve content
 
 ## Reviews als zichtbaarheidsfactor
 
-Reviews beïnvloeden niet alleen het vertrouwen van potentiële patiënten, maar ook je positie in de zoekresultaten. Google geeft profielen met meer en betere reviews een hogere ranking.
+Reviews beïnvloeden niet alleen het vertrouwen van potentiële patiënten, maar ook je positie in de [zoekresultaten](/seo). Google geeft profielen met meer en betere reviews een hogere ranking.
 
 Een effectieve reviewstrategie:
 
