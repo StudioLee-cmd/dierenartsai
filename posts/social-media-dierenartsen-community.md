@@ -8,10 +8,9 @@ image: "/images/blog/social-media-dierenartsen-community.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor dierenartsen
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke dierenarts die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke dierenarts die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Dierenfoto's zijn goud op Insta
 
 ## Vertrouwen opbouwen via educatieve content
 
-Voor dierenartsen geldt: vertrouwen is alles. Patiënten kiezen de dierenarts die ze kennen en vertrouwen. Social media is de perfecte plek om dat vertrouwen op te bouwen — door kennis te delen, je team te laten zien en bereikbaar te zijn.
+Voor dierenartsen geldt: vertrouwen is alles. Patiënten kiezen de dierenarts die ze kennen en vertrouwen. [Social media](/blog/patientfotos-social-media-avg-dierenarts) is de perfecte plek om dat vertrouwen op te bouwen — door kennis te delen, je team te laten zien en bereikbaar te zijn.
 
 Educatieve content presteert het best. Leg veelvoorkomende klachten uit in eenvoudige taal. Beantwoord vragen die patiënten googelen. Wees de autoriteit in je vakgebied.
 
@@ -110,7 +109,7 @@ Je hoeft niet alles tegelijk te doen. Begin klein en bouw op:
 
 ## Conclusie
 
-Social media is geen luxe meer voor dierenartsen — het is een noodzaak. De dierenarts die vandaag investeert in online zichtbaarheid, plukt daar morgen de vruchten van. En met AI-tools is het eenvoudiger dan ooit om professioneel aanwezig te zijn zonder er uren per dag aan te besteden.
+Social media is geen luxe meer voor dierenartsen — het is een noodzaak. De dierenarts die vandaag investeert in [online zichtbaarheid](/blog/online-zichtbaarheid-dierenarts-vergroten), plukt daar morgen de vruchten van. En met AI-tools is het eenvoudiger dan ooit om professioneel aanwezig te zijn zonder er uren per dag aan te besteden.
 
 Met DierenartsAI krijg je een complete online marketingoplossing — inclusief social media ondersteuning. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
