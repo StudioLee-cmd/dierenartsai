@@ -7,7 +7,6 @@ image: "/images/blog/tarieven-dierenarts-vertrouwen-transparantie.jpg"
 cluster: "website"
 tags: ["Prijzen Communiceren", "Klantcommunicatie", "Dierenarts Operaties"]
 ---
-
 Een eigenaar brengt zijn 8-jarige hond binnen voor een controle. Tijdens het bezoek wordt een verdachte bult ontdekt. De dierenarts adviseert een biopsie en een follow-up. De rekening van die dag bedraagt 290 euro. De eigenaar betaalt zonder klagen, maar belt twee dagen later met een fervente klacht: "Ik wist niet dat het zo veel zou kosten." De dierenarts heeft niets fout gedaan, alleen de prijzen niet vooraf gecommuniceerd. Nu staat er een 1-ster review op Google en zijn de eigenaar en zijn hond niet meer terug.
 
 Voor een dierenartspraktijk is prijscommunicatie een van de meest gevoelige aspecten van klantrelatie. Te transparant en je voelt commercieel. Te vaag en je krijgt klachten achteraf. Dit artikel laat zien hoe je tarieven communiceert op een manier die vertrouwen versterkt in plaats van verzwakt, met voorbeelden van taal, plaatsing op de website en hoe je gesprekken in de spreekkamer voert.
@@ -170,6 +169,8 @@ Hoge transparantie. "Spoedconsult buiten kantooruren is €175-€225, plus even
 ### Hoe vaak moeten we de prijzen-pagina updaten?
 
 Eens per jaar reviewen, of bij elke significante prijswijziging. Buiten dat: laat de pagina staan voor consistentie.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dierenartspraktijk-website-laten-maken" class="text-dark fw-semibold">Dierenartspraktijk website laten maken: meer afspraken via je site</a> →</p></div></div></div>
 
 ## Klaar om prijs-discussies te voorkomen?
 
