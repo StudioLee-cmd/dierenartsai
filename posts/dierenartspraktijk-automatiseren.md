@@ -51,7 +51,7 @@ Huisdiereigenaren zijn loyaal, mits ze tevreden zijn. Na drie positieve ervaring
 2. Een ziektebezoek: werd het dier goed behandeld? Was de communicatie duidelijk?
 3. Een controle of follow-up: werd er proactief contact opgenomen? Voelde het als persoonlijke aandacht?
 
-Automatisering versterkt elk contactmoment: makkelijk boeken, duidelijke communicatie, proactieve herinneringen.
+[Automatisering](/blog/multi-channel-vaccinatie-herinneringen-dierenarts) versterkt elk contactmoment: makkelijk boeken, duidelijke communicatie, proactieve herinneringen.
 
 ## Personeelstekort in de veterinaire sector
 
@@ -64,6 +64,8 @@ De sector kampt met een tekort aan dierenartsen en paraveterinair personeel. Aut
 - Kortere consulten door digitale intake
 - Hogere compliance bij vaccinatieschema's
 - Minder stress voor het team
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-dierenartsen-helpt" class="text-dark fw-semibold">Hoe AI Dierenartsen Helpt Bij Het Besparen Van Tijd (En Waarom Grote Klinieken Al Om Zijn)</a> →</p></div></div></div>
 
 ## Eerste stappen
 
