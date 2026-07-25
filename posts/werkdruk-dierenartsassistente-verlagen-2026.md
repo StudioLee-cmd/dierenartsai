@@ -7,7 +7,6 @@ image: "/images/blog/werkdruk-dierenartsassistente-verlagen-2026.jpg"
 tags: ["Werkdruk", "Praktijkmanagement", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Volgens de meest recente Veterinary Workload Study van RCVS (2023) ervaart 60 procent van de dierenartspraktijkmedewerkers structureel te hoge werkdruk. In Nederland klopt dit met wat praktijkmanagers ons vertellen: een gemiddelde drie-artsen-praktijk draait met twee of drie assistentes die elk 6 tot 8 uur per dag kwalitatief werk moeten leveren, maar in de praktijk 4 tot 6 uur daarvan aan de telefoon en administratie zitten. Het probleem is niet de hoeveelheid werk. Het probleem is de samenstelling: zonder de repetitieve admintaken houdt elke assistent 2 tot 4 uur per dag over voor triage, persoonlijke zorg en ondersteuning van de arts.
 
 Dit artikel benoemt concreet welke taken in 2026 weg kunnen uit het assistent-takenpakket zonder aan zorg in te leveren, waarom dit geen "koud-automatiseren" is maar juist ruimte maakt voor het werk waar assistentes hun opleiding voor hebben, en wat de drie meest effectieve ingrepen zijn in volgorde van impact.
@@ -23,7 +22,7 @@ In de dagplanning van een typische dierenartsassistente zien we deze terugkerend
 - **Routebeschrijving en praktische info** (parkeren, huisregels, transportbox): 15 tot 20 minuten per dag
 - **Uitslagen opvragen voor klanten** die inmiddels beschikbaar en vrijgegeven zijn: 20 tot 30 minuten per dag
 
-Samen is dat vaak 3 tot 4 uur puur administratief telefoonwerk per dag per assistent. Vermenigvuldig dat met twee of drie assistentes en een praktijk verliest tussen de 30 en 60 uur per week aan werk dat niet-kerntaak is. Dat is het equivalent van een volledige werkweek van een extra assistente, maar dan verspreid over iedereen die geen tijd meer heeft voor waar ze écht goed in zijn.
+Samen is dat vaak 3 tot 4 uur puur administratief telefoonwerk per dag per assistent. Vermenigvuldig dat met twee of drie assistentes en een praktijk verliest tussen de 30 en 60 uur per week aan werk dat niet-kerntaak is. Dat is het equivalent van een volledige werkweek van een [extra assistente](/blog/dierenartsai-vs-personeel), maar dan verspreid over iedereen die geen tijd meer heeft voor waar ze écht goed in zijn.
 
 ## Waarom digitalisering dit niet oplost zonder kaders
 
