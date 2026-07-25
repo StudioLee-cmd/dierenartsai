@@ -8,14 +8,13 @@ image: "/images/blog/klanttevredenheid-dierenarts-meten-verbeteren.jpg"
 tags: ["Klanttevredenheid", "Service", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom klanttevredenheid telt voor dierenartsen
 
 Diereneigenaren zijn emotioneel betrokken bij de zorg voor hun huisdier. Een bezoek aan de dierenarts is vaak spannend — zowel voor het dier als voor het baasje. Hoe jij als dierenarts met die emotie omgaat, bepaalt of klanten terugkomen en je aanbevelen.
 
 Klanttevredenheid is voor dierenartspraktijken niet alleen een kwestie van goede zorg. Het gaat ook om communicatie, bereikbaarheid, wachttijden en de algehele beleving. Een klant die medisch goed geholpen is maar een uur heeft moeten wachten zonder uitleg, is niet per se tevreden.
 
-Investeren in klanttevredenheid levert direct resultaat op: meer terugkerende klanten, meer doorverwijzingen en betere online reviews. En dat is precies wat een praktijk nodig heeft om te groeien.
+Investeren in klanttevredenheid levert direct resultaat op: meer terugkerende klanten, meer doorverwijzingen en betere [online reviews](/reviews). En dat is precies wat een praktijk nodig heeft om te groeien.
 
 ## Hoe meet je tevredenheid
 
@@ -63,6 +62,8 @@ Een tevreden klant komt terug. Maar een enthousiaste klant vertelt het door. Het
 - Een telefoontje na een spannende behandeling
 
 Deze acties kosten bijna niets maar maken een enorm verschil. Ze laten zien dat je oprecht geeft om het dier en het baasje. En dat is precies waardoor mensen jou aanbevelen bij vrienden en familie.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/post-operatieve-communicatie-dierenarts-baasjes" class="text-dark fw-semibold">Post-operatieve communicatie als dierenarts</a> →</p></div></div></div>
 
 ## Klanttevredenheid als groeistrategie
 
