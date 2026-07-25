@@ -77,6 +77,8 @@ Nooit medische details delen in openbare reacties.
 
 Met een consistent systeem: 5 tot 10 nieuwe reviews per maand. Na 3 maanden sta je er met 15 tot 30 reviews al bovenuit in de meeste regio's.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-dierenarts" class="text-dark fw-semibold">Review-respons automatiseren als dierenarts met AI</a> →</p></div></div></div>
+
 ## Beginnen
 
 Start vandaag met één ding: een automatische SMS na elk routineconsult. Eenvoudig, effectief, en het kost je geen extra tijd.
