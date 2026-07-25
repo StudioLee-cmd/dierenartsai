@@ -8,7 +8,6 @@ image: "/images/blog/patientcommunicatie-dierenarts-5-contactmomenten.jpg"
 tags: ["Patiëntcommunicatie", "Klantbinding", "Dierenarts"]
 cluster: "automatisering"
 ---
-
 Een baasje komt met Luna, de kat, voor een vaccinatie. Korte controle, prikje, afrekenen, tot volgend jaar. Zo werkt het bij de meeste dierenartspraktijken. En zo verliezen ze langzaam klanten aan concurrenten die communicatief beter zijn. Baasjes onthouden niet je vakinhoud — ze onthouden of ze zich gezien voelen.
 
 De goede kans: goede patiëntcommunicatie is geen extra tijd in de spreekkamer, het is slimmere communicatie rond de afspraak. Dit artikel geeft de 5 contactmomenten die het verschil maken tussen een praktijk die baasjes 1x per jaar ziet en een praktijk die ze 4-6x per jaar spreekt — zonder extra werk voor de assistente.
@@ -129,6 +128,8 @@ Praktisch stappenplan:
 4. **Deze maand**: automatiseer alles vanaf nu.
 
 Wil je weten wat dit voor jouw praktijk specifiek kan betekenen qua klantbinding en werkdruk-verlaging? Vraag een [gratis AI-scan aan](/gratis-scan), we analyseren je huidige communicatie-flow en bouwen het 5-momenten-systeem voor je in. Ook goed om te weten: veel praktijken combineren dit met een [AI-chatbot op de website](/chatbot) om eerste intake-vragen af te handelen terwijl de assistente zich richt op persoonlijk contact.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nazorg-dierenarts-na-behandeling" class="text-dark fw-semibold">Nazorg na behandeling bij de dierenarts: zo bouw je een band met baasjes</a> →</p></div></div></div>
 
 ## Wat je er over een jaar van terugziet
 
