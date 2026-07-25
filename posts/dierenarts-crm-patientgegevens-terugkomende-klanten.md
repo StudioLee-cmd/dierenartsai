@@ -49,7 +49,7 @@ Dieren met chronische aandoeningen (diabetes, artrose, schildklierproblemen, epi
 
 ## Veld 4: preventieve-zorg history en gaps
 
-Preventieve zorg is de grootste groei-categorie voor een dierenartsenpraktijk, en tegelijk de meest onderbenutte. Gezonde dieren krijgen van baasjes zelden spontaan een "preventieve tandcheck"-verzoek. Een CRM dat bijhoudt wat er wél en wat er nog niet is gebeurd, maakt proactieve aanbevelingen mogelijk.
+[Preventieve zorg](/blog/wormcyclus-jaarrooster-voor-hondenbaasjes) is de grootste groei-categorie voor een dierenartsenpraktijk, en tegelijk de meest onderbenutte. Gezonde dieren krijgen van baasjes zelden spontaan een "preventieve tandcheck"-verzoek. Een CRM dat bijhoudt wat er wél en wat er nog niet is gebeurd, maakt proactieve aanbevelingen mogelijk.
 
 **Wat je vastlegt per dier:** tandheelkundige check (laatste datum), vlooienbehandeling-cyclus, wormenkuur-schema, sterilisatie-status, voedingsadvies-consult, gedrag-screening (voor puppy's en kittens), oogontsteking-check (voor bepaalde rassen).
 
@@ -94,6 +94,8 @@ De zeven velden zelf zijn simpel. Het inrichten in een systeem dat automatische 
 Uitgangspunt: een middelgrote dierenartsenpraktijk met 1.200 actieve baasjes. Gemiddelde omzet per baasje per jaar: €280 (bij 1,8 consulten x €155).
 
 Met de zeven-velden CRM en automatische flows: gemiddelde consulten per jaar stijgt naar 2,8, gemiddelde omzet per baasje stijgt naar €450. Op 1.200 baasjes is dat €204.000 extra omzet per jaar, zonder dat je één extra baasje hoeft aan te trekken. Dat is het soort ROI waarom structureel CRM-werk geen "leuk-om-te-doen" is maar de sterkste operationele groei-hefboom voor een dierenartsenpraktijk.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-dierenarts-meten-verbeteren" class="text-dark fw-semibold">Klanttevredenheid als dierenarts: meten, begrijpen en verbeteren</a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 
