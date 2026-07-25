@@ -9,7 +9,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Prijzen Communiceren", "Tarieven", "Klantcommunicatie", "Dierenarts Operaties"]
 cluster: "website"
 ---
-
 **In het kort:**
 - 60% van de Nederlandse dierenartspraktijken publiceert geen prijslijst online, terwijl Google Trends laat zien dat de zoekterm "prijslijst dierenarts" en "wat kost een dierenarts" jaarlijks groeien sinds 2022. Baasjes vergelijken vooraf, en een onzichtbare prijslijst kost je leads aan praktijken die wel transparant zijn.
 - Drie kostenposten leveren bij dierenartsen de meeste klant-discussies op: voorrijkosten bij visite-aan-huis, spoedtarief buiten kantooruren en de declaratie-flow richting een huisdier-verzekering. Deze categorieën onhandig communiceren leidt tot 1-ster reviews die je vindbaarheid slopen.
@@ -84,6 +83,8 @@ Een vast belscript per gesprekstype helpt enorm. Vier scripts die elke praktijk 
 Deze vier scripts in een centraal handboek voor receptie + dierenartsen verlaagt klant-discussies achteraf met een groot percentage. Een [chatbot voor dierenartsen](/chatbot) op je website kan deze prijsvragen 24/7 beantwoorden buiten kantoortijden, zonder dat een baasje hoeft te bellen.
 
 [Lees ook: Tarieven communiceren als dierenarts: vertrouwen en empathie in prijsgesprekken](/blog/tarieven-dierenarts-vertrouwen-transparantie)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-dierenarts-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 
