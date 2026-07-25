@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Klantcontact", "Automatisering"]
 cluster: "voice-ai"
 ---
-
 Een goede balie-medewerker in een dierenartspraktijk weet het verschil tussen een belletje voor een jaarlijkse vaccinatie en een belletje van een paniekerige eigenaar wiens kat een uur geleden iets giftigs heeft binnengekregen. Bij de eerste vraagt ze de naam, het ras en welke datum past. Bij de tweede onderbreekt ze direct, vraagt of het dier nog ademt en haalt er meteen een dierenarts bij. Hetzelfde telefoonnummer, twee compleet verschillende gesprekken.
 
 Voice AI doet het eerste uitstekend. Het tweede niet. En het verschil tussen een dierenartspraktijk waar Voice AI werkt en een waar het klachten oplevert, zit in hoe scherp je die scheiding trekt. Niet door minder te automatiseren, wel door slimmer te automatiseren.
@@ -92,6 +91,8 @@ Voor wie deze stappen niet zelf wil zetten en gewoon wil dat er over een maand e
 Voor een dierenartspraktijk gaat dit niet over een chatbot kopen, dit gaat over een receptie-laag herinrichten die telefonisch contact slimmer maakt. Dat doen wij voor een vaste maandprijs (vanaf €79), inclusief de inrichting, het meeluisteren in de hybride fase, en doorlopende fine-tuning op basis van wat we in de logs zien. Plus de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Pro, dus als de doorlooptijd op routine-calls na drie maanden niet meetbaar omlaag is gegaan, krijg je het geld terug.
 
 Wat we niet doen: beloven dat de AI alles aankan. Wel: zorgen dat de scheiding tussen "AI" en "mens" zo scherp en onmerkbaar voor de baasjes is ingericht dat klanttevredenheid omhoog gaat, niet omlaag. Plan een [gratis ai scan voor dierenartsen](/gratis-scan) als startpunt, dan brengen we jouw call-mix in kaart en zien we waar de eerste winst zit.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefonist-eerste-30-dagen-meten-dierenarts" class="text-dark fw-semibold">AI-telefonist live: wat je de eerste 30 dagen meet</a> →</p></div></div></div>
 
 ## Terug naar de balie
 
