@@ -8,10 +8,9 @@ image: "/images/blog/meer-reviews-voor-dierenartsen.png"
 tags: ["Marketing", "Reviews", "Vertrouwen"]
 cluster: "reviews"
 ---
-
 Als je zelf een nieuwe arts of specialist zoekt, wat doe je dan? Je checkt de reviews. Voor huisdiereigenaren is dat niet anders. Hun dier is hun 'kind'. Ze willen de beste zorg. Heeft een kliniek 3,4 sterren? Dan rijden ze door. Heeft hij 4,9 sterren met 200 reviews en lieve verhalen? Dan bellen ze jou.
 
-Voor jouw kliniek zijn Google Reviews de levensader voor nieuwe instroom. Maar hoe kom je aan die reviews zonder te "bedelen" na een consult?
+Voor jouw kliniek zijn [Google Reviews](/reviews) de levensader voor nieuwe instroom. Maar hoe kom je aan die reviews zonder te "bedelen" na een consult?
 
 ## Het Probleem: De "Vergeet-Factor" en Emotie
 
@@ -33,6 +32,8 @@ Eén ontevreden cliënt kan je gemiddelde flink omlaag halen. Wij gebruiken een 
 - **Is de klant niet blij? (1-3 sterren)** -> Er opent een privé feedback formulier dat **rechtstreeks naar de praktijkmanager** gaat. "Vertel ons wat er mis ging."
 
 Zo vang je klachten af vòòrdat ze online komen, en kun je het netjes oplossen. Je online reputatie blijft smetteloos.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dierenarts-reviews-vragen-na-bezoek" class="text-dark fw-semibold">Reviews vragen aan baasjes na een dierenartsbezoek: zo doe je het goed</a> →</p></div></div></div>
 
 ## Het Resultaat: Lokale Dominantie
 
