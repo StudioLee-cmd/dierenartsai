@@ -54,6 +54,8 @@ Houd een maand bij hoeveel afspraken niet doorgaan. De meeste praktijken schatte
 
 Weet je het percentage, dan kun je de financiële impact berekenen en bepalen hoeveel je kunt investeren in preventie.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-dierenartspraktijk-tips" class="text-dark fw-semibold">Leads opvolgen als dierenarts: meer afspraken uit aanvragen</a> →</p></div></div></div>
+
 ## Elke gemiste afspraak is een dier dat niet geholpen wordt
 
 No-shows zijn niet alleen een financieel probleem. Het is ook een zorgprobleem. Een dier dat niet op controle komt, mist mogelijk een diagnose. Een eigenaar die vergeet te komen, stelt noodzakelijke zorg uit.
