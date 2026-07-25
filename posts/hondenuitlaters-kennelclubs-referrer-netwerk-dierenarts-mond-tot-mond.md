@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Mond-tot-mond", "Referrer Netwerk", "Doorverwijzingen", "B2B", "Dierenarts"]
 cluster: "branding"
 ---
-
 **In het kort:**
 - 35 tot 50% van de nieuwe klanten in een gevestigde Nederlandse dierenartspraktijk komt via mond-tot-mond, maar het overgrote deel daarvan loopt via consumenten (tevreden baasjes). Een tweede laag die door de meeste praktijken onbenut blijft: het B2B-referrer-netwerk van hondenuitlaters, kennelclubs, dog-walkers, gedragstherapeuten en dierenpensions.
 - Een goed onderhouden netwerk van 8 a 12 actieve referrers in jouw regio levert tussen 25 en 60 nieuwe patient-introducties per jaar, tegen vrijwel nul euro acquisitie-kost. Per nieuwe patient gemiddeld €450 lifetime value, oftewel €11.000 tot €27.000 onbetaalde groei-omzet.
@@ -98,6 +97,8 @@ Drie eenvoudige fixes:
 Een [chatbot voor dierenartsen](/chatbot) op je website kan de "hoe heeft u over ons gehoord"-vraag bij online-boekingen automatisch stellen en de bron in je CRM registreren.
 
 [Lees ook: Mond-tot-mondreclame als dierenarts: van tevreden baasje naar nieuwe klant](/blog/mond-tot-mondreclame-dierenarts)
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lokale-dierenartspraktijken-benchmarken-6-datapunten-concurrentieanalyse" class="text-dark fw-semibold">Lokale dierenartspraktijken benchmarken in 30 minuten</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 
