@@ -54,7 +54,7 @@ Stuur nooit een reviewverzoek na euthanasie. Als een baasje uit zichzelf een rev
 
 ### Tellen reviews op Dierenarts.nl mee?
 
-Ze helpen voor je profiel op dat platform, maar Google Reviews zijn het belangrijkst voor vindbaarheid. Focus daarop.
+Ze helpen voor je profiel op dat platform, maar [Google Reviews](/blog/reviews-dierenarts-google-verzamelen) zijn het belangrijkst voor vindbaarheid. Focus daarop.
 
 ## Conclusie
 
