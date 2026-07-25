@@ -73,6 +73,8 @@ Voor een praktijk met 5 tot 15 operaties per week levert deze flow een aantoonba
 
 Wij bouwen deze complete post-operatieve communicatie-flow voor dierenartspraktijken in onze managed service. Van de WhatsApp-inbox-setup tot de templates, de automatische triggers uit je agenda, en het meten van de KPI's. Meer over [tarieven](/tarieven) en implementatietraject voor klinieken die dit volledig willen outsourcen. Of vraag een [gratis scan](/gratis-scan) aan waarin we bestaande klantreizen analyseren en specifieke verbeterpunten voor jouw praktijk identificeren.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dierenarts-crm-patientgegevens-terugkomende-klanten" class="text-dark fw-semibold">Dierenarts CRM: welke patiëntgegevens bepalen loyaliteit</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als na drie maanden de onzekerheidstelefoontjes niet meetbaar zijn verminderd en de reviewpositiviteit niet is gestegen, krijg je je investering terug. Jij geneest de dieren, wij zorgen dat de baasjes zich daarover voelen zoals het hoort.
