@@ -62,6 +62,8 @@ Een [chatbot op je website](/chatbot) kan eigenaren helpen inschatten of het een
 
 Dit vermindert het aantal onnodige spoedoproepen met 30 tot 50 procent, zonder dat je eigenaren het gevoel geeft dat ze worden afgewimpeld.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bereikbaarheid-dierenarts" class="text-dark fw-semibold">Bereikbaarheid als dierenarts: geen spoedoproep missen</a> →</p></div></div></div>
+
 ## Spoedparaatheid bepaalt je reputatie
 
 Diereneigenaren onthouden twee momenten: de eerste keer dat ze met hun huisdier bij je kwamen, en de keer dat het een noodgeval was. Hoe je dat tweede moment afhandelt, bepaalt of ze voor altijd klant blijven of nooit meer terugkomen.
