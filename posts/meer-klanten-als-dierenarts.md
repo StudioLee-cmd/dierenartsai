@@ -8,7 +8,6 @@ image: "/images/blog/meer-klanten-als-dierenarts.png"
 tags: ["Dierenarts", "Klantwerving", "Marketing"]
 cluster: "automatisering"
 ---
-
 ## De uitdaging: meer klanten in een lokale markt
 
 Als dierenarts is je markt per definitie lokaal. Baasjes kiezen een dierenarts in de buurt — ze gaan niet 30 kilometer rijden met een zieke kat. Dat betekent dat je klantenbestand begrensd is door je verzorgingsgebied.
@@ -84,7 +83,7 @@ Deze artikelen ranken lokaal en trekken precies de baasjes aan die een dierenart
 
 Meer klanten als dierenarts begint bij online zichtbaarheid en eindigt bij uitstekende service. Met een geoptimaliseerd Google profiel, actieve reviews, lokale samenwerkingen en slimme communicatie bouw je een praktijk die elk jaar groeit.
 
-Met [DierenartsAI](/) automatiseren we je herinneringen, reviews en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [DierenartsAI](/) automatiseren we je herinneringen, reviews en [klantcommunicatie](/automatisering). Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer baasjes naar je praktijk trekt.
 
