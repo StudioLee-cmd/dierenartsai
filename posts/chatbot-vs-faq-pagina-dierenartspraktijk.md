@@ -8,7 +8,6 @@ image: "/images/blog/chatbot-vs-faq-pagina-dierenartspraktijk.jpg"
 tags: ["AI", "Chatbot", "Dierenarts"]
 cluster: "chatbot"
 ---
-
 Het is kwart over negen 's avonds. Een baasje ontdekt dat de hond iets heeft opgegeten wat niet de bedoeling was, en jouw praktijk is allang dicht. In paniek belandt hij op je website. Wat hij daar tegenkomt, bepaalt of hij morgen bij jóu op de stoep staat of bij de praktijk twee straten verderop.
 
 Op dat moment doen je twee belangrijkste website-onderdelen hun werk: een FAQ-pagina of een chatbot. Ze lijken op elkaar, want allebei beantwoorden ze vragen. Maar ze doen iets fundamenteel anders, en dat verschil bepaalt hoeveel aanvragen je praktijk binnenhaalt. In dit artikel zetten we ze nuchter naast elkaar, zodat je weet waar je je geld en aandacht het beste in steekt.
@@ -82,6 +81,8 @@ Dat hangt af van de inrichting. Een goed afgestelde chatbot is rustig, duidelijk
 
 ### Hoe snel staat een chatbot live?
 Doorgaans binnen enkele dagen. De meeste tijd zit niet in de techniek, maar in het verzamelen van je standaardantwoorden, en die staan vaak al grotendeels op je FAQ-pagina.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-trainen-dierenarts-4-bronnen" class="text-dark fw-semibold">AI-chatbot trainen op je dierenartspraktijk-data: 4 bronnen</a> →</p></div></div></div>
 
 ## Conclusie
 
