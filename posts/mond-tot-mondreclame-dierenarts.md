@@ -8,7 +8,6 @@ image: "/images/blog/mond-tot-mondreclame-dierenarts.png"
 tags: ["mond-tot-mond", "dierenarts", "doorverwijzingen"]
 cluster: "branding"
 ---
-
 Diereneigenaren praten. In het park, op sociale media, bij de hondenschool — de ervaringen met hun dierenarts worden gedeeld. Die gesprekken zijn je krachtigste marketingkanaal, want een aanbeveling van een ander baasje weegt zwaarder dan elke advertentie.
 
 ## Waarom mond-tot-mond zo effectief is
@@ -89,4 +88,4 @@ De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 
 ## Conclusie
 
-Mond-tot-mondreclame is het meest waardevolle marketingkanaal voor dierenartsen. Het kost niets, levert de beste klanten op en versterkt je reputatie. Focus op uitzonderlijke service, maak het makkelijk om te delen, en versterk het online. De combinatie van offline warmte en online zichtbaarheid is onverslaanbaar.
+Mond-tot-mondreclame is het meest waardevolle marketingkanaal voor dierenartsen. Het kost niets, levert de beste klanten op en versterkt je reputatie. Focus op uitzonderlijke service, maak het makkelijk om te delen, en versterk het online. De combinatie van offline warmte en [online zichtbaarheid](/social-media) is onverslaanbaar.
