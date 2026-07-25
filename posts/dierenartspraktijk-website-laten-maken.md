@@ -8,7 +8,6 @@ image: "/images/blog/dierenartspraktijk-website-laten-maken.jpg"
 tags: ["Website", "Marketing"]
 cluster: "website"
 ---
-
 Een professionele website is niet langer optioneel voor dierenartspraktijken. Steeds meer baasjes zoeken online naar een dierenarts — en als jouw praktijk niet gevonden wordt, gaan ze naar de concurrent.
 
 ## Waarom een website onmisbaar is voor dierenartsen
@@ -106,6 +105,8 @@ Social media is een mooie aanvulling, maar je website is de basis. Begin met een
 ### Hoe meet ik of mijn website resultaat oplevert?
 
 Gebruik Google Analytics (gratis) om te zien hoeveel bezoekers je site heeft en hoeveel daarvan een afspraak maken. De meeste websitebouwers helpen je hierbij.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dierenartsenwebsite-spoed-afspraak-specialisme-scheiden" class="text-dark fw-semibold">Dierenartsenwebsite: spoed, afspraak, specialisme</a> →</p></div></div></div>
 
 ## Conclusie
 
