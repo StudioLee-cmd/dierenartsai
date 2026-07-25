@@ -19,11 +19,11 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is eerlijk. Als hij een technische vraag over een reparatie of onderdeel niet weet, schakelt hij door naar jou of maakt een terugbelverzoek. Zo sta je je klant altijd professioneel te woord.",
+        answer: "De AI is eerlijk. Als hij een medische vraag niet kan beantwoorden, schakelt hij door naar de praktijk of maakt een terugbelverzoek. Zo staat een baasje altijd professioneel te woord.",
     },
     {
         question: "Is dit geschikt voor ZZP'ers?",
-        answer: "Juist voor ZZP'ers! Jij moet het werk doen én de telefoon aannemen. Met ReparatieAI heb je een volledige binnendienst voor een fractie van de prijs, zodat jij je kunt focussen op reparaties.",
+        answer: "Juist voor kleine praktijken! Jij moet de dieren behandelen én de telefoon aannemen. Met DierenartsenAI heb je een volledige assistentie voor een fractie van de prijs, zodat jij je kunt focussen op je patiënten.",
     },
     {
         question: "Kan ik het in het weekend uitzetten?",
