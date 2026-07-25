@@ -8,7 +8,6 @@ image: "/images/blog/specialiseren-dierenarts.png"
 tags: ["Specialisatie", "Dierenarts", "Groei"]
 cluster: "branding"
 ---
-
 De meeste dierenartspraktijken positioneren zich als generalist: ze behandelen alles, van hamsters tot honden, van vaccinaties tot spoedoperaties. Dat is begrijpelijk — je wilt geen patiënt weigeren. Maar in een markt waar baasjes steeds bewuster kiezen, kan specialisatie het verschil maken tussen een volle en een halfvolle agenda.
 
 Specialisatie betekent niet dat je stopt met reguliere zorg. Het betekent dat je ergens extra goed in bent én dat actief uitdraagt. In dit artikel lees je hoe specialisatie je praktijk laat groeien.
@@ -85,7 +84,7 @@ De marketing voor een specialisatie verschilt van reguliere dierenartsenmarketin
 
 ## De managed-service aanpak
 
-Geen tijd om naast je praktijk ook nog marketing te doen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. SEO, content, reviews, online zichtbaarheid — het wordt voor je geregeld.
+Geen tijd om naast je praktijk ook nog marketing te doen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. SEO, content, reviews, [online zichtbaarheid](/social-media) — het wordt voor je geregeld.
 
 De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. Het risico ligt 100% bij ons.
 
