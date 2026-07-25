@@ -7,7 +7,6 @@ image: "/images/blog/dierenartsenwebsite-afsprakenmachine.png"
 tags: ["Website", "Conversie", "Online boeken"]
 cluster: "website"
 ---
-
 ## Waarom online boeken de norm wordt
 
 Steeds meer dierenartspraktijken bieden online boeken aan — en de praktijken die dat niet doen, verliezen klanten. Baasjes verwachten in 2026 dat ze 's avonds op de bank een afspraak kunnen inplannen voor hun huisdier. Bellen tijdens kantooruren voelt ouderwets.
@@ -55,6 +54,8 @@ Meer dan 65% van de bezoekers van een dierenartsenwebsite komt via een smartphon
 - **Snelle laadtijd**: onder de 3 seconden
 
 Test je website op een iPhone en een Android-telefoon. Wat op desktop goed werkt, kan op mobiel onbruikbaar zijn.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijzen-op-dierenarts-website-wat-wel-en-niet" class="text-dark fw-semibold">Prijzen op dierenarts-website: wat wel en niet</a> →</p></div></div></div>
 
 ## Conclusie
 
