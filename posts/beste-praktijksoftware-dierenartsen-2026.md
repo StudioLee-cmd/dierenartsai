@@ -8,7 +8,6 @@ image: "/images/blog/beste-praktijksoftware-dierenartsen-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
-
 Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties en spoedgevallen door moet je ook nog je praktijk runnen: afspraken, dossiers, facturatie en marketing. Welke software helpt jou als dierenarts het meest in 2026?
 
 ## Wat zoekt een dierenarts in software?
@@ -61,6 +60,8 @@ Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties e
 | **AI-marketing** | ✗ | ✗ | ✓ |
 | **Voice AI-telefonist** | ✗ | ✗ | ✓ |
 | **Vaccinatieherinneringen** | ✓ | ✓ | ✓ |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/praktijksoftware-migreren-dierenarts" class="text-dark fw-semibold">Praktijksoftware migreren voor dierenartsen: 3 valkuilen</a> →</p></div></div></div>
 
 ## Conclusie
 
