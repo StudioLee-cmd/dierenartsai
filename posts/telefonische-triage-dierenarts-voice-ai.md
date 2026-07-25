@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "Klantcontact"]
 cluster: "voice-ai"
 ---
-
 "Voor spoed, toets 1." Het klinkt als een nette oplossing voor een drukke praktijk. Tot je bedenkt wie er aan de lijn zit. De eigenaar wiens hond net van de trap is gevallen en niet meer opstaat, toetst geen 1. Die praat al, hard en door elkaar, nog voordat het menu is uitgesproken. En de baasje die gewoon een vaccinatie wil inplannen maar geen zin heeft om in de wachtrij te staan? Die toetst wél 1, want spoed gaat voor. Het keuzemenu sorteert precies verkeerd: het laat de paniek in de wachtrij hangen en zet de routine vooraan.
 
 Dat is het probleem met de meeste telefonie-oplossingen voor dierenartspraktijken. Ze zijn gebouwd om gesprekken te verdélen, niet om ze te begrijpen. Een wachtrij, een keuzemenu, een piketnummer: het zijn buizen, geen triage. De echte triage gebeurt niet in het menu, maar in het gesprek. En dat is precies waar een [ai telefonist voor dierenartsen](/voice-ai) iets kan wat een toetsenmenu nooit kan: luisteren naar wat er gezegd wordt en daarop de juiste route kiezen.
@@ -66,6 +65,8 @@ Een [ai telefoonbeantwoorder voor dierenartsen](/voice-ai) vangt de oproep buite
 De winst zit op drie plekken. Je receptie raakt de stroom routine-vragen kwijt die nu de hele dag de lijn bezet houdt, en houdt tijd over voor de patiënt aan de balie en het gesprek dat aandacht vraagt. De kans dat een echte spoedmelding in de wachtrij blijft hangen, daalt naar bijna nul, want spoed is de standaardroute, geen menu-keuze. En de baasjes ervaren een praktijk die opneemt, doorvraagt en serieus neemt, ook om half acht 's avonds.
 
 Dat dat nodig is, blijkt uit de vraag zelf: op een term als "spoed dierenarts" wordt in Nederland honderden keren per maand gezocht, vaak op het moment dat iemand met een ziek dier niemand aan de lijn krijgt. Elke keer dat jouw praktijk dan wél opneemt en goed trieert, is dat een patiënt die binnen is in plaats van naar de volgende op de lijst.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-vs-voicemail-dierenarts" class="text-dark fw-semibold">Voice AI vs voicemail in de dierenartspraktijk</a> →</p></div></div></div>
 
 ## Zo richt je het in
 
