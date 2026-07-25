@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-dierenartsen.png"
 tags: ["Voice AI", "Innovatie", "Triage"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een dierenarts? Je staat met je handen in een operatie, of je bent net een infuus aan het aanleggen. Je concentratie is maximaal. En dan... gaat de telefoon. Je assistente is ook bezig. Je hoort hem rinkelen.
 
 Je weet dat het een spoedgeval kan zijn. Of gewoon iemand voor een zak voer. Die onzekerheid leidt af. En als je niet opneemt, bellen ze de volgende kliniek.
@@ -21,7 +20,7 @@ Jij blijft gefocust op de behandeling. Dat werkt niet alleen prettiger, het is v
 
 ## Voice AI: Je nieuwe assistente die nooit pauze heeft
 
-Onze Voice AI is geen krakend bandje. Dit is een geavanceerde AI (Sarah) die empathisch communiceert. Ze klinkt professioneel en rustig, belangrijk voor bezorgde eigenaren.
+Onze [Voice AI](/voice-ai) is geen krakend bandje. Dit is een geavanceerde AI (Sarah) die empathisch communiceert. Ze klinkt professioneel en rustig, belangrijk voor bezorgde eigenaren.
 
 ### Wat Sarah voor je doet:
 - **24/7 Triage:** Ook 's nachts of in het weekend. Belt iemand met "Mijn hond heeft chocolade gegeten"? Sarah herkent de urgentie en verbindt direct door naar de dienstdoende arts.
