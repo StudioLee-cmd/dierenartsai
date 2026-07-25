@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["branding", "dierenarts", "praktijk"]
 cluster: "branding"
 ---
-
 ## Waarom personal branding werkt voor dierenartsen
 
 Baasjes vertrouwen hun huisdier toe aan jou — dat is een emotionele beslissing, geen rationele. Ze kiezen niet de goedkoopste dierenarts, maar degene die ze vertrouwen. En vertrouwen begint met herkenning.
@@ -57,6 +56,6 @@ Het belangrijkste: wees authentiek. Baasjes voelen het als je een rol speelt.
 
 ## Aan de slag
 
-Personal branding voor dierenartsen begint bij je verhaal: wie ben je, wat doe je anders en waarom zouden baasjes jou moeten kiezen? Vertaal dat naar je website, je Google-profiel en je social media. Wees consistent, wees zichtbaar en wees jezelf.
+Personal branding voor dierenartsen begint bij je verhaal: wie ben je, wat doe je anders en waarom zouden baasjes jou moeten kiezen? Vertaal dat naar je website, je Google-profiel en je [social media](/social-media). Wees consistent, wees zichtbaar en wees jezelf.
 
 Wil je ontdekken hoe je praktijk online beter gevonden wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.
