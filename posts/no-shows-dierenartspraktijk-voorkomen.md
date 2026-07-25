@@ -43,6 +43,8 @@ Bij een groepspraktijk met drie dierenartsen en dezelfde no-show frequentie praa
 
 **Herinnering aan vaccinaties en controles.** Stuur proactief herinneringen voor jaarlijkse vaccinaties en controles. "Het is bijna een jaar geleden dat [diernaam] is gevaccineerd. Wilt u een afspraak maken?" Dit voorkomt dat eigenaren het vergeten en vermindert tegelijk de no-show kans omdat de afspraak vers in het geheugen zit.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-show-aanbetaling-dierenarts" class="text-dark fw-semibold">Aanbetaling vragen tegen no-shows als dierenarts</a> →</p></div></div></div>
+
 ## Begin met de simpelste stap
 
 Automatische herinneringen leveren het snelste resultaat. Start daar. Na een maand analyseer je de impact en voeg je het wachtlijstsysteem toe. De meeste praktijken zien binnen vier weken al een daling van 40 procent in no-shows.
