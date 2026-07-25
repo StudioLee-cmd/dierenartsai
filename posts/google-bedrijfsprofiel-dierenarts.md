@@ -8,7 +8,6 @@ image: "/images/blog/google-bedrijfsprofiel-dierenarts.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 Wanneer een hond ziek is of een kat niet eet, pakt het baasje de telefoon en googelt "dierenarts in de buurt." Wat ze dan zien is het Google Maps-blok: drie praktijken, hun openingstijden, reviews, en een bel-knop. In de meeste gevallen belt het baasje de eerste praktijk die betrouwbaar oogt en open is. Dat wil jij zijn.
 
 Je Google Bedrijfsprofiel is je digitale voordeur. In dit artikel lees je hoe je het optimaliseert zodat baasjes in jouw regio jouw praktijk als eerste vinden.
@@ -49,7 +48,7 @@ Vermijd foto's van medische ingrepen — dat schrikt af. Focus op de positieve k
 
 ## Stap 4: Reviews verzamelen en beheren
 
-Reviews zijn voor dierenartsen de belangrijkste rankingfactor én het belangrijkste vertrouwenssignaal. Een praktijk met 80 reviews en 4.7 sterren wint het altijd van een praktijk met 5 reviews en 5.0 sterren.
+[Reviews](/reviews) zijn voor dierenartsen de belangrijkste rankingfactor én het belangrijkste vertrouwenssignaal. Een praktijk met 80 reviews en 4.7 sterren wint het altijd van een praktijk met 5 reviews en 5.0 sterren.
 
 Het perfecte moment om een review te vragen is direct na een positief consult. Het baasje is opgelucht, het dier is geholpen, de emotie is positief. Stuur direct een WhatsApp-bericht: "Fijn dat het goed gaat met [diernaam]! Zou je een Google-review willen achterlaten? Dat helpt ons enorm." Plus een directe link.
 
