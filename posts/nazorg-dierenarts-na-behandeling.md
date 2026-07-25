@@ -50,6 +50,8 @@ Een [review management](/reviews) vangt automatisch vragen op en plant afspraken
 
 Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patientcommunicatie-dierenarts-5-contactmomenten" class="text-dark fw-semibold">Patiëntcommunicatie dierenarts: 5 contactmomenten die trouwe baasjes creëren</a> →</p></div></div></div>
+
 ## Conclusie
 
 Nazorg is het verschil tussen een dierenarts en hún dierenarts. Het kost je 30 seconden per patiënt als je het automatiseert, en het levert je loyalere cliënten, meer reviews en een praktijk waar baasjes graag terugkomen.
