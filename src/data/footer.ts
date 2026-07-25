@@ -45,7 +45,7 @@ export const footerDetails: {
         { text: "Gratis Website", url: "/gratis-website" },
         { text: "Blog", url: "/blog" },
     ],
-    email: 'tim@dierenarts.nl',
+    email: 'tim@dierenartsai.nl',
     telephone: '+31612345678',
     socials: {
         youtube: 'https://www.youtube.com/@DIGITAL.STUDIOLEE',
