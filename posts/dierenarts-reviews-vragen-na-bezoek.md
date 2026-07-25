@@ -132,6 +132,8 @@ Zodra je praktijk door de 50 reviews heen breekt:
 
 Het is een groei die zichzelf versterkt: meer reviews leiden naar meer zichtbaarheid, naar meer baasjes, naar meer reviews.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-na-behandeling-dierenarts" class="text-dark fw-semibold">Hoe je als dierenarts reviews verzamelt na elke behandeling</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:
