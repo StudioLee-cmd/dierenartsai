@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Benchmark", "Lokale Marketing", "Dierenarts Operaties"]
 cluster: "branding"
 ---
-
 **In het kort:**
 - 75% van de zelfstandige dierenartspraktijken in NL doet nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen veranderingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de patient-stroom kunnen verschuiven.
 - Een complete concurrentieanalyse van zes datapunten over de drie a vijf dichtstbijzijnde concurrenten kost 30 minuten en levert direct bruikbare beslissingen op: waar onderscheid je je nu, waar zit een gat in het lokale aanbod, welk segment is overbezet.
@@ -108,6 +107,8 @@ De analyse heeft pas waarde als je hem omzet in beslissingen. Drie typische acti
 **Bij gele/gelijke datapunten op alles:** je hebt een differentiatie-probleem. Geen reden om te concurreren op prijs (want concurrenten doen dat ook), wel reden om een sterke positionering rondom een specifiek voordeel uit te bouwen (snelle response, transparante communicatie, bepaalde niche).
 
 Lees ook: Telegeneeskunde voor dierenartsen aanbieden: extra omzet zonder extra spreekkamer
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hondenuitlaters-kennelclubs-referrer-netwerk-dierenarts-mond-tot-mond" class="text-dark fw-semibold">Mond-tot-mond als dierenarts: hondenuitlaters en kennelclubs</a> →</p></div></div></div>
 
 ## Wat StudioLee voor je inricht
 
