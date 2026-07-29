@@ -53,7 +53,7 @@ export const voiceDemos: VoiceDemoOpname[] = [
     {
         id: 'vraag-buiten-openingstijd',
         titel: 'Een vraag om half elf ’s avonds',
-        richting: 'Iemand vraagt 's avonds wat een castratie kost en of dat op dezelfde dag kan.',
+        richting: 'Iemand vraagt ’s avonds wat een castratie kost en of dat op dezelfde dag kan.',
         stem: 'Eva',
         src: null,
         duur: null,
