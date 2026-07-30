@@ -25,7 +25,7 @@ Het venster is kort maar krachtig. Het ideale moment verschilt per type behandel
 - **Na een controlebezoek met goed nieuws:** direct na het gesprek met de dierenarts.
 - **Na een noodgeval:** de dag erna, als de schrik gezakt is en de opluchting overheerst.
 
-Stuur het verzoek binnen twee uur na het bezoek. Het responspercentage ligt dan rond de 40 procent. Wacht je twee dagen, dan zakt het naar minder dan 10 procent.
+Stuur het verzoek binnen twee uur na het bezoek. Het responspercentage ligt dan het hoogst. Wacht je twee dagen, dan zakt het hard.
 
 ![Stethoscoop en smartphone op onderzoekstafel in dierenkliniek](/images/blog/review-na-behandeling-dierenarts-2.jpg)
 
