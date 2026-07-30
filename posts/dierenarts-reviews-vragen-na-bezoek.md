@@ -38,8 +38,8 @@ Het verschil is groot. Vragen op het verkeerde moment is niet alleen ineffectief
 
 Voor dierenartspraktijken werken twee kanalen het beste:
 
-1. **WhatsApp** — persoonlijk, direct, hoge openingsratio (95 procent). Werkt voor jongere baasjes en gezinnen.
-2. **E-mail** — formeler, geschikt voor oudere baasjes en officiele communicatie. Lagere openingsratio (40-60 procent voor goed geschreven mails).
+1. **WhatsApp** — persoonlijk, direct, hoge openingsratio. Werkt voor jongere baasjes en gezinnen.
+2. **E-mail** — formeler, geschikt voor oudere baasjes en officiele communicatie. Lagere openingsratio, ook bij goed geschreven mails.
 
 Een combinatie werkt vaak het beste: WhatsApp als hoofdkanaal, e-mail als backup voor oudere klanten of grotere praktijken.
 
@@ -79,7 +79,7 @@ Voor de meeste praktijken is de regel simpel: bij verdrietige bezoeken automatis
 
 Net als elk ander bedrijf kun je een directe link aanmaken vanuit je Google Bedrijfsprofiel. Klik op "Beoordelingen aanvragen" en kopieer de link. Sla 'm op in je telefoon of in je praktijksysteem.
 
-Gebruik altijd deze directe link in je verzoeken. Een link die meteen het reviewscherm opent verlaagt de drempel enorm. Zonder directe link verdwijnt 80 procent van de goede intenties.
+Gebruik altijd deze directe link in je verzoeken. Een link die meteen het reviewscherm opent verlaagt de drempel enorm. Zonder directe link verdwijnt het grootste deel van de goede intenties.
 
 ## Negatieve reviews professioneel afhandelen
 
@@ -111,7 +111,7 @@ De truc is om automatisering en menselijke aandacht te combineren. Hoe het werkt
 - Het bericht gebruikt de naam van het dier en de naam van het baasje
 - Het is niet generiek, het voelt persoonlijk
 
-Met een [review-pakket](/review-pakket) zetten wij dit voor je op, koppelen het aan je praktijksoftware, en zorgen dat de uitsluitingen goed werken. Praktijken die dit gebruiken zien gemiddeld een verdubbeling van hun reviews binnen vier maanden, zonder dat baasjes het als ongepast ervaren.
+Met een [review-pakket](/review-pakket) zetten wij dit voor je op, koppelen het aan je praktijksoftware, en zorgen dat de uitsluitingen goed werken. Praktijken die dit gebruiken zien hun reviewstroom binnen een paar maanden flink aantrekken, zonder dat baasjes het als ongepast ervaren.
 
 ## Wat je vermijdt
 
@@ -127,7 +127,7 @@ Zodra je praktijk door de 50 reviews heen breekt:
 
 - Je verschijnt vaker in de top drie van het Google kaartresultaat voor "dierenarts [stad]"
 - Nieuwe baasjes die online zoeken zien jou als vertrouwde optie
-- Conversie van profielbezoek naar inschrijving stijgt met 30 tot 50 procent
+- Conversie van profielbezoek naar inschrijving trekt merkbaar aan
 - Doorverwijzingen van andere praktijken nemen toe (collega's checken ook reviews)
 
 Het is een groei die zichzelf versterkt: meer reviews leiden naar meer zichtbaarheid, naar meer baasjes, naar meer reviews.
