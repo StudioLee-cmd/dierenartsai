@@ -12,22 +12,22 @@ cluster: "automatisering"
 **In het kort:**
 - Een wormcyclus-jaarrooster (4-tot-6 weekse cyclus voor pups, 3-maandelijks voor adults) maakt ontwormen voor de baas voorspelbaar en bespaart je praktijk 20-30 telefoonvragen per maand over "wanneer was het ook al weer". Een automatische trigger per individuele hond in je PMS (Animana, Vetera, ProDier) automatiseert de herinnering.
 - Voor reizende honden (vakantie naar Frankrijk, Italië, Portugal, Spanje, Griekenland, Hongarije) is hartworm-preventie 30-90 dagen voor vertrek en 30-90 dagen na terugkeer noodzakelijk. Deze planning hoort in een aparte "reis-protocol" sub-cyclus.
-- Een digitale uitnodiging-flow via WhatsApp + email + SMS (timing: 4 weken / 2 weken / 1 week vooraf) verhoogt opkomst-percentage van 60-65% naar 85-90%. De extra omzet per practice met 200 honden: €18.000-€24.000 per jaar.
-- Een [chatbot voor dierenartsen](/chatbot) die "wanneer moet mijn hond geworm worden" vragen 24/7 beantwoordt vangt 40-50% van de baas-vragen op zonder dat je personeel aan de telefoon gaat. Combineer met geautomatiseerde reminders via je [crm voor dierenartsen](/crm).
+- Een digitale uitnodiging-flow via WhatsApp + email + SMS (timing: 4 weken / 2 weken / 1 week vooraf) verhoogt het opkomst-percentage fors. Dat scheelt een praktijk met 200 honden een aanzienlijk bedrag per jaar.
+- Een [chatbot voor dierenartsen](/chatbot) die "wanneer moet mijn hond geworm worden" vragen 24/7 beantwoordt vangt een groot deel van de baas-vragen op zonder dat je personeel aan de telefoon gaat. Combineer met geautomatiseerde reminders via je [crm voor dierenartsen](/crm).
 
 ## Waarom een vast jaarrooster werkt
 
-In de Nederlandse hondeneigenaar-realiteit is "wanneer was het ook al weer dat ik moest ontwormen" de meest gestelde vraag aan dierenartsen (KNMVD praktijk-onderzoek 2024). 65% van de baasjes weet de cyclus niet precies, en vraagt het opnieuw bij elke contact-moment.
+In de Nederlandse hondeneigenaar-realiteit is "wanneer was het ook al weer dat ik moest ontwormen" de meest gestelde vraag aan dierenartsen (KNMVD praktijk-onderzoek 2024). De meeste baasjes weten de cyclus niet precies, en vraagt het opnieuw bij elke contact-moment.
 
 Voor de praktijk betekent dit:
 - 20-30 telefoongesprekken per maand met dezelfde vraag
-- 15-20% van de honden komt te laat voor de jaarlijkse worm-check
-- Tot 12-15% van de honden krijgt een wormbesmetting die voorkomen had kunnen worden
+- Een deel van de honden komt te laat voor de jaarlijkse worm-check
+- Een deel van de honden krijgt een wormbesmetting die voorkomen had kunnen worden
 
 Een vast jaarrooster ondervangt dit door:
 1. De baas weet vooraf de planning voor het hele jaar
 2. Automatische herinneringen vervangen telefoon-vragen
-3. Worm-besmettingen dalen met 40-50% omdat compliance toeneemt
+3. Worm-besmettingen dalen fors omdat compliance toeneemt
 
 ## De cyclus per leeftijdscategorie
 
@@ -93,7 +93,7 @@ Korte, persoonlijke boodschap:
 Bij baasjes die nog niet hebben geboekt:
 "Reminder: Wormcyclus [Hond] over 1 week. Last-minute boeken? [link]"
 
-Met deze 3-kanaals-flow ligt de opkomst tussen 85-90%, versus 60-65% bij alleen een telefoontje 2 dagen tevoren.
+Met deze 3-kanaals-flow ligt de opkomst duidelijk hoger dan bij alleen een telefoontje 2 dagen tevoren.
 
 Een [voice ai voor dierenartsen](/voice-ai) kan bovendien terugbellen naar baasjes die niet reageren op de 3 reminders, vraagt of ze nog willen boeken, en plaatst de afspraak direct.
 
@@ -113,9 +113,9 @@ Een [crm voor dierenartsen](/crm) dat hieraan koppelt biedt 4 voordelen boven de
 
 ## Wat NIET helpt: typische fouten
 
-**Fout 1: Een algemene reminder "tijd om weer te ontwormen" voor de hele patiëntpopulatie.** Werkt niet, baasjes voelen zich niet aangesproken. Per-hond reminders met de naam van de hond werken 3x beter.
+**Fout 1: Een algemene reminder "tijd om weer te ontwormen" voor de hele patiëntpopulatie.** Werkt niet, baasjes voelen zich niet aangesproken. Per-hond reminders met de naam van de hond werken veel beter.
 
-**Fout 2: Alleen email als kanaal.** Email-open-rates in NL zijn 20-30% in deze categorie. WhatsApp 80-90%. SMS 95%+. Gebruik combinatie.
+**Fout 2: Alleen email als kanaal.** Email-open-rates liggen in deze categorie laag, WhatsApp een stuk hoger en SMS nog hoger. Gebruik een combinatie.
 
 **Fout 3: Geen reiziger-protocol klaarstaan.** Baasjes die naar Frankrijk gaan vragen pas 1 week voor vertrek "moet ik nog iets doen?". Je hebt dan nog maar 1 week voor het 30-dagen-vooraf moment. Een trigger in je systeem "Klant heeft reisplan gemeld" met direct doorzetting naar reiziger-protocol voorkomt deze gemiste momenten.
 
