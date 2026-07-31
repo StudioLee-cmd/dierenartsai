@@ -47,6 +47,6 @@ Bij een groepspraktijk met drie dierenartsen en dezelfde no-show frequentie praa
 
 ## Begin met de simpelste stap
 
-Automatische herinneringen leveren het snelste resultaat. Start daar. Na een maand analyseer je de impact en voeg je het wachtlijstsysteem toe. De meeste praktijken zien binnen vier weken al een daling van 40 procent in no-shows.
+Automatische herinneringen leveren het snelste resultaat. Start daar. Na een maand analyseer je de impact en voeg je het wachtlijstsysteem toe. De meeste praktijken zien binnen vier weken al een duidelijke daling in no-shows.
 
 Wil je weten welke aanpak het meest oplevert voor jouw praktijk? Vraag een [gratis scan](/gratis-scan) aan.
