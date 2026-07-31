@@ -85,6 +85,6 @@ Begin met twee stappen:
 1. Automatiseer je vaccinatie- en controleherinneringen
 2. Bel elke klant de dag na een operatie of intensieve behandeling
 
-De dierenartsen die dit consequent doen, zien hun klantretentie met 20-30% stijgen. En elke terugkerende klant bespaart je de kosten van het werven van een nieuwe.
+De dierenartsen die dit consequent doen, zien hun klantretentie merkbaar stijgen. En elke terugkerende klant bespaart je de kosten van het werven van een nieuwe.
 
 Wil je weten hoe je praktijk online overkomt? [Vraag een gratis scan aan](/gratis-scan) en ontdek je verbeterpunten.
