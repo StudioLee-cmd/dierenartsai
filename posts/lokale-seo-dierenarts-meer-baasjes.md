@@ -53,7 +53,7 @@ Een website die alleen je naam en telefoonnummer toont, is niet genoeg. Google w
 
 ### Mobiel-vriendelijk is niet optioneel
 
-Ruim 70% van de lokale zoekopdrachten naar dierenartsen komt van een smartphone. Als je website niet goed werkt op mobiel, verlies je direct potentiële klanten. Zorg voor snelle laadtijden, grote knoppen en een klikbaar telefoonnummer.
+Verreweg de meeste lokale zoekopdrachten naar dierenartsen komen van een smartphone. Als je website niet goed werkt op mobiel, verlies je direct potentiële klanten. Zorg voor snelle laadtijden, grote knoppen en een klikbaar telefoonnummer.
 
 ## Reviews als rankingfactor
 
