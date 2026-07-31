@@ -18,13 +18,13 @@ Dit artikel gaat over die scheiding. Welke call-types in een dierenartspraktijk 
 
 Voordat je iets automatiseert, moet je weten wat je automatiseert. Een dierenartspraktijk krijgt grofweg vier soorten oproepen door de dag heen, elk met een andere emotionele toon en een andere medische urgentie.
 
-Het eerste type is **routine-administratie**: vaccinatie-afspraak inplannen, controle-bezoek bijschuiven, vraag over openingstijden, vraag over kosten van een standaard ingreep. Lage emotionele toon, geen medische urgentie, doorgaans 60 tot 70% van het belvolume.
+Het eerste type is **routine-administratie**: vaccinatie-afspraak inplannen, controle-bezoek bijschuiven, vraag over openingstijden, vraag over kosten van een standaard ingreep. Lage emotionele toon, geen medische urgentie. Als vuistregel: reken met 60 tot 70% van het belvolume.
 
-Het tweede type is **medische vraag zonder urgentie**: "mijn hond eet sinds twee dagen iets minder", "mag mijn kat dit voer eten", "wat te doen met een teek die er nog half in zit". Lage tot middelhoge emotionele toon, geen acute urgentie, vraagt om afspraak inplannen of telefonisch advies. Doorgaans 15 tot 20% van het belvolume.
+Het tweede type is **medische vraag zonder urgentie**: "mijn hond eet sinds twee dagen iets minder", "mag mijn kat dit voer eten", "wat te doen met een teek die er nog half in zit". Lage tot middelhoge emotionele toon, geen acute urgentie, vraagt om afspraak inplannen of telefonisch advies. Als vuistregel: reken met 15 tot 20% van het belvolume.
 
-Het derde type is **spoed**: aanrijding, vergiftiging, ademnood, ernstige bloeding. Hoge emotionele toon, acute medische urgentie. 5 tot 10% van het belvolume, maar 100% van de momenten waarop het ertoe doet hoe je oppakt.
+Het derde type is **spoed**: aanrijding, vergiftiging, ademnood, ernstige bloeding. Hoge emotionele toon, acute medische urgentie. Reken met 5 tot 10% van het belvolume, maar 100% van de momenten waarop het ertoe doet hoe je oppakt.
 
-Het vierde type is **gevoelig gesprek**: euthanasie inplannen, slecht nieuws verwerken, klacht over een eerdere behandeling, herhaaldelijk overleg over een chronisch zieke huisgenoot. Hoge emotionele toon, geen acute urgentie maar grote emotionele lading. 5 tot 10% van het belvolume, en het type call waar je praktijk-reputatie op staat.
+Het vierde type is **gevoelig gesprek**: euthanasie inplannen, slecht nieuws verwerken, klacht over een eerdere behandeling, herhaaldelijk overleg over een chronisch zieke huisgenoot. Hoge emotionele toon, geen acute urgentie maar grote emotionele lading. Reken met 5 tot 10% van het belvolume, en het type call waar je praktijk-reputatie op staat.
 
 ## Welke calls Voice AI uitstekend afhandelt
 
@@ -38,7 +38,7 @@ Voor type 1 en delen van type 2 is een goed ingerichte [ai telefonist voor diere
 
 **Doorsturen naar het juiste specialisme.** "Ik wil een afspraak voor mijn konijn", waarbij de AI checkt of de praktijk een knaagdier-specialist heeft, stuurt door naar de juiste agenda of geeft door dat er een verwijzing nodig is naar een collega-praktijk.
 
-Voor deze call-types is het ROI-rekensommetje simpel: een goede Voice AI vangt 60 tot 70% van het belvolume op zonder dat een mens hoeft op te nemen, en doet dat ook tussen 18:00 en 22:00 wanneer een eigenaar net thuis is van werk en eindelijk tijd heeft om te bellen. Voor exact die afhandeling is dit het meest impactvolle automatiseringsproduct dat een praktijk kan installeren.
+Voor deze call-types is het ROI-rekensommetje simpel. Reken met het volgende: een goede Voice AI vangt 60 tot 70% van het belvolume op zonder dat een mens hoeft op te nemen, en doet dat ook tussen 18:00 en 22:00 wanneer een eigenaar net thuis is van werk en eindelijk tijd heeft om te bellen. Voor exact die afhandeling is dit het meest impactvolle automatiseringsproduct dat een praktijk kan installeren.
 
 ![Smartphone op een schone kliniek-balie met een whatsapp-bericht over een vaccinatie-afspraak op het scherm, en een dier-stethoscoop daarnaast](/images/blog/voice-ai-dierenarts-welke-calls-niet-automatiseren-2.jpg)
 
@@ -72,13 +72,13 @@ Wat de scheiding hierboven niet is: een keuze tussen wel of geen AI. Voice AI ui
 
 Wat de scheiding wel is: een routering-laag. De AI is jouw eerste-contact-laag voor alle calls. Op basis van toon, gekozen-optie-uit-IVR, en specifieke trigger-woorden besluit het systeem in de eerste seconden of dit een type-1-call is (AI handelt volledig af) of type-3-call (AI zet direct door naar mens, zonder verdere vragen).
 
-Voor een goed ingerichte praktijk levert dat op: 60 tot 70% van het belvolume volledig automatisch afgehandeld, 20 tot 25% deels (AI vraagt info, mens werkt af), 5 tot 10% rechtstreeks naar mens (spoed, euthanasie, klacht). De receptie kan in haar tijd nu focussen op de calls die echte aandacht nodig hebben. Geen mens hoeft meer een vraag over openingstijden te beantwoorden.
+Voor een goed ingerichte praktijk levert dat op (reken met deze verdeling): 60 tot 70% van het belvolume volledig automatisch afgehandeld, 20 tot 25% deels (AI vraagt info, mens werkt af), 5 tot 10% rechtstreeks naar mens (spoed, euthanasie, klacht). De receptie kan in haar tijd nu focussen op de calls die echte aandacht nodig hebben. Geen mens hoeft meer een vraag over openingstijden te beantwoorden.
 
 ## Hoe je het in jouw praktijk inricht
 
 Drie stappen om hier zinvol mee te beginnen, zonder dat je een implementatie-project van drie maanden hoeft op te tuigen.
 
-**Stap 1: breng je calls in kaart.** Eén week lang houdt de receptie bij hoeveel calls van elk type (1 tot 4) binnenkomen. Niet inhoudelijk, alleen tellen. Het levert je een verdeling op die voor 80% van de dierenartspraktijken vergelijkbaar is, maar je hebt nu je eigen cijfers in plaats van vuistregels.
+**Stap 1: breng je calls in kaart.** Eén week lang houdt de receptie bij hoeveel calls van elk type (1 tot 4) binnenkomen. Niet inhoudelijk, alleen tellen. Het levert je een verdeling op die voor de meeste dierenartspraktijken vergelijkbaar is, maar je hebt nu je eigen cijfers in plaats van vuistregels.
 
 **Stap 2: definieer de trigger-woorden voor de routering.** Welke termen, op welke toon, moeten direct naar een mens? Maak een lijst van 15 tot 20 woorden ("spoed", "aangereden", "inslapen", "vergiftiging", "klacht", "geld terug", enzovoort). Deze lijst is de gids voor de Voice AI om in seconden te weten of doorverbinden gewenst is.
 
