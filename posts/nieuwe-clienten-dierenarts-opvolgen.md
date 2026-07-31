@@ -45,8 +45,8 @@ Na de eerste afspraak: "Welkom bij [praktijknaam]! Leuk dat we [diernaam] mochte
 
 Praktijken die dit systeem gebruiken zien:
 
-- 40% meer herhalingsbezoeken in het eerste jaar
-- 3x meer Google-reviews
+- Merkbaar meer herhalingsbezoeken in het eerste jaar
+- Duidelijk meer Google-reviews
 - Hogere cliënttevredenheid
 - Minder administratief werk door automatisering
 
