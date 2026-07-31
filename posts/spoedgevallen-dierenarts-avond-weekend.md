@@ -60,7 +60,7 @@ Dit werkt het beste als je duidelijk communiceert welke praktijk wanneer dienst 
 
 Een [chatbot op je website](/chatbot) kan eigenaren helpen inschatten of het een spoedgeval is. Een korte vragenlijst ("Is het dier bij bewustzijn?", "Ademt het normaal?", "Is er bloed?") geeft de eigenaar direct richting. Echte spoed wordt doorverwezen naar het spoednummer. Niet-urgente vragen krijgen het advies om de volgende dag een afspraak te maken.
 
-Dit vermindert het aantal onnodige spoedoproepen met 30 tot 50 procent, zonder dat je eigenaren het gevoel geeft dat ze worden afgewimpeld.
+Dit vermindert het aantal onnodige spoedoproepen fors, zonder dat je eigenaren het gevoel geeft dat ze worden afgewimpeld.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bereikbaarheid-dierenarts" class="text-dark fw-semibold">Bereikbaarheid als dierenarts: geen spoedoproep missen</a> →</p></div></div></div>
 
