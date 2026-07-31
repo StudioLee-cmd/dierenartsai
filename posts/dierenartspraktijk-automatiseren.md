@@ -12,7 +12,7 @@ tags: ["Automatisering", "Dierenarts", "Praktijkbeheer"]
 
 Je behandelt een hond met een oorontsteking. De telefoon gaat. Een baasje belt voor een vaccinatie-afspraak. Je assistente is al bezig met een andere beller. Ondertussen wacht de volgende patiënt in de wachtkamer. Na sluitingstijd zit je nog een uur aan dossiers, facturen en bestellingen.
 
-PetCards rapporteert dat dierenartspraktijken 30 tot 50 procent van hun telefoontjes kunnen verminderen met digitale communicatie. Dat zijn uren per dag die je aan patiëntenzorg kunt besteden.
+PetCards rapporteert dat dierenartspraktijken een fors deel van hun telefoontjes kunnen verminderen met digitale communicatie. Dat zijn uren per dag die je aan patiëntenzorg kunt besteden.
 
 ## De vijf processen die de meeste tijd kosten
 
@@ -59,7 +59,7 @@ De sector kampt met een tekort aan dierenartsen en paraveterinair personeel. Aut
 
 ## Resultaat
 
-- 30 tot 50 procent minder telefoontjes
+- Fors minder telefoontjes
 - 4 uur per week bespaard op vaccinatieherinneringen
 - Kortere consulten door digitale intake
 - Hogere compliance bij vaccinatieschema's
