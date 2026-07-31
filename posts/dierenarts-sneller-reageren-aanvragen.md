@@ -11,7 +11,7 @@ tags: ["Lead-opvolging", "Groei", "Tips"]
 
 Een diereneigenaar zoekt een nieuwe dierenarts. Misschien zijn ze verhuisd, misschien zijn ze niet tevreden bij hun huidige kliniek. Ze googelen "dierenarts [stad]", bellen drie praktijken en kiezen de eerste die opneemt of terugbelt.
 
-Uit onderzoek blijkt dat 78% van de klanten kiest voor het bedrijf dat het snelst reageert. Niet het goedkoopste, niet het beste beoordeelde, maar het snelste. Reactietijd is de belangrijkste factor bij het winnen van nieuwe patiënten.
+Klanten kiezen overwegend voor het bedrijf dat het snelst reageert. Niet het goedkoopste, niet het beste beoordeelde, maar het snelste. Reactietijd is de belangrijkste factor bij het winnen van nieuwe patiënten.
 
 ## Waar het misgaat bij dierenartsenpraktijken
 
@@ -44,7 +44,7 @@ Veel diereneigenaren sturen liever een WhatsApp dan dat ze bellen. Met WhatsApp 
 
 Een praktijk die gemiddeld binnen 30 minuten reageert in plaats van binnen 4 uur:
 
-- Wint 40-60% meer nieuwe patiënten uit online aanvragen
+- Wint merkbaar meer nieuwe patiënten uit online aanvragen
 - Krijgt betere [reviews](/reviews) (snelle reactie = goede eerste indruk)
 - Verliest minder aan concurrenten die wél snel reageren
 
