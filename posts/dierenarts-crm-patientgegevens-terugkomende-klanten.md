@@ -25,7 +25,7 @@ Honden en katten hebben andere preventieve zorgritmes dan konijnen of reptielen.
 
 **Wat je vastlegt:** diersoort, ras, geboortedatum, gewicht (met laatste meting), verwachte levensduur-categorie.
 
-**Hoe je het gebruikt:** elke ras-specifieke behandeling (bijvoorbeeld heupdysplasie-screening voor grote honden vanaf 2 jaar) wordt automatisch ingepland. Baasje krijgt een maand vooraf een WhatsApp: "Fikkie is bijna 2 jaar, tijd voor zijn eerste heupcheck. Deze afspraak plannen?". Gemiddelde respons-ratio: 45-60 procent, versus 10-15 procent bij algemene vaccinatiereminders.
+**Hoe je het gebruikt:** elke ras-specifieke behandeling (bijvoorbeeld heupdysplasie-screening voor grote honden vanaf 2 jaar) wordt automatisch ingepland. Baasje krijgt een maand vooraf een WhatsApp: "Fikkie is bijna 2 jaar, tijd voor zijn eerste heupcheck. Deze afspraak plannen?". De respons-ratio op zo'n gerichte oproep ligt fors hoger dan op een algemene vaccinatiereminder.
 
 ## Veld 2: vaccinatiegeschiedenis + next-due-datum
 
@@ -33,7 +33,7 @@ Vaccinatieherinneringen zijn de klassieke CRM-actie. De meeste praktijken doen d
 
 **Wat je vastlegt:** elke gegeven vaccinatie met datum, merk en batch. Next-due-datum per vaccin type (cocktail, rabies, kennelhoest, enz).
 
-**Hoe je het gebruikt:** 6 weken voor de next-due-datum start een herinneringsflow (eerst WhatsApp, na 2 weken SMS-herinnering, na 3 weken persoonlijke telefoon vanuit de praktijk). Dit combineren met een direct-boek-knop in het bericht verhoogt de conversie van herinnering-naar-boeking van gemiddeld 35 procent naar 62 procent.
+**Hoe je het gebruikt:** 6 weken voor de next-due-datum start een herinneringsflow (eerst WhatsApp, na 2 weken SMS-herinnering, na 3 weken persoonlijke telefoon vanuit de praktijk). Dit combineren met een direct-boek-knop in het bericht verhoogt de conversie van herinnering-naar-boeking aanzienlijk.
 
 Een [AI chatbot](/chatbot) op je website kan deze vaccinatie-vragen ook automatisch afhandelen en direct een afspraak voorstellen.
 
@@ -53,7 +53,7 @@ Dieren met chronische aandoeningen (diabetes, artrose, schildklierproblemen, epi
 
 **Wat je vastlegt per dier:** tandheelkundige check (laatste datum), vlooienbehandeling-cyclus, wormenkuur-schema, sterilisatie-status, voedingsadvies-consult, gedrag-screening (voor puppy's en kittens), oogontsteking-check (voor bepaalde rassen).
 
-**Hoe je het gebruikt:** elke 6 maanden een automatisch "gap-rapport" per baasje. "Hallo Anne, Max heeft nog geen tandheelkundige controle gehad sinds 2023. Plan in voor een gezond gebit." Dat bericht gaat alleen naar baasjes met een concreet gap, niet naar iedereen. Conversie-ratio: 25-35 procent binnen 30 dagen.
+**Hoe je het gebruikt:** elke 6 maanden een automatisch "gap-rapport" per baasje. "Hallo Anne, Max heeft nog geen tandheelkundige controle gehad sinds 2023. Plan in voor een gezond gebit." Dat bericht gaat alleen naar baasjes met een concreet gap, niet naar iedereen. Een flink deel van die baasjes plant binnen 30 dagen alsnog in.
 
 ## Veld 5: baasje-communicatievoorkeur
 
@@ -61,7 +61,7 @@ Verschillende baasjes hebben andere preferenties. Jongere baasjes (25-40) appen 
 
 **Wat je vastlegt:** voorkeurskanaal (WhatsApp/SMS/e-mail/telefoon), voorkeurstijd (ochtend/middag/avond), taalvoorkeur (Nederlands/Engels/Turks/Pools, in sommige regio's belangrijk), bereikbaarheid-tijden.
 
-**Hoe je het gebruikt:** automatische messaging-routing. Elke reminder of follow-up wordt via het juiste kanaal op het juiste moment verzonden. Gemiddelde respons-ratio stijgt 15-25 procent ten opzichte van one-size-fits-all berichtgeving.
+**Hoe je het gebruikt:** automatische messaging-routing. Elke reminder of follow-up wordt via het juiste kanaal op het juiste moment verzonden. De respons-ratio stijgt merkbaar ten opzichte van one-size-fits-all berichtgeving.
 
 ## Veld 6: verzekering- en budget-indicatie
 
@@ -77,7 +77,7 @@ Het meest onderschatte veld. Hoeveel gezinsleden heeft de baasje? Hoeveel dieren
 
 **Wat je vastlegt:** aantal dieren in het huishouden (vaak 2-3), LTV (lifetime value), aantal jaren als klant, doorverwijsgeschiedenis, eventuele klachten of speciale aandacht-momenten, waarderings-score (NPS of eigen schaal).
 
-**Hoe je het gebruikt:** promoters (hoog waarderings-cijfer) krijgen een halfjaar na een consult een persoonlijk bericht: "We hopen dat Max het naar zijn zin heeft. Als iemand in je familie ook een dierenarts zoekt, een aanbeveling zou enorm helpen." Dit activeert 15-20 procent van de tevreden baasjes tot een doorverwijzing. Detractors (lage score) krijgen geen reviewverzoek, maar wel een persoonlijk belmoment vanuit de praktijk-eigenaar. Voor de promoters loopt daarnaast automatisch een [reviewverzoek](/reviews) richting Google, wat je lokale vindbaarheid versterkt.
+**Hoe je het gebruikt:** promoters (hoog waarderings-cijfer) krijgen een halfjaar na een consult een persoonlijk bericht: "We hopen dat Max het naar zijn zin heeft. Als iemand in je familie ook een dierenarts zoekt, een aanbeveling zou enorm helpen." Dit activeert een deel van de tevreden baasjes tot een doorverwijzing. Detractors (lage score) krijgen geen reviewverzoek, maar wel een persoonlijk belmoment vanuit de praktijk-eigenaar. Voor de promoters loopt daarnaast automatisch een [reviewverzoek](/reviews) richting Google, wat je lokale vindbaarheid versterkt.
 
 ## Hoe je dit technisch inricht
 
