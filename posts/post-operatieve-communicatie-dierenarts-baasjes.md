@@ -31,7 +31,7 @@ Vraag honderd baasjes die een operatie hebben gehad met hun huisdier wat ze hadd
 
 **Moment 3 — "Klaar voor afhalen" (minimaal 2 uur na recovery).** Geef een concreet afhaalvenster en praktische informatie: "Je kunt [huisdier] vandaag tussen 15:00 en 17:00 ophalen. Bij afhalen krijg je mee: pijnstilling voor drie dagen, beschermkraag en uitleg over wondverzorging." Hoe concreter, hoe beter — baasjes die weten wat hen wacht, zijn tijdens de afhaal-afspraak meer ontspannen en stellen betere vragen.
 
-**Moment 4 — "Dag na OK: hoe gaat het?" (volgende dag, ochtend).** Een kort berichtje: "Hi [naam], hoe gaat het met [huisdier]? Eet hij/zij, drinkt hij/zij, is de plek van de hechting rustig? Laat het weten als er iets is, we zijn bereikbaar." Dit vangt 90% van de dag-erna-paniek af voordat het jouw telefoon gek belt — de baasje heeft nu een direct kanaal en jullie weten vroeg van eventuele complicaties.
+**Moment 4 — "Dag na OK: hoe gaat het?" (volgende dag, ochtend).** Een kort berichtje: "Hi [naam], hoe gaat het met [huisdier]? Eet hij/zij, drinkt hij/zij, is de plek van de hechting rustig? Laat het weten als er iets is, we zijn bereikbaar." Dit vangt het overgrote deel van de dag-erna-paniek af voordat het jouw telefoon gek belt — de baasje heeft nu een direct kanaal en jullie weten vroeg van eventuele complicaties.
 
 ## Wat NIET in deze berichten moet
 
@@ -59,7 +59,7 @@ Een realistisch stappenplan om deze flow binnen drie weken draaiend te krijgen:
 - **Week 2:** Oefen met 10-15 operaties de flow. Een van de medewerkers krijgt als rol het versturen van moment 1 en 2 die week, zodat jullie voelen wat werkt en wat aanpassing vraagt.
 - **Week 3:** Automatiseer moment 1 (start OK) en moment 4 (dag erna) via de boekingskoppeling — die horen op een vast tijdstip, mensenkracht is onnodig. Moment 2 (recovery-foto) blijft handmatig want de persoonlijke foto is de kern van het effect. Moment 3 (afhaal-venster) kan gedeeltelijk automatisch met het schema, maar laat een medewerker de specifieke info aanvullen.
 
-Meet na drie maanden drie cijfers: aantal telefoontjes "hoe gaat het na de OK?" (dat zou moeten dalen met 60-80%), aantal 5-sterren reviews waarin "communicatie" of "updates" worden genoemd (dat zou moeten stijgen), en klantretentie voor volgende operaties binnen hetzelfde dier of een tweede huisdier.
+Meet na drie maanden drie cijfers: aantal telefoontjes "hoe gaat het na de OK?" (dat zou fors moeten dalen), aantal 5-sterren reviews waarin "communicatie" of "updates" worden genoemd (dat zou moeten stijgen), en klantretentie voor volgende operaties binnen hetzelfde dier of een tweede huisdier.
 
 ## Hoe dit doorwerkt in je reviews en online reputatie
 
@@ -69,7 +69,7 @@ Een extra voordeel: deze reviews zijn minder kwetsbaar voor klachten over dure b
 
 ## De investering die dit waarmaakt
 
-Voor een praktijk met 5 tot 15 operaties per week levert deze flow een aantoonbare verhoging van de klantbeleving op. Typische indicatoren na drie maanden: 30-50% minder "statuscheck"-telefoontjes, 2-3 extra positieve reviews per maand, en beheersing van dag-erna-complicaties omdat problemen eerder worden gemeld.
+Voor een praktijk met 5 tot 15 operaties per week levert deze flow een aantoonbare verhoging van de klantbeleving op. Typische indicatoren na drie maanden: merkbaar minder "statuscheck"-telefoontjes, 2-3 extra positieve reviews per maand, en beheersing van dag-erna-complicaties omdat problemen eerder worden gemeld.
 
 Wij bouwen deze complete post-operatieve communicatie-flow voor dierenartspraktijken in onze managed service. Van de WhatsApp-inbox-setup tot de templates, de automatische triggers uit je agenda, en het meten van de KPI's. Meer over [tarieven](/tarieven) en implementatietraject voor klinieken die dit volledig willen outsourcen. Of vraag een [gratis scan](/gratis-scan) aan waarin we bestaande klantreizen analyseren en specifieke verbeterpunten voor jouw praktijk identificeren.
 
