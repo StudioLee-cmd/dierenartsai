@@ -48,7 +48,7 @@ Twaalf posts is het minimum, één per maand. Wil je meer effect, plaats er dan 
 
 Google geeft je vier soorten posts, en voor een praktijk hebben ze elk een vaste rol. De *update* is je werkpaard voor de maandthema's hierboven. De *aanbieding* gebruik je spaarzaam, bijvoorbeeld voor een gebitsmaand-actie, want te veel kortingen ondermijnen je positionering als zorgverlener. Het *evenement* past bij een inloopspreekuur of een open dag. Het *product*-type leent zich voor een nieuwe dienst, zoals echografie of een nieuwe behandelmethode.
 
-Houd het simpel: voor de meeste praktijken is de update-post 80 procent van wat je plaatst. De andere drie zet je in als er echt iets te melden is.
+Houd het simpel: voor de meeste praktijken is de update-post het leeuwendeel van wat je plaatst. De andere drie zet je in als er echt iets te melden is.
 
 ## Zo schrijf je een post die baasjes laat boeken
 
