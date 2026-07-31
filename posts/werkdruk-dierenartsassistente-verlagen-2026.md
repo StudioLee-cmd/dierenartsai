@@ -40,13 +40,13 @@ Op basis van praktijken waar we daadwerkelijk werkdruk hebben zien dalen, zijn d
 
 ### 1. Geïntegreerde digitale intake via een AI chatbot
 
-Een AI chatbot die gekoppeld is aan je praktijksoftware (Provet, Animana, IDEXX Neo, Vetbloed) neemt tussen de 40 en 60 procent van administratieve telefoontjes over. Hij plant afspraken rechtstreeks in de agenda, checkt vaccinatiehistorie, verwerkt herhaalreceptverzoeken die daarna met één klik door de assistent worden goedgekeurd, en beantwoordt praktische vragen uit één centrale bron. Lees onze volledige aanpak in het artikel over onze [AI chatbot voor klinieken en praktijken](/chatbot) voor welke integraties en workflows we daarbij standaard opzetten.
+Een AI chatbot die gekoppeld is aan je praktijksoftware (Provet, Animana, IDEXX Neo, Vetbloed) neemt een fors deel van de administratieve telefoontjes over. Hij plant afspraken rechtstreeks in de agenda, checkt vaccinatiehistorie, verwerkt herhaalreceptverzoeken die daarna met één klik door de assistent worden goedgekeurd, en beantwoordt praktische vragen uit één centrale bron. Lees onze volledige aanpak in het artikel over onze [AI chatbot voor klinieken en praktijken](/chatbot) voor welke integraties en workflows we daarbij standaard opzetten.
 
 Dit is niet een generieke chatbot. Een goede praktijk-chatbot weigert elke medisch-getinte vraag en schakelt die automatisch door naar triage of de assistent. Dat is de hele reden dat hij AVG-conform en medisch veilig werkt.
 
 ### 2. Geautomatiseerde vaccinatie- en controle-herinneringen
 
-80 procent van vaccinatie-gerelateerde telefoontjes komt omdat baasjes zelf moeten onthouden wanneer de volgende prik nodig is. Met een eenvoudige agenda-koppeling stuurt je HIS 4 weken vooraf een vriendelijke WhatsApp met een directe "boek nu"-knop. Gevolgen: 30 procent daling in belvolume rondom vaccinaties en 20 procent hogere effectieve vaccinatiegraad.
+Het leeuwendeel van de vaccinatie-gerelateerde telefoontjes komt omdat baasjes zelf moeten onthouden wanneer de volgende prik nodig is. Met een eenvoudige agenda-koppeling stuurt je HIS 4 weken vooraf een vriendelijke WhatsApp met een directe "boek nu"-knop. Gevolgen: een duidelijke daling in belvolume rondom vaccinaties en een hogere effectieve vaccinatiegraad.
 
 ### 3. AI telefonist voor avond- en weekend-oproepen
 
@@ -57,7 +57,7 @@ Voor praktijken met ruime werkingebieden of spoedtelefoondienst verlaagt een AI 
 In de praktijken waar deze drie ingrepen draaien rapporteert het team na drie maanden:
 
 - 2 tot 4 uur per dag per assistent vrij voor triage, persoonlijk klantcontact en ondersteuning van de arts
-- 50 tot 70 procent minder inkomende telefoontjes aan de balie
+- Fors minder inkomende telefoontjes aan de balie
 - Herhaalrecepten van gemiddeld 2,5 werkdagen doorlooptijd naar meestal dezelfde dag
 - Hogere NPS-score (klanttevredenheid) omdat baasjes niet meer de stilte na 17 uur tegenkomen
 - Lagere personeelsverloop en minder ziekteverzuim onder assistentes omdat de werkdag weer te overzien is
@@ -66,7 +66,7 @@ In de praktijken waar deze drie ingrepen draaien rapporteert het team na drie ma
 
 **Tools los van HIS aanschaffen.** Elke chatbot, elk boekingsysteem, elke WhatsApp-integratie moet in je praktijksoftware kunnen schrijven en lezen. Zonder die verbinding is het extra werk, geen tijdwinst. Bekijk onze analyse van [praktijksoftware voor dierenartsen](/blog/beste-praktijksoftware-dierenartsen-2026) voor compatibiliteit per systeem.
 
-**Te zuinig zijn met medische intake.** Een goede chatbot wijst alles wat medisch klinkt door naar een assistent of naar de triage-lijn. Dat kost soms 20 procent van de gesprekken. Verzet je daar niet tegen: dat is precies waar je assistentes nodig voor zijn.
+**Te zuinig zijn met medische intake.** Een goede chatbot wijst alles wat medisch klinkt door naar een assistent of naar de triage-lijn. Dat kost soms een flink deel van de gesprekken. Verzet je daar niet tegen: dat is precies waar je assistentes nodig voor zijn.
 
 **De implementatie alleen bij techniek leggen.** De meest geslaagde implementaties hebben een praktijkmanager of senior-assistent die elke twee weken 15 chatbot-gesprekken doorneemt en bijstuurt. Zonder die interne eigenaar verslapt het systeem na drie maanden.
 
