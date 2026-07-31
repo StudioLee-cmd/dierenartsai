@@ -28,7 +28,7 @@ Dit ranking-effect is ook waarom je [Google Bedrijfsprofiel als dierenarts pilla
 Google biedt in Nederland (NL-locale) drie veelgebruikte primaire categorieen voor een vet praktijk:
 
 **1. Dierenarts (Veterinarian)**
-De standaard voor een eerstelijns dierenartspraktijk: vaccinaties, consulten, kleine operaties, gebitsverzorging, chips. Eén of twee dierenartsen, mogelijk een paraveterinair en een receptionist. Dit is de juiste categorie voor 80 procent van de praktijken in Nederland.
+De standaard voor een eerstelijns dierenartspraktijk: vaccinaties, consulten, kleine operaties, gebitsverzorging, chips. Eén of twee dierenartsen, mogelijk een paraveterinair en een receptionist. Dit is de juiste categorie voor verreweg de meeste praktijken in Nederland.
 
 **2. Dierenkliniek (Animal hospital / Veterinary care)**
 Voor grotere praktijken met meerdere artsen en specialisaties: chirurgie, beeldvorming (röntgen of echo), tandheelkunde, soms 24-uurs spoeddienst. Een dierenkliniek is doorgaans groter dan een eerstelijns praktijk en heeft meerdere behandelkamers en operatie-faciliteiten.
