@@ -22,8 +22,8 @@ Huisdieren zijn emotioneel. Baasjes zijn bezorgd, betrokken en dankbaar voor elk
 
 ### Het effect op je praktijk
 
-- Baasjes die nazorg ontvangen laten 4x vaker een review achter
-- Retentie stijgt met 35-50%
+- Baasjes die nazorg ontvangen laten veel vaker een review achter
+- Retentie stijgt aanzienlijk
 - Mond-tot-mondreclame verdubbelt
 - Minder spoedtelefoons ("is dit normaal?") omdat je proactief informeert
 
