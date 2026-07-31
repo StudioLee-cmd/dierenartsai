@@ -24,7 +24,7 @@ Een compleet Google Bedrijfsprofiel bevat minimaal:
 - **Categorie:** "Dierenarts" als hoofdcategorie, eventueel "Dierenkliniek" als subcategorie
 - **Beschrijving:** noem je specialisaties (chirurgie, tandheelkunde, exotische dieren), je werkgebied en wat je onderscheidt
 
-Praktijken met een volledig profiel verschijnen tot 70% vaker in het lokale drieluik dan praktijken met een minimaal ingevuld profiel.
+Praktijken met een volledig profiel verschijnen duidelijk vaker in het lokale drieluik dan praktijken met een minimaal ingevuld profiel.
 
 ## Foto's die diereneigenaren overtuigen
 
