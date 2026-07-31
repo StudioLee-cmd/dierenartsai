@@ -14,9 +14,9 @@ De goede kans: goede patiëntcommunicatie is geen extra tijd in de spreekkamer, 
 
 **In het kort:**
 
-- Praktijken met gestructureerde patiëntcommunicatie houden 40% meer klanten aan zich binden dan praktijken zonder.
+- Praktijken met gestructureerde patiëntcommunicatie binden merkbaar meer klanten aan zich dan praktijken zonder.
 - De 5 kritieke momenten zijn: intake, dagvoor-afspraak, nazorg, 4-6 weken follow-up, verjaardag/seizoen.
-- WhatsApp werkt 5x beter dan e-mail voor baasjes-communicatie.
+- WhatsApp werkt veel beter dan e-mail voor baasjes-communicatie.
 - Automatiseren is hier essentieel: handmatig houd je het geen 3 maanden vol.
 - Gemiddelde tijdsinvestering: 2 uur inrichten, daarna vrijwel nul onderhoud.
 
@@ -54,11 +54,11 @@ Waarom dit werkt:
 - **Bevestigend** (niet alleen herinnering maar vraag naar update).
 - **Praktisch** (de tip is vaak nét genoeg om de visit productiever te maken).
 
-Dit voorkomt 70% van de no-shows én zorgt dat baasjes beter voorbereid zijn.
+Dit voorkomt het leeuwendeel van de no-shows én zorgt dat baasjes beter voorbereid zijn.
 
 ## Moment 3: Nazorg-check (1-3 dagen na behandeling)
 
-Dit is de grootste winst. Van alle dierenartspraktijken stuurt minder dan 20% een proactieve nazorg-check na een standaardconsult. Bij wat werkt:
+Dit is de grootste winst. Van alle dierenartspraktijken stuurt maar een kleine minderheid een proactieve nazorg-check na een standaardconsult. Bij wat werkt:
 
 Bij standaardconsult (vaccinatie, controle):
 
@@ -108,7 +108,7 @@ Praktische vuistregel:
 - **Urgentie** (bel-actie) → WhatsApp + telefoon.
 - **Formele communicatie** (tariefwijzigingen, officiële berichten) → e-mail.
 
-Voor de 5 momenten hierboven werkt WhatsApp 5x beter dan e-mail. Responsiviteit (95% open-rate binnen 30 minuten) is het verschil.
+Voor de 5 momenten hierboven werkt WhatsApp veel beter dan e-mail. Responsiviteit (vrijwel iedereen opent binnen 30 minuten) is het verschil.
 
 ## Automatiseren: de enige manier om dit vol te houden
 
@@ -135,9 +135,9 @@ Wil je weten wat dit voor jouw praktijk specifiek kan betekenen qua klantbinding
 
 Dierenartspraktijken die deze 5 momenten consistent 12 maanden uitvoeren rapporteren:
 
-- **40-60% meer terugkerende afspraken** doordat baasjes zich verbonden voelen.
-- **25% meer reviews** van tevreden klanten (meestal gevolg van Moment 3).
-- **15% meer nieuwe klanten** via mond-tot-mondreclame.
+- **Duidelijk meer terugkerende afspraken** doordat baasjes zich verbonden voelen.
+- **Merkbaar meer reviews** van tevreden klanten (meestal gevolg van Moment 3).
+- **Meer nieuwe klanten** via mond-tot-mondreclame.
 - **Lagere werkdruk** in de praktijk omdat klanten beter voorbereid komen.
 
 Kortom: betere communicatie leidt niet tot meer werk, maar tot meer werk van de juiste soort — met klanten die blijven.
