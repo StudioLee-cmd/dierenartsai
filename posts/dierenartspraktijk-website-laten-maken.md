@@ -12,7 +12,7 @@ Een professionele website is niet langer optioneel voor dierenartspraktijken. St
 
 ## Waarom een website onmisbaar is voor dierenartsen
 
-De tijd dat je als dierenarts kon vertrouwen op mond-tot-mondreclame alleen is voorbij. **73% van de Nederlandse huisdiereigenaren** zoekt online naar een dierenarts, en dat aantal groeit elk jaar.
+De tijd dat je als dierenarts kon vertrouwen op mond-tot-mondreclame alleen is voorbij. **Verreweg de meeste Nederlandse huisdiereigenaren** zoeken online naar een dierenarts, en dat aandeel groeit elk jaar.
 
 Een goede website doet meer dan alleen je openingstijden tonen. Het is je digitale praktijk — 24 uur per dag bereikbaar, ook wanneer jij bezig bent met een operatie of consultatie.
 
@@ -61,7 +61,7 @@ Reviews zijn de belangrijkste vertrouwensfactor voor nieuwe klanten. Integreer j
 
 ### 6. Mobiel-vriendelijk design
 
-Meer dan **65% van de bezoekers** bekijkt je website op een telefoon. Als je site niet goed werkt op mobiel, verlies je direct potentiële klanten. Test je site regelmatig op verschillende apparaten.
+**De meeste bezoekers** bekijken je website op een telefoon. Als je site niet goed werkt op mobiel, verlies je direct potentiële klanten. Test je site regelmatig op verschillende apparaten.
 
 ### 7. SEO-optimalisatie voor lokale zoekopdrachten
 
