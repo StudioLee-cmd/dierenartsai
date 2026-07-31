@@ -12,7 +12,7 @@ cluster: "vindbaarheid"
 - **Schema markup is code op je website** die zoekmachines vertelt wat soort bedrijf je bent en welke diensten je biedt.
 - **Voor dierenartsen telt het extra** omdat baasjes vaak in noodsituaties zoeken: "dierenarts spoed", "dierenarts open vandaag".
 - **Drie schema-types zijn essentieel:** VeterinaryCare, OpeningHoursSpecification en EmergencyService.
-- **Goed ingestelde schema verhoogt klikfrequentie met 20-30 procent** door rich snippets in zoekresultaten.
+- **Goed ingestelde schema verhoogt de klikfrequentie merkbaar** door rich snippets in zoekresultaten.
 - **De grootste fout: schema voor "Organization"** in plaats van het specifiekere VeterinaryCare type.
 
 ## Wat is schema markup en waarom werkt het?
@@ -21,7 +21,7 @@ Schema markup is een stukje code dat je in je website zet, meestal als JSON-LD i
 
 Zonder schema markup leest Google je pagina als een blok tekst en moet zelf raden wat je bedrijf is. Met schema markup weet Google: "Dit is een VeterinaryCare-bedrijf, geopend op werkdagen van 8 tot 18 uur, met spoed-service buiten kantoortijden, gevestigd in postcode 1015."
 
-Dat klinkt technisch maar het effect is meetbaar. Rich snippets in zoekresultaten met sterren-rating, openingstijden en telefoonnummer worden direct getoond. De klikfrequentie stijgt met 20-30 procent bij dezelfde positie. De ranking voor "spoed" en "open vandaag" zoekopdrachten verbetert. En vermelding in AI-overviews wordt sneller doordat schema markup duidelijk maakt wat jouw aanbod is.
+Dat klinkt technisch maar het effect is meetbaar. Rich snippets in zoekresultaten met sterren-rating, openingstijden en telefoonnummer worden direct getoond. De klikfrequentie stijgt merkbaar bij dezelfde positie. De ranking voor "spoed" en "open vandaag" zoekopdrachten verbetert. En vermelding in AI-overviews wordt sneller doordat schema markup duidelijk maakt wat jouw aanbod is.
 
 Voor dierenartsen telt dit extra omdat veel zoekopdrachten urgentie-gedreven zijn. Een baasje wiens hond een ongeluk heeft gehad zoekt geen "dierenarts" maar "dierenarts spoed bij mij in de buurt nu open". Schema markup zorgt dat jij voor deze zoekopdrachten naar boven komt. Lees ook onze gids over [SEO voor dierenartsen](/seo) voor de bredere context.
 
@@ -79,10 +79,10 @@ Doe deze beide checks na elke schema-aanpassing. Een fout in schema markup verbe
 
 Bij twee Nederlandse dierenartspraktijken die we het afgelopen jaar hebben begeleid bij het invoeren van complete schema markup zagen we gemiddeld:
 
-- Klikfrequentie van Google-zoekresultaten 25-30 procent hoger
-- Vertoningen voor "spoed" zoekopdrachten 40-60 procent meer
-- 18 procent meer telefonische spoedvragen (juiste klanten kunnen je vinden in noodsituaties)
-- Vermelding in Google AI Overviews van 0 naar 12-15 procent voor relevante zoekopdrachten
+- Klikfrequentie van Google-zoekresultaten merkbaar hoger
+- Vertoningen voor "spoed" zoekopdrachten duidelijk hoger
+- Meer telefonische spoedvragen (juiste klanten kunnen je vinden in noodsituaties)
+- Vermelding in Google AI Overviews van nul naar structureel aanwezig voor relevante zoekopdrachten
 - Resultaten zichtbaar binnen 2-4 weken na invoering
 
 Voor een dierenartspraktijk met 100 nieuwe patiënten per maand en een gemiddelde lifetime-waarde van 600 euro betekent dit conservatief 5-8 extra patiënten per maand of 3.000-4.800 euro extra omzet per maand. Bekijk ook onze [tarieven](/tarieven) als je dit volledig wilt laten opzetten.
