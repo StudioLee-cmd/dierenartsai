@@ -9,7 +9,7 @@ tags: ["Concurrentieanalyse", "Benchmark", "Lokale Marketing", "Dierenarts Opera
 cluster: "branding"
 ---
 **In het kort:**
-- 75% van de zelfstandige dierenartspraktijken in NL doet nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen veranderingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de patient-stroom kunnen verschuiven.
+- Verreweg de meeste zelfstandige dierenartspraktijken in NL doen nooit een gestructureerde concurrentieanalyse van hun directe omgeving. Ze nemen aan dat ze hun lokale markt kennen, maar missen veranderingen in openingstijden, nieuwe specialisaties of pricing-aanpassingen die binnen 6 maanden de patient-stroom kunnen verschuiven.
 - Een complete concurrentieanalyse van zes datapunten over de drie a vijf dichtstbijzijnde concurrenten kost 30 minuten en levert direct bruikbare beslissingen op: waar onderscheid je je nu, waar zit een gat in het lokale aanbod, welk segment is overbezet.
 - ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) wijst op forse regionale verschillen in marktconcentratie: in de Randstad zit gemiddeld een dierenartspraktijk per 12.000 inwoners, in noordelijke provincies per 22.000 inwoners. Lokale dynamiek bepaalt of opschaling, specialisatie of margeverbetering jouw beste groei-route is.
 - Drie ingrepen die de analyse productief maken: een vaste set van zes datapunten per concurrent, een 30-minuten-flow per kwartaal, en een eenvoudige dashboard-template waarin je per datapunt jouw eigen positie tegen het regio-gemiddelde zet.
@@ -30,7 +30,7 @@ ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) constate
 
 ## De zes datapunten die alles vertellen
 
-Niet elk gegeven over een concurrent is nuttig. Zes datapunten geven samen een 80%-beeld van de competitive positie:
+Niet elk gegeven over een concurrent is nuttig. Zes datapunten geven samen een vrijwel volledig beeld van de competitive positie:
 
 ### 1. Openingstijden en spoeddienst-uren
 
