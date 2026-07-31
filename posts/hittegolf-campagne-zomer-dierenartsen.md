@@ -47,13 +47,13 @@ De 4-7 dagen vóór de heetste dag zijn de educatie-fase. Doel: baasjes laten he
 
 **Post 4 (dag -1, Stories + Reels):** een soft reminder die in 24-uur-stories-format de hoofdpunten herhaalt. Geen nieuwe content nodig, alleen herhalen wat post 1-3 zei in een vluchtiger format. Stories scoren slechter op directe boekingen maar reach-amplificatie via shares is hoog.
 
-Tegen het einde van post 4 heeft 35-50% van je vaste klanten ten minste één van de berichten gezien (Instagram + Facebook combined organic reach op een goede dierenpraktijk-account met 1500+ volgers). Voldoende basis voor de operationele fase.
+Tegen het einde van post 4 heeft een aanzienlijk deel van je vaste klanten ten minste één van de berichten gezien (Instagram + Facebook combined organic reach op een goede dierenpraktijk-account met 1500+ volgers). Voldoende basis voor de operationele fase.
 
 ## Dag 0 tot 3: real-time alert-posts en oproep-flow
 
 De campagne-modus tijdens de hittegolf zelf is een ander dier. Dag 0 = dag van het heetste maximum. De drie dagen erna zijn waar de meeste consults binnenkomen. Wat je vandaag plaatst, moet diezelfde dag verkeer naar de telefoon en booking-flow leiden.
 
-**Dag 0 (heetste dag, ochtendpost 07:30):** een korte WhatsApp-broadcast naar je bestaande klantenbestand (alleen baasjes met opt-in). "Vandaag voorspeld 34°C. Houd uw dier in de schaduw, geef extra water. Bel ons direct bij apathie, kuchen of weigering eten." Eén bericht, geen vervolg, geen verkoop. Functioneel. Open-rate op WhatsApp ligt boven 90% voor dit soort relevant-getimed content.
+**Dag 0 (heetste dag, ochtendpost 07:30):** een korte WhatsApp-broadcast naar je bestaande klantenbestand (alleen baasjes met opt-in). "Vandaag voorspeld 34°C. Houd uw dier in de schaduw, geef extra water. Bel ons direct bij apathie, kuchen of weigering eten." Eén bericht, geen vervolg, geen verkoop. Functioneel. De open-rate op WhatsApp is uitzonderlijk hoog voor dit soort relevant-getimed content.
 
 **Dag 0 (middagstory 13:00):** Instagram-story met een korte boodschap van een paraveterinair: "Vandaag worden we druk gebeld, dat verwachten we ook. Belt u liever rustig morgen? Dat kan, dan plannen we u in op een afgekoeld moment." Geeft de telefoon ademruimte en stuurt baasjes naar minder-piek-momenten.
 
@@ -61,7 +61,7 @@ De campagne-modus tijdens de hittegolf zelf is een ander dier. Dag 0 = dag van h
 
 **Dag +2 (post 12:00):** een korte boeking-prompt. "We hebben morgen nog plek in het middagspreekuur, als u twijfels heeft, even langskomen is altijd beter dan tot het weekend wachten." Concrete handelingsoproep, dezelfde dag activeerbaar.
 
-Een [ai chatbot voor dierenartsen](/chatbot) op je website tijdens deze periode vangt bezoekers op die via de Instagram-bio of een Facebook-link binnenkomen en in 2 stappen of online-boeking of een directe spoedlijn aanbieden. Zonder chatbot lekken 30-50% van deze social-bezoekers weer weg vóór de boeking-knop omdat ze eerst willen weten of jij de juiste persoon bent.
+Een [ai chatbot voor dierenartsen](/chatbot) op je website tijdens deze periode vangt bezoekers op die via de Instagram-bio of een Facebook-link binnenkomen en in 2 stappen of online-boeking of een directe spoedlijn aanbieden. Zonder chatbot lekt een groot deel van deze social-bezoekers weer weg vóór de boeking-knop omdat ze eerst willen weten of jij de juiste persoon bent.
 
 ## Na de hittegolf: opvolg-mail naar baasjes die niet boekten
 
@@ -84,19 +84,19 @@ Vier cijfers, niet veertien. Een hittegolf-campagne loopt 7-10 dagen en je hebt 
 
 **(1) Reach per post (Instagram + Facebook gecombineerd).** Doel: post 1 boven 1500 weergaven (vaste klanten + lokale ontdekking), post 2 reel boven 2500 weergaven, post 3 minimaal 800. Zit je daaronder, dan staat ofwel je content-kwaliteit op verschillende posts opgelegd, ofwel je publieke-account-bereik is structureel te klein voor effectieve campagnes. In het laatste geval is een paid-boost van €15-30 per post tijdens de campagne-week vaak goed renderend.
 
-**(2) Booking-conversie tijdens de campagneweek versus normale-week.** Doel: 25-40% verhoging in nieuwe consults voor de week. Lager dan +15% en de campagne haalt onvoldoende rendement uit de tijd-investering.
+**(2) Booking-conversie tijdens de campagneweek versus normale-week.** Doel: reken met een verhoging van 25-40% in nieuwe consults voor de week. Lager dan +15% en de campagne haalt onvoldoende rendement uit de tijd-investering.
 
 **(3) Telefoonpiek-piek (gemiddelde wachttijd aan de balie).** Tegenintuitief: een succesvolle campagne kan de piek-belasting ZWAARDER maken in dag +1 tot +3. Dat is geen falen, dat is exact het patroon waar de campagne op stuurt. Wel: zorg dat je [ai telefonist voor dierenartsen](/voice-ai) op die dagen de spoed-routering versneld doet, en dat baasjes met routine-vragen niet je menselijke receptie overbelasten.
 
-**(4) Reviews-instroom in de 2 weken na de campagne.** Klanten die tijdens een hittegolf gerustgesteld zijn over hun dier zijn 30-40% meer geneigd om een review achter te laten. Combineer een goed-getimede review-prompt met [review management voor dierenartsen](/reviews) in dag +5 tot +10 om die instroom systematisch te oogsten.
+**(4) Reviews-instroom in de 2 weken na de campagne.** Klanten die tijdens een hittegolf gerustgesteld zijn over hun dier zijn merkbaar meer geneigd om een review achter te laten. Combineer een goed-getimede review-prompt met [review management voor dierenartsen](/reviews) in dag +5 tot +10 om die instroom systematisch te oogsten.
 
 ## Telefoonpiek opvangen tijdens de campagneweek
 
 Een succesvolle campagne genereert telefoondrukte. Drie defensieve maatregelen voorkomen dat de praktijk verzuipt:
 
-**Pre-allocatie van spreekuur-blokken.** Voor de start van de campagne reserveer je 30-40% van de spreekuren in dag +1 tot +4 voor "hitte-gerelateerd consult". Niet vrij vermarkten via de online-booking, alleen via de telefoon en receptie boekbaar. Dit voorkomt dat de routine-controle-stroom de hitte-piek verdringt.
+**Pre-allocatie van spreekuur-blokken.** Voor de start van de campagne reserveer je een flink deel van de spreekuren (reken met 30-40%) in dag +1 tot +4 voor "hitte-gerelateerd consult". Niet vrij vermarkten via de online-booking, alleen via de telefoon en receptie boekbaar. Dit voorkomt dat de routine-controle-stroom de hitte-piek verdringt.
 
-**Voice-AI als eerste-lijn filter.** Alle inkomende oproepen in dag 0 tot +4 worden eerst door de AI-telefonist beantwoord, die in 30 seconden bepaalt of het routine of urgentie is. Routine-vragen krijgen een directe link naar de online-boeking + bevestiging via SMS. Urgentie-gesprekken worden naar je menselijke receptie doorgeleid. Dit vermindert de telefoon-bezetting met 40-60% zonder dat de hulp minder goed is.
+**Voice-AI als eerste-lijn filter.** Alle inkomende oproepen in dag 0 tot +4 worden eerst door de AI-telefonist beantwoord, die in 30 seconden bepaalt of het routine of urgentie is. Routine-vragen krijgen een directe link naar de online-boeking + bevestiging via SMS. Urgentie-gesprekken worden naar je menselijke receptie doorgeleid. Dit vermindert de telefoon-bezetting fors zonder dat de hulp minder goed is.
 
 **Avond-spreekuur extra inplannen.** Als je standaard om 17:00 sluit, overweeg in de campagneweek een extra spreekuur tot 19:00 voor specifiek hitte-vragen. Communiceer dit in post 3 (dag -2) van je campagne, dat verlaagt de gewone-spreekuur-druk en geeft werkende baasjes een toegankelijk slot.
 
