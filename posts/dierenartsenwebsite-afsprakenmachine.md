@@ -47,7 +47,7 @@ Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt als dier
 
 ## Mobiel-first denken
 
-Meer dan 65% van de bezoekers van een dierenartsenwebsite komt via een smartphone. Vaak vanuit een urgente situatie: het huisdier is ziek of gewond. Je website moet op mobiel perfect werken:
+Verreweg de meeste bezoekers van een dierenartsenwebsite komen via een smartphone. Vaak vanuit een urgente situatie: het huisdier is ziek of gewond. Je website moet op mobiel perfect werken:
 
 - **Click-to-call**: een telefoonknop voor spoed
 - **Snel boekingsformulier**: grote invoervelden, weinig typen
