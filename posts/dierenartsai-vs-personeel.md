@@ -11,13 +11,13 @@ cluster: "automatisering"
 
 Er is een enorm tekort aan paraveterinairen. Als je het geluk hebt een goede assistente te vinden, wil je die dan de hele dag de telefoon laten opnemen en facturen laten typen? Nee! Die wil je inzetten bij de patiënt, in de OK, in het lab.
 
-Toch zijn veel assistentes 60% van hun tijd kwijt aan administratie en telefoon. Zonde van hun talent en jouw geld.
+Toch zijn veel assistentes een groot deel van hun tijd kwijt aan administratie en telefoon. Zonde van hun talent en jouw geld.
 
 ## De Kostenvergelijking
 
 Laten we de feiten eens op een rij zetten. Een fulltime paraveterinair kost de praktijk al snel €45.000+ per jaar (inclusief werkgeverslasten).
 
-DierenartsAI (Elite pakket) kost €297 per maand, oftewel €3.564 per jaar. Dat is minder dan 10%.
+DierenartsAI (Elite pakket) kost €297 per maand, oftewel €3.564 per jaar. Tegenover €45.000 aan loonkosten is dat minder dan 8%.
 
 ### Laat assistentes excelleren
 
