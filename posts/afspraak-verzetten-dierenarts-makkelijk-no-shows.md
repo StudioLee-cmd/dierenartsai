@@ -22,7 +22,7 @@ Elke afspraakherinnering die je stuurt bevat twee opties: bevestigen of verzette
 
 De link gaat naar je online agenda waar het baasje direct een vrij moment kan selecteren. De oude afspraak wordt automatisch geannuleerd, de nieuwe staat direct in je systeem. Geen telefoontje nodig, geen uitleg, geen schaamte.
 
-Het effect is meetbaar: praktijken die een verzet-link toevoegen aan hun herinneringen, zien hun no-show percentage dalen met 25 tot 40 procent. Niet omdat er minder annuleringen zijn, maar omdat annuleringen op tijd binnenkomen en de vrijgekomen plek nog gevuld kan worden.
+Het effect is merkbaar: praktijken die een verzet-link toevoegen aan hun herinneringen, zien hun no-show percentage duidelijk dalen. Niet omdat er minder annuleringen zijn, maar omdat annuleringen op tijd binnenkomen en de vrijgekomen plek nog gevuld kan worden.
 
 ## 24/7 online verzetten
 
