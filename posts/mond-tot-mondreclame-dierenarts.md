@@ -14,10 +14,10 @@ Diereneigenaren praten. In het park, op sociale media, bij de hondenschool — d
 
 In de veterinaire sector is vertrouwen alles. Baasjes vertrouwen hun huisdier toe aan iemand — dat is een emotionele beslissing:
 
-- **92% van consumenten** vertrouwt aanbevelingen van bekenden
-- **Nieuwe patienten via doorverwijzing** hebben een 35% hogere retentie
+- **Vrijwel alle consumenten** vertrouwen aanbevelingen van bekenden
+- **Nieuwe patienten via doorverwijzing** hebben een duidelijk hogere retentie
 - **Kosten:** €0 — versus €15-30 per lead via Google Ads
-- **Conversie:** doorverwezen leads converteren 4x beter
+- **Conversie:** doorverwezen leads converteren veel beter
 
 ## Wanneer praten baasjes over je?
 
