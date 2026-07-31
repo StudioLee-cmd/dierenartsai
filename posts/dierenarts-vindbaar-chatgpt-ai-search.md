@@ -11,7 +11,7 @@ cluster: "vindbaarheid"
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke dierenarts ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
-- **Een gemiddelde Nederlandse praktijk wordt door ChatGPT in minder dan 5 procent van de relevante prompts genoemd**, terwijl ketens als Sterkliniek en Anicura 60 tot 80 procent halen.
+- **Een gemiddelde Nederlandse praktijk wordt door ChatGPT zelden in de relevante prompts genoemd**, terwijl ketens als Sterkliniek en Anicura er structureel wél uit komen.
 - **Drie hefbomen werken bewezen:** vraag-antwoord content, VeterinaryCare schema markup en externe vermeldingen op review-platformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer praktijkbezoeken.
 - **Wie het moet overwegen:** elke solo- of groepspraktijk die nu slecht zichtbaar is in zoekopdrachten als "beste dierenarts in [stad]".
@@ -32,7 +32,7 @@ ChatGPT en Perplexity citeren websites op basis van drie signalen die deels ande
 
 **Signaal 2: Gestructureerde data.** Schema markup, vooral het VeterinaryCare-type, helpt ChatGPT om jouw bedrijf eenduidig te identificeren. Zonder schema moet het AI-model raden of "Dierenartspraktijk Centrum" een dierenarts, een huisarts of een sportcentrum is. Met schema weet het zeker: VeterinaryCare in Utrecht, geopend op weekdagen, met spoed-service. Wij schreven eerder een uitgebreide gids over [schema markup goed instellen](/blog/schema-markup-dierenarts-vindbaarheid), voor AI-search is dit minimaal even belangrijk als voor Google.
 
-**Signaal 3: Vraag-antwoord patroon in content.** AI-modellen extraheren letterlijke zinnen uit websites die een vraag direct beantwoorden. Een pagina met de zin "Een gecastreerde kater krijgt 1 keer per jaar een vaccinatie" wordt veel vaker geciteerd dan een pagina met dezelfde info verspreid in drie alinea's. Schrijf je content alsof je een interview geeft: vraag in de kop, antwoord in de eerste zin van de paragraaf.
+**Signaal 3: Vraag-antwoord patroon in content.** AI-modellen extraheren letterlijke zinnen uit websites die een vraag direct beantwoorden. Een pagina die de zin "Een gecastreerde kater krijgt 1 keer per jaar een vaccinatie" letterlijk bevat, wordt veel vaker geciteerd dan een pagina met dezelfde info verspreid in drie alinea's. Schrijf je content alsof je een interview geeft: vraag in de kop, antwoord in de eerste zin van de paragraaf.
 
 ## Zeven tactieken om vindbaar te worden in ChatGPT
 
@@ -42,7 +42,7 @@ Hieronder zeven concrete acties, gerangschikt op verwachte impact in de eerste d
 
 **2. Implementeer VeterinaryCare schema markup.** Voeg JSON-LD toe aan elke pagina van je website met VeterinaryCare als hoofdtype, OpeningHoursSpecification voor je openingstijden, en EmergencyService als je spoed biedt. Test via Google's Rich Results Test of het foutloos wordt gelezen.
 
-**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Yelp en gespecialiseerde platformen als Independer of ZorgkaartNederland zwaar mee. Een praktijk met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan een praktijk met 12 reviews. Stuur na elk consult automatisch een WhatsApp met een review-link. Wij zien gemiddeld 18 procent conversie als de uitnodiging binnen 2 uur na bezoek wordt verstuurd.
+**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Yelp en gespecialiseerde platformen als Independer of ZorgkaartNederland zwaar mee. Een praktijk met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan een praktijk met 12 reviews. Stuur na elk consult automatisch een WhatsApp met een review-link. Wij zien duidelijk meer conversie als de uitnodiging binnen 2 uur na bezoek wordt verstuurd.
 
 **4. Zorg voor minimaal drie externe vermeldingen per kwartaal.** Schrijf een gastblog op een huisdier-platform, geef commentaar in een lokale krant over een actueel onderwerp (winterse spoedgevallen, zomerse hittegolf-risico's), of laat je interviewen voor een vakmedium. Drie vermeldingen per kwartaal op middel- tot zware autoriteit-domeinen verhoogt je AI-citaties merkbaar.
 
@@ -66,7 +66,7 @@ Het derde veld is **knowsLanguage**. Een AI-model dat een Engelstalige expat in 
 
 ## Reviews en autoriteit: waarom ChatGPT Trustpilot leest
 
-Toen wij in maart 2026 onze eerste AI-search audit deden voor 22 Nederlandse dierenartspraktijken, was de bevinding ondubbelzinnig: praktijken met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Praktijken met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in 60 tot 70 procent van de relevante prompts geciteerd.
+Toen wij in maart 2026 onze eerste AI-search audit deden voor 22 Nederlandse dierenartspraktijken, was de bevinding ondubbelzinnig: praktijken met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Praktijken met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in het merendeel van de relevante prompts geciteerd.
 
 Reviews op Google zijn de basis. Maar AI-modellen lezen ook andere bronnen. ZorgkaartNederland, Independer en zelfs Facebook-reviews wegen mee. Het patroon dat we zien: hoe diverser de review-bronnen, hoe groter de kans op vermelding. Vijftig Google-reviews wegen minder zwaar dan 30 Google-reviews plus 15 ZorgkaartNederland-reviews plus 10 Trustpilot-reviews. AI-modellen interpreteren spreiding als bewijs van authenticiteit.
 
@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst even wat context: vaccinaties zijn al lang een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een puppy krijgt drie vaccinatierondes: op 6, 9 en 12 weken oud" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste honden" wordt nooit geciteerd. "85 procent van de honden onder de 8 jaar" wel. Front-load percentages, euro-bedragen en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste honden" wordt nooit geciteerd. "[X] procent van de honden onder de 8 jaar" wel, met je eigen cijfer ingevuld. Front-load percentages, euro-bedragen en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je de beste zorg" wordt overgeslagen. Een zin als "Onze praktijk werkt sinds 2018 met digitale röntgenapparatuur" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
@@ -105,7 +105,7 @@ In de eerste maand zijn drie acties uitgevoerd: VeterinaryCare schema markup ge�
 
 In maand drie was het Google-review-aantal gegroeid naar 47. Een gastblog over hittegolf-risico's voor honden was geplaatst op Hondenarena.nl. In de hertest van dezelfde 25 prompts werd de praktijk in 6 prompts genoemd, inclusief twee specialisatie-prompts ("dierenarts katten Haarlem" en "dierenarts gespecialiseerd in oudere honden Haarlem"). In maand zes, met 78 reviews en vijf externe vermeldingen, was dat opgelopen naar 14 prompts van de 25.
 
-De impact op echte bezoekers: 23 procent meer eerste consulten in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar volgens de praktijkhouder noemden in de intake-gesprekken zes nieuwe klanten expliciet ChatGPT als bron.
+De impact op echte bezoekers: merkbaar meer eerste consulten in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar volgens de praktijkhouder noemden in de intake-gesprekken zes nieuwe klanten expliciet ChatGPT als bron.
 
 ## Veelgestelde vragen
 
@@ -115,7 +115,7 @@ Bij goede uitvoering zie je eerste citaties na 8 tot 12 weken. AI-modellen index
 
 ### Werkt dit ook voor Perplexity en Google AI Overviews?
 
-Ja, voor 80 procent overlapt de aanpak. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
+Ja, de aanpak overlapt grotendeels. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
 
 ### Moet ik mijn klassieke Google SEO laten vallen?
 
