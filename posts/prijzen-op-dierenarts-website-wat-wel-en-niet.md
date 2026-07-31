@@ -10,10 +10,10 @@ cluster: "website"
 ---
 
 **In het kort:**
-- Prijstransparantie op je dierenarts-website verlaagt no-shows met 15-20% en filtert prijs-gevoelige leads vroeg uit, ZONDER dat het je marges aantast. De wetenschappelijke literatuur (Veterinary Marketing Review 2024) toont dat baasjes die de prijs vooraf zien 30-40% sneller besluiten en minder klagen achteraf.
+- Prijstransparantie op je dierenarts-website verlaagt no-shows merkbaar en filtert prijs-gevoelige leads vroeg uit, ZONDER dat het je marges aantast. Baasjes die de prijs vooraf zien besluiten sneller en klagen minder achteraf.
 - Welke prijzen wel: vanaf-prijzen voor consult, vaccinatie, gezondheidscheck, standaard-ingrepen (castratie, sterilisatie), euthanasie. Welke niet: complexe chirurgische ingrepen, behandeling chronische aandoeningen, spoedzorg met onzekere uitkomst.
 - De ideale middenweg: een transparante prijs-pagina met vanaf-bedragen voor 6-10 standaard-diensten, plus een "kosten-calculator" voor pakket-keuzes (puppy-pakket, jaarcontrole, senior-pakket). Voor complexe ingrepen: "kosten op aanvraag na consult" met verwachte range.
-- Voor de marketing-flow: een transparante prijs-pagina trekt 25-35% meer gekwalificeerde aanvragen omdat baasjes die niet voor de prijs kunnen of willen betalen, zichzelf vroeg uitfilteren. Dat scheelt afspraak-no-shows en intake-tijd. Een [crm voor dierenartsen](/crm) met automatische prijs-update per dienst maakt het onderhoud van die pagina een 5-minuten-per-week taak.
+- Voor de marketing-flow: een transparante prijs-pagina trekt merkbaar meer gekwalificeerde aanvragen omdat baasjes die niet voor de prijs kunnen of willen betalen, zichzelf vroeg uitfilteren. Dat scheelt afspraak-no-shows en intake-tijd. Een [crm voor dierenartsen](/crm) met automatische prijs-update per dienst maakt het onderhoud van die pagina een 5-minuten-per-week taak.
 
 ## Het dilemma: prijzen tonen of niet
 
@@ -23,8 +23,8 @@ Maar de markt is veranderd. Baasjes vergelijken in 2026 actief tussen 3-5 dieren
 
 Twee onderzoeken die dit bevestigen:
 
-- **VetMarketing 2024:** baasjes die vanaf-prijzen op website zagen, hadden 30% meer kans een afspraak te boeken dan baasjes die geen prijs zagen. Geen verschil in eindgemiddelde-prijs per consult (de "premium-waardering" werd niet ondermijnd).
-- **KNMVD onderzoek 2025:** 67% van de huisdier-eigenaars geeft aan dat "geen prijs op website" een afhakers-signaal is bij keuze nieuwe dierenarts. Dat is gestegen van 41% in 2020.
+- **Prijs vooraf tonen werkt:** baasjes die vanaf-prijzen op de website zagen, boeken vaker een afspraak dan baasjes die geen prijs zagen. Geen verschil in eindgemiddelde-prijs per consult (de "premium-waardering" werd niet ondermijnd).
+- **Een groeiend afhakers-signaal:** een ruime meerderheid van de huisdier-eigenaars geeft aan dat "geen prijs op website" meeweegt bij de keuze voor een nieuwe dierenarts, en dat aandeel groeit.
 
 Voor de praktijk-eigenaar: prijstransparantie is in 2026 niet een keuze meer, het is een marktverwachting.
 
@@ -32,7 +32,7 @@ Voor de praktijk-eigenaar: prijstransparantie is in 2026 niet een keuze meer, he
 
 De academische literatuur over price transparency in healthcare (humaan + veterinair) wijst op vier consistente bevindingen:
 
-1. **Lagere no-shows.** Patiënten die de prijs vooraf weten, komen vaker op de afspraak (no-show daling van 15-25%).
+1. **Lagere no-shows.** Patiënten die de prijs vooraf weten, komen vaker op de afspraak (merkbaar minder no-shows).
 2. **Hogere lead-kwaliteit.** Inbound aanvragen zijn meer "ready to book" omdat de prijs-vraag al beantwoord is.
 3. **Geen prijs-erosie.** De gemiddelde prijs per consult blijft gelijk of stijgt licht (omdat prijs-gevoelige patiënten zichzelf vroeg uitfilteren, en de praktijk meer tijd over heeft voor premium-positionering bij blijvende patiënten).
 4. **Meer mondelinge mond-tot-mondreclame.** Tevreden klanten verwijzen actiever ("die praktijk is transparant met prijzen, geen verrassingen").
@@ -90,7 +90,7 @@ Voorbeeld-layout:
 
 Een interactieve tool waar de baas zijn diersoort, leeftijd en gewenste pakket aangeeft, en een directe schatting krijgt. Onderhoud: 1x per maand. Tijdsinvestering inrichting: 12-20 uur via [gratis website voor dierenartsen](/gratis-website) of een specialistisch dev-team.
 
-Conversie-bonus: een kosten-calculator verhoogt time-on-page met 90-120% en lead-conversie met 25-40%.
+Conversie-bonus: een kosten-calculator verhoogt de time-on-page fors en de lead-conversie merkbaar.
 
 ### Strategie 3: pakketten + consult-uitnodiging
 
