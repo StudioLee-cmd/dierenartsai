@@ -66,7 +66,7 @@ Een korte follow-up sequentie:
 - Dag 5: e-mail met informatie over registratie en een link om direct een afspraak te boeken
 - Dag 10: laatste bericht ("We houden graag een plekje voor u en uw huisdier vrij")
 
-Na drie contactmomenten stop je. Meer wordt opdringerig. Maar die drie berichten verhogen de kans op conversie met 30 tot 40 procent.
+Na drie contactmomenten stop je. Meer wordt opdringerig. Maar die drie berichten verhogen de kans op conversie aanzienlijk.
 
 ## Stap 4: Bereikbaarheid buiten kantoortijden
 
@@ -94,7 +94,7 @@ Dit geldt vooral voor niet-urgente afspraken: vaccinaties, gezondheidscontroles,
 
 Een dierenartspraktijk die haar opvolging verbetert van "we reageren wanneer het uitkomt" naar "we reageren binnen 2 uur", ziet gemiddeld:
 
-- 25 tot 40 procent meer geboekte afspraken uit dezelfde hoeveelheid aanvragen
+- Merkbaar meer geboekte afspraken uit dezelfde hoeveelheid aanvragen
 - Hogere klanttevredenheid (snelle reactie = zorgzame praktijk)
 - Meer nieuwe registraties van baasjes die eerder naar de concurrent gingen
 
