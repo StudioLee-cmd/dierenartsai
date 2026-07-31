@@ -23,7 +23,7 @@ De meeste omzet in een dierenartspraktijk komt van bestaande klanten. AI helpt d
 
 Een hond die jaarlijks gevaccineerd moet worden, krijgt 4 weken van tevoren automatisch een herinnering. De kat die 6 maanden geleden een grote ingreep had, krijgt een follow-up bericht. Dit alles zonder dat de assistente er aan hoeft te denken.
 
-Praktijken die dit systeem inzetten, zien 20–30% meer herhaalbezoeken uit de bestaande klantenkring.
+Praktijken die dit systeem inzetten, zien merkbaar meer herhaalbezoeken uit de bestaande klantenkring.
 
 ## Nieuwe klanten via Google en reviews
 
