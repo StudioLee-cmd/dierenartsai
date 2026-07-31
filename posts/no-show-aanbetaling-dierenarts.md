@@ -17,7 +17,7 @@ cluster: "automatisering"
 
 ## Waarom no-shows je praktijk meer kosten dan je denkt
 
-Een baasje belt niet af, komt niet opdagen, en jij zit met een leeg consultblok. Onderzoek in de zorg laat zien dat no-shows kunnen oplopen tot rond de 10 procent van alle afspraken. Voor een praktijk die de hele dag doorloopt, betekent dat al snel meerdere lege plekken per week.
+Een baasje belt niet af, komt niet opdagen, en jij zit met een leeg consultblok. In de zorg lopen no-shows op tot een substantieel deel van alle afspraken. Voor een praktijk die de hele dag doorloopt, betekent dat al snel meerdere lege plekken per week.
 
 Reken het eens door. Een gemist consult van een halfuur is niet alleen het tarief dat je misloopt, het is ook een plek die een ander dier had kunnen krijgen. Tel daar de voorbereiding en de tijd van je assistente bij op, en je begrijpt waarom dit oploopt tot duizenden euro's per jaar. Wil je je eigen cijfer weten, dan helpt ons artikel over [hoeveel een gemiste afspraak je echt kost](/blog/no-show-kosten-dierenarts-berekenen) je op weg.
 
