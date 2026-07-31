@@ -9,7 +9,7 @@ tags: ["Mond-tot-mond", "Referrer Netwerk", "Doorverwijzingen", "B2B", "Dierenar
 cluster: "branding"
 ---
 **In het kort:**
-- 35 tot 50% van de nieuwe klanten in een gevestigde Nederlandse dierenartspraktijk komt via mond-tot-mond, maar het overgrote deel daarvan loopt via consumenten (tevreden baasjes). Een tweede laag die door de meeste praktijken onbenut blijft: het B2B-referrer-netwerk van hondenuitlaters, kennelclubs, dog-walkers, gedragstherapeuten en dierenpensions.
+- Een groot deel van de nieuwe klanten in een gevestigde Nederlandse dierenartspraktijk komt via mond-tot-mond, maar het overgrote deel daarvan loopt via consumenten (tevreden baasjes). Een tweede laag die door de meeste praktijken onbenut blijft: het B2B-referrer-netwerk van hondenuitlaters, kennelclubs, dog-walkers, gedragstherapeuten en dierenpensions.
 - Een goed onderhouden netwerk van 8 a 12 actieve referrers in jouw regio levert tussen 25 en 60 nieuwe patient-introducties per jaar, tegen vrijwel nul euro acquisitie-kost. Per nieuwe patient gemiddeld €450 lifetime value, oftewel €11.000 tot €27.000 onbetaalde groei-omzet.
 - ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) noemt vertrouwen en aanbeveling als belangrijkste kanaal-keuze voor dierenarts-selectie, vooral in het stedelijk gebied waar het aanbod groot is en consumenten verlamd raken door keuze.
 - Drie ingrepen die het referrer-netwerk productief maken: een gestructureerde lijst van regionale partners, een eenvoudig partnership-aanbod met wederzijds voordeel, en een opvolging-systeem dat doorverwijzingen herkent en bedankt.
@@ -22,7 +22,7 @@ Vergelijk dit met een tevreden klant: een baasje vertelt over zijn dierenarts mi
 
 Het cumulatieve verschil is enorm. Een netwerk van 10 actieve referrers vervangt qua doorverwijs-volume het effect van 100 a 200 tevreden klanten. En met veel minder onderhoud-werk: 10 partner-gesprekken per kwartaal vs honderden klant-momenten.
 
-ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) bevestigt dat baasjes hun dierenarts-keuze in 60% van de gevallen baseren op directe persoonlijke aanbeveling, en niet op Google reviews of advertenties. In stedelijk gebied (Amsterdam, Utrecht, Den Haag) is dat percentage zelfs 70%, omdat het aanbod overweldigt en mensen liever vertrouwen op iemand met directe ervaring.
+ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) bevestigt dat baasjes hun dierenarts-keuze in de meeste gevallen baseren op directe persoonlijke aanbeveling, en niet op Google reviews of advertenties. In stedelijk gebied (Amsterdam, Utrecht, Den Haag) weegt die aanbeveling nog zwaarder, omdat het aanbod overweldigt en mensen liever vertrouwen op iemand met directe ervaring.
 
 [Een gratis AI-scan voor dierenartsen](/gratis-scan) brengt voor jouw regio in kaart welke partner-categorieen actief zijn binnen jouw verzorgingsgebied en welke al klanten naar jou doorverwijzen.
 
