@@ -39,7 +39,7 @@ Een automatische herinnering op het juiste moment lost dat op:
 ## De voordelen voor je praktijk
 
 ### Minder vergeten afspraken
-Eigenaren die een herinnering krijgen, komen in 85% van de gevallen op tijd. Zonder herinnering is dat slechts 50-60%.
+Eigenaren die een herinnering krijgen, komen veel vaker op tijd dan eigenaren zonder herinnering.
 
 ### Minder druk op de receptie
 Je receptie hoeft niet meer handmatig lijsten door te nemen en te bellen. Het systeem doet het automatisch — 24/7, zonder fouten.
