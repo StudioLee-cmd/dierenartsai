@@ -11,12 +11,12 @@ cluster: "website"
 
 Een baasje wiens hond plotseling braakt en niet meer eet, scant je website in 8 seconden. Twee dingen wil hij weten: bel ik nu, of plan ik morgenochtend. Een baasje dat een jaarlijkse vaccinatie wil, scant óók in 8 seconden, maar zoekt iets totaal anders: kan ik zelf een afspraak prikken zonder te bellen. En een baasje dat zoekt naar gedragstherapie voor een jonge hond, scant op nóg iets anders: is jullie praktijk hier echt in gespecialiseerd, of doen jullie alles "ook een beetje".
 
-Drie totaal verschillende baasjes, drie verschillende intenties, één website. De meeste Nederlandse dierenartsenwebsites mengen alle drie door elkaar in een algemene "Onze diensten"-pagina, waardoor 50-70 procent van de bezoekers de juiste actie niet vindt en wegklikt. Dit artikel breekt de oplossing open: een 3-laags website-structuur die elk type baasje precies geeft wat hij zoekt, in de eerste 8 seconden.
+Drie totaal verschillende baasjes, drie verschillende intenties, één website. De meeste Nederlandse dierenartsenwebsites mengen alle drie door elkaar in een algemene "Onze diensten"-pagina, waardoor een groot deel van de bezoekers de juiste actie niet vindt en wegklikt. Dit artikel breekt de oplossing open: een 3-laags website-structuur die elk type baasje precies geeft wat hij zoekt, in de eerste 8 seconden.
 
 ## In het kort
 
 - Drie type baasjes (spoed, afspraak, specialisme) hebben drie totaal verschillende behoeftes en drie verschillende navigatie-paden nodig.
-- Een sticky bel-knop (alleen voor spoed) plus een direct online afsprakensysteem (voor regulier) plus aparte specialisme-pagina's (voor verwijzers en hoog-intentie baasjes) verhogen conversie met 30-60 procent.
+- Een sticky bel-knop (alleen voor spoed) plus een direct online afsprakensysteem (voor regulier) plus aparte specialisme-pagina's (voor verwijzers en hoog-intentie baasjes) verhogen de conversie fors.
 - De grootste fout is het spoednummer en het reguliere telefoonnummer op dezelfde plek tonen.
 - De homepage moet binnen 5 seconden voor elk van de drie baasjes het juiste pad opleveren.
 - Heldere scheiding tussen de drie lagen verlaagt ook de telefonische werkdruk van de assistente significant.
@@ -53,7 +53,7 @@ Voor het opvangen van de spoed-oproepen zelf, vooral in de avonden en weekenden,
 
 ## Laag 2: het afspraak-pad
 
-Het reguliere afspraak-pad is waar 70-80 procent van het verkeer terechtkomt. Hier wint of verlies je in conversie:
+Het reguliere afspraak-pad is waar het leeuwendeel van het verkeer terechtkomt. Hier wint of verlies je in conversie:
 
 - **Online afsprakensysteem prominent in de hoofdnavigatie** (geen "neem contact op" maar "Maak afspraak"). Bij voorkeur direct geïntegreerd op de website, niet een externe link.
 - **Drie afspraak-types gescheiden:** consult, vaccinatie, controle. Verschillende tijdsduur, verschillende voorbereidings-instructies, verschillende prijsindicatie.
@@ -81,9 +81,9 @@ Met deze 3-laags structuur is de homepage geen "welkomspagina" meer maar een rou
 
 Voor wie nu een nieuwe site overweegt, lees ook [een professionele dierenartsenwebsite laten maken](/gratis-website) waar deze 3-laags structuur standaard in zit.
 
-## Mobiele optimalisatie: 70 procent van de bezoekers
+## Mobiele optimalisatie: het merendeel van de bezoekers
 
-70 procent van de baasjes komt op je dierenartsenwebsite via mobiel. Op mobiel is de 3-laags scheiding nóg crucialer:
+Het merendeel van de baasjes komt op je dierenartsenwebsite via mobiel. Op mobiel is de 3-laags scheiding nóg crucialer:
 
 - **De sticky spoed-knop** moet altijd in beeld blijven, ook bij scrollen, bovenaan vastgepind in afwijkende kleur.
 - **De afspraak-knop** moet een "thumb-friendly" tap-zone hebben: minimaal 48x48 pixels, met genoeg ruimte rond zodat een paniekerende of haastige baasje niet per ongeluk de verkeerde knop tapt.
@@ -98,9 +98,9 @@ Een 3-laags structuur is niet alleen goed voor conversie maar ook voor lokale SE
 
 1. **Spoed en regulier op hetzelfde nummer.** Tijdens drukke uren is je assistente niet beschikbaar voor spoed; tijdens stille uren krijgt regulier geen reactie. Apart nummer (echt of via voicemenu) lost dit op.
 2. **Een algemene "Diensten"-opsomming in plaats van specialisme-pagina's.** Geen Google-vindbaarheid en geen vertrouwen-opbouw.
-3. **Telefoonnummer als enige call-to-action.** 60 procent van de baasjes onder 45 jaar geeft de voorkeur aan online boeken boven bellen.
+3. **Telefoonnummer als enige call-to-action.** De meeste baasjes onder 45 jaar geven de voorkeur aan online boeken boven bellen.
 4. **Geen sticky knop op mobiel.** De baasje moet kunnen bellen zonder eerst naar boven te scrollen.
-5. **Lange contactformulieren.** Maximaal 4-5 velden in een afspraakformulier. Daarboven daalt de conversie met 30-50 procent per extra veld.
+5. **Lange contactformulieren.** Maximaal 4-5 velden in een afspraakformulier. Daarboven daalt de conversie merkbaar per extra veld.
 6. **Geen meting per laag.** Zonder Google Analytics of Plausible-events op spoed-knop, afspraak-knop en specialisme-pagina's weet je niet welke laag underperformt.
 
 ## Wat je website nodig heeft om dit te realiseren
@@ -145,7 +145,7 @@ Niet veel meer; de extra werk zit vooral in content (3-5 specialisme-pagina's sc
 
 Een dierenartsenwebsite die spoed, afspraak en specialisme niet scheidt, kost je elke maand baasjes. Een baasje die niet binnen 8 seconden ziet wat hij moet doen, klikt weg. Een baasje die alleen "Onze diensten" ziet, neemt jouw praktijk niet serieus voor specialistische zorg.
 
-De 3-laags structuur is geen ontwerp-fantasie maar een conversie-basics-regel: één doel per pagina, één pad per baasje. Wie deze structuur invoert, ziet doorgaans binnen 3 maanden 30-60 procent meer online afspraken, minder telefonische druk op de assistente, en een betere positie in de lokale zoekresultaten voor specialisme-termen.
+De 3-laags structuur is geen ontwerp-fantasie maar een conversie-basics-regel: één doel per pagina, één pad per baasje. Wie deze structuur invoert, ziet doorgaans binnen 3 maanden duidelijk meer online afspraken, minder telefonische druk op de assistente, en een betere positie in de lokale zoekresultaten voor specialisme-termen.
 
 Wil je weten waar jouw huidige website nu lekt? Plan een [gratis ai-scan](/gratis-scan) en we doen een volledige doorlichting van je site, met concrete verbeterpunten per laag. We werken met de Groei-of-Geld-Terug Garantie, dus je weet vooraf wat je investering oplevert.
 
