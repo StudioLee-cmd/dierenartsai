@@ -24,7 +24,7 @@ Drie dingen maken dierenarts-prijzen anders dan andere branches.
 **In het kort:**
 - Vooraf communiceren van tarieven is belangrijker dan het exacte bedrag.
 - Bandbreedtes (van-tot) werken beter dan exacte prijzen.
-- Op de website een algemene tarievenpagina hebben verlaagt achteraf-klachten met 60 procent.
+- Op de website een algemene tarievenpagina hebben verlaagt achteraf-klachten fors.
 - In de spreekkamer altijd vooraf prijs-indicatie geven voordat een ingreep start.
 - De grootste fout: alleen praten over prijs als de klant ernaar vraagt.
 
@@ -42,7 +42,7 @@ Een nieuwe klant kijkt eerst online. Een dierenartspraktijk zonder enige prijs-i
 
 ### Moment 2: bij telefonische intake
 
-Als een klant belt voor een afspraak, vraagt 70 procent indirect om een prijs-indicatie. "Ongeveer wat kost een..." Een receptionist die "dat hangt ervan af" zegt zonder bandbreedte achterlaat een vacuüm.
+Als een klant belt voor een afspraak, vraagt het merendeel indirect om een prijs-indicatie. "Ongeveer wat kost een..." Een receptionist die "dat hangt ervan af" zegt zonder bandbreedte achterlaat een vacuüm.
 
 **Beter:** "Een algemene controle is rond de 60 euro. Als de dierenarts iets vindt dat extra onderzoek vraagt, krijgt u eerst een prijs-indicatie voor we beginnen."
 
@@ -131,10 +131,10 @@ Als de klant pas bij het afrekenen weet wat het kost, is je timing verkeerd. Com
 
 Bij een Nederlandse dierenartspraktijk die we het afgelopen jaar hebben begeleid bij het herzien van hun prijscommunicatie:
 
-- **Klachten achteraf over factuur:** -60 procent (van 8-10 per maand naar 2-3)
-- **Negatieve reviews over prijs:** -75 procent
+- **Klachten achteraf over factuur:** fors omlaag (in dit voorbeeld van 8-10 per maand naar 2-3)
+- **Negatieve reviews over prijs:** sterk omlaag
 - **Klanttevredenheid (NPS):** +18 punten
-- **Acceptatie van duurdere behandelingen:** +25 procent (omdat klanten vooraf wisten wat te verwachten)
+- **Acceptatie van duurdere behandelingen:** merkbaar hoger (omdat klanten vooraf wisten wat te verwachten)
 
 Voor een gemiddelde praktijk betekent dit ook minder tijd kwijt aan klacht-afhandeling en meer geboekte vervolgafspraken. Onze pagina over [reviews](/reviews) gaat dieper in op hoe je proactief reputatie opbouwt.
 
@@ -160,7 +160,7 @@ Praat hier altijd over. "Ik schatte 280 maar het werd 350 omdat we [reden]. Dat 
 
 ### Mag een prijs-indicatie een bindende offerte zijn?
 
-Nee, in de spreekkamer is een prijs-indicatie altijd indicatief. Maar een redelijke marge (10-20 procent boven of onder) hoor je wel te respecteren. Anders de schatting bijstellen.
+Nee, in de spreekkamer is een prijs-indicatie altijd indicatief. Maar een redelijke marge hoor je wel te respecteren; reken met 10-20 procent boven of onder. Anders de schatting bijstellen.
 
 ### Wat met spoedklusten 's avonds en weekend?
 
