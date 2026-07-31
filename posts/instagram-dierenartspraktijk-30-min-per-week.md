@@ -41,7 +41,7 @@ Na vier weken begint de rotatie opnieuw, met een ander seizoensthema in week 1. 
 
 ## Wat in welke post komt: drie regels die altijd gelden
 
-De inhoud van een Instagram-post voor een dierenartspraktijk valt of staat op drie regels. Eén: een mens of een dier in beeld, geen logo en geen quote-tegel als hero-beeld. Een baasje met haar hond in je behandelkamer trekt 5 tot 10 keer zoveel aandacht als een stockfoto van een spuit. Twee: één boodschap per post, niet drie. Een educatieve post over teken is niet ook nog de aankondiging van het zomerverlof. Drie: een concrete call-to-action onderaan ("Plan een teken-check, bel of WhatsApp ons via de bio-link"), geen "neem contact op met ons".
+De inhoud van een Instagram-post voor een dierenartspraktijk valt of staat op drie regels. Eén: een mens of een dier in beeld, geen logo en geen quote-tegel als hero-beeld. Een baasje met haar hond in je behandelkamer trekt veel meer aandacht dan een stockfoto van een spuit. Twee: één boodschap per post, niet drie. Een educatieve post over teken is niet ook nog de aankondiging van het zomerverlof. Drie: een concrete call-to-action onderaan ("Plan een teken-check, bel of WhatsApp ons via de bio-link"), geen "neem contact op met ons".
 
 Voor de casus-posts geldt een vierde regel die makkelijk vergeten wordt: nooit een specifieke patiënt herkenbaar tonen zonder schriftelijke toestemming. Algemeen formuleren ("een terriër van 12 die we deze week zagen") is veiliger dan een specifieke naam plus foto. Een baasje die zichzelf herkent in een ongevraagde post bel je nooit goed terug.
 
