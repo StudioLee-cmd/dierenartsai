@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 **In het kort:**
 - Een gemiddelde MKB-dierenartspraktijk besteedt 8 tot 12 uur per week aan werkbon-invoer, factuur-opmaak en verzekering-declaraties. Bij €75 uurloon kost dat €600 tot €900 per week aan administratie-tijd, oftewel €30.000 tot €45.000 per jaar.
-- 80% van die tijd zit in handmatig overtypen tussen het PMS (Animana, Vetera, Provet Cloud), het facturatie-systeem en het Petplan / Reaal / Inshared-portaal voor directe declaratie. Een goed gekoppelde werkflow brengt dat terug tot 1 a 2 minuten per consult.
+- Het leeuwendeel van die tijd zit in handmatig overtypen tussen het PMS (Animana, Vetera, Provet Cloud), het facturatie-systeem en het Petplan / Reaal / Inshared-portaal voor directe declaratie. Een goed gekoppelde werkflow brengt dat terug tot 1 a 2 minuten per consult.
 - ACM Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) noemt declaratie-vertraging als een van de drie meest genoemde klachten van eigenaren over hun dierenartspraktijk, na onverwachte kosten en wachttijden voor afspraken.
 - Drie ingrepen die de werkbon-flow productief maken: PMS-API-koppeling met je facturatie-systeem, AI-templating voor consult-codes per behandel-type, en een geautomatiseerde declaratie-flow voor Petplan en Reaal.
 
@@ -69,7 +69,7 @@ Totaal aan vermijdbare administratie-kosten bij een gemiddelde MKB-praktijk: €
 
 Een geautomatiseerde werkbon-flow heeft nog een tweede voordeel: je kunt automatisch de baasje informeren over wat er is gefactureerd en gedeclareerd. Direct na de factuur-aanmaak stuurt het systeem een WhatsApp-bericht met: "We hebben de behandeling van [naam dier] verwerkt. Totaal €X. We declareren €Y direct bij Petplan, jouw eigen risico van €Z verwacht je apart op de factuur."
 
-Die proactieve communicatie voorkomt 80% van de "ik snap die rekening niet"-belletjes naar de receptie achteraf, en past goed bij de transparante prijscommunicatie waar baasjes naar zoeken. Een [chatbot voor dierenartsen](/chatbot) op je website kan vervolgvragen over de declaratie automatisch beantwoorden.
+Die proactieve communicatie voorkomt het leeuwendeel van de "ik snap die rekening niet"-belletjes naar de receptie achteraf, en past goed bij de transparante prijscommunicatie waar baasjes naar zoeken. Een [chatbot voor dierenartsen](/chatbot) op je website kan vervolgvragen over de declaratie automatisch beantwoorden.
 
 [Lees ook: Tarieven communiceren als dierenarts: vertrouwen en empathie in prijsgesprekken](/blog/tarieven-dierenarts-vertrouwen-transparantie)
 
