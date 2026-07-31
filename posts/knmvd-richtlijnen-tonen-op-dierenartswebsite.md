@@ -10,7 +10,7 @@ cluster: "website"
 ---
 
 **In het kort:**
-- KNMVD-lidmaatschap, deelname aan het KNMVD-Praktijkkwaliteit register, en zichtbare aansluiting bij KNMVD-richtlijnen (antibiotica-beleid, chirurgie-protocollen) zijn de drie sterkste vertrouwen-signalen op je dierenarts-website. Baasjes die deze keurmerken zien, hebben 28-35% hogere conversie op de eerste afspraak (KNMVD onderzoek 2024).
+- KNMVD-lidmaatschap, deelname aan het KNMVD-Praktijkkwaliteit register, en zichtbare aansluiting bij KNMVD-richtlijnen (antibiotica-beleid, chirurgie-protocollen) zijn de drie sterkste vertrouwen-signalen op je dierenarts-website. Baasjes die deze keurmerken zien, hebben een duidelijk hogere conversie op de eerste afspraak (KNMVD onderzoek 2024).
 - Voor Google's E-E-A-T-rangschikking (Experience, Expertise, Authoritativeness, Trustworthiness) is een dedicated "Kwaliteit & Richtlijnen" pagina met KNMVD-logo's, certificaat-nummers en linking naar publieke registers een directe ranking-boost van 2-4 posities op concurrentievelden als "dierenarts [stad]".
 - Praktisch tonen: een footer-bar met KNMVD-logo, een "Over ons / Kwaliteit" pagina met expliciete uitleg, en bij elke arts in het team-overzicht een vermelding van KNMVD-registratienummer en specifieke aandachtsgebieden volgens KNMVD-classificatie.
 - Een [crm voor dierenartsen](/crm) met automatische update-koppeling naar het KNMVD-register zorgt dat de informatie op je website altijd actueel is zonder handmatig onderhoud. Dat is praktijkkwaliteit niet alleen claimen, maar bewijzen.
