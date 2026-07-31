@@ -10,7 +10,7 @@ tags: ["Prijzen Communiceren", "Tarieven", "Klantcommunicatie", "Dierenarts Oper
 cluster: "website"
 ---
 **In het kort:**
-- 60% van de Nederlandse dierenartspraktijken publiceert geen prijslijst online, terwijl Google Trends laat zien dat de zoekterm "prijslijst dierenarts" en "wat kost een dierenarts" jaarlijks groeien sinds 2022. Baasjes vergelijken vooraf, en een onzichtbare prijslijst kost je leads aan praktijken die wel transparant zijn.
+- Een groot deel van de Nederlandse dierenartspraktijken publiceert geen prijslijst online, terwijl Google Trends laat zien dat de zoekterm "prijslijst dierenarts" en "wat kost een dierenarts" jaarlijks groeien sinds 2022. Baasjes vergelijken vooraf, en een onzichtbare prijslijst kost je leads aan praktijken die wel transparant zijn.
 - Drie kostenposten leveren bij dierenartsen de meeste klant-discussies op: voorrijkosten bij visite-aan-huis, spoedtarief buiten kantooruren en de declaratie-flow richting een huisdier-verzekering. Deze categorieën onhandig communiceren leidt tot 1-ster reviews die je vindbaarheid slopen.
 - ACM bevestigde in haar Marktonderzoek Medische Zorg Huisdieren 2025 (zaaknr ACM/25/194293) dat prijstransparantie in de dierenartsen-branche structureel achterblijft en consumenten daardoor moeilijk kunnen vergelijken. Dit is voor MKB-praktijken een open kans om zich te onderscheiden van de keten-praktijken.
 - Drie ingrepen die werken: een gestructureerde prijslijst met de drie kostencategorieen los benoemd, een vaste belscript-zin voor het spoednummer over het spoedtarief, en een geautomatiseerde verzekering-uitleg via WhatsApp na de afspraak.
@@ -43,7 +43,7 @@ Spoedtarief is het zwaarste prijsgesprek in een dierenartspraktijk. Een eigenaar
 
 Het probleem: niemand kijkt op een rustig moment op je website naar het spoednummer-tarief. De confrontatie komt altijd in crisis-modus.
 
-De fix: het spoednummer staat altijd visueel direct naast het spoedtarief op je website. Plus een vaste belscript-zin voor de avond-doorschakeling: "Goedenavond, dit is de spoeddienst van [praktijk]. Het spoedtarief is €180 bovenop de behandelkosten. Wilt u dat ik u doorverbind?" Die ene zin voorkomt 80% van de prijsschokken bij de factuur. Een [ai telefonist voor dierenartsen](/voice-ai) kan dit script automatisch draaien bij elke avond- of weekend-oproep, dus ook als jij of je collega niet zelf opneemt.
+De fix: het spoednummer staat altijd visueel direct naast het spoedtarief op je website. Plus een vaste belscript-zin voor de avond-doorschakeling: "Goedenavond, dit is de spoeddienst van [praktijk]. Het spoedtarief is €180 bovenop de behandelkosten. Wilt u dat ik u doorverbind?" Die ene zin voorkomt het leeuwendeel van de prijsschokken bij de factuur. Een [ai telefonist voor dierenartsen](/voice-ai) kan dit script automatisch draaien bij elke avond- of weekend-oproep, dus ook als jij of je collega niet zelf opneemt.
 
 ### De verzekering-declaratie-flow
 
@@ -63,7 +63,7 @@ Een werkende prijslijst-pagina heeft drie blokken.
 
 **Blok 1: top-10 meest gestelde prijzen.** Boven de vouw, in een leesbare lay-out: consult, vaccinatie hond/kat, gebitsreiniging, sterilisatie/castratie, euthanasie, voorrijkosten visite, spoedtarief avond, controle. Met de kanttekening "vanaf-prijs", omdat een gebitsreiniging onder narcose afhankelijk is van conditie.
 
-**Blok 2: hoe wij prijscommunicatie aanpakken.** Een korte uitleg dat je vooraf altijd een kostenraming geeft voor behandelingen boven €100, dat je belt voordat je doorbehandelt als de werkelijke kosten meer dan 20% afwijken van de raming, en dat je facturen op verzoek vooraf via mail stuurt. Dit is wat baasjes echt geruststelt: niet de exacte prijs, maar de communicatie-belofte.
+**Blok 2: hoe wij prijscommunicatie aanpakken.** Een korte uitleg dat je vooraf altijd een kostenraming geeft voor behandelingen boven €100, dat je belt voordat je doorbehandelt als de werkelijke kosten fors afwijken van de raming (reken met een grens van 20%), en dat je facturen op verzoek vooraf via mail stuurt. Dit is wat baasjes echt geruststelt: niet de exacte prijs, maar de communicatie-belofte.
 
 **Blok 3: verzekeraars + financierings-opties.** Met welke verzekeraars je directe declaratie doet (Petplan, Reaal, Inshared, ProPlan), of je gespreide betaling aanbiedt voor behandelingen boven een bepaald bedrag, en hoe je hier mee om gaat. Steeds meer baasjes letten hierop, en als jouw praktijk dit faciliteert is dat een onderscheidend voordeel ten opzichte van de concurrent.
 
