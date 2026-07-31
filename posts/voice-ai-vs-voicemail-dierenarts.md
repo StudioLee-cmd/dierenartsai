@@ -84,7 +84,7 @@ Begin rustig: laat de Voice AI eerst alleen de gemiste gesprekken en de avondure
 
 Voicemail bewaart berichten; een Voice AI voert gesprekken en zet spoed direct bij mensen neer. Voor een praktijk waar de telefoon de hele dag rinkelt, is dat het verschil tussen een receptie die achter de feiten aan belt en een team dat met een geordend lijstje begint. Minder receptiedruk, meer tijd voor patiënten.
 
-Bij DierenartsenAI zetten we de [virtuele telefonist](/voice-ai) voor je op, afgestemd op jouw praktijk en gekoppeld aan je agenda en WhatsApp, met onze Groei-of-Geld-Terug Garantie. Jij zorgt voor de dieren, wij regelen de rest.
+Bij DierenartsAI zetten we de [virtuele telefonist](/voice-ai) voor je op, afgestemd op jouw praktijk en gekoppeld aan je agenda en WhatsApp, met onze Groei-of-Geld-Terug Garantie. Jij zorgt voor de dieren, wij regelen de rest.
 
 Benieuwd waar jouw bereikbaarheid nu de meeste baasjes verliest? Vraag de [gratis ai scan voor dierenartsen](/gratis-scan) aan en je ziet het zwart op wit.
 

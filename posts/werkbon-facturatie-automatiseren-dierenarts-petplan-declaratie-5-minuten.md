@@ -75,7 +75,7 @@ Die proactieve communicatie voorkomt het leeuwendeel van de "ik snap die rekenin
 
 ## Wat StudioLee voor je inricht
 
-Bij DierenartsenAI helpen we MKB-praktijken hun administratie-uren halveren via een complete werkbon-automatiserings-laag. Concreet wat we inrichten:
+Bij DierenartsAI helpen we MKB-praktijken hun administratie-uren halveren via een complete werkbon-automatiserings-laag. Concreet wat we inrichten:
 
 - Een PMS-koppeling tussen Animana, Vetera of Provet Cloud en je facturatie-systeem (Exact, Moneybird of Snelstart) inclusief BTW-mapping
 - Een AI-templating-laag die per consult-type de juiste behandel-codes voorstelt op basis van jouw consult-historie
@@ -85,4 +85,4 @@ Bij DierenartsenAI helpen we MKB-praktijken hun administratie-uren halveren via 
 - Een geautomatiseerde follow-up voor afgewezen declaraties met directe correctie-link
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

@@ -21,7 +21,7 @@ const AanmeldingGeluktPage = () => {
                     </h1>
 
                     <p className="text-xl text-gray-600 mb-12">
-                        Gefeliciteerd! We zijn direct begonnen met het klaarmaken van jouw DierenartsenAI account.
+                        Gefeliciteerd! We zijn direct begonnen met het klaarmaken van jouw DierenartsAI account.
                     </p>
 
                     <div className="bg-blue-50 border border-blue-100 rounded-2xl p-8 mb-12 text-left">

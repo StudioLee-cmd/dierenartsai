@@ -102,7 +102,7 @@ Een [chatbot voor dierenartsen](/chatbot) op je website kan de "hoe heeft u over
 
 ## Wat StudioLee voor je inricht
 
-Bij DierenartsenAI helpen we MKB-praktijken hun B2B-referrer-netwerk professioneel opbouwen en beheren. Concreet wat we inrichten:
+Bij DierenartsAI helpen we MKB-praktijken hun B2B-referrer-netwerk professioneel opbouwen en beheren. Concreet wat we inrichten:
 
 - Een regionale partner-mapping voor alle zes categorieen binnen jouw verzorgingsgebied
 - Een [crm voor dierenartsen](/crm) met partner-records, doorverwijs-tracking en automatische bedank-flows
@@ -112,4 +112,4 @@ Bij DierenartsenAI helpen we MKB-praktijken hun B2B-referrer-netwerk professione
 - Een wederzijdse partner-vermeldings-pagina op je website met SEO-voordeel voor beide partijen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

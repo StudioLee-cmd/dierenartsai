@@ -78,7 +78,7 @@ Twijfel je? Kies dan de combinatie die veel praktijken inmiddels draaien: de [kl
 
 De keuze tussen live chat en een AI chatbot is voor een dierenartspraktijk vooral een keuze over je team. De handen van je receptie horen bij de balie en de dieren, niet bij een extra chatkanaal. Laat het chatvenster daarom draaien op software die elk gesprek direct opvangt, en laat je mensen instappen op de momenten waar zorg en empathie het verschil maken.
 
-Bij DierenartsenAI richten we die chatbot voor je in, getraind op vragen uit de dierenzorg en gekoppeld aan je agenda, met onze Groei-of-Geld-Terug Garantie. Jij zorgt voor de dieren, wij regelen de rest. Wil je meteen de basis goed zetten? Vraag dan een [gratis website voor dierenartsen](/gratis-website) aan, dan bouwen we de chat-opvang er direct in mee.
+Bij DierenartsAI richten we die chatbot voor je in, getraind op vragen uit de dierenzorg en gekoppeld aan je agenda, met onze Groei-of-Geld-Terug Garantie. Jij zorgt voor de dieren, wij regelen de rest. Wil je meteen de basis goed zetten? Vraag dan een [gratis website voor dierenartsen](/gratis-website) aan, dan bouwen we de chat-opvang er direct in mee.
 
 ### Geeft een chatbot medisch advies aan baasjes?
 

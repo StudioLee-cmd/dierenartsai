@@ -23,7 +23,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Is dit geschikt voor ZZP'ers?",
-        answer: "Juist voor kleine praktijken! Jij moet de dieren behandelen én de telefoon aannemen. Met DierenartsenAI heb je een volledige assistentie voor een fractie van de prijs, zodat jij je kunt focussen op je patiënten.",
+        answer: "Juist voor kleine praktijken! Jij moet de dieren behandelen én de telefoon aannemen. Met DierenartsAI heb je een volledige assistentie voor een fractie van de prijs, zodat jij je kunt focussen op je patiënten.",
     },
     {
         question: "Kan ik het in het weekend uitzetten?",

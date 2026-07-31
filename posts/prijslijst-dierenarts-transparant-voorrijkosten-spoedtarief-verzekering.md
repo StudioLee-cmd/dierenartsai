@@ -88,7 +88,7 @@ Deze vier scripts in een centraal handboek voor receptie + dierenartsen verlaagt
 
 ## Wat StudioLee voor je inricht
 
-Bij DierenartsenAI geloven we dat transparante prijscommunicatie de basis is van een gezonde praktijk-klant-relatie. Voor MKB-praktijken die werken aan hun online vindbaarheid en klantcommunicatie richten we het volgende in:
+Bij DierenartsAI geloven we dat transparante prijscommunicatie de basis is van een gezonde praktijk-klant-relatie. Voor MKB-praktijken die werken aan hun online vindbaarheid en klantcommunicatie richten we het volgende in:
 
 - Een prijslijst-pagina met de drie blokken (top-10, communicatie-belofte, verzekeraars), geoptimaliseerd voor lokale zoekopdrachten op "prijslijst dierenarts [stad]"
 - Een [ai telefonist voor dierenartsen](/voice-ai) die het spoednummer-script automatisch draait, dus geen gemiste prijs-uitleg meer in de avond
@@ -97,4 +97,4 @@ Bij DierenartsenAI geloven we dat transparante prijscommunicatie de basis is van
 - Een set van vier belscripts in jouw branding voor receptie + dierenartsen, gekoppeld aan WhatsApp-templates voor opvolging
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

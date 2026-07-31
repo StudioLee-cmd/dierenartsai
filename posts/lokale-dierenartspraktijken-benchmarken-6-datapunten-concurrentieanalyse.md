@@ -54,7 +54,7 @@ Wat te kijken: heeft de concurrent een prijslijst gepubliceerd, op welke top-10 
 
 Waar te vinden: hun website (vaak onder /tarieven of /prijzen), Google reviews die specifieke prijzen noemen, en lokale Facebook-groepen waar baasjes ervaringen delen.
 
-Wat het je vertelt: of jouw eigen tarieven onder, gelijk of boven het lokale gemiddelde zitten. Een lokaal gemiddelde van €60 voor een consult betekent dat €75 zonder duidelijk extra-verhaal je traffic gaat kosten. Vergeet niet de [tarieven DierenartsenAI](/tarieven) als referentie te gebruiken voor management-software-pricing.
+Wat het je vertelt: of jouw eigen tarieven onder, gelijk of boven het lokale gemiddelde zitten. Een lokaal gemiddelde van €60 voor een consult betekent dat €75 zonder duidelijk extra-verhaal je traffic gaat kosten. Vergeet niet de [tarieven DierenartsAI](/tarieven) als referentie te gebruiken voor management-software-pricing.
 
 ![Thuiswerk-bureau met laptop, notebook en map-overzicht voor lokale concurrentieanalyse](/images/blog/lokale-dierenartspraktijken-benchmarken-6-datapunten-concurrentieanalyse-2.jpg)
 
@@ -112,7 +112,7 @@ Lees ook: Telegeneeskunde voor dierenartsen aanbieden: extra omzet zonder extra 
 
 ## Wat StudioLee voor je inricht
 
-Bij DierenartsenAI helpen we MKB-dierenartspraktijken hun lokale concurrentie-positie continu monitoren en omzetten in concrete groei-acties. Concreet wat we inrichten:
+Bij DierenartsAI helpen we MKB-dierenartspraktijken hun lokale concurrentie-positie continu monitoren en omzetten in concrete groei-acties. Concreet wat we inrichten:
 
 - Een automatisch geactualiseerde benchmark-dashboard van de drie tot vijf dichtstbijzijnde concurrenten op alle zes datapunten
 - Een kwartaal-rapportage met verschuivingen en aanbevolen acties per datapunt
@@ -122,4 +122,4 @@ Bij DierenartsenAI helpen we MKB-dierenartspraktijken hun lokale concurrentie-po
 - Een [chatbot voor dierenartsen](/chatbot) om je online-aanwezigheid op het niveau van de actiefste lokale concurrent te brengen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

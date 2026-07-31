@@ -67,7 +67,7 @@ Het rendement komt uit drie hoeken tegelijk. Ten eerste de directe omzet: elke o
 
 Daar komt bij dat dezelfde bouwstenen ook je [no-show preventie](/automatisering) dragen: herinneringen vooraf, makkelijk verzetten en een wachtlijst erachter versterken elkaar. Minder no-shows betekent minder gaten, en de gaten die er toch vallen worden opgevuld.
 
-Wat dat als totaalpakket kost vind je bij de [tarieven van DierenartsenAI](/tarieven). Reken het gerust af tegen de waarde van twee of drie geredde consulten per week.
+Wat dat als totaalpakket kost vind je bij de [tarieven van DierenartsAI](/tarieven). Reken het gerust af tegen de waarde van twee of drie geredde consulten per week.
 
 ## Veelgestelde vragen
 
