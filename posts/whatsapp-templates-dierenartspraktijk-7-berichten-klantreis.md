@@ -10,15 +10,15 @@ tags: ["Dierenartspraktijk", "WhatsApp", "Klantcommunicatie", "Templates"]
 ---
 Een gemiddelde dierenartspraktijk in Nederland verstuurt vandaag de dag tussen 80 en 220 WhatsApp-berichten per week — afspraakbevestigingen, vaccinatie-herinneringen, foto's beoordelen, korte vraagjes, post-consult check-ins. De meeste van die berichten worden in het moment getypt door de receptie of de assistente, op een privé-06-nummer, met telkens net iets andere bewoording, zonder vaste structuur. Het werkt — totdat een drukke maandag binnenvalt en de berichten halve antwoorden krijgen, of tot een medewerker vertrekt en de WhatsApp-historie weg is, of tot een baasje opmerkt dat de afspraakbevestiging die vorige week wel kwam, deze week vergeten is.
 
-Het verschil tussen een praktijk die WhatsApp ad-hoc gebruikt en eentje die het met templates en automatisering inzet, is binnen drie maanden zichtbaar in twee getallen: 30-50% minder no-shows en 20-40% kortere balie-bezetting voor uitgaande communicatie. De sleutel is niet meer of minder appen — het is de juiste boodschap op het juiste moment, in een vorm die je één keer goed schrijft en daarna automatisch verstuurt. In dit artikel: de 7 berichten die elke dierenartspraktijk in voorraad zou moeten hebben, met concrete templates en de tools om ze geautomatiseerd uit te sturen.
+Het verschil tussen een praktijk die WhatsApp ad-hoc gebruikt en eentje die het met templates en automatisering inzet, is binnen drie maanden zichtbaar in twee dingen: fors minder no-shows en een merkbaar kortere balie-bezetting voor uitgaande communicatie. De sleutel is niet meer of minder appen — het is de juiste boodschap op het juiste moment, in een vorm die je één keer goed schrijft en daarna automatisch verstuurt. In dit artikel: de 7 berichten die elke dierenartspraktijk in voorraad zou moeten hebben, met concrete templates en de tools om ze geautomatiseerd uit te sturen.
 
 **In het kort:**
 
-- WhatsApp is in 2026 in Nederland het dominante 1-op-1 communicatiekanaal tussen dierenartspraktijken en baasjes — Email-open-rates zakken naar 15-20%, WhatsApp-open-rates blijven boven de 90%.
-- Zeven berichten dekken 95% van wat een dierenartspraktijk dagelijks moet versturen: aanvraag-bevestiging, afspraak-bevestiging, vaccinatie-herinnering, voorbereidingsbericht, post-consult check-in, review-verzoek, en reactivering.
+- WhatsApp is in 2026 in Nederland het dominante 1-op-1 communicatiekanaal tussen dierenartspraktijken en baasjes — e-mail-open-rates zakken weg, terwijl WhatsApp-open-rates uitzonderlijk hoog blijven.
+- Zeven berichten dekken vrijwel alles wat een dierenartspraktijk dagelijks moet versturen: aanvraag-bevestiging, afspraak-bevestiging, vaccinatie-herinnering, voorbereidingsbericht, post-consult check-in, review-verzoek, en reactivering.
 - Templates schrijf je één keer goed en automatiseer je daarna — via WhatsApp Business API gekoppeld aan je praktijksoftware (Animana, Yessa, Vetocare). Standaard WhatsApp-app is voor zzp-praktijken; teams hebben een Business-omgeving nodig.
 - AVG-compliance is niet onderhandelbaar: gezondheidsgegevens van huisdieren vallen onder de AVG (eigenaar = persoonsgegevens), dus geen privé-06-nummers en geen consumer-WhatsApp voor team-communicatie.
-- Praktijken die deze 7 templates implementeren rapporteren een afname van 30-50% no-shows binnen 60 dagen, een stijging van 0,3-0,5 sterren op de Google review-score, en 4-7 uur per week minder balie-tijd aan uitgaande berichten.
+- Praktijken die deze 7 templates implementeren rapporteren een duidelijke afname van no-shows binnen 60 dagen, een stijging van 0,3-0,5 sterren op de Google review-score, en 4-7 uur per week minder balie-tijd aan uitgaande berichten.
 
 ## Waarom templates: van ad-hoc naar consistent
 
@@ -106,9 +106,9 @@ Voor de 24/7-bereikbaarheid van urgente oproepen werkt de combinatie WhatsApp + 
 
 Drie meetbare effecten zien we consistent bij dierenartspraktijken die de 7 templates implementeren.
 
-**1. Minder no-shows.** Een gemiddelde praktijk verliest 8-12% van afspraken aan no-shows. Met afspraak-bevestiging-template (24-48u vooraf) + voorbereidingsbericht (ochtend van) daalt dit naar 3-5%. Bij 120 afspraken per week à €75 gemiddelde waarde scheelt elke 5-procent reductie €450 omzet per week, oftewel €1.800 per maand.
+**1. Minder no-shows.** Reken met een gemiddelde praktijk die 8-12% van haar afspraken aan no-shows verliest. Met afspraak-bevestiging-template (24-48u vooraf) + voorbereidingsbericht (ochtend van) daalt dit naar 3-5%. Bij 120 afspraken per week à €75 gemiddelde waarde scheelt elke 5-procent reductie €450 omzet per week, oftewel €1.800 per maand.
 
-**2. Hogere review-scores.** Het screening-template (alleen bij positieve indicatoren) levert 30-50% meer Google reviews op zonder de gemiddelde review-kwaliteit naar beneden te halen. Praktijken rapporteren een stijging van 0,3-0,5 sterren binnen 90 dagen, wat doorwerkt op nieuwe-baasjes-aanwerving.
+**2. Hogere review-scores.** Het screening-template (alleen bij positieve indicatoren) levert duidelijk meer Google reviews op zonder de gemiddelde review-kwaliteit naar beneden te halen. Praktijken rapporteren een stijging van 0,3-0,5 sterren binnen 90 dagen, wat doorwerkt op nieuwe-baasjes-aanwerving.
 
 **3. Minder balie-tijd aan uitgaande berichten.** Een baliemedewerker besteedt typisch 6-9 uur per week aan handmatig versturen van bevestigingen, herinneringen, follow-ups. Met geautomatiseerde templates daalt dit naar 1-2 uur per week — 4-7 uur die teruggaat naar telefoongesprekken, intake en patient-zorg.
 
@@ -130,7 +130,7 @@ Eén follow-up na 5-7 dagen, niet meer. Als de baas dan nog niet reageert, betek
 
 ### Werken templates ook in het Engels of voor anderstalige baasjes?
 
-Ja, mits je voor elke taal een aparte template-set hebt. WhatsApp Business API ondersteunt meertalige verzending op basis van klant-tag of voorkeur in het CRM. Begin met Nederlands en Engels — die dekken 95% van de Nederlandse praktijken.
+Ja, mits je voor elke taal een aparte template-set hebt. WhatsApp Business API ondersteunt meertalige verzending op basis van klant-tag of voorkeur in het CRM. Begin met Nederlands en Engels — die dekken vrijwel alle Nederlandse praktijken.
 
 ### Hoe lang duurt het om de 7 templates op te zetten?
 
