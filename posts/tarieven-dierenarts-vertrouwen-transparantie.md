@@ -176,4 +176,4 @@ Eens per jaar reviewen, of bij elke significante prijswijziging. Buiten dat: laa
 
 Goede prijscommunicatie is een van de goedkoopste manieren om reputatie te beschermen voor een dierenartspraktijk. Eén dag werk om de website en het spreekkamer-script bij te werken. Vermindering van klachten en negatieve reviews binnen een maand voelbaar. Wij regelen dit standaard voor onze dierenarts-klanten, inclusief de website-pagina, het script en doorlopende monitoring.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw klantcommunicatie de meeste reputatie-risico's liggen. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw klantcommunicatie de meeste reputatie-risico's liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

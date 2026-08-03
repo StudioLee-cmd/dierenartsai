@@ -111,4 +111,4 @@ Bij dynamische gegevens (openingstijden, vakantie-sluiting) ja, of via een [chat
 
 Schema markup is een van de goedkoopste, snelste manieren om als dierenartspraktijk hoger te ranken bij urgente zoekopdrachten. Een uur werk voor de basis-setup, daarna onderhoud zo nu en dan. De winst: meer baasjes die je vinden op het moment dat ze je het hardst nodig hebben.
 
-Wij bouwen schema markup standaard in voor onze dierenarts-klanten, inclusief automatische opening-hours-update en spoed-service-vermelding. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen of jouw schema markup goed staat. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wij bouwen schema markup standaard in voor onze dierenarts-klanten, inclusief automatische opening-hours-update en spoed-service-vermelding. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen of jouw schema markup goed staat. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

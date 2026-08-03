@@ -99,6 +99,6 @@ Begin met één en doe die goed. Instagram werkt sterk voor het visuele en voor 
 
 Je hoeft geen marketeer te worden en je hoeft zeker geen patiënten te laten zien. Pak drie ideeën uit de lijst hierboven, maak er deze week posts van en bouw het rustig op. Voor je het weet staat je praktijk warm en betrouwbaar online, precies zoals in de behandelkamer.
 
-Wil je weten hoe sterk je nu online staat en wat een vaste contentstroom je praktijk zou opleveren? Doe de [gratis AI-scan voor dierenartsen](/gratis-scan), dan zie je in een paar minuten waar de winst zit. Liever even sparren? [Plan een vrijblijvend gesprek](https://cal.com/studiolee). En kies je voor volledig uitbesteden, dan werken we met een Groei-of-Geld-Terug Garantie: levert het geen meetbaar resultaat op, dan krijg je je geld terug.
+Wil je weten hoe sterk je nu online staat en wat een vaste contentstroom je praktijk zou opleveren? Doe de [gratis AI-scan voor dierenartsen](/gratis-scan), dan zie je in een paar minuten waar de winst zit. Liever even sparren? [Plan een vrijblijvend gesprek](https://cal.com/studiolee). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij zorgt voor de dieren, wij regelen de rest.

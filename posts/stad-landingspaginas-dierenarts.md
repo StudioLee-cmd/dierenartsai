@@ -74,7 +74,7 @@ Ja. Je kunt het zelf opzetten met de stappen hierboven, of het meenemen in een n
 
 ## Sta ook vindbaar in de plaatsen om je heen
 
-Baasjes zoeken lokaal, en ze kiezen de praktijk die ze in hun eigen plaats vinden. Met goed gebouwde stadspagina's doe je mee in het hele gebied waar je patiënten vandaan komen, in plaats van alleen in je eigen straat. De valkuil is de plaatsnaam-swap; de winst zit in pagina's die echt iets lokaals te vertellen hebben. Er zit trouwens een Groei-of-Geld-Terug Garantie op onze aanpak: levert het geen meetbare groei op, dan krijg je je geld terug.
+Baasjes zoeken lokaal, en ze kiezen de praktijk die ze in hun eigen plaats vinden. Met goed gebouwde stadspagina's doe je mee in het hele gebied waar je patiënten vandaan komen, in plaats van alleen in je eigen straat. De valkuil is de plaatsnaam-swap; de winst zit in pagina's die echt iets lokaals te vertellen hebben. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je weten in welke plaatsen je nu al gevonden wordt en waar de kansen liggen? Vraag een [gratis seo scan voor dierenartsen](/gratis-scan) aan en zie precies waar je vindbaarheid blijft liggen, en welke stadspagina's je het meeste zouden opleveren.
 

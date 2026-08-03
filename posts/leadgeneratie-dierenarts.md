@@ -89,6 +89,6 @@ Met deze data focus je je inspanningen op de kanalen die het meest opleveren.
 
 Bij DierenartsAI helpen we dierenartspraktijken met het opzetten van een leadgeneratiesysteem dat structureel nieuwe klanten oplevert. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug. Het risico ligt 100% bij ons.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek waar jouw kansen liggen.

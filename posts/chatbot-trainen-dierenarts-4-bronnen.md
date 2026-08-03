@@ -119,6 +119,6 @@ De vier bronnen liggen er al: de vragen die je balie dagelijks hoort, je eigen w
 
 Begin bij je website omdat het een middag kost. Ga daarna turven aan de balie, want die lijst bepaalt waar je de rest van je tijd in steekt. En bouw de grens in vóór je live gaat, niet erna.
 
-Wil je weten wat jouw praktijk hiervoor al klaar heeft staan, vraag dan een [gratis ai scan voor dierenartsen](/gratis-scan) aan. Die laat zien welke content al bruikbaar is en waar de gaten zitten. Bij DierenartsAI werken we met de Groei-of-Geld-Terug Garantie: levert het niets op, dan betaal je niet.
+Wil je weten wat jouw praktijk hiervoor al klaar heeft staan, vraag dan een [gratis ai scan voor dierenartsen](/gratis-scan) aan. Die laat zien welke content al bruikbaar is en waar de gaten zitten. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij zorgt voor de dieren, wij regelen de rest. Een [ai chatbot voor jouw dierenartspraktijk](/chatbot) neemt de vierde uitleg over nuchter zijn van je assistente over, zodat zij de telefoon kan opnemen als het er wél toe doet.

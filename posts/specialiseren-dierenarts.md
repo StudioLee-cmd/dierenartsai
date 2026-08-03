@@ -86,7 +86,7 @@ De marketing voor een specialisatie verschilt van reguliere dierenartsenmarketin
 
 Geen tijd om naast je praktijk ook nog marketing te doen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. SEO, content, reviews, [online zichtbaarheid](/social-media) — het wordt voor je geregeld.
 
-De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. Het risico ligt 100% bij ons.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe specialisatie jouw praktijk kan laten groeien.
 

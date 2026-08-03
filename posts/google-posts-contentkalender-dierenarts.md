@@ -66,6 +66,6 @@ Nog een stap verder is het koppelen aan je bestaande communicatie. De vaccinatie
 
 Begin klein: kopieer de twaalf maandonderwerpen hierboven, vul de eerste drie maanden in, en plan ze deze week in. Daarmee staat je profiel het hele kwartaal te werken terwijl jij in de spreekkamer staat.
 
-Wil je weten hoe jouw profiel er nu voor staat en welke posts in jouw regio het meeste opleveren? Vraag een [gratis ai scan voor dierenartsen](/gratis-scan) aan bij DierenartsAI, dan kijken we met je mee. We werken met een Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niets op, dan krijg je je geld terug. Jij zorgt voor de dieren, wij regelen de vindbaarheid.
+Wil je weten hoe jouw profiel er nu voor staat en welke posts in jouw regio het meeste opleveren? Vraag een [gratis ai scan voor dierenartsen](/gratis-scan) aan bij DierenartsAI, dan kijken we met je mee. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij zorgt voor de dieren, wij regelen de vindbaarheid.
 
 **Lees ook:** [Google Bedrijfsprofiel categorie als dierenarts](/blog/google-bedrijfsprofiel-categorie-dierenarts), waarom je primaire categorie net zo zwaar weegt als je posts.

@@ -88,7 +88,7 @@ Voor wie deze stappen niet zelf wil zetten en gewoon wil dat er over een maand e
 
 ## Wat StudioLee voor jou doet
 
-Voor een dierenartspraktijk gaat dit niet over een chatbot kopen, dit gaat over een receptie-laag herinrichten die telefonisch contact slimmer maakt. Dat doen wij voor een vaste maandprijs (vanaf €79), inclusief de inrichting, het meeluisteren in de hybride fase, en doorlopende fine-tuning op basis van wat we in de logs zien. Plus de [Groei-of-Geld-Terug Garantie](/tarieven) op Managed Pro, dus als de doorlooptijd op routine-calls na drie maanden niet meetbaar omlaag is gegaan, krijg je het geld terug.
+Voor een dierenartspraktijk gaat dit niet over een chatbot kopen, dit gaat over een receptie-laag herinrichten die telefonisch contact slimmer maakt. Dat doen wij voor een vaste maandprijs (vanaf €79), inclusief de inrichting, het meeluisteren in de hybride fase, en doorlopende fine-tuning op basis van wat we in de logs zien. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: beloven dat de AI alles aankan. Wel: zorgen dat de scheiding tussen "AI" en "mens" zo scherp en onmerkbaar voor de baasjes is ingericht dat klanttevredenheid omhoog gaat, niet omlaag. Plan een [gratis ai scan voor dierenartsen](/gratis-scan) als startpunt, dan brengen we jouw call-mix in kaart en zien we waar de eerste winst zit.
 
