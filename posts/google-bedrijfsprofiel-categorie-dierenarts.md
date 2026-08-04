@@ -1,7 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel categorie als dierenarts"
 slug: google-bedrijfsprofiel-categorie-dierenarts
-date: 2026-04-29
+date: "2026-04-29"
 cluster: "vindbaarheid"
 excerpt: "Welke Google Bedrijfsprofiel-categorie kies je als dierenarts? Dierenarts, Dierenkliniek of Dierenziekenhuis. De juiste keuze bepaalt waar je verschijnt."
 image: "/images/blog/google-bedrijfsprofiel-categorie-dierenarts.jpg"
