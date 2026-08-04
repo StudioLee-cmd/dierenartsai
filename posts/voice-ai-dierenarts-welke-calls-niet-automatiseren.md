@@ -100,4 +100,4 @@ Een goede balie-medewerker weet het verschil tussen een vaccinatie-afspraak en e
 
 Niet alles automatiseren. Wel slim automatiseren. Dat is de hele les.
 
-**Lees ook:** [AI-telefoniste voor dierenartsen](/blog/ai-telefoniste-voor-dierenartsen), de bredere uitleg over hoe Voice AI in een dierenartspraktijk werkt.
+**Lees ook:** [AI-telefoniste voor dierenartsen](/blog/telefonie-voor-dierenartsen-bereikbaar-tijdens-consulten), de bredere uitleg over hoe Voice AI in een dierenartspraktijk werkt.

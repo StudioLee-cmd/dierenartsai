@@ -27,6 +27,8 @@ const nextConfig = {
             { source: '/blog/social-media-voor-dierenartsen', destination: '/social-media', permanent: true },
             { source: '/blog/vaccinatieherinneringen-dierenarts-automatisch', destination: '/blog/vaccinatie-herinneringen-dierenarts-automatiseren', permanent: true },
             { source: '/blog/werkdruk-verlagen-dierenartspraktijk', destination: '/blog/werkdruk-dierenartsassistente-verlagen-2026', permanent: true },
+            { source: '/blog/meer-reviews-voor-dierenartsen', destination: '/blog/meer-google-reviews-dierenartspraktijk', permanent: true },
+            { source: '/blog/ai-telefoniste-voor-dierenartsen', destination: '/blog/telefonie-voor-dierenartsen-bereikbaar-tijdens-consulten', permanent: true },
         ];
     },
 };

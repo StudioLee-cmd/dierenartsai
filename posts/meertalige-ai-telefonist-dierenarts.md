@@ -20,7 +20,7 @@ Voor een dierenartspraktijk is dat een dubbel probleem. Je mist niet zomaar een 
 
 ## Wat een meertalige AI-telefonist doet
 
-Een meertalige AI-telefonist bouwt voort op wat een [gewone AI-telefonist al voor een praktijk doet](/blog/ai-telefoniste-voor-dierenartsen), met één groot verschil. Hij neemt op namens jouw praktijk, herkent binnen een paar seconden welke taal de beller spreekt en gaat vanzelf verder in het Nederlands, Engels, Pools of Oekraïens. Geen keuzemenu met toetsen, gewoon een rustige stem die vraagt wat er aan de hand is.
+Een meertalige AI-telefonist bouwt voort op wat een [gewone AI-telefonist al voor een praktijk doet](/blog/telefonie-voor-dierenartsen-bereikbaar-tijdens-consulten), met één groot verschil. Hij neemt op namens jouw praktijk, herkent binnen een paar seconden welke taal de beller spreekt en gaat vanzelf verder in het Nederlands, Engels, Pools of Oekraïens. Geen keuzemenu met toetsen, gewoon een rustige stem die vraagt wat er aan de hand is.
 
 Vervolgens doet de assistent drie dingen. Hij stelt de juiste vragen, zodat je meteen weet om welk dier en welke klacht het gaat. Hij schat in of het spoed is of iets wat tot morgen kan wachten. En hij stelt de beller gerust, want een kalme stem die je begrijpt, is op zo'n moment al de halve geruststelling. Van elk gesprek krijg je daarna een kort verslag, zodat niets tussen wal en schip valt.
 

@@ -47,7 +47,7 @@ Het systeem personaliseert het bericht automatisch met de naam van het dier. Dat
 
 Diereneigenaren kiezen een dierenarts op basis van drie dingen: afstand, specialisatie, en reviews. Op de eerste twee heb je beperkt invloed. Op reviews heb je directe controle.
 
-Praktijken met meer dan dertig [Google reviews](/blog/meer-reviews-voor-dierenartsen) en een score boven de 4,7 trekken meetbaar meer nieuwe patiënten. Google toont je praktijk prominenter in lokale zoekresultaten, en potentiële klanten kiezen sneller wanneer ze tientallen positieve ervaringen zien.
+Praktijken met meer dan dertig [Google reviews](/blog/meer-google-reviews-dierenartspraktijk) en een score boven de 4,7 trekken meetbaar meer nieuwe patiënten. Google toont je praktijk prominenter in lokale zoekresultaten, en potentiële klanten kiezen sneller wanneer ze tientallen positieve ervaringen zien.
 
 ## Direct beginnen
 
