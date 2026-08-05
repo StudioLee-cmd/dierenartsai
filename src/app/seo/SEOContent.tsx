@@ -40,16 +40,16 @@ const staggerContainer = {
 
 const painPoints = [
   {
-    title: "Onzichtbaar in Google",
-    description: `Je hebt een mooie website, maar niemand vindt je. Potentiele klanten zoeken naar "${niche} bij mij in de buurt" en vinden alleen je concurrenten.`,
+    title: "De spoedzoeker vindt je niet",
+    description: `Een baasje met een kat die niet meer eet zoekt op "${niche} spoed" of "${niche} nu open" en kiest binnen een minuut. Staat jouw praktijk daar niet tussen, dan gaat dat dier naar de kliniek een dorp verderop, en het baasje komt daarna meestal niet meer terug.`,
   },
   {
-    title: "Concurrenten staan boven jou",
-    description: `Andere ${nichePlural} in jouw regio pakken alle clicks. Ze staan hoger in Google, hebben meer reviews en trekken de klanten weg die eigenlijk bij jou zouden passen.`,
+    title: "De ketens staan boven de eigen praktijk",
+    description: `Kliniekketens publiceren honderden pagina's over hondenrassen, oormijt en vlooien. Die content trekt de algemene ${niche}-vraag naar het ketenmerk, waarna de dichtstbijzijnde vestiging wordt getoond. Een zelfstandige praktijk verliest zo terrein in haar eigen verzorgingsgebied.`,
   },
   {
-    title: "Te veel betalen voor Google Ads",
-    description: `Je gooit elke maand honderden euro's in Google Ads om zichtbaar te blijven. Zodra je stopt met betalen, verdwijn je weer compleet uit de zoekresultaten.`,
+    title: "Je vak laat zich slecht adverteren",
+    description: `Je bent gebonden aan de KNMVD-gedragsregels, dus je kunt niet roepen wat een webshop roept. Dat maakt betaald adverteren duur en stroef, en zodra je stopt met betalen ben je meteen weer weg. Vindbaarheid die je zelf opbouwt blijft wel staan.`,
   },
 ];
 
@@ -122,6 +122,14 @@ const faqs = [
     answer: `Ja! Steeds meer mensen gebruiken ChatGPT, Google Gemini en andere AI-tools om een ${niche} te vinden. Onze content is zo geschreven dat je ook in deze AI-antwoorden verschijnt. Zo ben je niet alleen vindbaar in Google, maar ook in de zoekmachines van de toekomst.`,
   },
   {
+    question: `Hoe zit het met de KNMVD-gedragsregels in online marketing?`,
+    answer: `De gedragsregels beperken hoe je je diensten mag aanprijzen, niet of je vindbaar mag zijn. Uitleggen wat een gebitsbehandeling inhoudt, wat een consult kost en wanneer iemand met spoed moet komen valt onder voorlichting: precies het soort content dat lokaal goed rankt. Wat we niet doen: genezingsclaims, vergelijkende reclame over collega-praktijken en het aanjagen van behandelingen. Twijfel je over een tekst, dan leggen we 'm eerst aan je voor.`,
+  },
+  {
+    question: `Moeten we ook vindbaar zijn op medische vragen van baasjes?`,
+    answer: `Meestal niet. Zoekopdrachten als "waarom niest mijn kat" trekken lezers uit heel Nederland die nooit klant worden, en ze concurreren met grote consumentensites. De vraag die wél iets oplevert is lokaal en koopgericht: "${niche} [jouw stad]", "gebitsreiniging hond kosten", "dierenkliniek spoed weekend". Daar richten we de content op. Minder bezoekers, maar wel uit je eigen verzorgingsgebied.`,
+  },
+  {
     question: `Kan ik SEO ook los afnemen?`,
     answer: `SEO zit standaard inbegrepen in onze pakketten. Bekijk onze tarieven op de tarieven-pagina voor alle mogelijkheden. Heb je een specifieke vraag? Plan een gratis adviesgesprek en we kijken samen wat het beste bij jouw situatie past.`,
   },
@@ -160,13 +168,16 @@ export default function SEOContent() {
           <motion.h1
             className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 sl-reveal"
           >
-            SEO voor {nichePlural}: Gevonden Worden in Google
+            SEO en online marketing voor {nichePlural}
           </motion.h1>
           <motion.p
             className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 sl-reveal sl-reveal-1"
           >
-            Meer klanten via Google, zonder dure advertenties. {siteDetails.siteName} regelt je
-            volledige SEO-strategie: van keyword research tot publicatie.
+            Een baasje met een zieke hond zoekt niet naar de beste dierenarts van Nederland.
+            Die zoekt naar een praktijk die vandaag nog tijd heeft, dichtbij, en die aan de
+            telefoon komt. Online marketing voor {nichePlural} begint dus bij lokale
+            vindbaarheid, niet bij landelijk bereik. {siteDetails.siteName} regelt die kant
+            volledig: Google Bedrijfsprofiel, lokale SEO en maandelijkse content.
           </motion.p>
           <motion.div
             className="flex flex-col sm:flex-row items-center justify-center gap-4 sl-reveal sl-reveal-1"
@@ -537,13 +548,114 @@ export default function SEOContent() {
         </div>
       </section>
 
+
+      {/* Wat online marketing voor dierenartsen anders maakt (dierenarts-only inhoud) */}
+      <section className="py-20 bg-white dark:bg-neutral-900">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <motion.div {...fadeUp} className="text-center mb-12">
+            <span className="text-primary font-bold tracking-wider uppercase text-sm">
+              Jouw vak, niet zomaar een branche
+            </span>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2 mb-6">
+              Wat online marketing voor {nichePlural} anders maakt
+            </h2>
+            <p className="text-lg text-foreground-accent leading-relaxed">
+              De meeste marketingbureaus behandelen een dierenartspraktijk als elke andere
+              lokale onderneming. Dat werkt niet, want de zoekvraag rond dieren gedraagt zich
+              anders dan die rond een kapper of een loodgieter. Vier verschillen die bepalen
+              waar we je content op richten.
+            </p>
+          </motion.div>
+
+          <motion.div {...staggerContainer} className="space-y-8">
+            <motion.div {...fadeUp} className="border-l-4 border-primary pl-6">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+                1. Twee soorten zoekers, twee soorten pagina&apos;s
+              </h3>
+              <p className="text-foreground-accent leading-relaxed">
+                Spoed en routine zijn geen variaties van dezelfde vraag. Wie zoekt op
+                &quot;dierenarts spoed vanavond&quot; wil een telefoonnummer, openingstijden en
+                de bevestiging dat je vandaag kunt kijken, geen uitleg over je praktijkfilosofie.
+                Wie zoekt op &quot;gebitsreiniging hond kosten&quot; is aan het vergelijken en
+                leest wel. Eén pagina die beide probeert te bedienen wint geen van de twee.
+                We scheiden ze daarom: snelle, feitelijke spoedinformatie hoog op de site, en
+                uitgebreide uitlegartikelen voor de vergelijkers.
+              </p>
+            </motion.div>
+
+            <motion.div {...fadeUp} className="border-l-4 border-primary pl-6">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+                2. De klant is het baasje, de patiënt is het dier
+              </h3>
+              <p className="text-foreground-accent leading-relaxed">
+                Dat klinkt vanzelfsprekend, maar het bepaalt je hele teksten. Een baasje kiest
+                op vertrouwen en op de vraag of er rustig met het dier wordt omgegaan, niet op
+                een prijslijst. Toon wie er achter de balie staat, hoe een consult verloopt en
+                wat er gebeurt als het slecht nieuws is. Praktijken die dat laten zien scoren
+                beter op de zachte kant van de keuze, en dat is precies waar reviews en
+                lokale rankings elkaar versterken.
+              </p>
+            </motion.div>
+
+            <motion.div {...fadeUp} className="border-l-4 border-primary pl-6">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+                3. Praktijkadministratie is óók zoekvolume
+              </h3>
+              <p className="text-foreground-accent leading-relaxed">
+                Een groot deel van de vraag rond dierenartsen gaat helemaal niet over
+                marketing of behandelingen, maar over de administratie eromheen: een chip
+                registreren bij de databank, een dierenpaspoort, verzekeringsdeclaraties,
+                een export-certificaat voor een reis. De partijen die die vragen beantwoorden
+                bouwen daarmee een band op met de praktijk. Een kennisbank op je eigen site
+                pakt dezelfde vraag, met jouw naam eronder, en het trekt bovendien collega&apos;s
+                en assistentes die later doorverwijzen.
+              </p>
+            </motion.div>
+
+            <motion.div {...fadeUp} className="border-l-4 border-primary pl-6">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
+                4. Vindbaarheid stopt niet bij de klik
+              </h3>
+              <p className="text-foreground-accent leading-relaxed">
+                Bij een dierenarts is de telefoon nog steeds de belangrijkste ingang. Iemand
+                vindt je, belt, en krijgt de voicemail omdat de assistente in de behandelkamer
+                staat. Die klik is dan alsnog weg. Daarom koppelen we vindbaarheid altijd aan
+                de opvolging: een{" "}
+                <Link href="/voice-ai" className="text-primary font-semibold hover:underline">
+                  telefoon die altijd opneemt
+                </Link>{" "}
+                en een{" "}
+                <Link href="/chatbot" className="text-primary font-semibold hover:underline">
+                  chatbot die de afspraak inplant
+                </Link>
+                . Ranken zonder opvolging levert alleen duurdere gemiste kansen op.
+              </p>
+            </motion.div>
+          </motion.div>
+
+          <motion.div {...fadeUp} className="mt-12 bg-gray-50 dark:bg-neutral-800/50 border border-[var(--card-border)] rounded-2xl p-8">
+            <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
+              Praktijk, kliniek of dierenziekenhuis: de zoekwoorden verschillen
+            </h3>
+            <p className="text-foreground-accent leading-relaxed">
+              Baasjes gebruiken de woorden door elkaar, Google niet. &quot;Dierenkliniek&quot;
+              wordt vaker gebruikt bij spoed en bij grotere ingrepen, &quot;dierenarts&quot; bij
+              het gewone consult, en &quot;dierenziekenhuis&quot; bij doorverwijzingen. Werk je
+              met meerdere vestigingen, dan komt daar per plaats nog een eigen zoekvraag bij.
+              We brengen eerst in kaart welke van die woorden in jouw regio het meeste opleveren
+              en richten de pagina&apos;s daarop in, in plaats van alles op één term te gokken.
+            </p>
+          </motion.div>
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="py-20 bg-gray-50 dark:bg-neutral-800/50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div {...fadeUp} className="text-center mb-16">
             <BsQuestionCircle size={32} className="text-primary mx-auto mb-4" />
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">
-              Veelgestelde vragen over SEO
+              Veelgestelde vragen over SEO en online marketing
             </h2>
           </motion.div>
 

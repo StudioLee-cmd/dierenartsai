@@ -6,13 +6,21 @@ const niche = 'dierenarts';
 const nichePlural = 'dierenartsen';
 
 export const metadata: Metadata = {
-  title: `SEO voor ${nichePlural} — Beter in Google | ${siteDetails.siteName}`,
-  description: `SEO voor ${nichePlural}: meer klanten via Google. Blogartikelen, lokale SEO en Google Business — vanaf ${"\u20AC"}79/maand.`,
+  title: `SEO en online marketing voor ${nichePlural} | ${siteDetails.siteName}`,
+  description: `Online marketing voor ${nichePlural} die uitgaat van hoe baasjes echt zoeken: lokaal, met spoed en op naam van de praktijk. Lokale SEO, Google Bedrijfsprofiel en content, vanaf ${"\u20AC"}79/maand.`,
+  keywords: [
+    `seo voor ${nichePlural}`,
+    `online marketing ${nichePlural}`,
+    `online marketing ${niche}`,
+    `lokale seo ${niche}`,
+    `seo voor dierenklinieken`,
+  ],
   openGraph: {
-    title: `SEO voor ${nichePlural} | ${siteDetails.siteName}`,
-    description: `Wil je als ${niche} beter gevonden worden in Google? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
+    title: `SEO en online marketing voor ${nichePlural} | ${siteDetails.siteName}`,
+    description: `Online marketing voor ${nichePlural}: lokale SEO, Google Bedrijfsprofiel en content die past bij spoed, routine en de KNMVD-regels waar je aan gebonden bent.`,
     url: `${siteDetails.siteUrl}seo`,
     type: "website",
+    locale: "nl_NL",
   },
   alternates: {
     canonical: `${siteDetails.siteUrl}seo`,

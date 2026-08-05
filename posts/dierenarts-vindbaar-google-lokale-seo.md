@@ -64,7 +64,7 @@ Elke dienst verdient een eigen pagina of sectie. "Tandheelkunde voor honden" op 
 
 "Hoeveel kost een hond laten chippen?" "Wanneer moet ik mijn kat laten vaccineren?" "Wat zijn symptomen van een tekenziekte?" Dit zijn vragen die diereneigenaren typen in Google. Als jij daar een helder antwoord op geeft, verschijnt jouw praktijk in de zoekresultaten.
 
-Schrijf maandelijks een artikel over een veelgestelde vraag. Je hoeft geen medisch artikel te schrijven: een praktisch antwoord van 600 tot 800 woorden is voldoende. Het versterkt je [vindbaarheid in Google](/seo) en positioneert je als expert in je regio.
+Schrijf maandelijks een artikel over een veelgestelde vraag. Je hoeft geen medisch artikel te schrijven: een praktisch antwoord van 600 tot 800 woorden is voldoende. Dat is waar [seo voor dierenartsen](/seo) in de kern om draait: antwoord geven op wat je klanten daadwerkelijk intypen. Het versterkt je vindbaarheid en positioneert je als expert in je regio.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lokale-seo-dierenarts-meer-baasjes" class="text-dark fw-semibold">Lokale SEO als dierenarts: gevonden worden door baasjes</a> →</p></div></div></div>
 

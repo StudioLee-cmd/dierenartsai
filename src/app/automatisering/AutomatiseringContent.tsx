@@ -151,14 +151,16 @@ export default function AutomatiseringContent() {
           <motion.h1
             className="text-4xl md:text-5xl font-bold mb-6 sl-reveal sl-reveal-1"
           >
-            Workflow automatisering voor {siteDetails.niche}
+            Dierenarts software zonder je praktijksysteem te vervangen
           </motion.h1>
           <motion.p
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
-            Automatische herinneringen, lead-opvolging, klantcommunicatie en
-            cyclus-flows — voor {niche} die geen tijd hebben voor admin
-            maar wel volle agendas willen. Jij zorgt voor de dieren, wij regelen de rest.
+            Wie zoekt naar dierenarts software komt uit bij systemen die je hele praktijk
+            willen overnemen: patiëntendossier, agenda, facturatie, voorraad. Migreren kost
+            maanden en je personeel moet opnieuw leren werken. Het alternatief is een
+            automatiseringslaag <em>bovenop</em> het systeem dat je al hebt: herinneringen,
+            lead-opvolging en review-verzoeken, zonder dat er één dossier verhuist.
           </motion.p>
           <motion.div
             className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
@@ -400,6 +402,113 @@ export default function AutomatiseringContent() {
                 <p className="text-foreground-accent text-sm">{i.desc}</p>
               </motion.div>
             ))}
+          </div>
+        </div>
+      </section>
+
+
+      {/* Dierenarts software vergelijken (dierenarts-only, tegen de directory-SERP) */}
+      <section className="py-16 px-4 bg-[var(--card-background)]">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">
+            Dierenarts software vergelijken: drie soorten, drie prijskaartjes
+          </h2>
+          <p className="text-foreground-accent text-center mb-10 max-w-2xl mx-auto">
+            Vergelijkingssites gooien alles op één hoop. In de praktijk zijn het drie
+            verschillende soorten software die een heel ander probleem oplossen. Weet je
+            welke je zoekt, dan valt de keuze meestal snel.
+          </p>
+
+          <div className="overflow-x-auto">
+            <table className="w-full min-w-[640px] border-collapse text-left">
+              <thead>
+                <tr className="border-b border-[var(--card-border)]">
+                  <th className="py-4 pr-4 font-bold">Soort</th>
+                  <th className="py-4 pr-4 font-bold">Wat het doet</th>
+                  <th className="py-4 pr-4 font-bold">Wanneer je het nodig hebt</th>
+                  <th className="py-4 font-bold">Wat het kost aan tijd</th>
+                </tr>
+              </thead>
+              <tbody className="text-foreground-accent">
+                <tr className="border-b border-[var(--card-border)]">
+                  <td className="py-4 pr-4 font-semibold text-foreground">
+                    Praktijkmanagementsysteem (PMS)
+                  </td>
+                  <td className="py-4 pr-4">
+                    Patiëntendossier, agenda, facturatie, voorraad en labkoppelingen. Het
+                    administratieve hart van de praktijk.
+                  </td>
+                  <td className="py-4 pr-4">
+                    Bij de start van een praktijk, of als je huidige systeem écht niet meer
+                    meekan.
+                  </td>
+                  <td className="py-4">
+                    Een migratie van maanden en een team dat opnieuw moet inwerken.
+                  </td>
+                </tr>
+                <tr className="border-b border-[var(--card-border)]">
+                  <td className="py-4 pr-4 font-semibold text-foreground">
+                    Losse tools
+                  </td>
+                  <td className="py-4 pr-4">
+                    Een online agenda, een mailtool, een reviewtool, elk apart aangeschaft
+                    en apart ingericht.
+                  </td>
+                  <td className="py-4 pr-4">
+                    Als je één specifiek gat wilt dichten en de rest laat zoals het is.
+                  </td>
+                  <td className="py-4">
+                    Weinig per tool, veel bij elkaar: alles moet je zelf koppelen en bijhouden.
+                  </td>
+                </tr>
+                <tr>
+                  <td className="py-4 pr-4 font-semibold text-primary">
+                    Automatiseringslaag (wat wij doen)
+                  </td>
+                  <td className="py-4 pr-4">
+                    Neemt de communicatie over: herinneringen, gemiste oproepen, bevestigingen
+                    en review-verzoeken. Schrijft terug naar de agenda die je al gebruikt.
+                  </td>
+                  <td className="py-4 pr-4">
+                    Als je systeem prima werkt maar de balie het niet bijhoudt.
+                  </td>
+                  <td className="py-4">
+                    Geen migratie. Je dossiers blijven staan waar ze staan.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="border border-[var(--card-border)] rounded-2xl p-6">
+              <h3 className="text-lg font-bold mb-2">Waarom niet gewoon overstappen?</h3>
+              <p className="text-foreground-accent text-sm leading-relaxed">
+                Omdat de kosten van een migratie zelden in de offerte staan. Je dossierhistorie
+                moet mee, je koppelingen met lab en apotheek moeten opnieuw, en je assistentes
+                werken weken langzamer terwijl ze het nieuwe scherm leren. Voor een praktijk
+                waar het systeem functioneert maar de telefoon overloopt, los je met een
+                overstap het verkeerde probleem op.
+              </p>
+            </div>
+            <div className="border border-[var(--card-border)] rounded-2xl p-6">
+              <h3 className="text-lg font-bold mb-2">Werkt dit met mijn huidige systeem?</h3>
+              <p className="text-foreground-accent text-sm leading-relaxed">
+                In de meeste gevallen wel. We hangen de laag aan je agenda en aan de kanalen
+                waarop klanten binnenkomen: telefoon, website, WhatsApp. Gebruik je een
+                systeem waar we nog niet mee gewerkt hebben, dan kijken we eerst of het kan
+                voordat je iets afneemt. Kan het niet, dan zeggen we dat.
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-8 text-center">
+            <Link
+              href="/gratis-scan"
+              className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+            >
+              Laat ons kijken wat er op jouw systeem past <BsArrowRight size={14} />
+            </Link>
           </div>
         </div>
       </section>

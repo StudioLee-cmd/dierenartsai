@@ -3,11 +3,18 @@ import { siteDetails } from "@/data/siteDetails";
 import AutomatiseringContent from "./AutomatiseringContent";
 
 export const metadata: Metadata = {
-  title: `Workflow automatisering voor ${siteDetails.niche} — ${siteDetails.siteName}`,
-  description: `Workflow automatisering voor ${siteDetails.niche?.toLowerCase()}: automatische herinneringen, klantcommunicatie, lead-opvolging en review-verzoeken. Geen vergeten klanten, geen gemiste opvolging, geen handmatig werk.`,
+  title: `Dierenarts software: automatisering bovenop je praktijksysteem | ${siteDetails.siteName}`,
+  description: `Op zoek naar dierenarts software? Je hoeft je praktijksysteem niet te vervangen. ${siteDetails.siteName} legt een automatiseringslaag over Animana, Vetsoft of Fuga heen: herinneringen, opvolging en review-verzoeken. Vergelijking van de opties.`,
+  keywords: [
+    "dierenarts software",
+    "dierenarts afspraken software",
+    "dierenartspraktijk boekingssysteem",
+    "praktijkmanagementsysteem dierenarts",
+    `workflow automatisering ${siteDetails.niche?.toLowerCase()}`,
+  ],
   openGraph: {
-    title: `Workflow automatisering voor ${siteDetails.niche} — ${siteDetails.siteName}`,
-    description: `Automatische herinneringen, klantcommunicatie en review-verzoeken voor ${siteDetails.niche?.toLowerCase()} — laat het systeem het werk doen.`,
+    title: `Dierenarts software: automatisering bovenop je praktijksysteem | ${siteDetails.siteName}`,
+    description: `Je praktijksysteem vervangen is duur en riskant. Een automatiseringslaag erbovenop niet. Vergelijk de opties voor ${siteDetails.niche?.toLowerCase()}.`,
     url: `${siteDetails.siteUrl}automatisering`,
     type: "website",
     locale: "nl_NL",

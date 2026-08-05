@@ -70,7 +70,7 @@ Dit is een groeiend kanaal. Praktijken die nu investeren in informatieve content
 
 ## Reviews als zichtbaarheidsfactor
 
-Reviews beïnvloeden niet alleen het vertrouwen van potentiële patiënten, maar ook je positie in de [zoekresultaten](/seo). Google geeft profielen met meer en betere reviews een hogere ranking.
+Reviews beïnvloeden niet alleen het vertrouwen van potentiële patiënten, maar ook je positie in de zoekresultaten. Bij [seo voor dierenartsen](/seo) tellen ze mee als directe ranking-factor: Google geeft profielen met meer en betere reviews een hogere ranking, zeker in de lokale resultaten en op Maps.
 
 Een effectieve reviewstrategie:
 
