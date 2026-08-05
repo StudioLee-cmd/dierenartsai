@@ -15,17 +15,17 @@ const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
     '/gratis-website': '2026-07-25',
     '/chatbot': '2026-07-25',
     '/voice-ai': '2026-07-25',
-    '/seo': '2026-07-25',
+    '/seo': '2026-08-05',
     '/reviews': '2026-07-25',
     '/social-media': '2026-07-25',
     '/privacy': '2026-07-25',
     '/legal': '2026-07-25',
     '/algemene-voorwaarden': '2026-07-27',
-    '/automatisering': '2026-07-25',
+    '/automatisering': '2026-08-05',
     '/crm': '2026-07-25',
     '/free-trial': '2026-07-27',
 }
-const STATIC_LASTMOD_FALLBACK = '2026-08-01'
+const STATIC_LASTMOD_FALLBACK = '2026-08-05'
 const STATIC_LASTMOD = new Date(`${STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
 const staticLastmod = (route: string): Date =>
     new Date(`${STATIC_LASTMOD_BY_ROUTE[route] ?? STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
