@@ -87,7 +87,7 @@ Uitbesteden is effectiever — een SEO-specialist weet welke onderwerpen het mee
 
 ### Wat kost lokale SEO voor een dierenartspraktijk?
 
-Met een managed service kost het vanaf €150 per maand. Vergelijk dat met de waarde van 2-3 extra klanten per maand die via Google binnenkomen.
+Wat een managed service kost, staat op onze tarievenpagina. Vergelijk dat met de waarde van 2-3 extra klanten per maand die via Google binnenkomen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/stad-landingspaginas-dierenarts" class="text-dark fw-semibold">Lokale landingspagina per stad voor dierenartsen</a> →</p></div></div></div>
 

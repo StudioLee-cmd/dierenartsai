@@ -84,7 +84,7 @@ Drie stappen om hier zinvol mee te beginnen, zonder dat je een implementatie-pro
 
 **Stap 3: ga eerst hybride.** Twee weken lang loopt de Voice AI parallel met de receptie. AI pakt aan, mens luistert ernaast op één of twee sample-calls per dag. Aanpassingen waar nodig. Pas in week 3 gaat AI als primaire voor de bekende routine-calls. Geen big-bang, wel stappen die je kunt terugdraaien.
 
-Voor wie deze stappen niet zelf wil zetten en gewoon wil dat er over een maand een werkend systeem staat, is er de Managed Basis met [voice ai voor dierenartsen](/voice-ai) inbegrepen. Wij zetten de routering en trigger-woorden samen met je op, draaien hybride mee in week 1 en 2, en zorgen dat de overdracht naar volledig automatisch in week 3 zonder hapering verloopt.
+Voor wie deze stappen niet zelf wil zetten en gewoon wil dat er over een maand een werkend systeem staat, is er de Managed Groei Basis met [voice ai voor dierenartsen](/voice-ai) inbegrepen. Wij zetten de routering en trigger-woorden samen met je op, draaien hybride mee in week 1 en 2, en zorgen dat de overdracht naar volledig automatisch in week 3 zonder hapering verloopt.
 
 ## Wat StudioLee voor jou doet
 
