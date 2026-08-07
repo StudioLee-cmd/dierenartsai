@@ -66,13 +66,15 @@ Gebruik Google Posts om je profiel actief te houden:
 
 Eén post per twee weken houdt je profiel fris. Het kost 10 minuten en het signaal naar Google is: deze praktijk is actief en relevant.
 
-## Stap 6: Veelgestelde vragen beantwoorden
+## Stap 6: Zorg dat het antwoord op veelgestelde vragen ergens staat
 
-Voeg Q&A toe aan je profiel:
+De vragensectie waarin baasjes vroeger iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen zijn niet verdwenen, alleen het vak waarin jij ze beantwoordde. Google stelt het antwoord nu zelf samen uit je profiel, je website en je reviews, en dat zie je in Nederland terug in de AI-overzichten boven de zoekresultaten (sinds mei 2025) en in de AI-modus (sinds oktober 2025).
 
-- "Moet ik een afspraak maken of kan ik ook inlopen?" — Beantwoord eerlijk: "We werken op afspraak, maar voor spoedgevallen kun je altijd binnenlopen."
-- "Wat zijn de kosten voor een consult?" — "Een standaardconsult kost €[X]. Neem voor specifieke behandelingen contact op."
-- "Hebben jullie parkeergelegenheid?" — Praktisch maar belangrijk. "Ja, er is gratis parkeerruimte direct voor de deur."
+Loop daarom deze drie vragen langs en zorg dat het antwoord echt ergens staat:
+
+- "Moet ik een afspraak maken of kan ik ook inlopen?" — in je bedrijfsomschrijving op je profiel, en in één zin bovenaan je afspraakpagina: "We werken op afspraak, maar voor spoedgevallen kun je altijd binnenlopen."
+- "Wat zijn de kosten voor een consult?" — op je tarievenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
+- "Hebben jullie parkeergelegenheid?" — bij de kenmerken van je profiel, en met één zin op je contactpagina: "Er is gratis parkeerruimte direct voor de deur."
 
 ## Monitoring en onderhoud
 

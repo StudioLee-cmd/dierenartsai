@@ -107,7 +107,7 @@ Categorie alleen brengt je niet in de Local Pack. Het bepaalt wel of je überhau
 - **Afstand tot de zoeker** (afstand tot de pin op Maps)
 - **Reviews aantal en gemiddelde score** (mik op 50+ reviews, 4.6+ gemiddeld)
 - **Profiel-volledigheid** (foto's, openingstijden, beschrijving, services)
-- **Activiteit** (recente posts, recent beantwoorde reviews, recente Q&A's)
+- **Activiteit** (recente posts, recent beantwoorde reviews, recent bijgewerkte diensten)
 - **Website-signalen** (lokale SEO van je site, schema markup, NAP-consistentie)
 
 Voor de complete picture zie de [lokale seo voor dierenartsen](/seo) gids — categorie is laag 1 (toegangsticket), de andere lagen bouwen daar bovenop.
