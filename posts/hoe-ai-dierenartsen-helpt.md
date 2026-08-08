@@ -35,7 +35,7 @@ Een grote angst is: snapt de AI wel wanneer het spoed is? Ja. Onze modellen zijn
 Veel artsen denken dat AI hen wil vervangen. Dat is onzin. Een robot kan (voorlopig) geen diagnose stellen of een pootje verbinden. Het gaat om het vervangen van het dure, trage administratieve werk. Onze AI tools ondersteunen op drie vlakken:
 - **De Telefoniste/Assistente:** Een extra paraveterinair op de loonlijst is kostbaar en schaars. Onze [Voice AI](/voice-ai) neemt 24/7 op, plant afspraken, en beantwoordt vragen over openingstijden en tarieven.
 - **Marketing & Communicatie:** Wil je meer zichtbaarheid voor je preventieve zorg (Maand van het Gebit)? Onze Social Media AI & Blog AI regelen je nieuwsbrieven en posts. Ze informeren cliënten proactief.
-- **Administratie:** Facturatie en herinneringen. Kassa AI koppelt alles aan elkaar. Consult klaar? Factuur de deur uit.
+- **Administratie:** Facturatie en herinneringen. Facturatie AI koppelt alles aan elkaar. Consult klaar? Factuur de deur uit.
 
 ## Waarom het een No-Brainer is voor elke praktijk
 
