@@ -5,7 +5,7 @@ date: "2026-10-14"
 excerpt: "Zet je echte praktijkdiensten helder in Google Bedrijfsprofiel. Met een gecontroleerde dienstenlijst, passende beschrijvingen en duidelijke spoedafspraken."
 image: "/images/blog/google-bedrijfsprofiel-diensten-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "Praktijkmarketing"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 
