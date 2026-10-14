@@ -5,7 +5,7 @@ date: "2026-10-14"
 excerpt: "Volg een besproken gebitscontrole zorgvuldig op na het vaccinatieconsult. Een mailflow voor praktijkhouders, met toestemming, overdracht en uitsluitingen."
 image: "/images/blog/cross-sell-mailflow-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Praktijkvoering", "Klantcommunicatie"]
+tags: ["Automatisering", "E-mail"]
 cluster: "automatisering"
 ---
 
