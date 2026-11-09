@@ -1,5 +1,5 @@
 export const heroDetails = {
     heading: 'De grootste kans voor dierenartsen sinds de uitvinding van de stethoscoop.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. DierenartsAI regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: dieren beter maken.',
+    subheading: "Wij maken de website voor jouw dierenartspraktijk. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-image.png',
 }
