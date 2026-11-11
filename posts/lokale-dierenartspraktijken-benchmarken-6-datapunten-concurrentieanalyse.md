@@ -122,4 +122,4 @@ Bij DierenartsAI helpen we MKB-dierenartspraktijken hun lokale concurrentie-posi
 - Een [chatbot voor dierenartsen](/chatbot) om je online-aanwezigheid op het niveau van de actiefste lokale concurrent te brengen
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
