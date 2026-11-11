@@ -132,4 +132,4 @@ Bij DierenartsAI helpen we praktijken hun preventieve-zorg cycli automatiseren z
 - Dashboards per leeftijdscategorie met no-show / opkomst-percentages
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
