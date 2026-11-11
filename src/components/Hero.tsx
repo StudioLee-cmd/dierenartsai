@@ -107,22 +107,20 @@ const Hero: React.FC = () => {
                 >
                     <div className="mb-6 flex flex-wrap items-center justify-center gap-2 text-lg sm:text-xl md:text-2xl font-semibold">
 
+                        {/* De woorden boven de knop zijn die van de praktijk: bereikbaarheid en afspraken (het doel van de site).
+                            De oude rij kwam uit een garage-template ("Meer Reparaties", "Werkplaats in je Broekzak"). */}
                         <RotatingText
                             texts={[
-                                'Meer Reparaties 🔧',
-                                'Alles-in-1 Systeem ✨',
-                                'Nooit Meer Gemiste Oproepen 📞',
-                                'Professionele Offertes 📋',
-                                'Ondernemen Zonder Zorgen 🚀',
-                                'Werkplaats in je Broekzak 📱',
+                                '24/7 Bereikbaar voor Baasjes 🐾',
+                                'Afspraken Direct in je Agenda 📅',
+                                'Geen Gemiste Oproepen Meer 📞',
                                 'Jouw AI Receptioniste 🤖',
+                                'Minder Telefoon aan de Balie ☎️',
+                                'Minder No-shows met Herinneringen ⏰',
+                                'Meer Tijd voor je Patiënten 🩺',
+                                'Meer Google Reviews ⭐',
                                 'Administratie op Orde 📂',
-                                'Geen Gedoe Met Facturen 🧾',
-                                'Alle Tools in 1 App 📱',
-                                'Meer Vrijheid, Minder Stress 🧘',
-                                'Klanten & AI in 1 Systeem 🤝',
                                 'Volgeboekte Agenda 📈',
-                                'Snelle Service 🛠️',
                             ]}
                             mainClassName="px-2 sm:px-3 bg-[#0EA5E9] text-white overflow-hidden py-0.5 sm:py-1 justify-center rounded-lg shadow-md"
                             staggerFrom="last"
