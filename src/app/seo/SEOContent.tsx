@@ -56,70 +56,70 @@ const painPoints = [
 const steps = [
   {
     icon: BsSearch,
-    title: "Keyword Research",
-    description: `We onderzoeken waar jouw ideale klanten op zoeken. Van "${niche} [stad]" tot specifieke diensten - we brengen alle kansen in kaart.`,
+    title: "Zoekvraag in je verzorgingsgebied",
+    description: `We kijken waar baasjes in jouw plaats en de dorpen eromheen op zoeken: spoed, het gewone consult, behandelingen waar ze eerst de prijs van willen weten, en de namen van praktijken in de buurt. Daaruit volgt welke pagina's je praktijk nodig heeft.`,
   },
   {
     icon: BsPencilSquare,
-    title: "Content Creatie",
-    description: `Onze AI schrijft professionele, SEO-geoptimaliseerde blogartikelen die Google waardeert. Elke maand nieuwe content, automatisch gepubliceerd.`,
+    title: "Artikelen over vragen uit je spreekkamer",
+    description: `Elke week een nieuw artikel over een vraag die baasjes echt stellen, van het vaccinatieschema van een pup tot wat er gebeurt als je kat in het weekend niet eet. Voorlichting binnen de KNMVD-gedragsregels, geen aanprijzing.`,
   },
   {
     icon: BsGearWideConnected,
-    title: "Technische Optimalisatie",
-    description: `We zorgen dat je website technisch perfect is: snelle laadtijden, mobile-first, structured data en interne linking voor maximale rankings.`,
+    title: "Een site die Google goed kan lezen",
+    description: `Openingstijden, adres en spoednummer als gestructureerde gegevens, een site die op de telefoon snel laadt, en vanaf elke pagina een korte route naar de afspraak of het spoednummer.`,
   },
 ];
 
 const features = [
   {
     icon: BsFileEarmarkText,
-    title: "Automatische blogartikelen",
-    description: `Elke maand verse, relevante content over ${niche}-onderwerpen. Geschreven door AI, gecontroleerd op kwaliteit.`,
+    title: "Elke week een artikel",
+    description: `Over wat baasjes jouw assistentes aan de balie vragen: vaccinaties, gebitszorg, de eerste weken met een pup of kitten, vlooien en wormen per seizoen. Jij leest mee waar je dat wilt.`,
   },
   {
     icon: BsGeoAlt,
-    title: "Lokale SEO",
-    description: `Gevonden worden in jouw regio. We optimaliseren voor lokale zoektermen zodat klanten bij jou in de buurt je vinden.`,
+    title: "Lokale SEO voor je praktijk",
+    description: `De plaatsen waar je pati\u00EBnten vandaan komen, en elke vestiging als je er meer hebt, krijgen hun eigen plek op de site, zodat "${niche} [jouw plaats]" bij jouw praktijk uitkomt en niet bij de keten.`,
   },
   {
     icon: BsGoogle,
-    title: "Google Business optimalisatie",
-    description: `Je Google Bedrijfsprofiel volledig geoptimaliseerd voor maximale zichtbaarheid in Google Maps en lokale zoekresultaten.`,
+    title: "Google Bedrijfsprofiel dat klopt",
+    description: `De juiste hoofdcategorie (Dierenarts, Dierenkliniek of Dierenziekenhuis), je diensten, je spoedregeling en afwijkende tijden rond de feestdagen, zodat Maps klopt als een baasje 's avonds zoekt.`,
   },
   {
     icon: BsRobot,
-    title: "AI-zoekmachine zichtbaarheid",
-    description: `Niet alleen Google: ook zichtbaar in ChatGPT, Gemini en andere AI-zoekmachines die steeds vaker worden gebruikt.`,
+    title: "Genoemd in AI-antwoorden",
+    description: `Baasjes stellen hun vraag steeds vaker aan ChatGPT of Gemini. Heldere antwoorden met je praktijknaam, plaats en openingstijden vergroten de kans dat jouw praktijk in dat antwoord staat.`,
   },
   {
     icon: BsGraphUpArrow,
-    title: "Maandelijkse rapportages",
-    description: `Duidelijke rapporten over je rankings, verkeer en groei. Je ziet precies wat er gebeurt en waar de kansen liggen.`,
+    title: "Een maandrapport in gewone taal",
+    description: `Per maand zie je op welke zoekopdrachten in je regio de praktijk verscheen, hoeveel baasjes doorklikten en hoeveel daarvan een afspraak of terugbelverzoek achterlieten.`,
   },
   {
     icon: BsLink45Deg,
-    title: "Interne linking strategie",
-    description: `Slimme koppelingen tussen je pagina's zorgen ervoor dat Google je site beter begrijpt en hoger rankt.`,
+    title: "Artikelen die naar de afspraak leiden",
+    description: `Een stuk over vaccinaties verwijst naar je vaccinatie-afspraak, een stuk over spoed naar je spoednummer. Zo begrijpt Google welke pagina waarvoor is, en vindt het baasje de volgende stap.`,
   },
 ];
 
 const faqs = [
   {
-    question: `Hoe lang duurt het voordat ik resultaat zie van SEO?`,
-    answer: `SEO is een investering op de middellange termijn. De eerste verbeteringen zie je meestal na 4-8 weken. Na 3-6 maanden merk je een duidelijke stijging in je Google-posities en het aantal bezoekers. Het mooie is: eenmaal opgebouwde posities blijven lang staan, in tegenstelling tot advertenties die stoppen zodra je stopt met betalen.`,
+    question: `Hoe snel staat mijn praktijk beter in Google?`,
+    answer: `Dat hangt af van je plaats en van wat er al staat. Een Google Bedrijfsprofiel met de juiste categorie, diensten en openingstijden werkt het snelst door in Maps. Nieuwe pagina's en artikelen moet Google eerst vinden en beoordelen, en dat kost eerder maanden dan weken. Een positie beloven we niet; wat je wel elke maand krijgt is het overzicht van wat er bewoog.`,
   },
   {
-    question: `Wat kost SEO voor een ${niche}?`,
-    answer: `Bij een traditioneel SEO-bureau betaal je al snel \u20AC1.500 tot \u20AC3.000 per maand. Bij ${siteDetails.siteName} zit SEO inbegrepen in je abonnement vanaf \u20AC79 per maand - inclusief blogartikelen, lokale SEO en technische optimalisatie. Geen verborgen kosten.`,
+    question: `Wat kost SEO voor een ${niche}spraktijk?`,
+    answer: `Bij ${siteDetails.siteName} zit SEO in het abonnement vanaf \u20AC79 per maand: je Google Bedrijfsprofiel, lokale SEO en elke week een nieuw artikel, maandelijks opzegbaar. Wat er verder in zit en wat een traditioneel bureau voor ${nichePlural} rekent, staat op de tarievenpagina.`,
   },
   {
-    question: `Moet ik zelf content schrijven?`,
-    answer: `Nee, dat hoef je niet. Onze AI schrijft professionele blogartikelen die geoptimaliseerd zijn voor de zoekwoorden waar jouw klanten op zoeken. Je hoeft er zelf niks voor te doen. Wil je zelf ook content aanleveren? Dat kan natuurlijk ook - we verwerken het graag.`,
+    question: `Moet mijn team zelf teksten schrijven?`,
+    answer: `Nee. De artikelen worden voor je geschreven, op basis van de vragen die baasjes in jouw regio stellen. Wat wel helpt: een foto van het team, je spoedafspraken met de dienstpraktijk en de behandelingen die je zelf graag laat zien. Die informatie heeft alleen jouw praktijk, en juist die maakt je teksten anders dan die van de keten verderop.`,
   },
   {
-    question: `Werkt SEO ook voor AI-zoekmachines zoals ChatGPT?`,
-    answer: `Ja! Steeds meer mensen gebruiken ChatGPT, Google Gemini en andere AI-tools om een ${niche} te vinden. Onze content is zo geschreven dat je ook in deze AI-antwoorden verschijnt. Zo ben je niet alleen vindbaar in Google, maar ook in de zoekmachines van de toekomst.`,
+    question: `Word ik ook gevonden via ChatGPT en Gemini?`,
+    answer: `Baasjes stellen hun vraag steeds vaker aan een AI-assistent in plaats van aan Google. Zo'n assistent haalt zijn antwoord uit pagina's die de vraag duidelijk en concreet beantwoorden, met naam, plaats en openingstijden erbij. Dezelfde pagina's en artikelen die je in Google vindbaar maken, vergroten zo de kans dat je praktijk in dat antwoord genoemd wordt. Een garantie daarop bestaat niet.`,
   },
   {
     question: `Hoe zit het met de KNMVD-gedragsregels in online marketing?`,
@@ -130,8 +130,8 @@ const faqs = [
     answer: `Meestal niet. Zoekopdrachten als "waarom niest mijn kat" trekken lezers uit heel Nederland die nooit klant worden, en ze concurreren met grote consumentensites. De vraag die wél iets oplevert is lokaal en koopgericht: "${niche} [jouw stad]", "gebitsreiniging hond kosten", "dierenkliniek spoed weekend". Daar richten we de content op. Minder bezoekers, maar wel uit je eigen verzorgingsgebied.`,
   },
   {
-    question: `Kan ik SEO ook los afnemen?`,
-    answer: `SEO zit standaard inbegrepen in onze pakketten. Bekijk onze tarieven op de tarieven-pagina voor alle mogelijkheden. Heb je een specifieke vraag? Plan een gratis adviesgesprek en we kijken samen wat het beste bij jouw situatie past.`,
+    question: `Kan ik alleen SEO afnemen, zonder telefoon of chatbot?`,
+    answer: `In het abonnement zit SEO samen met de telefoon die opneemt en de chatbot, en dat is bewust: een baasje dat je vindt en daarna de voicemail krijgt, belt de volgende praktijk. Wil je het voor jouw praktijk anders inrichten, dan rekenen we dat in een gratis adviesgesprek samen door.`,
   },
 ];
 
@@ -225,22 +225,24 @@ export default function SEOContent() {
               De basis
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2 mb-6">
-              Wat is SEO?
+              Wat is SEO voor een dierenartspraktijk?
             </h2>
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>
-                SEO staat voor Search Engine Optimization, oftewel zoekmachineoptimalisatie. Het
-                is de kunst en techniek om je website hoger te laten verschijnen in Google wanneer
-                potentiele klanten zoeken naar een {niche}. Denk aan zoektermen als &ldquo;{niche}{" "}
-                Amsterdam&rdquo; of &ldquo;beste {niche} bij mij in de buurt&rdquo;.
+                SEO, voluit zoekmachineoptimalisatie, zorgt dat jouw praktijk in Google en Google
+                Maps verschijnt op het moment dat een baasje zoekt. Bij een dierenartspraktijk
+                gaat het dan vooral om zoekopdrachten met een plaatsnaam erin, zoals
+                &ldquo;{niche} Utrecht&rdquo; of &ldquo;dierenkliniek Zwolle weekend&rdquo;, en om
+                vragen over een concrete behandeling, zoals &ldquo;kat castreren kosten&rdquo; of
+                &ldquo;puppy eerste vaccinatie&rdquo;.
               </p>
               <p>
-                In tegenstelling tot Google Ads betaal je bij SEO niet per klik. Je bouwt een
-                duurzame online positie op die maanden- tot jarenlang verkeer naar je website
-                stuurt. Voor {nichePlural} is lokale SEO extra belangrijk: de meeste klanten zoeken
-                namelijk een {niche} in hun eigen regio. Met de juiste SEO-strategie verschijn
-                je bovenaan wanneer het ertoe doet - precies op het moment dat iemand jouw dienst
-                nodig heeft.
+                Een advertentie verdwijnt zodra het budget op is; een pagina die gevonden wordt
+                blijft staan. En anders dan een webshop werk je binnen een verzorgingsgebied van
+                een paar wijken of dorpen. Wie daar zoekt, moet jouw praktijk zien, met je
+                openingstijden, je spoednummer en de reviews van andere baasjes erbij. Daar draait
+                SEO voor {nichePlural} om: niet landelijk bovenaan, maar zichtbaar in de eigen
+                regio op het moment dat een dier zorg nodig heeft.
               </p>
             </div>
           </motion.div>
@@ -342,7 +344,7 @@ export default function SEOContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Maandelijks zie je hoe je positie groeit in lokale Google search en Google Maps.
+              Elke maand zie je op welke zoekopdrachten in je eigen regio de praktijk verschijnt, in Google en in Maps.
             </p>
           </motion.div>
 
@@ -390,25 +392,37 @@ export default function SEOContent() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div {...fadeUp}>
             <span className="text-primary font-bold tracking-wider uppercase text-sm">
-              Waarom nu starten
+              Waarom het loont
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2 mb-6">
               Waarom SEO voor {nichePlural}?
             </h2>
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>
-                De meeste klanten beginnen hun zoektocht naar een {niche} in Google. Ze typen
-                &ldquo;{niche} [stad]&rdquo; of &ldquo;goede {niche} bij mij in de buurt&rdquo; en
-                kiezen uit de eerste resultaten. Als jij daar niet tussen staat, mis je elke dag
-                potentiele klanten - klanten die vervolgens naar je concurrent gaan.
+                Een baasje stapt zelden over naar een andere praktijk. De keuze valt meestal bij
+                de eerste vraag: een pup die geënt moet worden, een verhuizing naar een nieuwe
+                plaats, of een kat die op zondagavond niet lekker is. Wie op dat moment in Google
+                en Maps staat, met openingstijden, reviews en een duidelijke spoedroute, krijgt
+                dat baasje, en vaak ook het tweede en derde dier in huis.
               </p>
               <p>
-                Het goede nieuws: de meeste {nichePlural} doen nog geen SEO. Dat betekent dat er
-                enorme kansen liggen om jezelf te positioneren als de go-to {niche} in jouw regio.
-                Met consistente, kwalitatieve content en lokale optimalisatie kun je binnen enkele
-                maanden bovenaan in Google staan. En het mooiste? Eenmaal opgebouwde posities
-                blijven lang staan. In tegenstelling tot advertenties is SEO een investering die
-                zichzelf blijft terugverdienen, maand na maand.
+                Ketens trekken de algemene vraag naar zich toe, maar in haar eigen
+                verzorgingsgebied wint een zelfstandige praktijk door specifiek te zijn: de eigen
+                plaatsnamen, de eigen afspraken met de dienstpraktijk, de eigen behandelingen met
+                een eerlijke uitleg van wat ze kosten. Hoe dat er concreet uitziet, lees je in onze
+                artikelen over{" "}
+                <Link href="/blog/google-bedrijfsprofiel-categorie-dierenarts" className="text-primary font-semibold hover:underline">
+                  de juiste categorie in je Google Bedrijfsprofiel
+                </Link>
+                ,{" "}
+                <Link href="/blog/stad-landingspaginas-dierenarts" className="text-primary font-semibold hover:underline">
+                  een eigen pagina per plaats
+                </Link>{" "}
+                en{" "}
+                <Link href="/blog/knmvd-richtlijnen-tonen-op-dierenartswebsite" className="text-primary font-semibold hover:underline">
+                  de KNMVD-richtlijnen op je website
+                </Link>
+                .
               </p>
             </div>
           </motion.div>
@@ -420,10 +434,10 @@ export default function SEOContent() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div {...fadeUp} className="text-center mb-16">
             <span className="text-primary font-bold tracking-wider uppercase text-sm">
-              Vergelijk en bespaar
+              Vergelijk
             </span>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2">
-              SEO Bureau vs. {siteDetails.siteName}
+              Algemeen marketingbureau of {siteDetails.siteName}
             </h2>
           </motion.div>
 
@@ -436,19 +450,19 @@ export default function SEOContent() {
               className="bg-gray-50 dark:bg-neutral-800 border border-gray-200 dark:border-neutral-700 rounded-2xl p-8"
             >
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-                Traditioneel SEO Bureau
+                Algemeen marketingbureau
               </h3>
               <p className="text-4xl font-black text-gray-400 line-through decoration-red-500 decoration-4 mb-6">
                 {"\u20AC"}1.500/mo
               </p>
               <ul className="space-y-3 text-gray-600 dark:text-gray-400">
                 {[
-                  "Lange contracten (6-12 maanden)",
-                  "Maandelijks een handvol blogposts",
-                  "Alleen Google, geen AI-zoekmachines",
-                  "Rapportages vol jargon",
-                  "Extra kosten voor wijzigingen",
-                  "Aparte factuur voor lokale SEO",
+                  "Behandelt je praktijk als elke andere lokale winkel",
+                  "Schrijft over hondenrassen in plaats van over jouw spoedroute",
+                  "Kent de KNMVD-gedragsregels niet, dus jij controleert elke tekst",
+                  "Een jaarcontract voordat er iets staat",
+                  "Rapporteert klikken, niet afspraken van baasjes",
+                  "Google Bedrijfsprofiel apart gefactureerd",
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="text-red-500 mt-1 flex-shrink-0">&#10007;</span>
@@ -474,12 +488,12 @@ export default function SEOContent() {
               </p>
               <ul className="space-y-3 relative z-10">
                 {[
-                  "Geen contract, maandelijks opzegbaar",
-                  "Automatische blogartikelen elke maand",
-                  "Zichtbaar in Google + ChatGPT + Gemini",
-                  "Duidelijke, begrijpelijke rapportages",
-                  "Alles inbegrepen, geen verborgen kosten",
-                  "Lokale SEO standaard inbegrepen",
+                  "Gemaakt voor dierenartspraktijken, niet voor elke branche",
+                  "Elke week een artikel over vragen van baasjes in je regio",
+                  "Teksten binnen de KNMVD-regels; bij twijfel leggen we ze eerst aan je voor",
+                  "Maandelijks opzegbaar",
+                  "Een maandrapport met zoekopdrachten, klikken en aanvragen",
+                  "Google Bedrijfsprofiel, lokale SEO en artikelen in \u00E9\u00E9n abonnement",
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <BsCheckCircleFill className="text-green-400 mt-1 flex-shrink-0" />
@@ -489,7 +503,7 @@ export default function SEOContent() {
               </ul>
               <div className="mt-6 relative z-10">
                 <p className="text-green-400 font-bold bg-green-400/10 inline-block px-4 py-2 rounded-full text-sm">
-                  Bespaar meer dan {"\u20AC"}1.400 per maand
+                  Telefoon en chatbot zitten er ook in, zodat een klik een afspraak wordt
                 </p>
               </div>
             </motion.div>
@@ -523,25 +537,25 @@ export default function SEOContent() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">Lokaal vindbaar als er iemand jouw vak nodig heeft</h2>
-              <p className="text-foreground-accent leading-relaxed">Voor dierenartsen draait SEO om lokale vindbaarheid. Onze SEO automatisering optimaliseert je Google Bedrijfsprofiel, lokale citations en publiceert maandelijks SEO-blogs gericht op zoektermen die jouw klanten daadwerkelijk gebruiken.</p>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Gevonden in de plaatsen waar je patiënten wonen</h2>
+              <p className="text-foreground-accent leading-relaxed">Voor een dierenartspraktijk ligt de winst binnen een paar kilometer van de deur. Daarom beginnen we bij je Google Bedrijfsprofiel en de plaatsnamen in je verzorgingsgebied, en schrijven we over de vragen die baasjes daar stellen. Niet over landelijke zoekwoorden waar nooit een patiënt uit voortkomt.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Link href="/reviews" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Reviews</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews zijn de #1 ranking-factor in Google Maps — combineer voor maximale lokale zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews van baasjes wegen zwaar in Maps. Vraag ze op het goede moment, en nooit na een afscheid van een dier.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/gratis-website" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Gratis Website</h3>
-                <p className="text-foreground-accent text-sm mb-3">Een SEO-geoptimaliseerde website is de basis. Eerst gratis voorbeeld, dan kopen vanaf €800.</p>
+                <p className="text-foreground-accent text-sm mb-3">Een praktijksite die spoed, afspraak en specialisme uit elkaar houdt. Je krijgt eerst een gratis ontwerp; kopen kan vanaf €800.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/social-media" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">Social Media</h3>
-                <p className="text-foreground-accent text-sm mb-3">Social signals versterken je lokale SEO — combineer voor maximale Google-zichtbaarheid.</p>
+                <p className="text-foreground-accent text-sm mb-3">Foto&apos;s uit de praktijk en tips voor baasjes, met toestemming van de eigenaar, maken je praktijk herkenbaar voor wie je in Maps vindt.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
           </div>
@@ -699,11 +713,12 @@ export default function SEOContent() {
 
             <div className="relative z-10">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Klaar om gevonden te worden in Google?
+                Gevonden worden door baasjes in je eigen regio?
               </h2>
               <p className="text-lg text-blue-100 mb-8 max-w-2xl mx-auto">
-                Plan een gratis adviesgesprek van 15 minuten. We analyseren je huidige
-                vindbaarheid en laten zien waar de kansen liggen.
+                In een gratis adviesgesprek van een kwartier bekijken we samen hoe je praktijk
+                nu in Google en Maps staat, en welke zoekopdrachten uit jouw plaats nog bij een
+                andere praktijk uitkomen.
               </p>
 
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
