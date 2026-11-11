@@ -713,7 +713,7 @@ export const benefits: IBenefit[] = [
     // ② VOICE-AI — neemt op als jij je handen niet vrij hebt
     {
         title: "Telefoon die opneemt",
-        description: "Neemt op als jij je handen vol hebt aan een patiënt. Boekt de afspraak, verbindt door als het moet, en pakt terug wat je zelf liet gaan.",
+        description: "Neemt op als jij je handen vol hebt aan de dieren op je behandeltafel. Boekt de afspraak, verbindt door als het moet, en pakt terug wat je zelf liet gaan.",
         bullets: [
         {
             title: "Neemt altijd op",

@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je agenda blijft vol",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij je handen vol hebt aan een patiënt.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij je handen vol hebt aan de dieren op je behandeltafel.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor dierenartsen" }, { href: "/chatbot", anchor: "ai chatbot voor dierenartsen" }],
     },
