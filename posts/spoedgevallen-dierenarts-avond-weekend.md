@@ -72,4 +72,4 @@ Je hoeft niet 24/7 open te zijn. Je moet wel 24/7 bereikbaar zijn met een duidel
 
 De praktijken die positieve [reviews](/reviews) krijgen voor hun spoedzorg, zijn niet per se de praktijken die altijd open zijn. Het zijn de praktijken die altijd antwoorden.
 
-Wil je weten hoe jouw praktijk beter vindbaar en bereikbaar wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw praktijk beter vindbaar en bereikbaar wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

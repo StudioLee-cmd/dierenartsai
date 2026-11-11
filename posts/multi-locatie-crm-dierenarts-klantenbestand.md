@@ -115,4 +115,4 @@ Een praktijk met meerdere vestigingen splitst zijn klantenbestand vanzelf, tenzi
 
 Regel het in deze volgorde: eerst de rechtenvraag beantwoorden, dan dedupliceren op chipnummer, dan de datumvelden gelijktrekken, dan pas migreren. En leg vast wie nieuwe klanten invoert en hoe, want zonder die afspraak loopt ook een schoon systeem weer vol.
 
-Wil je weten waar in jouw huidige opzet dossiers en oproepen uit elkaar lopen, begin dan bij de voorkant: we bouwen een [gratis website voor dierenartsen](/gratis-website) waarin de intake meteen in één bestand landt in plaats van in het systeem van de vestiging waar iemand toevallig op klikte. Werken we samen, dan geldt onze Groei-of-Geld-Terug Garantie, zodat je niet betaalt voor beloftes maar voor resultaat.
+Wil je weten waar in jouw huidige opzet dossiers en oproepen uit elkaar lopen, begin dan bij de voorkant: we bouwen een [gratis website voor dierenartsen](/gratis-website) waarin de intake meteen in één bestand landt in plaats van in het systeem van de vestiging waar iemand toevallig op klikte.

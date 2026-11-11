@@ -67,7 +67,7 @@ Naast individuele schema's kun je seizoensberichten automatiseren:
 
 Automatische herinneringen zijn de eenvoudigste manier om je praktijk efficiënter te maken, je receptie te ontlasten en de gezondheid van je patiënten te verbeteren. Eigenaren waarderen de service, dieren krijgen betere zorg, en jouw praktijk groeit.
 
-Met [DierenartsAI](/) automatiseer je alle herinneringen — van vaccinaties tot seizoenstips. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [DierenartsAI](/) automatiseer je alle herinneringen — van vaccinaties tot seizoenstips. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je je praktijk slimmer organiseert.
 

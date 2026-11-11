@@ -75,4 +75,4 @@ Ja. Gesprekken en terugbelverzoeken kun je automatisch laten wegschrijven in je 
 
 ## Klaar om ook anderstalige baasjes op te vangen?
 
-Jij zorgt voor de dieren, wij regelen de rest. Wil je weten hoeveel oproepen jouw praktijk nu misloopt, ook buiten kantooruren en in andere talen? Vraag een [gratis ai scan voor dierenartsen](/gratis-scan) aan en je krijgt een helder beeld van je bereikbaarheid en de eerste winst die te pakken is. We werken met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Jij zorgt voor de dieren, wij regelen de rest. Wil je weten hoeveel oproepen jouw praktijk nu misloopt, ook buiten kantooruren en in andere talen? Vraag een [gratis ai scan voor dierenartsen](/gratis-scan) aan en je krijgt een helder beeld van je bereikbaarheid en de eerste winst die te pakken is.

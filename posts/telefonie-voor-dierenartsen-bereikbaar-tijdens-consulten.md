@@ -98,7 +98,7 @@ Nee. Hij vervangt de gemiste oproep. Je team houdt de gesprekken die menselijk c
 
 ## Bereikbaar worden zonder extra handen
 
-Bij DierenartsAI bouwen we telefonie die met je praktijk meewerkt: een AI-telefonist die jouw agenda kent, spoed herkent en het baasje netjes te woord staat terwijl jij een consult doet. Jij zorgt voor de dieren, wij regelen de rest. En dat doen we met een Groei-of-Geld-Terug Garantie, zodat je nooit betaalt voor iets dat niet aantoonbaar werkt.
+Bij DierenartsAI bouwen we telefonie die met je praktijk meewerkt: een AI-telefonist die jouw agenda kent, spoed herkent en het baasje netjes te woord staat terwijl jij een consult doet. Jij zorgt voor de dieren, wij regelen de rest.
 
 Benieuwd hoe dat er voor jouw praktijk uitziet? Vraag een [gratis website voor dierenartsen](/gratis-website) aan en zie binnen 48 uur hoe je online voordeur en je telefonie samen één bereikbare praktijk vormen.
 

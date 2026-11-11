@@ -83,6 +83,5 @@ Bij DierenartsAI helpen we MKB-praktijken hun administratie-uren halveren via ee
 - Een [crm voor dierenartsen](/crm) met centrale klant-record voor patient, factuur, declaratie en communicatie-historie
 - Een WhatsApp-flow die na elke factuur automatisch de declaratie-uitleg naar de baasje stuurt
 - Een geautomatiseerde follow-up voor afgewezen declaraties met directe correctie-link
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

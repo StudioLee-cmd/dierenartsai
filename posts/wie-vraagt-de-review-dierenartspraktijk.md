@@ -113,6 +113,6 @@ Reken op een klein deel van je klanten, ook bij een goed lopend proces. Dat is n
 
 Het probleem is zelden de tekst van het verzoek en bijna altijd het eigenaarschap ervan. Geef de aankondiging aan de spreekkamer, de vraag aan de balie en het geheugen aan een automatische flow, en leg net zo hard vast wanneer er niemand vraagt.
 
-Wil je die derde laag niet zelf bouwen, dan is dat precies wat wij inrichten: [automatisch reviews verzamelen als dierenarts](/reviews) na elk consult, met de uitzonderingen erin. Daar hoort een [gratis website voor dierenartsen](/gratis-website) bij waarop je beoordelingen meteen goed staan. Alles onder onze Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast als het niets oplevert.
+Wil je die derde laag niet zelf bouwen, dan is dat precies wat wij inrichten: [automatisch reviews verzamelen als dierenarts](/reviews) na elk consult, met de uitzonderingen erin. Daar hoort een [gratis website voor dierenartsen](/gratis-website) bij waarop je beoordelingen meteen goed staan.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-dierenarts" class="text-dark fw-semibold">Review-respons automatiseren als dierenarts met AI</a> →</p>

@@ -51,4 +51,4 @@ Praktijken met meer dan dertig [Google reviews](/blog/meer-google-reviews-dieren
 
 ## Direct beginnen
 
-Elke behandeling zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt. Groei-of-Geld-Terug Garantie.
+Elke behandeling zonder review-verzoek is een gemiste kans. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je automatisch reviews verzamelt.

@@ -76,4 +76,4 @@ Je hoeft niet alles tegelijk aan te pakken. Start met:
 
 Deze twee stappen kosten je een uur en hebben direct impact op je zichtbaarheid in het lokale drieluik.
 
-Wil je weten hoe zichtbaar jouw praktijk nu is op Google en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je vindbaarheid, je reviews en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe zichtbaar jouw praktijk nu is op Google en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je vindbaarheid, je reviews en concrete verbeterpunten.

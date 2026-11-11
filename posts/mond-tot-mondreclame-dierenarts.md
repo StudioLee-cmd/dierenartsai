@@ -82,8 +82,6 @@ Formaliseer het: "Ken je iemand met een nieuw huisdier? Bij inschrijving via jou
 
 Bij StudioLee helpen we dierenartspraktijken met hun online zichtbaarheid. Van [website optimalisatie](/blog/dierenartsenwebsite-afsprakenmachine) tot review-opvolging. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je mond-tot-mondreclame kunt versterken.
 
 ## Conclusie

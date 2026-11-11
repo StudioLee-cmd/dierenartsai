@@ -130,6 +130,5 @@ Bij DierenartsAI helpen we praktijken hun preventieve-zorg cycli automatiseren z
 - Pakket-aanbiedingen tijdens reminders (worm + tekenpreventie + nagels voor €X)
 - Een [voice ai voor dierenartsen](/voice-ai) die niet-reagerende baasjes terugbelt en direct boekt
 - Dashboards per leeftijdscategorie met no-show / opkomst-percentages
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

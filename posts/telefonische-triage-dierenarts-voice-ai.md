@@ -72,7 +72,7 @@ Dat dat nodig is, blijkt uit de vraag zelf: op een term als "spoed dierenarts" w
 
 Triage werkt alleen als de regels kloppen voor jóuw praktijk: welke meldingen bij jou als spoed gelden, waar de grens ligt, en welke gesprekken altijd een mens krijgen. Bij DierenartsAI richten we die sortering met je in, koppelen we hem aan je praktijksoftware, en stellen we hem bij op basis van wat we in de gesprekken terugzien. Begin met een [gratis ai scan voor dierenartsen](/gratis-scan): we brengen je huidige oproepstroom in kaart en laten zien waar de meeste spoed en de meeste ruis nu zitten.
 
-Voor praktijken die de stap zetten geldt onze Groei-of-Geld-Terug Garantie: is de druk op je receptie na drie maanden niet meetbaar gedaald, dan krijg je de investering terug. Want goede triage is geen techniek-keuze, het is een zorg-keuze.
+Want goede triage is geen techniek-keuze, het is een zorg-keuze.
 
 Jij zorgt voor de dieren, wij regelen de rest.
 

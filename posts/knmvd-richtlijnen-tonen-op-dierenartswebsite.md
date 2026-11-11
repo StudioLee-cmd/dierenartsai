@@ -133,7 +133,6 @@ Bij DierenartsAI helpen we praktijken hun KNMVD-status en kwaliteitsbeleid profe
 - [Seo voor dierenartsen](/seo) traject met focus op kwaliteits-signalen voor "dierenarts [stad]" en specialisatie-keywords
 - Een [crm voor dierenartsen](/crm) met automatische kwartaal-reminders voor kwaliteit-pagina-review
 - [Google reviews voor dierenartsen](/reviews) opvolging die kwaliteit als USP versterkt in klant-feedback
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

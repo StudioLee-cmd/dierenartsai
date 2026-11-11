@@ -94,4 +94,4 @@ Reviewautomatisering in een zorgpraktijk gaat niet over vaker vragen. Het gaat e
 
 Vier haakjes, en je bent er: contactbeleid per afspraaktype, een pauze na een onverwacht afscheid, herbeoordeling na slecht nieuws en een stop-vlag voor de balie. Zet ze aan voordat je de flow aanzet, niet erna.
 
-Wij richten het [review management voor dierenartsen](/reviews) bij DierenartsAI standaard met die uitsluitingen in, samen met de mensen die er dagelijks mee werken, zodat de balie niet hoeft te onthouden wat het systeem hoort te weten. Wat dat kost staat op onze [tarieven DierenartsAI](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Wij richten het [review management voor dierenartsen](/reviews) bij DierenartsAI standaard met die uitsluitingen in, samen met de mensen die er dagelijks mee werken, zodat de balie niet hoeft te onthouden wat het systeem hoort te weten. Wat dat kost staat op onze [tarieven DierenartsAI](/tarieven).

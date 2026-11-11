@@ -93,4 +93,4 @@ Je profiel gaat over je praktijkvestiging en haar diensten. Pagina's op je eigen
 
 <p class="lees-ook" style="background-color:rgba(13,148,136,0.12);border-radius:8px;padding:12px 16px;margin:24px 0;"><strong>Lees ook:</strong> <a href="/blog/stad-landingspaginas-dierenarts">Lokale landingspagina per stad voor dierenartsen</a> →</p>
 
-Wil je een praktijksite die aansluit op je actuele aanbod en contactafspraken? Bekijk de [gratis website voor dierenartsen](/gratis-website) van DierenartsAI. De Groei-of-Geld-Terug Garantie hoort bij apart betaalde SEO- of resultaat-add-ons, met een afgesproken resultaat, termijn en bewijswijze. De standaard maandprijs valt daarbuiten; er is geen garantie op behandelomzet of zorguitkomsten.
+Wil je een praktijksite die aansluit op je actuele aanbod en contactafspraken? Bekijk de [gratis website voor dierenartsen](/gratis-website) van DierenartsAI. De standaard maandprijs valt daarbuiten; er is geen garantie op behandelomzet of zorguitkomsten.
