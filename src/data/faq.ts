@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Afspraken komen in je eigen agenda. Gebruik je Animana of Digitail, dan vragen we samen met jou toegang aan bij de leverancier; tot die er is, zet de assistent een afspraakverzoek klaar dat je met een klik bevestigt, of stuurt hij de beller je Vetstoria-boekingslink.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
