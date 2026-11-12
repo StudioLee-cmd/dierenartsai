@@ -41,8 +41,8 @@ export default function HomeLatestBlogs() {
               Recent op onze blog
             </h2>
             <p className="text-foreground-accent max-w-xl">
-              Tips, casestudies en strategieen voor dierenartsen die meer
-              opdrachten en minder gedoe willen.
+              Tips, casestudies en strategieën voor dierenartsen die meer omzet en
+              minder gedoe willen.
             </p>
           </div>
           <Link
