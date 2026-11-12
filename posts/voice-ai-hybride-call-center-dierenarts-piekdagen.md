@@ -58,8 +58,6 @@ Neem een praktijk met 2.400 dieren in het bestand. Verstuur je alle herinneringe
 
 ## Het hybride model: AI voorop, callcenter als vangnet
 
-![Het hybride model: AI voorop, callcenter als vangnet](/images/blog/voice-ai-hybride-call-center-dierenarts-piekdagen-2.jpg)
-
 In een hybride is de volgorde altijd hetzelfde. De AI-telefonist neemt op in de naam van je praktijk, vraagt naar de eigenaar en het dier, herkent de vraag en handelt af wat hij kan afhandelen: een vaccinatie inplannen, een afspraak verzetten, een herhaalrecept klaarzetten, openingstijden of een adres doorgeven.
 
 Het callcenter komt pas in beeld bij gesprekken die een mens vragen, terwijl je eigen assistente geen ruimte heeft. Denk aan een baasje dat geen computer wil spreken of een vraag over een rekening die verder gaat dan je standaardantwoord. Het callcenter beantwoordt geen medische vragen. Het neemt het gesprek vriendelijk aan, legt de vraag vast en zet waar nodig een terugbelverzoek voor jouw team klaar.
@@ -113,6 +111,8 @@ Bij elke overdracht ziet de ontvanger de samenvatting van de AI voordat hij opne
 Dan begint het gesprek bij "Ik zie dat je belt over de rekening van vorige week" en niet bij een nieuwe intake. Dat scheelt per gesprek 1 tot 2 minuten.
 
 ## Eén agenda, één klantkaart
+
+![Eén agenda, één klantkaart](/images/blog/voice-ai-hybride-call-center-dierenarts-piekdagen-2.jpg)
 
 Twee kanalen mogen nooit twee administraties worden. Plant de AI een afspraak in de agenda en mailt het callcenter een notitie naar de praktijk, dan zit je assistente om 11:00 te puzzelen wie al geholpen is en wie nog een terugbelletje verwacht.
 
