@@ -5,7 +5,7 @@ excerpt: "Onderscheid jezelf van de concurrentie. Met de Client App in het Elite
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-dierenarts-app.png"
-tags: ["Website"]
+tags: ["Elite Plan", "Client App"]
 cluster: "website"
 ---
 Alles gaat naar mobiel. We bankieren mobiel, we bestellen eten mobiel. Waarom moet ik voor de dierenarts nog bellen of een papieren boekje zoeken?

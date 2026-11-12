@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als dierenarts structureel meer nieuwe klanten aantrekt 
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-dierenarts.png"
-tags: ["Leads", "Marketing"]
+tags: ["Leads"]
 cluster: "automatisering"
 ---
 

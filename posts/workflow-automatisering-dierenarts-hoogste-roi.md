@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Niet elke automatisering levert evenveel op. Dit zijn de 5 workflows met de hoogste ROI voor je dierenartspraktijk, gerangschikt op wat ze opleveren."
 image: "/images/blog/workflow-automatisering-dierenarts-hoogste-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Automatisering", "ROI"]
 cluster: "automatisering"
 ---
 

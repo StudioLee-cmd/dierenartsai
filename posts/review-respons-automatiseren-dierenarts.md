@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Op maandagochtend staan er tien onbeantwoorde reviews. Zo laat je AI passende, warme reacties opstellen die jij alleen nog goedkeurt en plaatst."
 image: "/images/blog/review-respons-automatiseren-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Automatisering"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

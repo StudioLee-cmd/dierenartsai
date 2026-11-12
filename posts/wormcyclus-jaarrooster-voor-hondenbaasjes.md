@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Een wormcyclus-jaarrooster maakt ontwormen voorspelbaar voor de baas en automatiseert herinneringen voor je praktijk. Inclusief hartworm-preventie reizigers."
 image: "/images/blog/wormcyclus-jaarrooster-voor-hondenbaasjes.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Ontwormen", "Hartworm", "Hond"]
 cluster: "automatisering"
 ---
 

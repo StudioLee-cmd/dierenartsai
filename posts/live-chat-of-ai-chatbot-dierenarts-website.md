@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat of een AI chatbot op je dierenarts-website? Vergelijk receptiedruk, reactietijd en spoed-opvang, en kies wat past bij jouw praktijk."
 image: "/images/blog/live-chat-of-ai-chatbot-dierenarts-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Website", "AI"]
+tags: ["Chatbot", "Live chat", "Website"]
 cluster: "chatbot"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Diereneigenaren zoeken online naar een betrouwbare dierenarts. Wie op 
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-dierenartsen-meer-klanten-vinden-via-google.png"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Google", "Patiënten"]
 cluster: "vindbaarheid"
 ---
 ## Waarom Google steeds belangrijker wordt voor dierenartsen

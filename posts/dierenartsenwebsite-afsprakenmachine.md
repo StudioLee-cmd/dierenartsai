@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als dierenarts je website inricht zodat baasjes direct onl
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartsenwebsite-afsprakenmachine.png"
-tags: ["Website", "Conversie"]
+tags: ["Conversie", "Online boeken"]
 cluster: "website"
 ---
 ## Waarom online boeken de norm wordt

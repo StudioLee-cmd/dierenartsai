@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Geen idee wat je op Instagram moet posten als dierenarts? 12 concrete ideeen die werken, ook zonder herkenbare foto van een patient of baasje."
 image: "/images/blog/instagram-ideeen-dierenarts-zonder-patientfotos.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Content"]
 cluster: "social-media"
 ---
 

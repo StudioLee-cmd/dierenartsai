@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Vijf herhaalbare Instagram Reels-formats voor dierenartspraktijken: kitten, OK-voorbereiding, educatief, behind-the-scenes en herstel. Met privacytips."
 image: "/images/blog/instagram-reels-dierenartsen-5-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Reels"]
 cluster: "social-media"
 ---
 

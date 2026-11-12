@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw dierenartspraktijk genoemd door ChatGPT, Perplexity en G
 date: "2026-04-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "ChatGPT", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met dierenwinkels, trimmers en gedragsther
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-dierenarts-partnerschappen.png"
-tags: ["Groei"]
+tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 

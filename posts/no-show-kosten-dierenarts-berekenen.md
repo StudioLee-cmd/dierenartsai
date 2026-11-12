@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-dierenarts-berekenen.jpg"
-tags: ["No-shows", "Groei"]
+tags: ["No-shows", "Kosten"]
 ---
 ## De berekening die elke praktijk zou moeten maken
 

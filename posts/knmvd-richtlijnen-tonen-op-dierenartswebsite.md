@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "KNMVD-richtlijnen en praktijkkwaliteit zichtbaar maken op je dierenarts-website verhoogt vertrouwen en de E-E-A-T-score voor SEO bij Google."
 image: "/images/blog/knmvd-richtlijnen-tonen-op-dierenartswebsite.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Website"]
+tags: ["Kwaliteit", "KNMVD", "Vertrouwen"]
 cluster: "website"
 ---
 

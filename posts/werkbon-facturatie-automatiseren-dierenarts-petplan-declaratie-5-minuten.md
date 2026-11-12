@@ -5,7 +5,7 @@ date: "2026-05-11"
 excerpt: "Werkbon dierenarts automatiseren: van consult naar factuur en Petplan-declaratie in 5 minuten via PMS-koppeling en AI-flows."
 image: "/images/blog/werkbon-facturatie-automatiseren-dierenarts-petplan-declaratie-5-minuten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Praktijkvoering"]
+tags: ["Werkbon", "Facturatie", "Petplan"]
 cluster: "automatisering"
 ---
 

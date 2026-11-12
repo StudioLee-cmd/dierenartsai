@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraak-verzetten-dierenarts-makkelijk-no-shows.jpg"
-tags: ["No-shows", "Automatisering"]
+tags: ["No-shows", "Flexibiliteit"]
 ---
 ## Waarom baasjes niet afbellen
 

@@ -5,7 +5,7 @@ date: "2026-05-07"
 excerpt: "Multi-pet huishoudens binden als dierenarts: family-CRM, gecombineerde reminders en multi-pet pakket-pricing voor 3x hogere LTV per huishouden."
 image: "/images/blog/multi-pet-huishouden-binden-dierenarts-family-crm-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "CRM"]
+tags: ["Multi-pet", "Family-CRM", "LTV"]
 cluster: "automatisering"
 ---
 

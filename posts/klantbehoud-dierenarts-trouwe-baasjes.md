@@ -6,7 +6,7 @@ excerpt: "Een dierenarts die investeert in klantrelaties, bouwt een stabiele pra
 image: "/images/blog/klantbehoud-dierenarts-trouwe-baasjes.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantbehoud"]
+tags: ["Klantbehoud", "Relatiebeheer"]
 cluster: "automatisering"
 ---
 

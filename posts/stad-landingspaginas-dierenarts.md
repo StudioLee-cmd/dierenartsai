@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Baasjes zoeken op dierenarts plus hun stad. Zo bouw je een landingspagina per plaats die echt rankt, zonder dat Google je afstraft voor duplicate content."
 image: "/images/blog/stad-landingspaginas-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Lokale SEO"]
+tags: ["Lokale SEO", "Website"]
 cluster: "vindbaarheid"
 ---
 

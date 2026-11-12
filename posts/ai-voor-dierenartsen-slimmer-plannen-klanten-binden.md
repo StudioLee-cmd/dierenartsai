@@ -4,7 +4,7 @@ excerpt: "AI helpt dierenartspraktijken bij afsprakenbeheer, herinneringen en ma
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-dierenartsen-slimmer-plannen-klanten-binden.png"
-tags: ["AI", "Automatisering"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Een bureau zegt dat je moet adverteren, maar je agenda zit al vol. Wanneer een advertentiebudget bij een dierenartspraktijk wel iets oplevert."
 image: "/images/blog/facebook-ads-dierenarts-volle-agenda.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Agenda"]
+tags: ["Social Media", "Adverteren"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Een annulering om 9:12 hoeft geen leeg kwartier te worden. Zo vult een AI-waitlist laatste-minuut-plekken in je dierenartspraktijk automatisch op."
 image: "/images/blog/same-day-afspraak-dierenarts-ai-waitlist.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Agenda", "AI"]
+tags: ["Agenda", "Waitlist", "No-shows"]
 cluster: "automatisering"
 ---
 

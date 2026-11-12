@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe diereneigenaren een dierenarts zoeken in 2026 en hoe je als
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-zichtbaarheid-dierenarts-vergroten.jpg"
-tags: ["Vindbaarheid", "Groei"]
+tags: ["Online marketing"]
 cluster: "vindbaarheid"
 ---
 ## Hoe diereneigenaren een dierenarts zoeken in 2026

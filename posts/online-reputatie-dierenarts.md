@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of nieuwe diereigenaren jouw praktijk kiez
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-dierenarts.png"
-tags: ["Reviews", "Reputatie"]
+tags: ["Online reputatie", "Reviews"]
 cluster: "reviews"
 ---
 Een diereigenaar met een ziek huisdier googelt "dierenarts in de buurt." Ze zien drie praktijken. Een heeft 45 [reviews](/reviews) en 4,9 sterren. Een ander heeft 3 reviews. De derde heeft geen reviews. Wie bellen ze?

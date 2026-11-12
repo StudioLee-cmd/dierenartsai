@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Voicemail vangt bezorgde baasjes niet op: ze hangen op en bellen de volgende praktijk. Vergelijk voicemail met een Voice AI telefonist voor je receptie."
 image: "/images/blog/voice-ai-vs-voicemail-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid"]
+tags: ["Voicemail", "Receptie"]
 cluster: "voice-ai"
 ---
 

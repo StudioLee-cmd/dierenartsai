@@ -4,7 +4,7 @@ excerpt: "Hoe schema markup je dierenartspraktijk vindbaarder maakt bij urgentie
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/schema-markup-dierenarts-vindbaarheid.jpg"
-tags: ["Vindbaarheid"]
+tags: ["Schema Markup"]
 cluster: "vindbaarheid"
 ---
 ## In het kort

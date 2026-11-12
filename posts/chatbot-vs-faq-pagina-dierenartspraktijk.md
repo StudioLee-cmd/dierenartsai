@@ -5,7 +5,7 @@ excerpt: "Een chatbot of een FAQ-pagina: wat levert jouw dierenartspraktijk meer
 date: "2026-06-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatbot-vs-faq-pagina-dierenartspraktijk.jpg"
-tags: ["AI", "Chatbot"]
+tags: ["Chatbot"]
 cluster: "chatbot"
 ---
 Het is kwart over negen 's avonds. Een baasje ontdekt dat de hond iets heeft opgegeten wat niet de bedoeling was, en jouw praktijk is allang dicht. In paniek belandt hij op je website. Wat hij daar tegenkomt, bepaalt of hij morgen bij jóu op de stoep staat of bij de praktijk twee straten verderop.

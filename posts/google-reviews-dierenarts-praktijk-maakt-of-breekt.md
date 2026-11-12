@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Google reviews bepalen of een nieuwe diereneigenaar jouw praktijk kiest of de buurpraktijk. Wat de cijfers zeggen en hoe je het systeem opzet."
 image: "/images/blog/google-reviews-dierenarts-praktijk-maakt-of-breekt.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Reputatie"]
+tags: ["Reviews", "Praktijkmarketing"]
 cluster: "reviews"
 ---
 

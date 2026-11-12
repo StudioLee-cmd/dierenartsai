@@ -6,7 +6,7 @@ date: "2026-04-14"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedgevallen-dierenarts-avond-weekend.jpg"
-tags: ["Bereikbaarheid", "Voice AI"]
+tags: ["Spoedgevallen"]
 ---
 ## Spoedgevallen stoppen niet om vijf uur
 

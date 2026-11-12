@@ -5,7 +5,7 @@ date: "2026-05-28"
 excerpt: "Je praktijk volgt al een vaste jaarcyclus. Met deze maand-voor-maand Google Posts-kalender blijf je het hele jaar zichtbaar en houd je je agenda gevuld."
 image: "/images/blog/google-posts-contentkalender-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

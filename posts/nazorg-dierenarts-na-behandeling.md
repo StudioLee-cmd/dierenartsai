@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-dierenarts-na-behandeling.jpg"
-tags: ["Automatisering"]
+tags: ["Nazorg", "Klantrelatie"]
 ---
 ## Na de behandeling begint de echte zorg
 

@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/post-operatieve-communicatie-dierenarts-baasjes.jpg"
-tags: ["Patiëntcommunicatie"]
+tags: ["Post-operatief"]
 ---
 Een hond is geopereerd en ligt op de recovery. De eigenaar is thuis aan het werken, de hele ochtend al niet goed geconcentreerd, en wacht op een teken dat het goed is gegaan. In veel praktijken duurt dat teken tussen de drie en zes uur — een medewerker belt als er tijd is, of de baasje belt zelf vanuit onrust. Dat is een herkenbaar patroon, en ook een van de sterkste verbeterkansen in je klantbeleving.
 

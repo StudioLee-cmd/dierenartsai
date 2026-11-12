@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "AI-telefonist voorop, een call center als vangnet op maandagochtend en in het vaccinatieseizoen. Wie welk gesprek pakt en wat het je praktijk kost."
 image: "/images/blog/voice-ai-hybride-call-center-dierenarts-piekdagen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI"]
+tags: ["Voice AI", "Piekdagen"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Vaccinaties, ontworming, jaarlijkse checkups — handmatig bijhouden k
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaccinatie-herinneringen-dierenarts-automatiseren.png"
-tags: ["Automatisering", "Receptie"]
+tags: ["Vaccinaties"]
 cluster: "automatisering"
 ---
 

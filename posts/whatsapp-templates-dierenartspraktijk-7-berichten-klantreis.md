@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-templates-dierenartspraktijk-7-berichten-klantreis.jpg"
-tags: ["WhatsApp", "Automatisering"]
+tags: ["WhatsApp", "Templates"]
 ---
 Een gemiddelde dierenartspraktijk in Nederland verstuurt vandaag de dag tussen 80 en 220 WhatsApp-berichten per week — afspraakbevestigingen, vaccinatie-herinneringen, foto's beoordelen, korte vraagjes, post-consult check-ins. De meeste van die berichten worden in het moment getypt door de receptie of de assistente, op een privé-06-nummer, met telkens net iets andere bewoording, zonder vaste structuur. Het werkt — totdat een drukke maandag binnenvalt en de berichten halve antwoorden krijgen, of tot een medewerker vertrekt en de WhatsApp-historie weg is, of tot een baasje opmerkt dat de afspraakbevestiging die vorige week wel kwam, deze week vergeten is.
 

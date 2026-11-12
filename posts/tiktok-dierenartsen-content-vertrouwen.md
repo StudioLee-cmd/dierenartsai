@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Moet een dierenarts iets met TikTok? Ja, maar niet met dansjes. Met korte, educatieve filmpjes bouw je vertrouwen bij baasjes en trek je nieuwe klanten aan."
 image: "/images/blog/tiktok-dierenartsen-content-vertrouwen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Marketing"]
+tags: ["TikTok", "Contentmarketing"]
 cluster: "social-media"
 ---
 

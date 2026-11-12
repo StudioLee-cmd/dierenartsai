@@ -5,7 +5,7 @@ excerpt: "Meer klanten als dierenarts? Het begint bij online zichtbaarheid, loka
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-klanten-als-dierenarts.png"
-tags: ["Marketing", "Automatisering"]
+tags: ["Klantwerving"]
 cluster: "automatisering"
 ---
 ## De uitdaging: meer klanten in een lokale markt

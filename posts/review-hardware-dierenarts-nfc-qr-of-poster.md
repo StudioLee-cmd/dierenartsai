@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "NFC-kaart, QR-code of poster in de wachtkamer: welk middel levert je dierenartspraktijk meer Google reviews op? Een eerlijke vergelijking en de valkuil."
 image: "/images/blog/review-hardware-dierenarts-nfc-qr-of-poster.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews"]
+tags: ["Reviews", "NFC"]
 cluster: "reviews"
 ---
 

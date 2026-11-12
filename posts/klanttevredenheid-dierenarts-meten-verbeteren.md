@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als dierenarts de tevredenheid van baasjes meet en struc
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-dierenarts-meten-verbeteren.jpg"
-tags: ["Groei", "Automatisering"]
+tags: ["Klantbeleving", "Service"]
 cluster: "automatisering"
 ---
 ## Waarom klanttevredenheid telt voor dierenartsen

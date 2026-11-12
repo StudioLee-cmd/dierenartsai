@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Overstappen naar nieuwe praktijksoftware als dierenarts? Zo zet je patiëntdossiers, vaccinatieschema en declaraties veilig over, plus de grote valkuilen."
 image: "/images/blog/praktijksoftware-migreren-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["Praktijksoftware", "CRM"]
 cluster: "automatisering"
 ---
 
