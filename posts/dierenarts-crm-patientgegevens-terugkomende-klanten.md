@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-crm-patientgegevens-terugkomende-klanten.jpg"
-tags: ["Dierenarts", "CRM", "Klantbehoud", "Automatisering"]
+tags: ["CRM", "Klantbehoud"]
 ---
 Een dierenarts ziet gemiddeld elk baasje 1,8 keer per jaar. Dat is een confronterend cijfer, want een goed verzorgde hond of kat zou drie tot vier consulten per jaar nodig moeten hebben (jaarlijkse controle, vaccinaties, tandheelkundige check, soms een preventief bloedonderzoek). Die kloof tussen wat medisch logisch is en wat baasjes daadwerkelijk doen, is bijna altijd een communicatie-probleem, niet een kennis-probleem.
 

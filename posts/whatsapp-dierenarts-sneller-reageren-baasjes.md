@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-dierenarts-sneller-reageren-baasjes.jpg"
-tags: ["Lead opvolging", "Dierenarts", "WhatsApp"]
+tags: ["Lead opvolging", "WhatsApp"]
 ---
 ## Waarom baasjes liever appen dan bellen
 

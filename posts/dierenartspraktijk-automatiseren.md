@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartspraktijk-automatiseren.jpg"
-tags: ["Automatisering", "Dierenarts", "Praktijkbeheer"]
+tags: ["Automatisering"]
 ---
 ## Tussen de consulten door: telefoon, administratie en e-mails
 

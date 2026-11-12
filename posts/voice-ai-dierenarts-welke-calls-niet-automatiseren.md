@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Voice AI is sterk voor routine-calls in een dierenartspraktijk, maar niet voor paniek of euthanasie. Lees waar de scheiding ligt en hoe je het inricht."
 image: "/images/blog/voice-ai-dierenarts-welke-calls-niet-automatiseren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Klantcontact", "Automatisering"]
+tags: ["Voice AI", "Automatisering"]
 cluster: "voice-ai"
 ---
 Een goede balie-medewerker in een dierenartspraktijk weet het verschil tussen een belletje voor een jaarlijkse vaccinatie en een belletje van een paniekerige eigenaar wiens kat een uur geleden iets giftigs heeft binnengekregen. Bij de eerste vraagt ze de naam, het ras en welke datum past. Bij de tweede onderbreekt ze direct, vraagt of het dier nog ademt en haalt er meteen een dierenarts bij. Hetzelfde telefoonnummer, twee compleet verschillende gesprekken.

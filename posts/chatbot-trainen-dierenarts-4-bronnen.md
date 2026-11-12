@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Een chatbot is zo goed als wat je hem voert. Dit zijn de vier databronnen die je praktijk al heeft, en de grens waar de bot moet stoppen."
 image: "/images/blog/chatbot-trainen-dierenarts-4-bronnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI", "Praktijkdata", "Receptie"]
+tags: ["Chatbot", "AI", "Receptie"]
 cluster: "chatbot"
 ---
 

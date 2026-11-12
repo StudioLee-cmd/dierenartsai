@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-reviews-vragen-na-bezoek.jpg"
-tags: ["Reviews", "Dierenarts", "Klantcommunicatie"]
+tags: ["Reviews", "Klantcommunicatie"]
 ---
 ## Waarom reviews voor dierenartsen anders zijn
 

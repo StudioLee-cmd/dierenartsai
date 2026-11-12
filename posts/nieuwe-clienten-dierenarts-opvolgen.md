@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-clienten-dierenarts-opvolgen.jpg"
-tags: ["Leads", "Dierenarts", "Klantbehoud"]
+tags: ["Leads", "Klantbehoud"]
 ---
 ## Het eerste telefoontje is pas het begin
 

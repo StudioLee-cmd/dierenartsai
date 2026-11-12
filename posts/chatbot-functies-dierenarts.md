@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Een chatbot zonder triage-instinct is een digitale folder. Deze 6 functies bepalen of hij je receptie echt ontlast of alleen maar meepraat."
 image: "/images/blog/chatbot-functies-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Dierenarts"]
+tags: ["Chatbot"]
 cluster: "chatbot"
 ---
 

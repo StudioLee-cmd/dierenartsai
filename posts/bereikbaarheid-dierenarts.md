@@ -4,7 +4,7 @@ excerpt: "Bereikbaarheid is cruciaal voor dierenartspraktijken. Leer hoe je alti
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-dierenarts.png"
-tags: ["bereikbaarheid", "dierenarts", "klantenservice"]
+tags: ["Bereikbaarheid", "Voice AI"]
 cluster: "voice-ai"
 ---
 

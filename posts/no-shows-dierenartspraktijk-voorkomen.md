@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-dierenartspraktijk-voorkomen.jpg"
-tags: ["No-shows", "Dierenarts", "Planning"]
+tags: ["No-shows", "Agenda"]
 ---
 ## Lege consulten zijn verloren omzet
 

@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Om 21:30 appt een baasje over een benauwde kat, om 8:00 leest je receptie het pas. Zo vangt een WhatsApp chatbot avond-aanvragen automatisch op."
 image: "/images/blog/whatsapp-chatbot-dierenarts-avond-aanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Receptie", "Dierenarts", "Triage"]
+tags: ["Chatbot", "WhatsApp", "Receptie"]
 cluster: "chatbot"
 ---
 

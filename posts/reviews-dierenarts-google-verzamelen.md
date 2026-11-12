@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-dierenarts-google-verzamelen.jpg"
-tags: ["Reviews", "Dierenarts", "Google"]
+tags: ["Reviews", "Google"]
 ---
 ## Baasjes kiezen hun dierenarts op basis van reviews
 

@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Een chatbot die alleen antwoorden geeft is een doodlopend gesprek. Zo wordt je dierenarts-chatbot een afsprakenmotor die je receptie echt ontlast."
 image: "/images/blog/dierenarts-chatbot-van-vraag-tot-afspraak.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Online afspraken", "Receptie", "Dierenarts", "Conversie"]
+tags: ["Chatbot", "Receptie", "Conversie"]
 cluster: "chatbot"
 ---
 

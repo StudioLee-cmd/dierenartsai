@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-sneller-reageren-aanvragen.jpg"
-tags: ["Lead-opvolging", "Groei", "Tips"]
+tags: ["Lead opvolging", "Groei"]
 ---
 ## De eerste die belt, wint de patiënt
 

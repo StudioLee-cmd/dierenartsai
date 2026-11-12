@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenarts-vindbaar-google-lokale-seo.jpg"
-tags: ["Vindbaarheid", "SEO", "Groei"]
+tags: ["Vindbaarheid", "Groei"]
 ---
 ## Waarom diereneigenaren altijd lokaal zoeken
 

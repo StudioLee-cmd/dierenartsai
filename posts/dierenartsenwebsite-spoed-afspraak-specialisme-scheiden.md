@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Een dierenartsenwebsite die spoed, gewone afspraken en specialismen niet scheidt, jaagt baasjes weg. Zo bouw je een 3-laags structuur die wel converteert."
 image: "/images/blog/dierenartsenwebsite-spoed-afspraak-specialisme-scheiden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website", "Conversie", "Praktijkmanagement"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

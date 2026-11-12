@@ -5,7 +5,7 @@ excerpt: "Welke software past bij jouw dierenartspraktijk? Een eerlijke vergelij
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-praktijksoftware-dierenartsen-2026.png"
-tags: ["Software", "Vergelijking", "Tools"]
+tags: ["Tools", "Automatisering"]
 cluster: "automatisering"
 ---
 Als dierenarts draait alles om goede zorg. Maar tussen de consulten, operaties en spoedgevallen door moet je ook nog je praktijk runnen: afspraken, dossiers, facturatie en marketing. Welke software helpt jou als dierenarts het meest in 2026?

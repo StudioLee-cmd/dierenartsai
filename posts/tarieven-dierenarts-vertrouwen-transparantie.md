@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tarieven-dierenarts-vertrouwen-transparantie.jpg"
 cluster: "website"
-tags: ["Prijzen Communiceren", "Klantcommunicatie", "Dierenarts Operaties"]
+tags: ["Prijzen Communiceren"]
 ---
 Een eigenaar brengt zijn 8-jarige hond binnen voor een controle. Tijdens het bezoek wordt een verdachte bult ontdekt. De dierenarts adviseert een biopsie en een follow-up. De rekening van die dag bedraagt 290 euro. De eigenaar betaalt zonder klagen, maar belt twee dagen later met een fervente klacht: "Ik wist niet dat het zo veel zou kosten." De dierenarts heeft niets fout gedaan, alleen de prijzen niet vooraf gecommuniceerd. Nu staat er een 1-ster review op Google en zijn de eigenaar en zijn hond niet meer terug.
 

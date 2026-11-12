@@ -7,7 +7,7 @@ excerpt: "Elk seizoen brengt andere gezondheidsvragen voor huisdieren. Zo speel 
 image: "/images/blog/seizoensmarketing-dierenarts-voorjaar.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["seizoenswerk", "dierenarts", "marketing"]
+tags: ["Marketing", "Automatisering"]
 cluster: "automatisering"
 ---
 

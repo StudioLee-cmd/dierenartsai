@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Niet duizenden gesprekken, maar de juiste beslissingen. Dit is hoeveel praktijkmateriaal je AI telefonist nodig heeft voordat hij betrouwbaar opneemt."
 image: "/images/blog/voice-ai-trainen-dierenarts-hoeveel-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Dierenarts"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

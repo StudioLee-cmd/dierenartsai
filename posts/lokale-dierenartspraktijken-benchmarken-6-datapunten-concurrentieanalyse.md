@@ -5,7 +5,7 @@ date: "2026-05-14"
 excerpt: "Concurrentieanalyse dierenarts in 30 minuten: 6 datapunten over openingstijden, prijzen, reviews en specialisaties van lokale concurrenten."
 image: "/images/blog/lokale-dierenartspraktijken-benchmarken-6-datapunten-concurrentieanalyse.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Concurrentieanalyse", "Benchmark", "Lokale Marketing", "Dierenarts Operaties"]
+tags: ["Lokaal", "Praktijkvoering"]
 cluster: "branding"
 ---
 **In het kort:**

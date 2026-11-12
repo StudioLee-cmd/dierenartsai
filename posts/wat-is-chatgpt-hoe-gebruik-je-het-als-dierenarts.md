@@ -4,7 +4,7 @@ excerpt: "ChatGPT kan dierenartspraktijken helpen bij communicatie en content. M
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-dierenarts.png"
-tags: ["Tools", "ChatGPT", "Dierenartsen"]
+tags: ["Tools", "ChatGPT"]
 cluster: "automatisering"
 ---
 

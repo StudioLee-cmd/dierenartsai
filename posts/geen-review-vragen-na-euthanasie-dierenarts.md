@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Een automatisch reviewverzoek kent het verschil niet tussen een vaccinatie en een afscheid. Dit zijn de uitsluitingen die in elke praktijkflow horen."
 image: "/images/blog/geen-review-vragen-na-euthanasie-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Praktijkvoering", "Dierenarts"]
+tags: ["Reviews", "Praktijkvoering"]
 cluster: "reviews"
 ---
 

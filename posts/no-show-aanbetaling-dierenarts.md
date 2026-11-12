@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een aanbetaling verlaagt no-shows in je dierenartspraktijk. Lees wat 25 euro oplevert, wat juridisch mag en hoe je het volledig automatiseert."
 image: "/images/blog/no-show-aanbetaling-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "No-shows", "Aanbetaling", "Dierenarts", "Praktijkbeheer"]
+tags: ["Automatisering", "No-shows"]
 cluster: "automatisering"
 ---
 

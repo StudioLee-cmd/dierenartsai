@@ -5,7 +5,7 @@ excerpt: "De harde cijfers. Personeel is schaars en duur. Waarom zou je administ
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dierenartsai-vs-personeel.png"
-tags: ["Praktijkmanagement", "Kostenbesparing", "Personeel"]
+tags: ["Praktijkvoering"]
 cluster: "automatisering"
 ---
 

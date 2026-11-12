@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-dierenartspraktijk-tips.jpg"
-tags: ["Leads", "Dierenarts", "Patientwerving"]
+tags: ["Leads", "Automatisering"]
 ---
 ## Baasjes kiezen de praktijk die het eerst reageert
 

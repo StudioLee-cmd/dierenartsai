@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Reviews blijven liggen omdat het verzoek van niemand is. Zo verdeel je het tussen spreekkamer, balie en een automatische flow, zonder extra werkdruk."
 image: "/images/blog/wie-vraagt-de-review-dierenartspraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Praktijkvoering", "Dierenarts"]
+tags: ["Reviews", "Praktijkvoering"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Een 7-daagse hittegolf-campagne die preventie-consults aanjaagt, telefoonpiek opvangt en social-content automatisch laat triggeren op het KNMI-weerbericht."
 image: "/images/blog/hittegolf-campagne-zomer-dierenartsen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Hittegolf", "Campagne", "Zomer", "Social Media", "Dierenarts"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

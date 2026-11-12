@@ -5,7 +5,7 @@ date: "2026-07-15"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meertalige-ai-telefonist-dierenarts.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Dierenarts Tips"]
+tags: ["Voice AI", "Bereikbaarheid"]
 ---
 
 Het is kwart voor acht 's avonds. Een man belt jouw praktijk omdat zijn hond iets heeft gegeten wat er niet in hoort. Hij is bang, hij praat snel, en halverwege de zin schakelt hij over naar het Engels omdat de Nederlandse woorden hem in de steek laten. De receptie is dicht. De voicemail slaat aan. Hij hangt op en zoekt de volgende praktijk.

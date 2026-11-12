@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Patientfotos leveren de meeste interactie op social media, maar mag het zomaar? Zo regel je de toestemming AVG-proof en post je veilig als dierenarts."
 image: "/images/blog/patientfotos-social-media-avg-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "AVG", "Praktijkvoering"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

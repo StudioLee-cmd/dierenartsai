@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Een 30-min weekritme voor Instagram dat aansluit op de natuurlijke jaarcyclus van je dierenartspraktijk en houdbaar is naast volle spreekuren."
 image: "/images/blog/instagram-dierenartspraktijk-30-min-per-week.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Content Planning"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

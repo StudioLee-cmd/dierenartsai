@@ -5,7 +5,7 @@ excerpt: "Baasjes die op de juiste momenten een bericht krijgen boeken 40% vaker
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientcommunicatie-dierenarts-5-contactmomenten.jpg"
-tags: ["Patiëntcommunicatie", "Klantbinding", "Dierenarts"]
+tags: ["Patiëntcommunicatie"]
 cluster: "automatisering"
 ---
 Een baasje komt met Luna, de kat, voor een vaccinatie. Korte controle, prikje, afrekenen, tot volgend jaar. Zo werkt het bij de meeste dierenartspraktijken. En zo verliezen ze langzaam klanten aan concurrenten die communicatief beter zijn. Baasjes onthouden niet je vakinhoud — ze onthouden of ze zich gezien voelen.

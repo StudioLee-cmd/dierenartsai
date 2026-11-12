@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Telefonie voor dierenartsen: vergelijk vijf oplossingen om bereikbaar te blijven tijdens consulten, van telefoonservice tot AI telefonist, met kosten."
 image: "/images/blog/telefonie-voor-dierenartsen-bereikbaar-tijdens-consulten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Telefonie"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

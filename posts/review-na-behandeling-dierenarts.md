@@ -5,7 +5,7 @@ date: "2026-04-15"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-behandeling-dierenarts.jpg"
-tags: ["Reviews", "Automatisering", "Praktijkgroei"]
+tags: ["Reviews", "Automatisering"]
 ---
 Een baasje haalt zijn hond op na een geslaagde operatie. De opluchting is zichtbaar, de dankbaarheid oprecht. "Wat zijn jullie goed, echt fantastisch." Twee weken later is die emotie gezakt en vraag je je af waarom er geen review is verschenen.
 

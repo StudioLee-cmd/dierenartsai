@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-dierenarts.jpg"
-tags: ["Reviews", "Review strategie", "Dierenarts", "Google Reviews"]
+tags: ["Reviews"]
 ---
 ## Waarom reviews voor dierenartsen emotioneel geladen zijn
 

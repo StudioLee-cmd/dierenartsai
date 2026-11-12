@@ -6,7 +6,7 @@ date: "2026-05-10"
 excerpt: "Prijslijst dierenarts opstellen: voorrijkosten, spoedtarief en verzekering helder communiceren zonder klant-discussie achteraf."
 image: "/images/blog/prijslijst-dierenarts-transparant-voorrijkosten-spoedtarief-verzekering.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Prijzen Communiceren", "Tarieven", "Klantcommunicatie", "Dierenarts Operaties"]
+tags: ["Prijzen Communiceren"]
 cluster: "website"
 ---
 **In het kort:**

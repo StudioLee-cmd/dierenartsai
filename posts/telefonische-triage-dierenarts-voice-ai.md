@@ -5,7 +5,7 @@ date: "2026-06-07"
 excerpt: "Een keuzemenu mist de echte spoed en laat routine voorgaan. Zo sorteert voice AI elke oproep in je praktijk: spoed naar een mens, routine vanzelf."
 image: "/images/blog/telefonische-triage-dierenarts-voice-ai.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Klantcontact"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 "Voor spoed, toets 1." Het klinkt als een nette oplossing voor een drukke praktijk. Tot je bedenkt wie er aan de lijn zit. De eigenaar wiens hond net van de trap is gevallen en niet meer opstaat, toetst geen 1. Die praat al, hard en door elkaar, nog voordat het menu is uitgesproken. En de baasje die gewoon een vaccinatie wil inplannen maar geen zin heeft om in de wachtrij te staan? Die toetst wél 1, want spoed gaat voor. Het keuzemenu sorteert precies verkeerd: het laat de paniek in de wachtrij hangen en zet de routine vooraan.

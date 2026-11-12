@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Hondenuitlaters en kennelclubs als referrer-netwerk voor je dierenartspraktijk: hoe je B2B-doorverwijzingen structureel opzet."
 image: "/images/blog/hondenuitlaters-kennelclubs-referrer-netwerk-dierenarts-mond-tot-mond.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Mond-tot-mond", "Referrer Netwerk", "Doorverwijzingen", "B2B", "Dierenarts"]
+tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 **In het kort:**

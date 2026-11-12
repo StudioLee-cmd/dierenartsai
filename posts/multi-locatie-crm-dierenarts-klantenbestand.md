@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Groeit je praktijk naar twee of drie panden, dan splitst je klantenbestand vanzelf. Zo houd je één dossier per dier over alle vestigingen heen."
 image: "/images/blog/multi-locatie-crm-dierenarts-klantenbestand.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering", "Dierenarts"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

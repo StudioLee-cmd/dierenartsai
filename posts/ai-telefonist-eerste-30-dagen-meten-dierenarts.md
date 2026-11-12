@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een AI-telefonist die stil faalt kost je meer dan geen AI-telefonist. Dit zijn de vier cijfers en de wekelijkse steekproef die je bijhoudt."
 image: "/images/blog/ai-telefonist-eerste-30-dagen-meten-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Telefonie", "Praktijkvoering"]
+tags: ["Voice AI", "Praktijkvoering"]
 cluster: "voice-ai"
 ---
 

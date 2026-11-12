@@ -5,7 +5,7 @@ date: "2026-05-15"
 excerpt: "Prijzen op je dierenartspraktijk-website tonen: voor en tegen, welke prijzen wel en welke niet, en wat onderzoek over prijstransparantie zegt."
 image: "/images/blog/prijzen-op-dierenarts-website-wat-wel-en-niet.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Prijzen-communiceren", "Website", "Transparantie", "Dierenarts"]
+tags: ["Prijzen Communiceren"]
 cluster: "website"
 ---
 

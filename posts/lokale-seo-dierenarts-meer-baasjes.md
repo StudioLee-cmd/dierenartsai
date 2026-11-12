@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-dierenarts-meer-baasjes.jpg"
-tags: ["SEO", "Vindbaarheid", "Dierenarts"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom lokale SEO essentieel is voor dierenartsen
 

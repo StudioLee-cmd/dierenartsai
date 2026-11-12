@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Een vaccinatie-herinnering heeft nog geen afspraak om aan te herinneren. Zo verdeel je e-mail, WhatsApp en SMS rond de vervaldatum."
 image: "/images/blog/multi-channel-vaccinatie-herinneringen-dierenarts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Herinneringen", "WhatsApp", "Dierenarts"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 
