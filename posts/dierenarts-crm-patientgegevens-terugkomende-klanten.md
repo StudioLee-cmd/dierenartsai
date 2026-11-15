@@ -96,7 +96,3 @@ Uitgangspunt: een middelgrote dierenartsenpraktijk met 1.200 actieve baasjes. Ge
 Met de zeven-velden CRM en automatische flows: gemiddelde consulten per jaar stijgt naar 2,8, gemiddelde omzet per baasje stijgt naar €450. Op 1.200 baasjes is dat €204.000 extra omzet per jaar, zonder dat je één extra baasje hoeft aan te trekken. Dat is het soort ROI waarom structureel CRM-werk geen "leuk-om-te-doen" is maar de sterkste operationele groei-hefboom voor een dierenartsenpraktijk.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-dierenarts-meten-verbeteren" class="text-dark fw-semibold">Klanttevredenheid als dierenarts: meten, begrijpen en verbeteren</a> →</p></div></div></div>
-
-## Groei-of-Geld-Terug Garantie
-
-Als je klantbehoud-ratio en consulten-per-baasje na zes maanden niet meetbaar zijn gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige CRM-velden te laten analyseren, of begin met een nieuwe [website](/gratis-website) die direct op deze gegevens-structuur aansluit. Jij redt dieren, wij regelen de rest.

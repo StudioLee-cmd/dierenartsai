@@ -103,6 +103,6 @@ Stop na de derde poging en zet het dier op een belijst. Meer berichten leveren g
 
 Vaccinatie-herinneringen zijn geen mailtje dat je een keer verstuurt. Het zijn een paar goed getimede momenten rond een datum die al in je systeem staat, met steeds een kanaal dat past bij wat dat moment moet doen. E-mail legt uit, WhatsApp maakt zichtbaar, SMS sluit af, en zodra er geboekt is houdt alles op.
 
-Wil je weten waar in jullie praktijk nu afspraken weglekken tussen de vervaldatum en de agenda? Vraag de [gratis ai scan voor dierenartsen](/gratis-scan) aan, dan zie je per stap waar het stil valt. DierenartsAI levert met een Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons en niet bij jullie. Jij zorgt voor de dieren, wij regelen de rest.
+Wil je weten waar in jullie praktijk nu afspraken weglekken tussen de vervaldatum en de agenda? Vraag de [gratis ai scan voor dierenartsen](/gratis-scan) aan, dan zie je per stap waar het stil valt. Jij zorgt voor de dieren, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/same-day-afspraak-dierenarts-ai-waitlist" class="text-dark fw-semibold">Same-day afspraak dierenarts: gaten vullen met AI-waitlist</a> →</p></div></div></div>

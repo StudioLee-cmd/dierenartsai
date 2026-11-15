@@ -147,6 +147,6 @@ Een dierenartsenwebsite die spoed, afspraak en specialisme niet scheidt, kost je
 
 De 3-laags structuur is geen ontwerp-fantasie maar een conversie-basics-regel: één doel per pagina, één pad per baasje. Wie deze structuur invoert, ziet doorgaans binnen 3 maanden duidelijk meer online afspraken, minder telefonische druk op de assistente, en een betere positie in de lokale zoekresultaten voor specialisme-termen.
 
-Wil je weten waar jouw huidige website nu lekt? Plan een [gratis ai-scan](/gratis-scan) en we doen een volledige doorlichting van je site, met concrete verbeterpunten per laag. We werken met de Groei-of-Geld-Terug Garantie, dus je weet vooraf wat je investering oplevert.
+Wil je weten waar jouw huidige website nu lekt? Plan een [gratis ai-scan](/gratis-scan) en we doen een volledige doorlichting van je site, met concrete verbeterpunten per laag.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/dierenartsenwebsite-afsprakenmachine" class="text-dark fw-semibold">Dierenartsenwebsite als afsprakenmachine</a> →</p></div></div></div>

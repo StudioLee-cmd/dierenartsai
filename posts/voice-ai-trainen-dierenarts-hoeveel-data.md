@@ -94,4 +94,4 @@ Dat hoort een kwestie van minuten te zijn. Een [voice ai voor dierenartsen](/voi
 
 Hoeveel data je nodig hebt om een AI telefonist te trainen, is de verkeerde vraag om mee te beginnen. Twintig tot dertig echte gesprekken zijn genoeg materiaal. Wat het verschil maakt zijn de vijf blokken die alleen jouw praktijk kan aanleveren. Je urgentiewoorden in de taal van de eigenaar, je soorten en grenzen, je consulttypes met hun echte duur, je prijsbeleid en de plek waar de notitie landt. Plus een korte lijst met gesprekken die hij nooit voert.
 
-Doe je dat, dan hoort hij op die zondagavond niet alleen een rustige man met een vraag over maandag, maar herkent hij de zin die ertoe doet. Jij zorgt voor de dieren, DierenartsAI regelt de rest. Werken we samen, dan geldt onze Groei-of-Geld-Terug Garantie, zodat je op resultaat afrekent en niet op een belofte.
+Doe je dat, dan hoort hij op die zondagavond niet alleen een rustige man met een vraag over maandag, maar herkent hij de zin die ertoe doet. Jij zorgt voor de dieren, DierenartsAI regelt de rest.

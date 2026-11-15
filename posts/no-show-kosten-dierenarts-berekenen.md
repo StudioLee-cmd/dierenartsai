@@ -60,4 +60,4 @@ Weet je het percentage, dan kun je de financiële impact berekenen en bepalen ho
 
 No-shows zijn niet alleen een financieel probleem. Het is ook een zorgprobleem. Een dier dat niet op controle komt, mist mogelijk een diagnose. Een eigenaar die vergeet te komen, stelt noodzakelijke zorg uit.
 
-Wil je inzicht in je no-show percentage en bereikbaarheid? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je inzicht in je no-show percentage en bereikbaarheid? Vraag een [gratis scan](/gratis-scan) aan.

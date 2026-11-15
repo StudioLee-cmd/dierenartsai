@@ -120,6 +120,5 @@ Bij DierenartsAI helpen we MKB-dierenartspraktijken hun lokale concurrentie-posi
 - Een review-flow die je reviews-volume actief vergroot ten opzichte van het lokale gemiddelde
 - Een [ai telefonist voor dierenartsen](/voice-ai) om gaten in lokale spoed-bereikbaarheid op te vullen
 - Een [chatbot voor dierenartsen](/chatbot) om je online-aanwezigheid op het niveau van de actiefste lokale concurrent te brengen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

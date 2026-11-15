@@ -80,7 +80,7 @@ Wil je weten of jouw huidige online reputatie op orde is en waar de snelste wins
 
 ## Meer tijd voor patiënten, minder voor je scherm
 
-Reageren op reviews hoort erbij, maar het hoort niet je avonden of je maandagochtend op te eten. Bij DierenartsAI zetten we het hele systeem voor je op: nieuwe reviews komen binnen, de AI stelt een passende reactie op in jouw toon, en jij keurt goed wanneer het jou uitkomt. Jij zorgt voor de dieren, wij regelen de rest. Twijfel je of het rendeert? We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Bekijk gerust [wat AI voor dierenartsen kost](/tarieven) of start met een gratis scan.
+Reageren op reviews hoort erbij, maar het hoort niet je avonden of je maandagochtend op te eten. Bij DierenartsAI zetten we het hele systeem voor je op: nieuwe reviews komen binnen, de AI stelt een passende reactie op in jouw toon, en jij keurt goed wanneer het jou uitkomt. Jij zorgt voor de dieren, wij regelen de rest. Twijfel je of het rendeert? Bekijk gerust [wat AI voor dierenartsen kost](/tarieven) of start met een gratis scan.
 
 ## Veelgestelde vragen
 

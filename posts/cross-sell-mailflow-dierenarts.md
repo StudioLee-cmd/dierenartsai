@@ -93,4 +93,4 @@ Meet daarna de administratie die je echt kunt zien: verzonden berichten uit de g
 
 Zo blijven [automatische flows](/automatisering) dienstbaar aan je praktijk. Begin klein, lees de reacties en verbeter de overdracht samen met je assistentes. Een mailflow is geslaagd wanneer de besproken vervolgvraag zorgvuldig bij het team terechtkomt.
 
-Wil je bekijken waar dat contact in jouw praktijk vastloopt? Vraag een [gratis AI-scan voor dierenartsen](/gratis-scan) aan bij DierenartsAI. De Groei-of-Geld-Terug Garantie geldt alleen voor apart betaalde SEO- of resultaat-add-ons, volgens het afgesproken resultaat, de termijn en de bewijswijze. De standaard maandprijs valt daarbuiten. Het is geen garantie op behandelomzet of zorguitkomsten.
+Wil je bekijken waar dat contact in jouw praktijk vastloopt? Vraag een [gratis AI-scan voor dierenartsen](/gratis-scan) aan bij DierenartsAI. De standaard maandprijs valt daarbuiten. Het is geen garantie op behandelomzet of zorguitkomsten.

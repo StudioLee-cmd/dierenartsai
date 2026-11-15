@@ -104,4 +104,4 @@ Een AI-telefonist aanzetten kost een middag. Er zeker van zijn dat hij doet wat 
 
 Wil je weten hoe je telefonie er nu voor staat voordat je iets aanzet, begin dan met een [gratis ai scan voor dierenartsen](/gratis-scan). Daarin kijken we naar je bereikbaarheid, je vindbaarheid en je opvolging, en zie je waar de gesprekken nu blijven liggen.
 
-Wil je die meetlus liever niet zelf draaien, dan richten wij hem in en rapporteren we maandelijks wat eruit komt. Dat hoort bij de [ai telefonist voor dierenartsen](/voice-ai) van DierenartsAI, met de Groei-of-Geld-Terug Garantie erop. Jij zorgt voor de dieren, wij regelen de rest.
+Wil je die meetlus liever niet zelf draaien, dan richten wij hem in en rapporteren we maandelijks wat eruit komt. Jij zorgt voor de dieren, wij regelen de rest.
