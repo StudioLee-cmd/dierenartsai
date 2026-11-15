@@ -111,4 +111,4 @@ Bij DierenartsAI helpen we MKB-praktijken hun B2B-referrer-netwerk professioneel
 - Een kwartaal-rapportage per partner met aantallen doorverwijzingen + persoonlijk dank-bericht
 - Een wederzijdse partner-vermeldings-pagina op je website met SEO-voordeel voor beide partijen
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).

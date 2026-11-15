@@ -131,4 +131,4 @@ Bij DierenartsAI helpen we praktijken hun preventieve-zorg cycli automatiseren z
 - Een [voice ai voor dierenartsen](/voice-ai) die niet-reagerende baasjes terugbelt en direct boekt
 - Dashboards per leeftijdscategorie met no-show / opkomst-percentages
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).

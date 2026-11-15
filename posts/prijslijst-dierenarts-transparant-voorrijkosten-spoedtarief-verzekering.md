@@ -96,4 +96,4 @@ Bij DierenartsAI geloven we dat transparante prijscommunicatie de basis is van e
 - Een [crm voor dierenartsen](/crm) met kostenraming-workflow voor behandelingen boven de drempel
 - Een set van vier belscripts in jouw branding voor receptie + dierenartsen, gekoppeld aan WhatsApp-templates voor opvolging
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
