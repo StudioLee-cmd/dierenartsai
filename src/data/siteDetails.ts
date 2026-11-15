@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.dierenartsai.nl/',
     metadata: {
         title: 'DierenartsAI - AI voor jouw dierenpraktijk',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. DierenartsAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'DierenartsAI: wij maken de website voor jouw dierenartspraktijk. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',
