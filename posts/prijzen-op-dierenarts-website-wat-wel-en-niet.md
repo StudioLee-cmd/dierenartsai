@@ -130,6 +130,6 @@ Bij DierenartsAI helpen we praktijken de prijs-communicatie professioneel op ord
 - [Google reviews voor dierenartsen](/reviews) opvolging die transparantie als praktijk-USP versterkt
 - Lokale SEO-traject op "tarieven dierenarts [stad]" en gerelateerde keywords via [seo voor dierenartsen](/seo)
 
-[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijslijst-dierenarts-transparant-voorrijkosten-spoedtarief-verzekering" class="text-dark fw-semibold">Prijslijst dierenarts: voorrijkosten, spoedtarief en verzekering</a> →</p></div></div></div>
