@@ -63,7 +63,7 @@ En dat rendement is concreet. Meer en vooral recente reviews duwen je hoger in G
 
 ## Meer reviews, zonder extra druk op de receptie
 
-Het middel maakt minder uit dan je denkt: NFC, QR en een poster doen allebei prima hun werk. Wat het verschil maakt, is dat je het op het juiste moment vraagt en de rest automatisch laat opvolgen. Wij zetten die complete review-flow voor je op: een geprogrammeerde kaart aan de balie, een poster in de wachtkamer, en een automatische herinnering na elk consult. Zo lopen de sterren binnen terwijl jouw team zich op de dieren richt, met onze **Groei-of-Geld-Terug Garantie**, dus je zit nergens aan vast als het niet werkt. Zie hoe [automatisch reviews verzamelen als dierenarts](/reviews) er voor jouw praktijk uitziet.
+Het middel maakt minder uit dan je denkt: NFC, QR en een poster doen allebei prima hun werk. Wat het verschil maakt, is dat je het op het juiste moment vraagt en de rest automatisch laat opvolgen. Wij zetten die complete review-flow voor je op: een geprogrammeerde kaart aan de balie, een poster in de wachtkamer, en een automatische herinnering na elk consult. Zie hoe [automatisch reviews verzamelen als dierenarts](/reviews) er voor jouw praktijk uitziet.
 
 ## Veelgestelde vragen
 

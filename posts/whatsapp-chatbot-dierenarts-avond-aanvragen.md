@@ -71,7 +71,7 @@ Wil je eerst zien hoeveel aanvragen jouw praktijk nu buiten openingstijden laat 
 
 *Lees ook: [AI chatbot voor dierenartsen](/chatbot), de pagina waar alle functies en koppelingen op een rij staan.*
 
-Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI staat je chat-intake, terugbel-lijst en opvolging op de automatische piloot, met een Groei-of-Geld-Terug Garantie: levert het je geen rustigere receptie en meer behouden patiënten op, dan krijg je je investering terug.
+Jij zorgt voor de dieren, wij regelen de rest.
 
 ## Veelgestelde vragen
 

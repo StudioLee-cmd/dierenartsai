@@ -67,7 +67,7 @@ Benieuwd wat dit voor jouw praktijk oplevert? Reken je verlies door met een [gra
 
 *Lees ook: [No-shows in je dierenartspraktijk: zo pak je het aan](/blog/no-shows-dierenartspraktijk-voorkomen).*
 
-Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI zet je aanbetalingen, herinneringen en opvolging op de automatische piloot, met een Groei-of-Geld-Terug Garantie: levert het je geen rustigere agenda en minder no-shows op, dan krijg je je investering terug.
+Jij zorgt voor de dieren, wij regelen de rest.
 
 ## Veelgestelde vragen
 

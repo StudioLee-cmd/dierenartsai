@@ -129,7 +129,6 @@ Bij DierenartsAI helpen we praktijken de prijs-communicatie professioneel op ord
 - Een [crm voor dierenartsen](/crm) met prijs-tracking per dienst en automatische pagina-update bij prijswijziging
 - [Google reviews voor dierenartsen](/reviews) opvolging die transparantie als praktijk-USP versterkt
 - Lokale SEO-traject op "tarieven dierenarts [stad]" en gerelateerde keywords via [seo voor dierenartsen](/seo)
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor dierenartsen](/gratis-scan) of bekijk onze [tarieven DierenartsAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

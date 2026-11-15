@@ -71,7 +71,7 @@ Deze aanpak kost wat meer tijd en aandacht, maar je koopt er rust mee. Niemand s
 
 Een migratie is een eenmalige investering in tijd, en soms in hulp bij de export. Daar staat tegenover dat je daarna stopt met dubbel werk, dat herinneringen en facturen vanzelf lopen, en dat je systeem meegroeit met de praktijk. Wil je weten wat dat voor jouw praktijk betekent, bekijk dan de [tarieven van DierenartsAI](/tarieven) en reken het voor je eigen situatie door.
 
-Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI nemen we de migratie als project uit handen, van exportplan tot parallel draaien, zodat jij geen nacht wakker hoeft te liggen van je data. En dat doen we met een Groei-of-Geld-Terug Garantie: levert het je geen meetbaar rustigere praktijk op, dan krijg je je investering terug. Weet je niet waar je moet beginnen, doe dan eerst de [gratis ai scan voor dierenartsen](/gratis-scan).
+Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI nemen we de migratie als project uit handen, van exportplan tot parallel draaien, zodat jij geen nacht wakker hoeft te liggen van je data. Weet je niet waar je moet beginnen, doe dan eerst de [gratis ai scan voor dierenartsen](/gratis-scan).
 
 ## Veelgestelde vragen
 

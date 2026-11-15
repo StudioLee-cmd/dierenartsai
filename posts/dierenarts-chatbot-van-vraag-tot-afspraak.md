@@ -69,7 +69,7 @@ Wil je eerst zien hoeveel afspraken je nu via je site laat liggen? Doe dan de [g
 
 *Lees ook: [Chatbot of FAQ-pagina voor je dierenartspraktijk?](/blog/chatbot-vs-faq-pagina-dierenartspraktijk), zodat je weet welke vorm bij jouw praktijk past.*
 
-Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI wordt je chatbot een afsprakenmotor die je receptie ontlast. En dat doen we met een Groei-of-Geld-Terug Garantie: levert het je geen meetbaar meer afspraken en rust op, dan krijg je je investering terug.
+Jij zorgt voor de dieren, wij regelen de rest. Met DierenartsAI wordt je chatbot een afsprakenmotor die je receptie ontlast.
 
 ## Veelgestelde vragen
 

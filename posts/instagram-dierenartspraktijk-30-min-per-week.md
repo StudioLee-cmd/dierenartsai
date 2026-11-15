@@ -77,7 +77,7 @@ Voor het opzetten van de jaarrotatie helpt een eenvoudig spreadsheet met 48 rije
 
 ## Bij DierenartsAI doen we dit voor je continu
 
-De 30-min benchmark hierboven is doenbaar maar wordt vergeten zodra je seizoenspiek doorzet. Een [gratis ai scan voor dierenartsen](/gratis-scan) start met je huidige Instagram-status, vergelijkt 'm met de twee meest vergelijkbare praktijken in je regio, en stelt op basis van je jaarcyclus een eerste 4-weekplan voor. Je houdt de regie, het ritme staat. Voor praktijken die kiezen voor het volledig laten lopen van [social media beheer voor dierenartsen](/social-media) geldt onze Groei-of-Geld-Terug Garantie: meetbare beweging op volgers, bereik en DM-conversies binnen 90 dagen, of je krijgt de investering volledig terug.
+De 30-min benchmark hierboven is doenbaar maar wordt vergeten zodra je seizoenspiek doorzet. Een [gratis ai scan voor dierenartsen](/gratis-scan) start met je huidige Instagram-status, vergelijkt 'm met de twee meest vergelijkbare praktijken in je regio, en stelt op basis van je jaarcyclus een eerste 4-weekplan voor. Je houdt de regie, het ritme staat.
 
 Jij zorgt voor de dieren, wij regelen de rest. Dat is letterlijk de hele afspraak.
 

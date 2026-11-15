@@ -94,6 +94,6 @@ Een [NFC- of QR-reviewkaart](https://www.dierenartsai.nl/review-pakket) kan als 
 
 Reviews zijn een van de weinige marketingactiviteiten waarbij elke dag uitstel directe omzet kost. Een nieuwe klant die deze week zoekt, kiest deze week — en als jouw concurrent 200 meer reviews heeft dan jij, gaat die klant naar de concurrent.
 
-Het systeem opzetten kost een halve dag werk en levert binnen drie maanden meetbare groei op. Wil je weten hoe een [Google reviews-systeem voor jouw praktijk](https://www.dierenartsai.nl/reviews) eruit kan zien? Plan een vrijblijvend gesprek of bekijk de uitgewerkte aanpak op de [gratis website voor dierenartsen](https://www.dierenartsai.nl/gratis-website) — inclusief Groei-of-Geld-Terug Garantie.
+Het systeem opzetten kost een halve dag werk en levert binnen drie maanden meetbare groei op. Wil je weten hoe een [Google reviews-systeem voor jouw praktijk](https://www.dierenartsai.nl/reviews) eruit kan zien?
 
 Lees ook onze [andere artikelen over praktijkgroei en marketing voor dierenartsen](https://www.dierenartsai.nl/blog).
