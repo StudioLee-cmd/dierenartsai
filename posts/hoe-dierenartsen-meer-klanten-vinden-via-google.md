@@ -9,9 +9,9 @@ cluster: "vindbaarheid"
 ---
 ## Waarom Google steeds belangrijker wordt voor dierenartsen
 
-Iemand die een nieuwe dierenarts zoekt — of die een spoedgeval heeft — gaat naar Google. Ze zoeken op "dierenarts [stad]", bekijken reviews, controleren de openingstijden en bellen. Wie er goed uitziet online, krijgt het telefoontje.
+Iemand die een nieuwe dierenarts zoekt, of die een spoedgeval heeft, gaat naar Google. Ze zoeken op "dierenarts [stad]", bekijken reviews, controleren de openingstijden en bellen. Wie er goed uitziet online, krijgt het telefoontje.
 
-Diereneigenaren kiezen hun dierenarts zorgvuldig. Ze willen vertrouwen, goede communicatie en bereikbaarheid. Dat vertrouwen begint bij je online profiel — vóór ze ook maar een stap in je praktijk hebben gezet.
+Diereneigenaren kiezen hun dierenarts zorgvuldig. Ze willen vertrouwen, goede communicatie en bereikbaarheid. Dat vertrouwen begint bij je online profiel, vóór ze ook maar een stap in je praktijk hebben gezet.
 
 ---
 
@@ -31,7 +31,7 @@ Een volledig profiel staat aantoonbaar hoger in Google Maps dan een leeg of half
 
 ## Stap 2: Bouw aan je online beoordelingsprofiel
 
-Diereneigenaren [vertrouwen](/reviews) op reviews. Ze laten hun huisdier bij je achter — dat is een groot vertrouwen.
+Diereneigenaren [vertrouwen](/reviews) op reviews. Ze laten hun huisdier bij je achter, en dat is een groot vertrouwen.
 
 Vraag automatisch om een review na elke afspraak:
 
@@ -51,13 +51,13 @@ Schrijf artikelen zoals:
 - "Wat zijn tekenen dat een hond pijn heeft?"
 - "Spoedzorg voor dieren: wanneer is het een noodgeval?"
 
-Informatieve content trekt mensen die bezorgd zijn om hun dier — en die vervolgens jou bellen.
+Informatieve content trekt mensen die bezorgd zijn om hun dier en die vervolgens jou bellen.
 
 ---
 
 ## Stap 4: Maak online afspraken boeken eenvoudig
 
-Diereneigenaren willen makkelijk en snel kunnen boeken — liefst online, op elk moment.
+Diereneigenaren willen makkelijk en snel kunnen boeken, liefst online, op elk moment.
 
 - Voeg een online boekingssysteem toe dat 24/7 beschikbaar is
 - Maak WhatsApp-contact mogelijk voor snelle vragen
@@ -70,7 +70,7 @@ Automatische herinneringen verlagen het no-show percentage aanzienlijk.
 
 ## Stap 5: Mis geen spoedaanvraag buiten openingstijden
 
-'s Avonds heeft iemand een ziek dier. Ze bellen jouw praktijk — gesloten. Ze bellen een andere dierenarts. Jij mist de aanvraag.
+'s Avonds heeft iemand een ziek dier. Ze bellen jouw praktijk: gesloten. Ze bellen een andere dierenarts. Jij mist de aanvraag.
 
 Een AI Chatbot op je website pakt de aanvraag op. Hij vraagt naar het dier en de klacht, vraagt het contactnummer, en stuurt jou een melding. De volgende ochtend bel jij als eerste terug.
 
@@ -80,7 +80,7 @@ Een AI Chatbot op je website pakt de aanvraag op. Hij vraagt naar het dier en de
 
 Maak aparte pagina's op je website:
 
-- "Dierenarts [stad]" — voor lokale zoekacties
+- "Dierenarts [stad]": voor lokale zoekacties
 - "Katten dierenarts [stad]" of "Honden dierenarts [stad]"
 - "Spoedarts voor dieren [stad]"
 - "Vaccinaties huisdieren [stad]"

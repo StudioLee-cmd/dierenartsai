@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Dierenartsen',
     siteUrl: 'https://www.dierenartsai.nl/',
     metadata: {
-        title: 'DierenartsAI - AI voor jouw dierenpraktijk',
+        title: 'DierenartsAI | AI voor jouw dierenpraktijk',
         description: 'DierenartsAI: wij maken de website voor jouw dierenartspraktijk. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',

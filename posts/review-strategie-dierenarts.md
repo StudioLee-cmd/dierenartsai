@@ -9,7 +9,7 @@ tags: ["Reviews", "Review strategie"]
 ---
 ## Waarom reviews voor dierenartsen emotioneel geladen zijn
 
-Baasjes vertrouwen hun huisdier toe aan een dierenarts — dat is een emotionele beslissing. Reviews van andere baasjes zijn het sterkste vertrouwenssignaal. Een review als "Ze hebben zo goed voor onze hond gezorgd" weegt zwaarder dan elke marketingboodschap.
+Baasjes vertrouwen hun huisdier toe aan een dierenarts, en dat is een emotionele beslissing. Reviews van andere baasjes zijn het sterkste vertrouwenssignaal. Een review als "Ze hebben zo goed voor onze hond gezorgd" weegt zwaarder dan elke marketingboodschap.
 
 Tegelijkertijd: negatieve ervaringen (een duur bezoek, een onverwachte diagnose) leiden sneller tot een negatieve review dan bij andere beroepen. Een actieve review strategie zorgt ervoor dat je positieve ervaringen ook online terechtkomen.
 
@@ -17,10 +17,10 @@ Tegelijkertijd: negatieve ervaringen (een duur bezoek, een onverwachte diagnose)
 
 Kies positieve momenten:
 
-- **Na een succesvolle vaccinatie** — routinebezoek, alles goed, baasje is blij
-- **Na een geslaagde operatie** — opluchting en dankbaarheid
-- **Na een puppy/kitten-check** — enthousiast baasje met een gezond huisdier
-- **Na een positieve controle** — chronische patiënt doet het goed
+- **Na een succesvolle vaccinatie**: routinebezoek, alles goed, baasje is blij
+- **Na een geslaagde operatie**: opluchting en dankbaarheid
+- **Na een puppy/kitten-check**: enthousiast baasje met een gezond huisdier
+- **Na een positieve controle**: chronische patiënt doet het goed
 
 Vermijd review-verzoeken na: euthanasie, slecht-nieuwsgesprekken of hoge onverwachte rekeningen.
 
@@ -30,7 +30,7 @@ Stel je [reviewsysteem](/reviews) zo in dat het reviewverzoeken alleen stuurt na
 
 "Beste [naam], bedankt voor het bezoek met [huisdiernaam]. We hopen dat [hij/zij] het goed maakt! Zou je je ervaring willen delen? [link]"
 
-De persoonlijke touch — de naam van het huisdier — verhoogt de respons enorm. Systemen zoals die van [DierenartsAI](/) koppelen dit aan je praktijkadministratie.
+De persoonlijke touch (de naam van het huisdier) verhoogt de respons enorm. Systemen zoals die van [DierenartsAI](/) koppelen dit aan je praktijkadministratie.
 
 ![Nette veterinaire instrumenten op een schone behandeltafel](/images/blog/review-strategie-dierenarts-2.jpg)
 
@@ -60,4 +60,4 @@ Ze helpen voor je profiel op dat platform, maar [Google Reviews](/blog/reviews-d
 
 Reviews voor dierenartsen draaien om empathie en timing. Automatiseer het proces, kies de juiste momenten en reageer altijd met warmte. Je patiënten (en hun baasjes) zijn je beste ambassadeurs.
 
-Begin vandaag met het systematisch verzamelen van reviews na elke positieve interactie. Het kost je geen extra tijd en bouwt het vertrouwen dat nieuwe baasjes over de streep trekt. Benieuwd hoe DierenartsAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij zorgt voor de dieren.
+Begin vandaag met het systematisch verzamelen van reviews na elke positieve interactie. Het kost je geen extra tijd en bouwt het vertrouwen dat nieuwe baasjes over de streep trekt. Benieuwd hoe DierenartsAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het, jij zorgt voor de dieren.

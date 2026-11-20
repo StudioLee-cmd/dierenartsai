@@ -14,9 +14,9 @@ Je Google Bedrijfsprofiel is je digitale voordeur. In dit artikel lees je hoe je
 
 ## Waarom het Google Bedrijfsprofiel zo belangrijk is voor dierenartsen
 
-Diereneigenaren zoeken bijna altijd lokaal. Ze willen een dierenarts die dichtbij is, goede reviews heeft, en nu bereikbaar is. Google's Local Pack — het blok met drie lokale resultaten bovenaan de zoekpagina — is waar die keuze wordt gemaakt.
+Diereneigenaren zoeken bijna altijd lokaal. Ze willen een dierenarts die dichtbij is, goede reviews heeft, en nu bereikbaar is. Google's Local Pack, het blok met drie lokale resultaten bovenaan de zoekpagina, is waar die keuze wordt gemaakt.
 
-Het verschil met een gewone Google-zoekresultaat is dat het Local Pack visueel is: een kaart, sterren, een foto, en directe contactmogelijkheden. Een bezoeker hoeft je website niet eens te openen om je te bellen. Dat maakt je profiel een van de krachtigste marketinginstrumenten die je hebt — en het is gratis.
+Het verschil met een gewone Google-zoekresultaat is dat het Local Pack visueel is: een kaart, sterren, een foto, en directe contactmogelijkheden. Een bezoeker hoeft je website niet eens te openen om je te bellen. Dat maakt je profiel een van de krachtigste marketinginstrumenten die je hebt, en het is gratis.
 
 ## Stap 1: Claim en verifieer je profiel
 
@@ -26,25 +26,25 @@ Kies als primaire categorie "Dierenarts" of "Dierenkliniek." Voeg secundaire cat
 
 ## Stap 2: Maak je profiel compleet
 
-**Openingstijden.** Cruciaal voor dierenartsen. Baasjes zoeken vaak buiten kantoortijden — 's avonds of in het weekend. Als je avondspreekuur of weekendservice biedt, vermeld dit expliciet. Voeg ook "spoedtijden" toe als je die hebt.
+**Openingstijden.** Cruciaal voor dierenartsen. Baasjes zoeken vaak buiten kantoortijden: 's avonds of in het weekend. Als je avondspreekuur of weekendservice biedt, vermeld dit expliciet. Voeg ook "spoedtijden" toe als je die hebt.
 
-**Telefoonnummer.** Gebruik je vaste praktijknummer, niet een doorschakelnummer. En zorg dat er altijd iemand opneemt — of stel een duidelijk voicemailbericht in met je openingstijden en spoednummer.
+**Telefoonnummer.** Gebruik je vaste praktijknummer, niet een doorschakelnummer. En zorg dat er altijd iemand opneemt, of stel een duidelijk voicemailbericht in met je openingstijden en spoednummer.
 
 **Website.** Link naar je praktijkwebsite, bij voorkeur naar een pagina met je diensten of een afspraakmodule.
 
-**Beschrijving.** Gebruik de volledige 750 tekens. Beschrijf je praktijk, je specialisaties, je team, en wat je onderscheidt. Voorbeeld: "[Praktijknaam] is een moderne dierenkliniek in [stad]. Ons team van [X] dierenartsen biedt zorg voor honden, katten, konijnen en knaagdieren. Van vaccinaties en castraties tot geavanceerde diagnostiek en chirurgie — wij staan klaar voor jouw huisdier. Met avondspreekuur en weekendservice zijn we er ook wanneer het niet uitkomt."
+**Beschrijving.** Gebruik de volledige 750 tekens. Beschrijf je praktijk, je specialisaties, je team, en wat je onderscheidt. Voorbeeld: "[Praktijknaam] is een moderne dierenkliniek in [stad]. Ons team van [X] dierenartsen biedt zorg voor honden, katten, konijnen en knaagdieren. Van vaccinaties en castraties tot geavanceerde diagnostiek en chirurgie: wij staan klaar voor jouw huisdier. Met avondspreekuur en weekendservice zijn we er ook wanneer het niet uitkomt."
 
 ## Stap 3: Foto's die baasjes overtuigen
 
 Diereneigenaren zijn emotionele beslissers. Ze willen zien dat hun huisdier in een schone, vriendelijke omgeving terechtkomt. Upload foto's van:
 
-- **Je praktijk van buiten** — herkenbaar voor wie langsrijdt
-- **De wachtkamer** — schoon, ruim, met gescheiden honden- en kattenwachtkamers als je die hebt
-- **De behandelkamer** — professioneel en schoon
-- **Je team** — glimlachend, in witte jas, het liefst met een dier (met toestemming van het baasje)
-- **De apotheek/winkel** — als je producten verkoopt
+- **Je praktijk van buiten**: herkenbaar voor wie langsrijdt
+- **De wachtkamer**: schoon, ruim, met gescheiden honden- en kattenwachtkamers als je die hebt
+- **De behandelkamer**: professioneel en schoon
+- **Je team**: glimlachend, in witte jas, het liefst met een dier (met toestemming van het baasje)
+- **De apotheek/winkel**: als je producten verkoopt
 
-Vermijd foto's van medische ingrepen — dat schrikt af. Focus op de positieve kant: gezonde dieren, blije medewerkers, schone ruimtes.
+Vermijd foto's van medische ingrepen, want dat schrikt af. Focus op de positieve kant: gezonde dieren, blije medewerkers, schone ruimtes.
 
 ## Stap 4: Reviews verzamelen en beheren
 
@@ -72,22 +72,22 @@ De vragensectie waarin baasjes vroeger iets op je profiel konden vragen bestaat 
 
 Loop daarom deze drie vragen langs en zorg dat het antwoord echt ergens staat:
 
-- "Moet ik een afspraak maken of kan ik ook inlopen?" — in je bedrijfsomschrijving op je profiel, en in één zin bovenaan je afspraakpagina: "We werken op afspraak, maar voor spoedgevallen kun je altijd binnenlopen."
-- "Wat zijn de kosten voor een consult?" — op je tarievenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
-- "Hebben jullie parkeergelegenheid?" — bij de kenmerken van je profiel, en met één zin op je contactpagina: "Er is gratis parkeerruimte direct voor de deur."
+- "Moet ik een afspraak maken of kan ik ook inlopen?" Zet het antwoord in je bedrijfsomschrijving op je profiel, en in één zin bovenaan je afspraakpagina: "We werken op afspraak, maar voor spoedgevallen kun je altijd binnenlopen."
+- "Wat zijn de kosten voor een consult?" Op je tarievenpagina, met bedragen die er echt staan. Google kan geen prijs samenstellen die nergens genoemd wordt.
+- "Hebben jullie parkeergelegenheid?" Bij de kenmerken van je profiel, en met één zin op je contactpagina: "Er is gratis parkeerruimte direct voor de deur."
 
 ## Monitoring en onderhoud
 
 Check je profiel wekelijks op:
 - Nieuwe reviews die een reactie nodig hebben
 - Vragen van potentiële klanten
-- Wijzigingsverzoeken van derden (Google laat gebruikers wijzigingen voorstellen — controleer of deze kloppen)
+- Wijzigingsverzoeken van derden (Google laat gebruikers wijzigingen voorstellen, dus controleer of deze kloppen)
 - Correcte openingstijden (vooral rond feestdagen)
 
 Stel Google Alerts in op je praktijknaam om te monitoren wat er online over je gezegd wordt.
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is de eerste indruk die de meeste baasjes van je praktijk krijgen. Een volledig, actief en goed beoordeeld profiel trekt meer patiënten, bouwt vertrouwen, en kost je niets. Begin vandaag met het claimen en optimaliseren van je profiel — de eerste resultaten zul je binnen weken zien.
+Je Google Bedrijfsprofiel is de eerste indruk die de meeste baasjes van je praktijk krijgen. Een volledig, actief en goed beoordeeld profiel trekt meer patiënten, bouwt vertrouwen, en kost je niets. Begin vandaag met het claimen en optimaliseren van je profiel. De eerste resultaten zul je binnen weken zien.
 
 Wil je hulp bij het versterken van je online aanwezigheid als dierenarts? Bekijk wat [DierenartsAI](/) voor je kan betekenen of [plan een gratis gesprek](/demo).

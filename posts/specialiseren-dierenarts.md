@@ -8,7 +8,7 @@ image: "/images/blog/specialiseren-dierenarts.png"
 tags: ["Specialisatie"]
 cluster: "branding"
 ---
-De meeste dierenartspraktijken positioneren zich als generalist: ze behandelen alles, van hamsters tot honden, van vaccinaties tot spoedoperaties. Dat is begrijpelijk — je wilt geen patiënt weigeren. Maar in een markt waar baasjes steeds bewuster kiezen, kan specialisatie het verschil maken tussen een volle en een halfvolle agenda.
+De meeste dierenartspraktijken positioneren zich als generalist: ze behandelen alles, van hamsters tot honden, van vaccinaties tot spoedoperaties. Dat is begrijpelijk, want je wilt geen patiënt weigeren. Maar in een markt waar baasjes steeds bewuster kiezen, kan specialisatie het verschil maken tussen een volle en een halfvolle agenda.
 
 Specialisatie betekent niet dat je stopt met reguliere zorg. Het betekent dat je ergens extra goed in bent én dat actief uitdraagt. In dit artikel lees je hoe specialisatie je praktijk laat groeien.
 
@@ -16,7 +16,7 @@ Specialisatie betekent niet dat je stopt met reguliere zorg. Het betekent dat je
 
 ### Baasjes zoeken specifiek
 
-Wanneer een kat diabetesproblemen heeft, zoeken baasjes niet naar "dierenarts [stad]" maar naar "dierenarts diabetes kat" of "dierenarts interne geneeskunde". De praktijk die zich profileert als specialist in deze aandoening, wint die zoekopdracht — en die patiënt.
+Wanneer een kat diabetesproblemen heeft, zoeken baasjes niet naar "dierenarts [stad]" maar naar "dierenarts diabetes kat" of "dierenarts interne geneeskunde". De praktijk die zich profileert als specialist in deze aandoening, wint die zoekopdracht en die patiënt.
 
 ### Hogere waarde per patiënt
 
@@ -30,7 +30,7 @@ Andere dierenartsen verwijzen door naar specialisten. Als jij bekend staat als d
 
 | Specialisatie | Doelgroep | Waarom kansrijk |
 |---------------|-----------|-----------------|
-| **Orthopedische chirurgie** | Honden (grote rassen) | Kruisbandletsel, heupdysplasie — groeiende vraag |
+| **Orthopedische chirurgie** | Honden (grote rassen) | Kruisbandletsel, heupdysplasie: groeiende vraag |
 | **Dermatologie** | Honden en katten | Allergieën nemen toe, chronische zorg = terugkerende patiënten |
 | **Tandheelkunde** | Alle huisdieren | Onderschat maar veel voorkomend, weinig specialisten |
 | **Exotische dieren** | Reptielen, vogels, knaagdieren | Zeer weinig aanbod, loyale klantgroep |
@@ -78,18 +78,18 @@ Door preventieve zorg als verdienmodel te combineren met specialistische dienste
 
 De marketing voor een specialisatie verschilt van reguliere dierenartsenmarketing. Focus op:
 
-- **SEO op specifieke zoekwoorden** — "dierenarts dermatologie [stad]" heeft minder concurrentie en hogere intentie
-- **Social media casestudies** — deel (met toestemming) [succesverhalen op social media](/blog/social-media-dierenartsen-community) die je expertise tonen
-- **[Email herinneringen](/blog/email-marketing-dierenarts-herinneringen)** aan patiënten die eerder voor specialistische zorg kwamen — chronische aandoeningen vereisen follow-up
+- **SEO op specifieke zoekwoorden**: "dierenarts dermatologie [stad]" heeft minder concurrentie en hogere intentie
+- **Social media casestudies**: deel (met toestemming) [succesverhalen op social media](/blog/social-media-dierenartsen-community) die je expertise tonen
+- **[Email herinneringen](/blog/email-marketing-dierenarts-herinneringen)** aan patiënten die eerder voor specialistische zorg kwamen, want chronische aandoeningen vereisen follow-up
 
 ## De managed-service aanpak
 
-Geen tijd om naast je praktijk ook nog marketing te doen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. SEO, content, reviews, [online zichtbaarheid](/social-media) — het wordt voor je geregeld.
+Geen tijd om naast je praktijk ook nog marketing te doen? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. SEO, content, reviews, [online zichtbaarheid](/social-media): het wordt voor je geregeld.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe specialisatie jouw praktijk kan laten groeien.
 
 ## Conclusie
 
-In een markt waar steeds meer dierenartsen concurreren om dezelfde patiënten, is specialisatie je krachtigste differentiator. Het trekt patiënten aan die bewust voor expertise kiezen, rechtvaardigt hogere tarieven, en genereert doorverwijzingen van collega's. Je hoeft niet te kiezen tussen generalist en specialist — je kunt beide zijn, maar laat de wereld weten waar je in uitblinkt.
+In een markt waar steeds meer dierenartsen concurreren om dezelfde patiënten, is specialisatie je krachtigste differentiator. Het trekt patiënten aan die bewust voor expertise kiezen, rechtvaardigt hogere tarieven, en genereert doorverwijzingen van collega's. Je hoeft niet te kiezen tussen generalist en specialist. Je kunt beide zijn, maar laat de wereld weten waar je in uitblinkt.
 
 Lees ook hoe je [klanten behoudt als dierenarts](/blog/klantbehoud-dierenarts-trouwe-baasjes) en hoe je [personal branding opbouwt voor je praktijk](/blog/personal-branding-dierenarts-praktijk).

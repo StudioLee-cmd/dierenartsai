@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 ## Waarom klantbehoud cruciaal is voor dierenartsen
 
-Een huisdier heeft gemiddeld 10 tot 15 jaar zorg nodig. Jaarlijkse vaccinaties, controles, onverwachte ziektes en uiteindelijk ouderdomszorg. Een baasje dat bij jou blijft, levert over de levensduur van hun dier duizenden euro's aan omzet op — zonder dat je een euro aan acquisitie uitgeeft.
+Een huisdier heeft gemiddeld 10 tot 15 jaar zorg nodig. Jaarlijkse vaccinaties, controles, onverwachte ziektes en uiteindelijk ouderdomszorg. Een baasje dat bij jou blijft, levert over de levensduur van hun dier duizenden euro's aan omzet op, zonder dat je een euro aan acquisitie uitgeeft.
 
 Toch wisselen veel diereneigenaren van dierenarts. Niet omdat de zorg slecht was, maar omdat de relatie niet werd onderhouden. Ze voelden zich een nummer, kregen geen herinneringen voor controles of vonden de communicatie onpersoonlijk.
 
@@ -20,7 +20,7 @@ Klantbehoud begint bij het besef dat je niet alleen het dier behandelt, maar ook
 
 ## Persoonlijk contact maakt het verschil
 
-Baasjes kiezen een dierenarts op basis van vertrouwen. Ze vertrouwen hun huisdier — een gezinslid — aan je toe. Dat vraagt om persoonlijke aandacht.
+Baasjes kiezen een dierenarts op basis van vertrouwen. Ze vertrouwen hun huisdier, een gezinslid, aan je toe. Dat vraagt om persoonlijke aandacht.
 
 Drie concrete manieren:
 - **Onthoud de naam van het dier**: klinkt simpel, maar het effect is groot. "Hoe gaat het met Bella?" voelt anders dan "hoe gaat het met uw kat?"
@@ -40,7 +40,7 @@ Gebruik [email marketing](/blog/email-marketing-dierenarts-herinneringen) of SMS
 
 ## Nazorg na behandelingen
 
-Na een operatie of intensieve behandeling is nazorg cruciaal — zowel medisch als relationeel.
+Na een operatie of intensieve behandeling is nazorg cruciaal, zowel medisch als relationeel.
 
 **Dag 1 na behandeling**: bel of stuur een bericht. "Hoe gaat het met [diernaam]? Heeft u nog vragen over de medicatie?" Dit telefoontje kost je twee minuten maar maakt een onuitwisbare indruk.
 

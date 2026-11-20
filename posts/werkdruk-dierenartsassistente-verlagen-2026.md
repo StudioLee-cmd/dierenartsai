@@ -30,7 +30,7 @@ Bij veel praktijken hebben we de afgelopen jaren zien gebeuren dat er tools word
 
 **De tools staan los van elkaar.** De online boeking loopt in Provet, de WhatsApp in een ander systeem, de chatbot is een losse widget. Assistentes moeten nog steeds alle kanalen afzonderlijk checken en manueel overdragen. Resultaat: nauwelijks tijdwinst, extra chaos.
 
-**De tools handelen alleen simpele vragen af.** Een online boeking werkt pas als de patiëntkaart erachter zit, anders moet de assistent alsnog bellen voor bevestiging. Een WhatsApp-bericht "is de uitslag al binnen?" werkt pas als hij automatisch in het HIS kan kijken — anders is het nog steeds handwerk.
+**De tools handelen alleen simpele vragen af.** Een online boeking werkt pas als de patiëntkaart erachter zit, anders moet de assistent alsnog bellen voor bevestiging. Een WhatsApp-bericht "is de uitslag al binnen?" werkt pas als hij automatisch in het HIS kan kijken, anders is het nog steeds handwerk.
 
 **Er is geen duidelijk intakebeleid per vraagtype.** Zonder afgesproken regels over welke vraag wél bij de chatbot hoort en welke per definitie naar de assistente gaat, raken medewerkers gefrustreerd en vallen ze terug op oude gewoonten.
 
@@ -80,7 +80,7 @@ De return op dezelfde schaal: effectief 60 tot 120 uur per maand aan hervonden a
 
 Een werkbare eerste stap in vier weken:
 
-- **Week 1:** meet de huidige telefoonlast — laat je team één week bijhouden hoe vaak elke soort vraag binnenkomt en hoeveel minuten dat kost
+- **Week 1:** meet de huidige telefoonlast: laat je team één week bijhouden hoe vaak elke soort vraag binnenkomt en hoeveel minuten dat kost
 - **Week 2:** kies leverancier met HIS-koppeling naar jouw specifieke software, maak AVG-afspraken rond
 - **Week 3:** zachte live met drie of vier van de top vraagtypes (afspraak-plannen, openingstijden, vaccinatiehistorie)
 - **Week 4:** evalueer de eerste 100 gesprekken met een senior-assistent, stuur bij

@@ -8,7 +8,7 @@ tags: ["Tools", "ChatGPT"]
 cluster: "automatisering"
 ---
 
-ChatGPT wordt steeds vaker gebruikt in de zorg — ook door dierenartspraktijken. Het kan teksten schrijven, afbeeldingen genereren en vragen beantwoorden. Maar wat kan het concreet voor jouw praktijk? En waarom levert een gespecialiseerd managed systeem als DierenartsAI structureel meer op?
+ChatGPT wordt steeds vaker gebruikt in de zorg, ook door dierenartspraktijken. Het kan teksten schrijven, afbeeldingen genereren en vragen beantwoorden. Maar wat kan het concreet voor jouw praktijk? En waarom levert een gespecialiseerd managed systeem als DierenartsAI structureel meer op?
 
 ## Wat is ChatGPT?
 
@@ -16,15 +16,15 @@ ChatGPT is een AI-chatbot van OpenAI. Je geeft een opdracht en het genereert tek
 
 ## Wat ChatGPT kan voor dierenartsen
 
-**Nazorginstructies opstellen** — "Schrijf nazorginstructies voor een hond na castratie." ChatGPT levert in 30 seconden een professionele tekst die je kunt aanpassen en meegeven aan de eigenaar.
+**Nazorginstructies opstellen**: "Schrijf nazorginstructies voor een hond na castratie." ChatGPT levert in 30 seconden een professionele tekst die je kunt aanpassen en meegeven aan de eigenaar.
 
-**Klantcommunicatie** — Bevestigingsmails, follow-ups na behandelingen, en informatiebrochures over veelvoorkomende aandoeningen. ChatGPT formuleert het, jij verstuurt het.
+**Klantcommunicatie**: bevestigingsmails, follow-ups na behandelingen, en informatiebrochures over veelvoorkomende aandoeningen. ChatGPT formuleert het, jij verstuurt het.
 
-**Content schrijven** — Blogposts over diergezondheid, social media posts over preventieve zorg, en seizoensgebonden tips (teken, vuurwerk, hitte). Handig als je geen tijd hebt om zelf te schrijven.
+**Content schrijven**: blogposts over diergezondheid, social media posts over preventieve zorg, en seizoensgebonden tips (teken, vuurwerk, hitte). Handig als je geen tijd hebt om zelf te schrijven.
 
-**Afbeeldingen genereren** — Met DALL-E kun je visuals maken voor social media of informatiefolders. Denk aan infographics over vaccinatieschema's of seizoenstips.
+**Afbeeldingen genereren**: met DALL-E kun je visuals maken voor social media of informatiefolders. Denk aan infographics over vaccinatieschema's of seizoenstips.
 
-**Interne protocollen** — Checklists, behandelprotocollen en werkinstructies formuleren voor je team.
+**Interne protocollen**: checklists, behandelprotocollen en werkinstructies formuleren voor je team.
 
 **Let op:** gebruik ChatGPT nooit voor diagnostiek of medische beslissingen. Het is geen veterinair hulpmiddel.
 
@@ -37,17 +37,17 @@ ChatGPT is een teksttool. Het kan een perfecte nazorginstructie schrijven, maar 
 - Zelf bijhoudt welke dieren wanneer gevaccineerd moeten worden
 - Zelf social media inplant en publiceert
 - Zelf klanten om reviews vraagt na een consult
-- Zelf de telefoon opneemt — ook bij spoed buiten kantoortijden
+- Zelf de telefoon opneemt, ook bij spoed buiten kantoortijden
 
-En de kwaliteit? Die hangt af van jouw prompts. Zonder AI-ervaring krijg je generieke teksten die niet passen bij jouw praktijk. Een gespecialiseerd systeem kent je branche, je communicatiestijl en je klanttype — ChatGPT niet.
+En de kwaliteit? Die hangt af van jouw prompts. Zonder AI-ervaring krijg je generieke teksten die niet passen bij jouw praktijk. Een gespecialiseerd systeem kent je branche, je communicatiestijl en je klanttype. ChatGPT niet.
 
 ## Waarom een managed systeem meer oplevert
 
-**Branchekennis ingebouwd** — DierenartsAI weet dat een spoedmelding over een vergiftiging anders afgehandeld moet worden dan een routinevaccinatie. Het kent de seizoenspatronen (teken in het voorjaar, vuurwerkstress in december). ChatGPT weet dit niet tenzij jij het elke keer opnieuw vertelt.
+**Branchekennis ingebouwd**: DierenartsAI weet dat een spoedmelding over een vergiftiging anders afgehandeld moet worden dan een routinevaccinatie. Het kent de seizoenspatronen (teken in het voorjaar, vuurwerkstress in december). ChatGPT weet dit niet tenzij jij het elke keer opnieuw vertelt.
 
-**Consistente communicatie** — Een managed systeem levert elke week content in jouw tone of voice. ChatGPT levert elke keer iets anders, tenzij je uitgebreide prompts schrijft en opslaat.
+**Consistente communicatie**: een managed systeem levert elke week content in jouw tone of voice. ChatGPT levert elke keer iets anders, tenzij je uitgebreide prompts schrijft en opslaat.
 
-**Compounding effect** — SEO, reviews, social media en AI-vindbaarheid versterken elkaar. Als iemand in ChatGPT of Google AI vraagt "beste dierenarts in [stad]", verschijnt jouw praktijk — maar alleen als je structureel aan je online aanwezigheid werkt. Een losse ChatGPT-post doet daar niets voor.
+**Compounding effect**: SEO, reviews, social media en AI-vindbaarheid versterken elkaar. Als iemand in ChatGPT of Google AI vraagt "beste dierenarts in [stad]", verschijnt jouw praktijk, maar alleen als je structureel aan je online aanwezigheid werkt. Een losse ChatGPT-post doet daar niets voor.
 
 ## DierenartsAI: het complete systeem
 
@@ -73,7 +73,7 @@ Lees ook: [AI voor dierenartsen: slimmer plannen en klanten binden](/blog/ai-voo
 
 ## Managed service: jij focust op je patiënten
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 ## Conclusie
 

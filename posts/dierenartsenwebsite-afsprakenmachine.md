@@ -9,7 +9,7 @@ cluster: "website"
 ---
 ## Waarom online boeken de norm wordt
 
-Steeds meer dierenartspraktijken bieden online boeken aan — en de praktijken die dat niet doen, verliezen klanten. Baasjes verwachten in 2026 dat ze 's avonds op de bank een afspraak kunnen inplannen voor hun huisdier. Bellen tijdens kantooruren voelt ouderwets.
+Steeds meer dierenartspraktijken bieden online boeken aan, en de praktijken die dat niet doen, verliezen klanten. Baasjes verwachten in 2026 dat ze 's avonds op de bank een afspraak kunnen inplannen voor hun huisdier. Bellen tijdens kantooruren voelt ouderwets.
 
 Online boeken verlaagt de drempel enorm: geen wachtrij, geen bezettoon, geen "u spreekt met het antwoordapparaat." Het resultaat: meer afspraken, minder telefoondruk en een efficiëntere planning. Zorg eerst dat je [goed vindbaar bent op Google](/blog/hoe-dierenartsen-meer-klanten-vinden-via-google), dan dat je website converteert.
 
@@ -22,7 +22,7 @@ Het boekingssysteem is het hart van je website. Het moet eenvoudig en intuïtief
 - **Datum en tijd**: toon beschikbare slots, laat de klant kiezen
 - **Contactgegevens**: naam, telefoon en (optioneel) het dossier-nummer
 
-Beperk het formulier tot maximaal 5-6 velden. Stuur direct een automatische bevestiging per e-mail en SMS. Vergeet niet de mogelijkheid voor spoed toe te voegen — baasjes met een ziek dier moeten direct telefonisch contact kunnen opnemen. Lees ook hoe je je spoeddienst bereikbaar houdt.
+Beperk het formulier tot maximaal 5-6 velden. Stuur direct een automatische bevestiging per e-mail en SMS. Vergeet niet de mogelijkheid voor spoed toe te voegen: baasjes met een ziek dier moeten direct telefonisch contact kunnen opnemen. Lees ook hoe je je spoeddienst bereikbaar houdt.
 
 ## Je website structureren voor conversie
 
@@ -33,7 +33,7 @@ Elke pagina moet leiden naar het boekingssysteem:
 - **Prijspagina**: transparantie over kosten gevolgd door boekings-CTA
 - **Blog**: relevante artikelen linken naar het boekingssysteem
 
-Vermijd doodlopende pagina's. Elke pagina moet een volgende stap bieden — en die stap is bijna altijd "boek een afspraak."
+Vermijd doodlopende pagina's. Elke pagina moet een volgende stap bieden, en die stap is bijna altijd "boek een afspraak."
 
 ## Social proof en referenties
 
@@ -41,9 +41,9 @@ Baasjes kiezen een dierenarts op basis van vertrouwen. Toon op je website:
 
 - **Google reviews**: je score en recente reviews prominent op de homepage
 - **Referenties**: korte quotes van tevreden baasjes
-- **Team**: foto's en achtergrond van je dierenartsen — mensen vertrouwen gezichten
+- **Team**: foto's en achtergrond van je dierenartsen, want mensen vertrouwen gezichten
 
-Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt als dierenarts](/blog/meer-google-reviews-dierenartspraktijk). Een dierenarts met 4,8 sterren en 80 reviews wint het van een concurrent met 3 reviews — altijd.
+Heb je nog niet genoeg reviews? Lees hoe je [meer Google reviews krijgt als dierenarts](/blog/meer-google-reviews-dierenartspraktijk). Een dierenarts met 4,8 sterren en 80 reviews wint het altijd van een concurrent met 3 reviews.
 
 ## Mobiel-first denken
 

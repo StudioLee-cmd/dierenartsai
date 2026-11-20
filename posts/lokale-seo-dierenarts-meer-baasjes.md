@@ -9,7 +9,7 @@ tags: ["Vindbaarheid"]
 ---
 ## Waarom lokale SEO essentieel is voor dierenartsen
 
-Wanneer een hond plotseling ziek wordt, pakt het baasje de telefoon en zoekt op 'dierenarts in de buurt' of 'spoeddierenarts [stad]'. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie er niet staat, bestaat niet — in ieder geval niet op dat moment.
+Wanneer een hond plotseling ziek wordt, pakt het baasje de telefoon en zoekt op 'dierenarts in de buurt' of 'spoeddierenarts [stad]'. Wie bovenaan staat in Google Maps, krijgt het telefoontje. Wie er niet staat, bestaat niet, in ieder geval niet op dat moment.
 
 Lokale SEO bepaalt of jouw praktijk zichtbaar is op het moment dat een diereneigenaar je het hardst nodig heeft. Geen folder, geen advertentie en geen social media post heeft hetzelfde bereik als een top-3 positie in Google Maps.
 
@@ -17,11 +17,11 @@ Lokale SEO bepaalt of jouw praktijk zichtbaar is op het moment dat een diereneig
 
 Je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is het fundament van je lokale vindbaarheid. Dit is wat mensen zien wanneer ze op Google zoeken:
 
-- **Naam, adres, telefoonnummer** — consistent en kloppend
-- **Openingstijden** — inclusief avond- en weekendspreekuren
-- **Categorieën** — 'Dierenarts' als primaire categorie, eventueel 'Nooddierenarts' als je spoedzorg biedt
-- **Foto's** — van je praktijk, behandelkamers, wachtruimte (geen stockfoto's)
-- **Reviews** — hoeveelheid, recentheid en gemiddelde score
+- **Naam, adres, telefoonnummer**: consistent en kloppend
+- **Openingstijden**: inclusief avond- en weekendspreekuren
+- **Categorieën**: 'Dierenarts' als primaire categorie, eventueel 'Nooddierenarts' als je spoedzorg biedt
+- **Foto's**: van je praktijk, behandelkamers, wachtruimte (geen stockfoto's)
+- **Reviews**: hoeveelheid, recentheid en gemiddelde score
 
 ### De meest gemaakte fouten
 
@@ -33,12 +33,12 @@ Google beloont actieve profielen. Praktijken die wekelijks een update plaatsen (
 
 Diereneigenaren zoeken anders dan je misschien denkt. De meest waardevolle zoektermen zijn:
 
-- **"dierenarts [stad]"** — de basis, hoog zoekvolume
-- **"spoeddierenarts [stad]"** — urgent, hoge intentie
-- **"dierenarts [wijk]"** — lokaal, minder concurrentie
-- **"kosten dierenarts [behandeling]"** — informatief, leidt tot contact
+- **"dierenarts [stad]"**: de basis, hoog zoekvolume
+- **"spoeddierenarts [stad]"**: urgent, hoge intentie
+- **"dierenarts [wijk]"**: lokaal, minder concurrentie
+- **"kosten dierenarts [behandeling]"**: informatief, leidt tot contact
 
-Zorg dat deze termen voorkomen op je website — op de homepage, op diensten-pagina's en in blogartikelen.
+Zorg dat deze termen voorkomen op je website: op de homepage, op diensten-pagina's en in blogartikelen.
 
 ![Dierenartspraktijk onderzoeksruimte](/images/blog/lokale-seo-dierenarts-meer-baasjes-2.jpg)
 
@@ -48,7 +48,7 @@ Een website die alleen je naam en telefoonnummer toont, is niet genoeg. Google w
 
 - **Dienstenpagina's** per behandelcategorie (vaccinaties, castratie, spoedzorg, tandzorg)
 - **Een 'Over ons' pagina** met je locatie, team en specialisaties
-- **Blogartikelen** over veelgestelde vragen — "Hoe vaak moet ik mijn hond laten vaccineren?" trekt baasjes naar je site
+- **Blogartikelen** over veelgestelde vragen, zoals "Hoe vaak moet ik mijn hond laten vaccineren?" trekt baasjes naar je site
 - **NAW-gegevens** consistent op elke pagina (footer)
 
 ### Mobiel-vriendelijk is niet optioneel
@@ -57,7 +57,7 @@ Verreweg de meeste lokale zoekopdrachten naar dierenartsen komen van een smartph
 
 ## Reviews als rankingfactor
 
-We schreven eerder over het [automatisch verzamelen van reviews](/blog/review-strategie-dierenarts). Die reviews zijn niet alleen goed voor je reputatie — ze zijn een directe rankingfactor voor Google Maps. Praktijken met meer en recentere reviews verschijnen hoger in de lokale resultaten.
+We schreven eerder over het [automatisch verzamelen van reviews](/blog/review-strategie-dierenarts). Die reviews zijn niet alleen goed voor je reputatie, maar ook een directe rankingfactor voor Google Maps. Praktijken met meer en recentere reviews verschijnen hoger in de lokale resultaten.
 
 ## Concurrentieanalyse: wat doen andere dierenartsen?
 
@@ -71,7 +71,7 @@ De zwakke punten van je concurrenten zijn jouw kansen. Als geen enkele dierenart
 
 ## Lokale vindbaarheid als onderdeel van een groeistrategie
 
-SEO is geen eenmalige actie. Het is een doorlopend proces van content creëren, reviews verzamelen, je profiel bijhouden en je website verbeteren. Een managed service als [StudioLee](/tarieven) neemt dit volledig over — van [SEO-optimalisatie](/seo) tot [review-management](/reviews) en [social media](/social-media).
+SEO is geen eenmalige actie. Het is een doorlopend proces van content creëren, reviews verzamelen, je profiel bijhouden en je website verbeteren. Een managed service als [StudioLee](/tarieven) neemt dit volledig over, van [SEO-optimalisatie](/seo) tot [review-management](/reviews) en [social media](/social-media).
 
 ## Veelgestelde vragen
 
@@ -81,7 +81,7 @@ De eerste verbeteringen in Google Maps-positie zijn na 4-8 weken zichtbaar. Stru
 
 ### Moet ik zelf bloggen of kan ik dat uitbesteden?
 
-Uitbesteden is effectiever — een SEO-specialist weet welke onderwerpen het meeste zoekverkeer opleveren en optimaliseert elk artikel voor Google.
+Uitbesteden is effectiever: een SEO-specialist weet welke onderwerpen het meeste zoekverkeer opleveren en optimaliseert elk artikel voor Google.
 
 ### Wat kost lokale SEO voor een dierenartspraktijk?
 

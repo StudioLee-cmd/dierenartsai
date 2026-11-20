@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom seizoenen je praktijk bepalen
 
-Als dierenarts merk je het elk jaar: het voorjaar brengt teken en vlooien, de zomer vakantiezorg, de herfst en winter gezondheidschecks. Deze patronen zijn voorspelbaar — en dat maakt ze de perfecte basis voor je marketing.
+Als dierenarts merk je het elk jaar: het voorjaar brengt teken en vlooien, de zomer vakantiezorg, de herfst en winter gezondheidschecks. Deze patronen zijn voorspelbaar, en dat maakt ze de perfecte basis voor je marketing.
 
 De meeste praktijken reageren op de seizoenen: het wordt druk als de telefoon gaat, het wordt rustig als die stopt. Maar de praktijken die vooruit plannen en hun communicatie afstemmen op de seizoenen, hebben een stabielere omzet en sterkere [klantrelaties](/blog/klantbehoud-dierenarts-trouwe-baasjes).
 
@@ -23,7 +23,7 @@ Seizoensmarketing is niet meer dan het juiste bericht op het juiste moment sture
 
 Het voorjaar is het drukste seizoen voor preventieve zorg. Dat maakt het het perfecte moment om proactief te communiceren:
 
-**Teken- en vlooienpreventie**. Stuur in februari al een herinnering naar alle klanten: "Het tekenseizoen begint binnenkort — is de bescherming van uw huisdier nog op orde?" Dit genereert afspraken voordat het seizoen begint en voorkomt dat klanten het vergeten.
+**Teken- en vlooienpreventie**. Stuur in februari al een herinnering naar alle klanten: "Het tekenseizoen begint binnenkort. Is de bescherming van uw huisdier nog op orde?" Dit genereert afspraken voordat het seizoen begint en voorkomt dat klanten het vergeten.
 
 **Lentevaccinaties**. Veel vaccinaties staan gepland in het voorjaar. Automatische [herinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) per sms of email zorgen dat baasjes op tijd komen.
 
@@ -35,7 +35,7 @@ Het voorjaar is het drukste seizoen voor preventieve zorg. Dat maakt het het per
 
 De zomer brengt specifieke uitdagingen die je kunt omzetten in communicatiemomenten:
 
-**Vakantievoorbereiding**. Veel baasjes nemen hun huisdier mee op vakantie. Stuur in mei een gids: "Reizen met je huisdier — dit moet je regelen." Enting, reisdocumenten en een gezondheidscheck voor vertrek. Dit levert afspraken op en positioneert je als expert.
+**Vakantievoorbereiding**. Veel baasjes nemen hun huisdier mee op vakantie. Stuur in mei een gids: "Reizen met je huisdier: dit moet je regelen." Enting, reisdocumenten en een gezondheidscheck voor vertrek. Dit levert afspraken op en positioneert je als expert.
 
 **Hittewaarschuwingen**. Bij extreme hitte kun je een korte mail of social media post sturen met tips: waterbakken, schaduw, niet wandelen op heet asfalt. Dit is puur informatief maar houdt je praktijk top-of-mind.
 
@@ -45,7 +45,7 @@ De zomer brengt specifieke uitdagingen die je kunt omzetten in communicatiemomen
 
 Na de drukte van voorjaar en zomer, zijn herfst en winter traditioneel rustiger. Maar dat hoeft niet:
 
-**Najaarscheck**. Bied een wintercheck aan: gewricht- en gewichtscontrole, vachtcondtie en een algemeen onderzoek. Oudere dieren profiteren hier het meest van — richt je communicatie op baasjes van oudere huisdieren.
+**Najaarscheck**. Bied een wintercheck aan: gewricht- en gewichtscontrole, vachtcondtie en een algemeen onderzoek. Oudere dieren profiteren hier het meest van, dus richt je communicatie op baasjes van oudere huisdieren.
 
 **Voedingsadvies**. In de winter hebben veel dieren andere voedingsbehoeften. Een kort blogartikel of een email met voedingstips is relevant en laat zien dat je verder denkt dan alleen behandelen.
 
@@ -71,7 +71,7 @@ Plan deze communicatie in januari voor het hele jaar. Gebruik een simpele [email
 
 ## Aan de slag
 
-Seizoensmarketing voor dierenartsen is geen extra werk — het is slim gebruik maken van patronen die er al zijn. Door vooruit te communiceren in plaats van te reageren, vul je je agenda, versterk je de band met klanten en positioneer je jezelf als de proactieve dierenarts in de regio.
+Seizoensmarketing voor dierenartsen is geen extra werk. Het is slim gebruik maken van patronen die er al zijn. Door vooruit te communiceren in plaats van te reageren, vul je je agenda, versterk je de band met klanten en positioneer je jezelf als de proactieve dierenarts in de regio.
 
 Begin met de eerstvolgende seizoenswisseling. Stuur een herinnering, deel een tip en bied een seizoensactie aan. Het verschil is direct merkbaar.
 
