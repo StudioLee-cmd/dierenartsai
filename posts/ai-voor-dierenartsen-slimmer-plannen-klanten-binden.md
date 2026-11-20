@@ -1,6 +1,6 @@
 ---
 title: "AI voor dierenartsen: slimmer plannen en klanten binden"
-excerpt: "AI helpt dierenartspraktijken bij afsprakenbeheer, herinneringen en marketing — voor een rustigere praktijk en meer trouwe klanten."
+excerpt: "AI helpt dierenartspraktijken bij afsprakenbeheer, herinneringen en marketing, voor een rustigere praktijk en meer trouwe klanten."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-dierenartsen-slimmer-plannen-klanten-binden.png"
@@ -8,13 +8,13 @@ tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 
-Dierenartspraktijken combineren medisch vakmanschap met ondernemerschap. De wachtkamer loopt vol, de telefoon gaat constant — en de administratie stapelt zich op. AI helpt praktijken die druk te verlichten en tegelijkertijd beter te presteren voor klanten.
+Dierenartspraktijken combineren medisch vakmanschap met ondernemerschap. De wachtkamer loopt vol, de telefoon gaat constant en de administratie stapelt zich op. AI helpt praktijken die druk te verlichten en tegelijkertijd beter te presteren voor klanten.
 
 ## Wat AI doet voor dierenartspraktijken
 
-- **Online afsprakenbeheer**: Klanten plannen zelf een afspraak via de website — 24/7, ook buiten openingstijden. Bevestigingen en herinneringen gaan automatisch.
+- **Online afsprakenbeheer**: Klanten plannen zelf een afspraak via de website, 24/7, ook buiten openingstijden. Bevestigingen en herinneringen gaan automatisch.
 - **Vaccinatie- en behandelherinneringen**: AI stuurt automatisch herinneringen voor jaarlijkse controles, vaccinaties en opvolgafspraken. Klanten waarderen de service, jij hebt een vollere agenda.
-- **Telefoondrukte verminderen**: Een AI-assistent beantwoordt veelgestelde vragen via WhatsApp — openingstijden, prijzen, spoedprotocol — zodat de assistentes zich kunnen focussen op de praktijk.
+- **Telefoondrukte verminderen**: Een AI-assistent beantwoordt veelgestelde vragen via WhatsApp (openingstijden, prijzen, spoedprotocol), zodat de assistentes zich kunnen focussen op de praktijk.
 - **Nazorgcommunicatie**: Na een operatie of behandeling ontvangt de eigenaar automatisch nazorginstructies en een follow-up check.
 
 ## Herhaalbezoeken automatiseren

@@ -25,9 +25,9 @@ Het effect op je omzet is direct. Praktijken met een dik en actueel reviewprofie
 
 ## Wat Google reviews nog meer beïnvloedt
 
-Reviews zijn niet alleen een sociaal vertrouwenssignaal — ze zijn ook een directe rankingfactor in Google Maps. De drie pijlers van het Google Maps-algoritme zijn relevantie, afstand en prominentie. Reviews vallen onder prominentie, en hun gewicht is in 2025 verhoogd. Praktijken met meer recente reviews (laatste 30 dagen) verschijnen significant vaker in het 3-pack — de drie zoekresultaten die op Google Maps bovenaan staan bij een lokale zoekopdracht.
+Reviews zijn niet alleen een sociaal vertrouwenssignaal, maar ook een directe rankingfactor in Google Maps. De drie pijlers van het Google Maps-algoritme zijn relevantie, afstand en prominentie. Reviews vallen onder prominentie, en hun gewicht is in 2025 verhoogd. Praktijken met meer recente reviews (laatste 30 dagen) verschijnen significant vaker in het 3-pack: de drie zoekresultaten die op Google Maps bovenaan staan bij een lokale zoekopdracht.
 
-Concreet betekent dit: zelfs als je 800 oude reviews hebt en je concurrent heeft er 120 maar wel 15 nieuwe reviews per maand, klimt de concurrent in de ranking. Een [actief Google reviews-systeem](https://www.dierenartsai.nl/reviews) is daarom geen "leuk extraatje" — het is een onderdeel van je lokale [SEO-strategie](https://www.dierenartsai.nl/seo).
+Concreet betekent dit: zelfs als je 800 oude reviews hebt en je concurrent heeft er 120 maar wel 15 nieuwe reviews per maand, klimt de concurrent in de ranking. Een [actief Google reviews-systeem](https://www.dierenartsai.nl/reviews) is daarom geen "leuk extraatje". Het is een onderdeel van je lokale [SEO-strategie](https://www.dierenartsai.nl/seo).
 
 ![Receptiebureau in een Nederlandse dierenartspraktijk met QR-bordje voor reviews, tablet en bloemen](/images/blog/google-reviews-dierenarts-praktijk-maakt-of-breekt-2.jpg)
 
@@ -47,7 +47,7 @@ Een geautomatiseerd review-systeem bestaat uit drie elementen die samen een veel
 
 ### 1. Trigger op het juiste moment
 
-De timing van het verzoek bepaalt een groot deel van de respons. De sweet spot voor een dierenartspraktijk is **2 tot 4 uur na de afspraak** — net laat genoeg dat de klant thuis is en de afspraak verwerkt heeft, net vroeg genoeg dat de positieve emotie nog vers is. Te vroeg (in de auto naar huis) voelt opdringerig; te laat (24 uur later) en de impuls is verdwenen.
+De timing van het verzoek bepaalt een groot deel van de respons. De sweet spot voor een dierenartspraktijk is **2 tot 4 uur na de afspraak**: net laat genoeg dat de klant thuis is en de afspraak verwerkt heeft, net vroeg genoeg dat de positieve emotie nog vers is. Te vroeg (in de auto naar huis) voelt opdringerig; te laat (24 uur later) en de impuls is verdwenen.
 
 Een werkende trigger zit gekoppeld aan je agendasysteem: zodra een afspraak op "afgerond" staat, start een timer van 2-4 uur, daarna gaat het verzoek uit. Geen handwerk, geen vergeten klanten.
 
@@ -61,7 +61,7 @@ WhatsApp werkt voor dierenartsen beter dan e-mail, met een fors hogere openings�
 
 Het derde ingrediënt is de simpelste én de meestonderschatte: het bericht moet een directe link bevatten naar de Google review-pagina van jouw praktijk, met de sterren-pop-up al actief. Geen "ga naar Google, zoek onze praktijk, klik op review schrijven", want daar haakt het grootste deel van de geïnteresseerden af.
 
-De directe link heeft het formaat `https://g.page/r/[jouw-place-id]/review`. Vraag deze op via je Google Bedrijfsprofiel of via een AI-platform dat de configuratie automatisch doet. Test de link in een incognito-venster — als hij niet rechtstreeks de sterren toont, klikken de meeste klanten weg.
+De directe link heeft het formaat `https://g.page/r/[jouw-place-id]/review`. Vraag deze op via je Google Bedrijfsprofiel of via een AI-platform dat de configuratie automatisch doet. Test de link in een incognito-venster: als hij niet rechtstreeks de sterren toont, klikken de meeste klanten weg.
 
 ## Wat een werkend systeem oplevert in cijfers
 
@@ -88,11 +88,11 @@ Bij praktijken die een review-systeem willen opzetten zien we deze fouten regelm
 
 Een geautomatiseerd review-systeem voor een dierenartspraktijk kost in 2026 typisch tussen €69 en €149 per maand, afhankelijk van de integratie met je agendasysteem en de inclusie van een AI-chatbot of voice-AI. Eenmalige setup: €0 tot €450, afhankelijk van of je de configuratie zelf doet of laat opzetten. Voor de complete kostenbreakdown, zie de [tarieven voor dierenartsen](https://www.dierenartsai.nl/tarieven).
 
-Een [NFC- of QR-reviewkaart](https://www.dierenartsai.nl/review-pakket) kan als aanvulling werken bij de balie voor klanten die direct na het bezoek een review willen geven — extra volume zonder extra kosten per review.
+Een [NFC- of QR-reviewkaart](https://www.dierenartsai.nl/review-pakket) kan als aanvulling werken bij de balie voor klanten die direct na het bezoek een review willen geven: extra volume zonder extra kosten per review.
 
 ## Begin vandaag, niet over een maand
 
-Reviews zijn een van de weinige marketingactiviteiten waarbij elke dag uitstel directe omzet kost. Een nieuwe klant die deze week zoekt, kiest deze week — en als jouw concurrent 200 meer reviews heeft dan jij, gaat die klant naar de concurrent.
+Reviews zijn een van de weinige marketingactiviteiten waarbij elke dag uitstel directe omzet kost. Een nieuwe klant die deze week zoekt, kiest deze week. En als jouw concurrent 200 meer reviews heeft dan jij, gaat die klant naar de concurrent.
 
 Het systeem opzetten kost een halve dag werk en levert binnen drie maanden meetbare groei op. Wil je weten hoe een [Google reviews-systeem voor jouw praktijk](https://www.dierenartsai.nl/reviews) eruit kan zien?
 

@@ -11,15 +11,15 @@ cluster: "automatisering"
 
 ## Waarom e-mail werkt voor dierenartsen
 
-Dierenartspraktijken hebben een uniek voordeel: huisdieren hebben regelmatig terugkerende zorg nodig. Vaccinaties, ontworming, jaarlijkse controles — het is een natuurlijke herhalingscyclus. E-mail is het perfecte kanaal om baasjes op het juiste moment te herinneren.
+Dierenartspraktijken hebben een uniek voordeel: huisdieren hebben regelmatig terugkerende zorg nodig. Vaccinaties, ontworming, jaarlijkse controles: het is een natuurlijke herhalingscyclus. E-mail is het perfecte kanaal om baasjes op het juiste moment te herinneren.
 
-Het alternatief — wachten tot het baasje zelf belt — werkt niet. Mensen vergeten vaccinatiedata, stellen controles uit en zoeken pas contact als er iets mis is. Met proactieve e-mails voorkom je dat en houd je je agenda gevuld. Combineer het met je [automatische vaccinatieherinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) voor een compleet systeem.
+Het alternatief (wachten tot het baasje zelf belt) werkt niet. Mensen vergeten vaccinatiedata, stellen controles uit en zoeken pas contact als er iets mis is. Met proactieve e-mails voorkom je dat en houd je je agenda gevuld. Combineer het met je [automatische vaccinatieherinneringen](/blog/vaccinatie-herinneringen-dierenarts-automatiseren) voor een compleet systeem.
 
 ## Vaccinatie- en controleherinneringen
 
 De basis: automatische herinneringen voor periodieke zorg:
 
-- **Vaccinaties**: herinnering 2 weken voor de vervaldatum — "Het is bijna tijd voor de jaarlijkse vaccinatie van [diernaam]"
+- **Vaccinaties**: herinnering 2 weken voor de vervaldatum ("Het is bijna tijd voor de jaarlijkse vaccinatie van [diernaam]")
 - **Ontworming**: elke 3-6 maanden een herinnering
 - **Jaarlijkse controle**: 11 maanden na de laatste controle
 - **Gebitscontrole**: jaarlijks voor honden en katten
@@ -59,4 +59,4 @@ De ideale flow: praktijksoftware voor afspraakgerelateerde mails + een e-mailtoo
 
 ## Conclusie
 
-E-mailmarketing is de ideale manier om als dierenarts baasjes te binden. Automatische vaccinatieherinneringen vullen je agenda, seizoenstips houden je top-of-mind en persoonlijke communicatie bouwt loyaliteit. Begin met het automatiseren van vaccinatieherinneringen — de rest bouw je stap voor stap uit. Wil je ontdekken welke groeikansen jouw praktijk laat liggen? Vraag een [gratis scan](/gratis-scan) aan.
+E-mailmarketing is de ideale manier om als dierenarts baasjes te binden. Automatische vaccinatieherinneringen vullen je agenda, seizoenstips houden je top-of-mind en persoonlijke communicatie bouwt loyaliteit. Begin met het automatiseren van vaccinatieherinneringen. De rest bouw je stap voor stap uit. Wil je ontdekken welke groeikansen jouw praktijk laat liggen? Vraag een [gratis scan](/gratis-scan) aan.

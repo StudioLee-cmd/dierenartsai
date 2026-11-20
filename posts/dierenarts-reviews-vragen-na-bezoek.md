@@ -38,8 +38,8 @@ Het verschil is groot. Vragen op het verkeerde moment is niet alleen ineffectief
 
 Voor dierenartspraktijken werken twee kanalen het beste:
 
-1. **WhatsApp** — persoonlijk, direct, hoge openingsratio. Werkt voor jongere baasjes en gezinnen.
-2. **E-mail** — formeler, geschikt voor oudere baasjes en officiele communicatie. Lagere openingsratio, ook bij goed geschreven mails.
+1. **WhatsApp**: persoonlijk, direct, hoge openingsratio. Werkt voor jongere baasjes en gezinnen.
+2. **E-mail**: formeler, geschikt voor oudere baasjes en officiele communicatie. Lagere openingsratio, ook bij goed geschreven mails.
 
 Een combinatie werkt vaak het beste: WhatsApp als hoofdkanaal, e-mail als backup voor oudere klanten of grotere praktijken.
 

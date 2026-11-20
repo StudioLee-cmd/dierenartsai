@@ -206,7 +206,7 @@ export default function SEOContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/seo-hero.jpg"
-              alt="SEO voor dierenartsen — Google ranking dashboard op laptop"
+              alt="SEO voor dierenartsen: Google ranking dashboard op laptop"
               fill
               priority
               className="object-cover"

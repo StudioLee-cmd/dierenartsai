@@ -12,7 +12,7 @@ cluster: "branding"
 ---
 ## Waarom personal branding werkt voor dierenartsen
 
-Baasjes vertrouwen hun huisdier toe aan jou — dat is een emotionele beslissing, geen rationele. Ze kiezen niet de goedkoopste dierenarts, maar degene die ze vertrouwen. En vertrouwen begint met herkenning.
+Baasjes vertrouwen hun huisdier toe aan jou. Dat is een emotionele beslissing, geen rationele. Ze kiezen niet de goedkoopste dierenarts, maar degene die ze vertrouwen. En vertrouwen begint met herkenning.
 
 Personal branding maakt jou en je praktijk herkenbaar. Het is het verschil tussen "een dierenartspraktijk in de buurt" en "de dierenarts van dr. Jansen, die altijd zo goed is met angstige katten."
 
@@ -21,17 +21,17 @@ Personal branding maakt jou en je praktijk herkenbaar. Het is het verschil tusse
 Elke dierenartspraktijk heeft iets unieks. Misschien is het je specialisatie in preventieve zorg. Misschien je aanpak met angstige dieren. Misschien je expertise met exotische huisdieren.
 
 Jouw verhaal is de combinatie van:
-- **Wat je het beste kunt** — je specialisatie of sterkte
-- **Hoe je werkt** — je benadering, je waarden
-- **Wie je bent** — je persoonlijkheid en motivatie
+- **Wat je het beste kunt**: je specialisatie of sterkte
+- **Hoe je werkt**: je benadering, je waarden
+- **Wie je bent**: je persoonlijkheid en motivatie
 
-Een dierenarts die vertelt: "Ik ben gespecialiseerd in gedragsproblemen bij honden. Ik geloof dat elk probleemgedrag een oorzaak heeft, en dat begint bij begrijpen, niet bij straffen" — die wordt onthouden.
+Een dierenarts die vertelt: "Ik ben gespecialiseerd in gedragsproblemen bij honden. Ik geloof dat elk probleemgedrag een oorzaak heeft, en dat begint bij begrijpen, niet bij straffen", die wordt onthouden.
 
 ## Online zichtbaarheid opbouwen
 
 **Je website als thuisbasis**. Laat je [website](/blog/dierenartsenwebsite-afsprakenmachine) je persoonlijkheid weerspiegelen. Echte foto's van je praktijk, je team en jezelf. Een stukje over je achtergrond en waarom je dierenarts bent geworden.
 
-**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts)**. Je Google-profiel is vaak het eerste dat baasjes zien. Goede foto's, actuele informatie en reageren op elke review — positief of negatief.
+**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts)**. Je Google-profiel is vaak het eerste dat baasjes zien. Goede foto's, actuele informatie en reageren op elke review, positief of negatief.
 
 **Social media**. Deel educatieve content: tekentips, voedingsadvies, [seizoenstips](/blog/seizoensmarketing-dierenarts-voorjaar). Laat ook je menselijke kant zien: een foto met je eigen huisdier, een anekdote uit de praktijk.
 
@@ -41,7 +41,7 @@ Een dierenarts die vertelt: "Ik ben gespecialiseerd in gedragsproblemen bij hond
 
 **Verzamel [reviews](/blog/meer-google-reviews-dierenartspraktijk) actief**. Vraag baasjes na een positieve ervaring om een review. Elke review versterkt je merk en je zichtbaarheid.
 
-**Consistente uitstraling**. Je praktijknaam, logo, kleuren en communicatiestijl moeten overal hetzelfde zijn — op je website, je social media, je briefpapier en je gevel.
+**Consistente uitstraling**. Je praktijknaam, logo, kleuren en communicatiestijl moeten overal hetzelfde zijn: op je website, je social media, je briefpapier en je gevel.
 
 ## Consistentie in je merk
 

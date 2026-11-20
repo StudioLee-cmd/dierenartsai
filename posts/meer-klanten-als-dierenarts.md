@@ -10,9 +10,9 @@ cluster: "automatisering"
 ---
 ## De uitdaging: meer klanten in een lokale markt
 
-Als dierenarts is je markt per definitie lokaal. Baasjes kiezen een dierenarts in de buurt — ze gaan niet 30 kilometer rijden met een zieke kat. Dat betekent dat je klantenbestand begrensd is door je verzorgingsgebied.
+Als dierenarts is je markt per definitie lokaal. Baasjes kiezen een dierenarts in de buurt. Ze gaan niet 30 kilometer rijden met een zieke kat. Dat betekent dat je klantenbestand begrensd is door je verzorgingsgebied.
 
-Maar binnen dat gebied is er vaak meer potentieel dan je denkt. Nieuwe huisdiereigenaren, mensen die verhuizen, en baasjes die ontevreden zijn over hun huidige dierenarts — ze zoeken allemaal online.
+Maar binnen dat gebied is er vaak meer potentieel dan je denkt. Nieuwe huisdiereigenaren, mensen die verhuizen, en baasjes die ontevreden zijn over hun huidige dierenarts: ze zoeken allemaal online.
 
 ## 1. Optimaliseer je Google Bedrijfsprofiel
 
@@ -20,7 +20,7 @@ Wanneer iemand zoekt op "dierenarts [plaatsnaam]", verschijnt het Google Local P
 - Vul alle velden in (adres, telefoonnummer, openingstijden, diensten)
 - Voeg foto's toe van je praktijk, team en (met toestemming) patienten
 - Vermeld specifieke diensten: vaccinaties, tandheelkunde, echografie, chippen
-- Reageer op alle Google reviews — positief en negatief
+- Reageer op alle Google reviews, positief en negatief
 
 ## 2. Verzamel actief Google reviews
 
@@ -28,7 +28,7 @@ Reviews zijn de nummer-een factor voor lokale vindbaarheid. Stuur na elk consult
 
 "Bedankt voor uw bezoek aan [praktijknaam]! We horen graag hoe het met [diernaam] gaat. Zou u een review willen achterlaten? [link]"
 
-Personaliseer het met de naam van het dier — baasjes waarderen dat enorm.
+Personaliseer het met de naam van het dier, want baasjes waarderen dat enorm.
 
 ## 3. Werk samen met lokale partners
 
@@ -52,7 +52,7 @@ Dierenartspraktijken hebben een uniek voordeel op social media: iedereen houdt v
 
 ## 5. Bied een kennismakingsconsult aan
 
-Een gratis of sterk afgeprijsd kennismakingsconsult verlaagt de drempel voor nieuwe klanten. Ze komen binnen, zien je praktijk, ontmoeten je team — en als het bevalt, heb je een klant voor jaren.
+Een gratis of sterk afgeprijsd kennismakingsconsult verlaagt de drempel voor nieuwe klanten. Ze komen binnen, zien je praktijk, ontmoeten je team, en als het bevalt, heb je een klant voor jaren.
 
 Promoot dit actief:
 - Op je website

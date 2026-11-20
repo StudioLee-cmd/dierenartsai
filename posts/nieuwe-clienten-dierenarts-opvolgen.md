@@ -10,7 +10,7 @@ tags: ["Leads", "Klantbehoud"]
 ---
 ## Het eerste telefoontje is pas het begin
 
-Een nieuwe huisdiereigenaar belt voor een eerste vaccinatie of controle. Na het consult gaat hij naar huis en je hoort niks meer — tot het volgende probleem. Misschien over een jaar. Misschien bij een andere dierenarts.
+Een nieuwe huisdiereigenaar belt voor een eerste vaccinatie of controle. Na het consult gaat hij naar huis en je hoort niks meer, tot het volgende probleem. Misschien over een jaar. Misschien bij een andere dierenarts.
 
 Het verschil tussen een drukke praktijk en een praktijk met lege plekken is zelden de kwaliteit van de zorg. Het is de opvolging.
 
@@ -56,12 +56,12 @@ Praktijken die dit systeem gebruiken zien:
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als dierenarts.
 
-Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI telefonist](/voice-ai) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [AI telefonist](/voice-ai) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Een nieuwe cliënt is een investering. Met vier automatische berichten op de juiste momenten maak je van een eenmalig bezoek een jarenlange relatie — goed voor het dier, goed voor het baasje en goed voor je praktijk.
+Een nieuwe cliënt is een investering. Met vier automatische berichten op de juiste momenten maak je van een eenmalig bezoek een jarenlange relatie: goed voor het dier, goed voor het baasje en goed voor je praktijk.
 
 Wil je dit automatiseren? [Vraag een gratis scan aan](/gratis-scan) en we helpen je op weg.

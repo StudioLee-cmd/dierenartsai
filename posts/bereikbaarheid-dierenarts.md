@@ -8,11 +8,11 @@ tags: ["Klantenservice"]
 cluster: "voice-ai"
 ---
 
-Een huisdier dat ziek wordt, wacht niet tot maandagochtend. Diereigenaren bellen op het moment dat het nodig is — 's avonds, in het weekend, op feestdagen. Als je praktijk op dat moment niet bereikbaar is, verlies je niet alleen die ene patient maar potentieel een klant voor jaren.
+Een huisdier dat ziek wordt, wacht niet tot maandagochtend. Diereigenaren bellen op het moment dat het nodig is: 's avonds, in het weekend, op feestdagen. Als je praktijk op dat moment niet bereikbaar is, verlies je niet alleen die ene patient maar potentieel een klant voor jaren.
 
 ## Waarom bereikbaarheid cruciaal is in de dierenzorg
 
-Huisdieren zijn familieleden. Eigenaren zijn emotioneel betrokken en willen direct hulp. Een niet-beantwoorde telefoon voelt als onverschilligheid — zelfs als je gewoon bezig bent met een behandeling.
+Huisdieren zijn familieleden. Eigenaren zijn emotioneel betrokken en willen direct hulp. Een niet-beantwoorde telefoon voelt als onverschilligheid, zelfs als je gewoon bezig bent met een behandeling.
 
 De gevolgen van slechte bereikbaarheid:
 
@@ -25,7 +25,7 @@ De gevolgen van slechte bereikbaarheid:
 
 Je bent bezig met een operatie. De assistente helpt bij een consult. De telefoon gaat. Niemand neemt op. Dat is de dagelijkse realiteit in veel dierenartspraktijken.
 
-De oplossing is niet meer personeel — het is slimmere technologie.
+De oplossing is niet meer personeel, maar slimmere technologie.
 
 ## 5 oplossingen voor betere bereikbaarheid
 
@@ -53,11 +53,11 @@ Als je niet kunt opnemen, stuur automatisch een bericht: "Bedankt voor uw oproep
 
 De meest genoemde klacht in negatieve reviews van dierenartsen: "niet bereikbaar." De meest genoemde positieve review: "altijd snel geholpen." Bereikbaarheid is direct gekoppeld aan je [online reputatie](/blog/online-reputatie-dierenarts).
 
-Investeer in bereikbaarheid zoals je investeert in medische apparatuur — het is een kernonderdeel van je praktijk.
+Investeer in bereikbaarheid zoals je investeert in medische apparatuur, want het is een kernonderdeel van je praktijk.
 
 ## De kosten van onbereikbaarheid
 
-Elke gemiste oproep kost je potentieel een klant die jarenlang terugkomt voor vaccinaties, controles en behandelingen. Reken het uit: een gemiddelde klant is duizenden euro's waard over de levensduur van hun huisdier. De investering in betere bereikbaarheid — een AI-assistent, online afspraken, WhatsApp — verdient zichzelf vele malen terug. Begin met de oplossing die het snelst implementeerbaar is en bouw van daaruit verder.
+Elke gemiste oproep kost je potentieel een klant die jarenlang terugkomt voor vaccinaties, controles en behandelingen. Reken het uit: een gemiddelde klant is duizenden euro's waard over de levensduur van hun huisdier. De investering in betere bereikbaarheid (een AI-assistent, online afspraken, WhatsApp) verdient zichzelf vele malen terug. Begin met de oplossing die het snelst implementeerbaar is en bouw van daaruit verder.
 
 ## Hulp nodig?
 

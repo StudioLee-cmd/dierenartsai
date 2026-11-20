@@ -8,35 +8,35 @@ image: "/images/blog/dierenartspraktijk-website-laten-maken.jpg"
 tags: ["Website"]
 cluster: "website"
 ---
-Een professionele website is niet langer optioneel voor dierenartspraktijken. Steeds meer baasjes zoeken online naar een dierenarts — en als jouw praktijk niet gevonden wordt, gaan ze naar de concurrent.
+Een professionele website is niet langer optioneel voor dierenartspraktijken. Steeds meer baasjes zoeken online naar een dierenarts, en als jouw praktijk niet gevonden wordt, gaan ze naar de concurrent.
 
 ## Waarom een website onmisbaar is voor dierenartsen
 
 De tijd dat je als dierenarts kon vertrouwen op mond-tot-mondreclame alleen is voorbij. **Verreweg de meeste Nederlandse huisdiereigenaren** zoeken online naar een dierenarts, en dat aandeel groeit elk jaar.
 
-Een goede website doet meer dan alleen je openingstijden tonen. Het is je digitale praktijk — 24 uur per dag bereikbaar, ook wanneer jij bezig bent met een operatie of consultatie.
+Een goede website doet meer dan alleen je openingstijden tonen. Het is je digitale praktijk: 24 uur per dag bereikbaar, ook wanneer jij bezig bent met een operatie of consultatie.
 
 ### Wat baasjes verwachten van jouw website
 
 Wanneer een baasje zoekt naar "dierenarts bij mij in de buurt", wil die persoon binnen seconden antwoord op deze vragen:
 
-- **Waar zit je?** — adres, routebeschrijving, parkeren
-- **Wanneer ben je open?** — openingstijden inclusief spoedlijn
-- **Wat bied je aan?** — behandelingen, specialisaties
-- **Kan ik online een afspraak maken?** — direct boeken zonder te bellen
-- **Wat zijn de kosten?** — transparantie over tarieven
+- **Waar zit je?** Adres, routebeschrijving, parkeren
+- **Wanneer ben je open?** Openingstijden inclusief spoedlijn
+- **Wat bied je aan?** Behandelingen, specialisaties
+- **Kan ik online een afspraak maken?** Direct boeken zonder te bellen
+- **Wat zijn de kosten?** Transparantie over tarieven
 
 ## De 7 must-haves voor een dierenartsen website
 
 ### 1. Online afspraken boeken
 
-Dit is de nummer één functie die baasjes verwachten. Een "Bel ons" knop is niet meer genoeg — mensen willen 's avonds om 22:00 een afspraak kunnen inplannen zonder te hoeven wachten.
+Dit is de nummer één functie die baasjes verwachten. Een "Bel ons" knop is niet meer genoeg: mensen willen 's avonds om 22:00 een afspraak kunnen inplannen zonder te hoeven wachten.
 
 Een goed boekingssysteem toont beschikbare tijdslots, laat kiezen voor welk dier en welke klacht, en stuurt automatisch een bevestiging.
 
 ### 2. Duidelijke diensten met uitleg
 
-Veel baasjes weten niet precies wat een "jaarlijkse controle" inhoudt of wanneer ze voor een spoedgeval moeten komen. Leg elke dienst uit in begrijpelijke taal — vermijd vakjargon.
+Veel baasjes weten niet precies wat een "jaarlijkse controle" inhoudt of wanneer ze voor een spoedgeval moeten komen. Leg elke dienst uit in begrijpelijke taal en vermijd vakjargon.
 
 **Voorbeeld diensten:**
 - Vaccinaties en entingen
@@ -49,7 +49,7 @@ Veel baasjes weten niet precies wat een "jaarlijkse controle" inhoudt of wanneer
 
 Baasjes willen weten wat het gaat kosten voordat ze bellen. Praktijken die hun prijzen online zetten krijgen **meer vertrouwen** en minder verrassingen aan de balie.
 
-Je hoeft niet elke prijs te noemen — een indicatie van de meest voorkomende behandelingen is al voldoende.
+Je hoeft niet elke prijs te noemen: een indicatie van de meest voorkomende behandelingen is al voldoende.
 
 ### 4. Over ons pagina met het team
 
@@ -92,7 +92,7 @@ Een professionele dierenarts website is doorgaans binnen 2-4 weken klaar. Bij ee
 
 ### Moet ik zelf content aanleveren?
 
-Gedeeltelijk. Jij kent je praktijk het best — foto's van je team en praktijk zijn essentieel. Teksten kunnen vaak door de websitebouwer geschreven worden op basis van een kort interview.
+Gedeeltelijk. Jij kent je praktijk het best: foto's van je team en praktijk zijn essentieel. Teksten kunnen vaak door de websitebouwer geschreven worden op basis van een kort interview.
 
 ### Kan ik zelf aanpassingen doen na oplevering?
 

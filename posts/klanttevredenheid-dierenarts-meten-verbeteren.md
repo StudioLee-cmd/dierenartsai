@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom klanttevredenheid telt voor dierenartsen
 
-Diereneigenaren zijn emotioneel betrokken bij de zorg voor hun huisdier. Een bezoek aan de dierenarts is vaak spannend — zowel voor het dier als voor het baasje. Hoe jij als dierenarts met die emotie omgaat, bepaalt of klanten terugkomen en je aanbevelen.
+Diereneigenaren zijn emotioneel betrokken bij de zorg voor hun huisdier. Een bezoek aan de dierenarts is vaak spannend, zowel voor het dier als voor het baasje. Hoe jij als dierenarts met die emotie omgaat, bepaalt of klanten terugkomen en je aanbevelen.
 
 Klanttevredenheid is voor dierenartspraktijken niet alleen een kwestie van goede zorg. Het gaat ook om communicatie, bereikbaarheid, wachttijden en de algehele beleving. Een klant die medisch goed geholpen is maar een uur heeft moeten wachten zonder uitleg, is niet per se tevreden.
 
@@ -20,7 +20,7 @@ Investeren in klanttevredenheid levert direct resultaat op: meer terugkerende kl
 
 Je kunt niet verbeteren wat je niet meet. Gelukkig hoeft het meten van klanttevredenheid niet ingewikkeld te zijn:
 
-- **Korte enquête na het bezoek**: stuur een automatisch mailtje met 3-5 vragen. Houd het kort — een NPS-score (aanbevelingsvraag) plus twee open vragen is genoeg.
+- **Korte enquête na het bezoek**: stuur een automatisch mailtje met 3-5 vragen. Houd het kort: een NPS-score (aanbevelingsvraag) plus twee open vragen is genoeg.
 - **Google Reviews monitoren**: lees elke review en reageer erop, ook op de positieve.
 - **Persoonlijk vragen**: de assistent kan bij het afrekenen simpelweg vragen "Was alles naar wens?"
 - **Klachten bijhouden**: elke klacht is een signaal. Houd bij waar klachten over gaan en zoek patronen.
@@ -67,7 +67,7 @@ Deze acties kosten bijna niets maar maken een enorm verschil. Ze laten zien dat 
 
 ## Klanttevredenheid als groeistrategie
 
-Klanttevredenheid is niet alleen een feelgood-onderwerp — het is een keiharde groeistrategie:
+Klanttevredenheid is niet alleen een feelgood-onderwerp, maar ook een keiharde groeistrategie:
 
 1. **Tevreden klanten blijven langer**: minder verloop betekent stabiele inkomsten
 2. **Ze besteden meer**: tevreden klanten zeggen sneller ja tegen preventieve zorg en extra behandelingen

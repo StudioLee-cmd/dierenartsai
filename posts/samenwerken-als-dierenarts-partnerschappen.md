@@ -9,7 +9,7 @@ tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 
-Als dierenarts zie je dagelijks eigenaren die naast medische zorg ook behoefte hebben aan voeding, verzorging, training en gedragsbegeleiding. Dat zijn allemaal diensten die je niet zelf hoeft te leveren — maar die je wel kunt faciliteren via slimme samenwerkingen.
+Als dierenarts zie je dagelijks eigenaren die naast medische zorg ook behoefte hebben aan voeding, verzorging, training en gedragsbegeleiding. Dat zijn allemaal diensten die je niet zelf hoeft te leveren, maar die je wel kunt faciliteren via slimme samenwerkingen.
 
 ## Waarom partnerschappen voor dierenartsen werken
 
@@ -55,7 +55,7 @@ Samen met je partners kun je preventieve programma's opzetten: een jaarlijks "ge
 
 ## Online zichtbaarheid versterken
 
-Vermeld je samenwerkingspartners op je [website](/blog/dierenartsenwebsite-afsprakenmachine). Deel gezamenlijke [social media](/blog/social-media-dierenartsen-community) content. Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) en je vindbaarheid.
+Vermeld je samenwerkingspartners op je [website](/blog/dierenartsenwebsite-afsprakenmachine). Deel gezamenlijke [social media](/blog/social-media-dierenartsen-community) content. Link naar elkaars websites, want dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) en je vindbaarheid.
 
 ## Meten en evalueren
 
@@ -63,7 +63,7 @@ Registreer bij elke nieuwe patient hoe ze je praktijk gevonden hebben. Analyseer
 
 ## Waarom de beste dierenartsen een netwerk hebben
 
-De succesvolste dierenartspraktijken zijn niet de praktijken met het grootste marketingbudget. Het zijn de praktijken die een sterk lokaal netwerk hebben. Een trimmer die jou aanbeveelt bij huidproblemen, een dierenwinkel die jouw visitekaartje meegeeft bij elke puppy-aankoop, een gedragstherapeut die medische casussen naar jou terugstuurt — dat zijn de kanalen die zonder advertentiekosten patienten opleveren. Begin met je drie dichtstbijzijnde partners en bouw van daaruit verder.
+De succesvolste dierenartspraktijken zijn niet de praktijken met het grootste marketingbudget. Het zijn de praktijken die een sterk lokaal netwerk hebben. Een trimmer die jou aanbeveelt bij huidproblemen, een dierenwinkel die jouw visitekaartje meegeeft bij elke puppy-aankoop, een gedragstherapeut die medische casussen naar jou terugstuurt: dat zijn de kanalen die zonder advertentiekosten patienten opleveren. Begin met je drie dichtstbijzijnde partners en bouw van daaruit verder.
 
 ## Hulp nodig?
 

@@ -34,7 +34,7 @@ De standaard voor een eerstelijns dierenartspraktijk: vaccinaties, consulten, kl
 Voor grotere praktijken met meerdere artsen en specialisaties: chirurgie, beeldvorming (röntgen of echo), tandheelkunde, soms 24-uurs spoeddienst. Een dierenkliniek is doorgaans groter dan een eerstelijns praktijk en heeft meerdere behandelkamers en operatie-faciliteiten.
 
 **3. Dierenziekenhuis (Animal hospital - 24/7 care)**
-Voor de zwaarste vorm: 24-uurs opname, intensive care, gespecialiseerde apparatuur, vaak met meerdere specialisten in dienst (chirurgie, oncologie, neurologie). Dit is de uitzondering, niet de regel — Nederland telt minder dan 50 echte dierenziekenhuizen.
+Voor de zwaarste vorm: 24-uurs opname, intensive care, gespecialiseerde apparatuur, vaak met meerdere specialisten in dienst (chirurgie, oncologie, neurologie). Dit is de uitzondering, niet de regel: Nederland telt minder dan 50 echte dierenziekenhuizen.
 
 Een vierde optie die soms relevant is: **Mobiele dierenarts** voor praktijken die alleen huisbezoeken doen. Maar dit is een aparte sub-niche met andere zoekgedragingen.
 
@@ -66,7 +66,7 @@ Slim te combineren met "Dierenarts" als primair:
 - **Dierengeneesmiddelen** (Pet Pharmacy) als je een eigen apotheek hebt
 - **Hondentrimmer** of **Dierenpension** als je deze diensten zelf aanbiedt of doorverwijst
 
-Een dierenkliniek kan zinvol secundaire categorieen toevoegen voor specialisaties: "Dierfysiotherapeut", "Dieren-tandarts", "Cardiologie voor dieren". Niet allemaal — Google adviseert "minimaal aantal categorieen, alleen wat je echt aanbiedt". Te veel categorieen verwatert je primaire signaal.
+Een dierenkliniek kan zinvol secundaire categorieen toevoegen voor specialisaties: "Dierfysiotherapeut", "Dieren-tandarts", "Cardiologie voor dieren". Niet allemaal. Google adviseert "minimaal aantal categorieen, alleen wat je echt aanbiedt". Te veel categorieen verwatert je primaire signaal.
 
 ![Werkbalie close-up: stethoscoop, een afsprakenkaartje, een tablet met afgeschermde GBP-categorie-instellingen en een mok dampende koffie op een marmeren ontvangstbalie, zachte ochtendzon](/images/blog/google-bedrijfsprofiel-categorie-dierenarts-2.jpg)
 
@@ -96,9 +96,9 @@ Drie regels om wijzigings-volatiliteit te beperken:
 
 **4. Geen secundaire categorieen toevoegen.** Profielen met alleen primaire categorie verschijnen voor minder zoekopdrachten dan profielen met 2-4 relevante secundaires. Voeg minstens 2 toe die echt bij je passen.
 
-**5. Categorie wijzigen omdat een marketing-bureau dat zegt.** Sommige bureaus adviseren "kies de breedste categorie zodat je voor meer zoekopdrachten verschijnt". Dat is verkeerd advies — Google's algoritme straft brede categorieen die niet matchen met je werkelijke aanbod.
+**5. Categorie wijzigen omdat een marketing-bureau dat zegt.** Sommige bureaus adviseren "kies de breedste categorie zodat je voor meer zoekopdrachten verschijnt". Dat is verkeerd advies, want Google's algoritme straft brede categorieen die niet matchen met je werkelijke aanbod.
 
-Voor de bredere strategie schreven wij ons [review management voor dierenartsen](/reviews) overzicht — categorie en reviews zijn de twee grootste lokale ranking-factoren samen.
+Voor de bredere strategie schreven wij ons [review management voor dierenartsen](/reviews) overzicht, want categorie en reviews zijn samen de twee grootste lokale ranking-factoren.
 
 ## Hoe categorie samenwerkt met andere ranking-factoren
 
@@ -110,7 +110,7 @@ Categorie alleen brengt je niet in de Local Pack. Het bepaalt wel of je überhau
 - **Activiteit** (recente posts, recent beantwoorde reviews, recent bijgewerkte diensten)
 - **Website-signalen** (lokale SEO van je site, schema markup, NAP-consistentie)
 
-Voor de complete picture zie de [lokale seo voor dierenartsen](/seo) gids — categorie is laag 1 (toegangsticket), de andere lagen bouwen daar bovenop.
+Voor de complete picture zie de [lokale seo voor dierenartsen](/seo) gids: categorie is laag 1 (toegangsticket), de andere lagen bouwen daar bovenop.
 
 ## Wat als Google je categorie automatisch wijzigt?
 

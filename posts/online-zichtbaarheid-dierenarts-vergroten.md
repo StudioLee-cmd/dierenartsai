@@ -9,15 +9,15 @@ cluster: "vindbaarheid"
 ---
 ## Hoe diereneigenaren een dierenarts zoeken in 2026
 
-Het zoekgedrag van diereneigenaren is veranderd. Waar ze vroeger de huisdierenwinkel of buren om een aanbeveling vroegen, openen ze nu Google. "Dierenarts in de buurt", "spoeddierenarts [plaatsnaam]" of zelfs "mijn hond eet niet meer" — en Google stuurt ze naar de praktijk die het beste vindbaar is.
+Het zoekgedrag van diereneigenaren is veranderd. Waar ze vroeger de huisdierenwinkel of buren om een aanbeveling vroegen, openen ze nu Google. "Dierenarts in de buurt", "spoeddierenarts [plaatsnaam]" of zelfs "mijn hond eet niet meer", en Google stuurt ze naar de praktijk die het beste vindbaar is.
 
-Daarnaast gebruiken steeds meer mensen AI-tools zoals ChatGPT of Perplexity om medische vragen over hun huisdier te stellen. Die tools halen hun antwoorden van websites — en als jouw praktijk die informatie biedt, word je aanbevolen.
+Daarnaast gebruiken steeds meer mensen AI-tools zoals ChatGPT of Perplexity om medische vragen over hun huisdier te stellen. Die tools halen hun antwoorden van websites, en als jouw praktijk die informatie biedt, word je aanbevolen.
 
 Voor dierenartspraktijken betekent dit: je online zichtbaarheid bepaalt hoeveel nieuwe patiënten je binnenhaalt. Geen zichtbaarheid is geen groei.
 
 ## Je Google Bedrijfsprofiel als digitale voordeur
 
-Het Google Bedrijfsprofiel is het eerste wat diereneigenaren zien. Je openingstijden, telefoonnummer, reviews en foto's van de praktijk — alles op één plek.
+Het Google Bedrijfsprofiel is het eerste wat diereneigenaren zien. Je openingstijden, telefoonnummer, reviews en foto's van de praktijk: alles op één plek.
 
 Essentiële optimalisaties:
 
@@ -75,7 +75,7 @@ Reviews beïnvloeden niet alleen het vertrouwen van potentiële patiënten, maar
 Een effectieve reviewstrategie:
 
 - Vraag na elke positieve ervaring om een review (automatisch via SMS/WhatsApp)
-- Reageer op elke review — positief én negatief
+- Reageer op elke review, positief én negatief
 - Moedig specifieke feedback aan: "Hoe was de wachttijd? Hoe werd uw huisdier opgevangen?"
 
 Praktijken met 50+ reviews en een 4,7+ gemiddelde domineren de lokale zoekresultaten.

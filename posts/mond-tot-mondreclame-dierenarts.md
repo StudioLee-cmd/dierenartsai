@@ -8,15 +8,15 @@ image: "/images/blog/mond-tot-mondreclame-dierenarts.png"
 tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
-Diereneigenaren praten. In het park, op sociale media, bij de hondenschool — de ervaringen met hun dierenarts worden gedeeld. Die gesprekken zijn je krachtigste marketingkanaal, want een aanbeveling van een ander baasje weegt zwaarder dan elke advertentie.
+Diereneigenaren praten. In het park, op sociale media, bij de hondenschool: de ervaringen met hun dierenarts worden gedeeld. Die gesprekken zijn je krachtigste marketingkanaal, want een aanbeveling van een ander baasje weegt zwaarder dan elke advertentie.
 
 ## Waarom mond-tot-mond zo effectief is
 
-In de veterinaire sector is vertrouwen alles. Baasjes vertrouwen hun huisdier toe aan iemand — dat is een emotionele beslissing:
+In de veterinaire sector is vertrouwen alles. Baasjes vertrouwen hun huisdier toe aan iemand, en dat is een emotionele beslissing:
 
 - **Vrijwel alle consumenten** vertrouwen aanbevelingen van bekenden
 - **Nieuwe patienten via doorverwijzing** hebben een duidelijk hogere retentie
-- **Kosten:** €0 — versus €15-30 per lead via Google Ads
+- **Kosten:** €0, versus €15-30 per lead via Google Ads
 - **Conversie:** doorverwezen leads converteren veel beter
 
 ## Wanneer praten baasjes over je?
@@ -47,7 +47,7 @@ Na een positieve ervaring: "Als je tevreden bent, zou het geweldig zijn als je h
 ### 2. Creeer deelbare momenten
 
 - Maak een foto van het dier na de behandeling (met toestemming)
-- Stuur de foto via WhatsApp — baasjes delen dit op social media
+- Stuur de foto via WhatsApp, want baasjes delen dit op social media
 - Vier mijlpalen: "Bella is vandaag 1 jaar chipvrij!"
 
 ### 3. Doorverwijzingsprogramma
@@ -73,10 +73,10 @@ Formaliseer het: "Ken je iemand met een nieuw huisdier? Bij inschrijving via jou
 
 ## Veel voorkomende fouten
 
-1. **Nooit om doorverwijzingen vragen** — het voelt ongemakkelijk, maar baasjes willen je graag helpen
-2. **Negatieve ervaringen negeren** — los [klachten](/blog/klantbehoud-dierenarts-trouwe-baasjes) altijd op voor ze zich verspreiden
-3. **Geen follow-up** — na de behandeling is het contactmoment voorbij; gebruik [email](/blog/email-marketing-dierenarts-herinneringen) voor nazorg
-4. **Alleen focussen op nieuwe klanten** — bestaande klanten zijn je beste ambassadeurs
+1. **Nooit om doorverwijzingen vragen**: het voelt ongemakkelijk, maar baasjes willen je graag helpen
+2. **Negatieve ervaringen negeren**: los [klachten](/blog/klantbehoud-dierenarts-trouwe-baasjes) altijd op voor ze zich verspreiden
+3. **Geen follow-up**: na de behandeling is het contactmoment voorbij; gebruik [email](/blog/email-marketing-dierenarts-herinneringen) voor nazorg
+4. **Alleen focussen op nieuwe klanten**: bestaande klanten zijn je beste ambassadeurs
 
 ## Laat mond-tot-mond digitaal versterken
 

@@ -8,9 +8,9 @@ image: "/images/blog/patientcommunicatie-dierenarts-5-contactmomenten.jpg"
 tags: ["Patiëntcommunicatie"]
 cluster: "automatisering"
 ---
-Een baasje komt met Luna, de kat, voor een vaccinatie. Korte controle, prikje, afrekenen, tot volgend jaar. Zo werkt het bij de meeste dierenartspraktijken. En zo verliezen ze langzaam klanten aan concurrenten die communicatief beter zijn. Baasjes onthouden niet je vakinhoud — ze onthouden of ze zich gezien voelen.
+Een baasje komt met Luna, de kat, voor een vaccinatie. Korte controle, prikje, afrekenen, tot volgend jaar. Zo werkt het bij de meeste dierenartspraktijken. En zo verliezen ze langzaam klanten aan concurrenten die communicatief beter zijn. Baasjes onthouden niet je vakinhoud. Ze onthouden of ze zich gezien voelen.
 
-De goede kans: goede patiëntcommunicatie is geen extra tijd in de spreekkamer, het is slimmere communicatie rond de afspraak. Dit artikel geeft de 5 contactmomenten die het verschil maken tussen een praktijk die baasjes 1x per jaar ziet en een praktijk die ze 4-6x per jaar spreekt — zonder extra werk voor de assistente.
+De goede kans: goede patiëntcommunicatie is geen extra tijd in de spreekkamer, het is slimmere communicatie rond de afspraak. Dit artikel geeft de 5 contactmomenten die het verschil maken tussen een praktijk die baasjes 1x per jaar ziet en een praktijk die ze 4-6x per jaar spreekt, zonder extra werk voor de assistente.
 
 **In het kort:**
 
@@ -72,7 +72,7 @@ Wat dit oplevert:
 
 - Baasjes voelen echte zorg, niet alleen "een klant zijn".
 - Kleine complicaties worden eerder gesignaleerd (en voor jou makkelijker te behandelen).
-- Reviews worden vaker gegeven — dankbaarheid voor de aandacht.
+- Reviews worden vaker gegeven, uit dankbaarheid voor de aandacht.
 - Baasjes vertellen het aan andere huisdier-eigenaren.
 
 ## Moment 4: 4-6 weken follow-up (behandelcyclus-specifiek)
@@ -112,9 +112,9 @@ Voor de 5 momenten hierboven werkt WhatsApp veel beter dan e-mail. Responsivitei
 
 ## Automatiseren: de enige manier om dit vol te houden
 
-Eerlijk: dit handmatig doen — 5 momenten × 30-60 nieuwe klanten per maand × 5 bestaande klanten per dag — dat vol te houden is onmogelijk. Een assistente kan het simpelweg niet erbij doen.
+Eerlijk: dit handmatig doen (5 momenten × 30-60 nieuwe klanten per maand × 5 bestaande klanten per dag) en dat volhouden is onmogelijk. Een assistente kan het simpelweg niet erbij doen.
 
-Een [slimme automatisering voor dierenartspraktijken](/voice-ai) koppelt je agenda, patiëntgegevens en WhatsApp zodat elk van de 5 momenten automatisch het juiste bericht verstuurt. Je schrijft de sjablonen één keer, en ze gaan vervolgens op de juiste momenten — altijd persoonlijk met juiste namen en context ingevuld.
+Een [slimme automatisering voor dierenartspraktijken](/voice-ai) koppelt je agenda, patiëntgegevens en WhatsApp zodat elk van de 5 momenten automatisch het juiste bericht verstuurt. Je schrijft de sjablonen één keer, en ze gaan vervolgens op de juiste momenten, altijd persoonlijk met juiste namen en context ingevuld.
 
 De tijdsbesparing: 8-15 uur per maand aan typwerk dat je assistente uitspaart. De opbrengst: baasjes die blijven én actief aanbevelen.
 
@@ -124,7 +124,7 @@ Praktisch stappenplan:
 
 1. **Vandaag**: schrijf de 5 WhatsApp-sjablonen (1 per moment). Duurt 20 minuten.
 2. **Deze week**: begin met Moment 2 (dag-voor-herinnering) handmatig, elke ochtend 10 minuten. Je zult direct minder no-shows zien.
-3. **Deze week**: na elke operatie of ingreep — stuur Moment 3 (nazorg). Dit komt altijd goed terecht bij baasjes.
+3. **Deze week**: na elke operatie of ingreep stuur je Moment 3 (nazorg). Dit komt altijd goed terecht bij baasjes.
 4. **Deze maand**: automatiseer alles vanaf nu.
 
 Wil je weten wat dit voor jouw praktijk specifiek kan betekenen qua klantbinding en werkdruk-verlaging? Vraag een [gratis AI-scan aan](/gratis-scan), we analyseren je huidige communicatie-flow en bouwen het 5-momenten-systeem voor je in. Ook goed om te weten: veel praktijken combineren dit met een [AI-chatbot op de website](/chatbot) om eerste intake-vragen af te handelen terwijl de assistente zich richt op persoonlijk contact.
@@ -140,4 +140,4 @@ Dierenartspraktijken die deze 5 momenten consistent 12 maanden uitvoeren rapport
 - **Meer nieuwe klanten** via mond-tot-mondreclame.
 - **Lagere werkdruk** in de praktijk omdat klanten beter voorbereid komen.
 
-Kortom: betere communicatie leidt niet tot meer werk, maar tot meer werk van de juiste soort — met klanten die blijven.
+Kortom: betere communicatie leidt niet tot meer werk, maar tot meer werk van de juiste soort, met klanten die blijven.

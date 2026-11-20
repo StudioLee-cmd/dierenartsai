@@ -26,8 +26,8 @@ Een praktijk met sterke reviews trekt:
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Facebook | Gemiddeld — lokale groepen |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Facebook | Gemiddeld: lokale groepen |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) is je belangrijkste digitale visitekaartje.
 
@@ -35,7 +35,7 @@ Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-dierenarts) is je belan
 
 ### Het juiste moment
 
-Na een succesvolle behandeling, vaccinatie of controle — wanneer de eigenaar opgelucht en tevreden is. Stuur een kort WhatsApp-bericht met een directe link naar je [Google-reviewpagina](/blog/meer-google-reviews-dierenartspraktijk).
+Na een succesvolle behandeling, vaccinatie of controle, wanneer de eigenaar opgelucht en tevreden is. Stuur een kort WhatsApp-bericht met een directe link naar je [Google-reviewpagina](/blog/meer-google-reviews-dierenartspraktijk).
 
 ### Automatiseer het
 
@@ -53,13 +53,13 @@ Potentiele klanten lezen je reactie. Een empathische, professionele reactie bouw
 
 ## Het verschil in de praktijk
 
-Een praktijk met 5 reviews en een praktijk met 50 reviews — de klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van de zorg, maar de structuur van het reviewproces. De beste praktijken hebben een systeem dat na elk consult automatisch een vriendelijk verzoek stuurt.
+Een praktijk met 5 reviews en een praktijk met 50 reviews: de klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van de zorg, maar de structuur van het reviewproces. De beste praktijken hebben een systeem dat na elk consult automatisch een vriendelijk verzoek stuurt.
 
 Het kost je 10 minuten om zo'n systeem op te zetten. Het levert je jaren lang nieuwe patienten op.
 
 ## Reviews en specialisatie
 
-Dierenartspraktijken met een specialisatie (zoals tandheelkunde, orthopedie of exotische dieren) profiteren extra van reviews. Eigenaren die specifiek zoeken op "dierenarts tandheelkunde" vinden minder resultaten — en de reviews wegen daardoor zwaarder. Een specialist met 20 sterke reviews domineert die niche.
+Dierenartspraktijken met een specialisatie (zoals tandheelkunde, orthopedie of exotische dieren) profiteren extra van reviews. Eigenaren die specifiek zoeken op "dierenarts tandheelkunde" vinden minder resultaten, en de reviews wegen daardoor zwaarder. Een specialist met 20 sterke reviews domineert die niche.
 
 ## Reputatie en leadgeneratie combineren
 
